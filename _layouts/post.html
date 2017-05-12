@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="post">
+	{% include post-heading.html post=page post_page=true %}
+	<div class="image">
+		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+	</div>
+	{% if page.playlist %}
+		<div class="recipe-contents">
+			<div class="ingredients">
+				<h2>💽购买链接</h2>
+				{{ page.albums | markdownify }}
+			</div>
+
+			<div class="directions">
+				<h2>Playlist</h2>
+				{{ page.playlist | markdownify }}
+			</div>
+		</div>
+	{% endif %}
+
+	<div class="recipe-body">
+		{{ content }}
+	</div>
+
+	<!-- <ul id="recipe" class="recipe-overview">
+		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+	</ul> -->
+
+
+
+	<div class="cta">
+		<h2>More delicious episodes</h2>
+		<p>This one of the many fanastic episodes available on this blog</p>
+		<div class="button"><a href="/archives">Check out more episodes</a></div>
+	</div>
+</article>
+
+<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
+<script>
+	$(function() {
+		$('.post img').imgPin();
+
+		$('a[href*=\\#]').on('click', function(event){
+			var el = $(this.hash);
+			if (el.length > 0) {
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
+			}
+		});
+	});
+</script> -->

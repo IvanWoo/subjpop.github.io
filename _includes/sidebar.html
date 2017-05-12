@@ -1,0 +1,40 @@
+<aside class="sidebar {% if page.push_sidebar_down %}push{% endif %}">
+	<div class="author">
+	{% if page.dj %}
+		<p>
+			<a href="https://twitter.com/{{ page.twitter }}">
+				<img src="{{ site.baseurl }}{{ page.dj.image }}" alt="{{ page.dj.name}}" class="author">
+			</a>
+		</p>
+		<p>{{ page.dj.name | markdownify }}</p>
+		<p>{{ page.dj.description | markdownify }}</p>
+
+	<div class="social-icons">
+		<a target="_blank" href="https://twitter.com/{{ page.dj.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+		<a target="_blank" href="http://weibo.com/{{ page.dj.weibo }}">{% include social-icon.html icon="Weibo" %}</a>
+	</div>
+
+	{% else %}
+		<p>
+			<a href="https://twitter.com/{{ site.data.sidebar.twitter }}">
+				<img src="{{ site.baseurl }}{{ site.data.sidebar.image }}" alt="{{ site.data.sidebar.name}}" class="author">
+			</a>
+		</p>
+		<p>{{ site.data.sidebar.description | markdownify }}</p>
+
+		<div class="social-icons">
+			<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+			<a target="_blank" href="http://weibo.com/{{ site.data.sidebar.weibo }}">{% include social-icon.html icon="Weibo" %}</a>
+			<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
+		</div>
+	{% endif %}
+	</div>
+
+	<!-- newsletter -->
+	<!-- <form action="{{ site.newsletter_action }}" method="post">
+		<h3>Newsletter</h3>
+		<p>Get my latest recipes sent straight to your inbox.</p>
+		<input type="text" name="EMAIL" placeholder="Email address">
+		<input type="submit" value="Sign up">
+	</form> -->
+</aside>

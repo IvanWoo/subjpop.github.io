@@ -1,0 +1,14 @@
+{
+  "mimida": {
+    "full name": "mimida",
+    "image_path":"/images/mimida.jpg",
+    "twitter_handle": "mimida",
+    "description": "I am mimida!"
+  },
+  "minami": {
+    "full name": "ミナミ",
+    "image_path":"/images/minami.jpg",
+    "twitter_handle": "rockpumpkinhead",
+    "description": "I am minami!"
+  }
+}

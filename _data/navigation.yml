@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Archives
+  link: /archives/
+# - name: Contact
+#   link: /contact/
