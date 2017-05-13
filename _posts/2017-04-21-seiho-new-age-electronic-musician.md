@@ -1,5 +1,5 @@
 ---
-date: 2017-05-12
+date: 2017-04-21
 title: Vol. 24 Seiho・日本新生代电音奇男
 dj: minami
 categories:
