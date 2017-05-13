@@ -1,11 +1,7 @@
 ---
 date: 2017-05-12
 title: Vol. 25 日本の Rap 进行时 🎤
-dj:
-  name: 大胃麒麟
-  weibo: davidchili
-  image: /images/davidchili.jpg
-  description: 駄鼻血痢
+dj: davidchill
 categories:
   - J-Hip hop
 featured_image: http://wx1.sinaimg.cn/crop.0.45.900.505.1000/e17094f2gy1ffecx6vx8jj20p00goaky.jpg
@@ -25,32 +21,32 @@ playlist: |-
   13. 狐火 「昨日までのベスト」(from best album 「昨日までのベスト」  2017/2/15)
 
 albums: |-
-  * [『Mars Ice House』](http://ototoy.jp/_/default/p/73023)
-  * [『DAY and NITE』](http://ototoy.jp/_/default/p/67044)
-  * [『RAP PHENOMENON』](http://ototoy.jp/_/default/p/61785)
-  * [『黄熱病 -YELLOW FEVER- × STUTS』](http://ototoy.jp/_/default/p/72410)
-  * [『Mood Blue』](http://ototoy.jp/_/default/p/73823)
-  * [『Jasmine』](http://ototoy.jp/_/default/p/73651)
-  * [『VIBRATION』](http://ototoy.jp/_/default/p/69625)
-  * [『初恋とはなんぞや』](http://ototoy.jp/_/default/p/63408)
-  * [『昨日までのベスト』](http://ototoy.jp/_/default/p/72067)
+  * [「Mars Ice House」](http://ototoy.jp/_/default/p/73023)
+  * [「DAY and NITE」](http://ototoy.jp/_/default/p/67044)
+  * [「RAP PHENOMENON」](http://ototoy.jp/_/default/p/61785)
+  * [「黄熱病 -YELLOW FEVER- × STUTS」](http://ototoy.jp/_/default/p/72410)
+  * [「Mood Blue」](http://ototoy.jp/_/default/p/73823)
+  * [「Jasmine」](http://ototoy.jp/_/default/p/73651)
+  * [「VIBRATION」](http://ototoy.jp/_/default/p/69625)
+  * [「初恋とはなんぞや」](http://ototoy.jp/_/default/p/63408)
+  * [「昨日までのベスト」](http://ototoy.jp/_/default/p/72067)
 
 ---
 ## [荔枝fm 在线收听▶️](https://www.lizhi.fm/1913563/2600656490447357446)
 
-标题使用了「日本の Rap」也就是「日本说唱」这个说法，而没有用大家比较习惯的 J-Hiphop，或者是在日本本土使用率颇高的「日本語ラップ」即「日语说唱」的说法，这多少是借鉴了音乐与文化评论人磯部涼的观点。他认为传统意义上的Hiphop理念正在与当今的年轻人渐行渐远。而且人们谈论 hiphop 时，多数情况下仅仅是在特指其四要素中的说唱因素（偶尔也用来指代 break dance 元素），而说唱作为一种表达方式又正在和各种不同的音乐类型相互渗透（比如 Idol-Rap），Rap 和 Hiphop 之间本身是不能画等号的。
+标题使用了「日本の Rap」也就是「日本说唱」这个说法，而没有用大家比较习惯的 J-Hiphop，或者是在日本本土使用率颇高的「日本語ラップ」即「日语说唱」的说法，这多少是借鉴了音乐与文化评论人磯部涼的观点。他认为传统意义上的 Hip-hop 理念正在与当今的年轻人渐行渐远。而且人们谈论 Hip-hop 时，多数情况下仅仅是在特指其四要素中的说唱因素（偶尔也用来指代 break dance 元素），而说唱作为一种表达方式又正在和各种不同的音乐类型相互渗透（比如 Idol-Rap），Rap 和 Hiphop 之间本身是不能画等号的。
 
 其次，所谓的「日本語ラップ」即「日语说唱」这个说法，多少又显得有些陈腐。按照磯部涼的看法，「日语说唱」是一个90年代初期的历史特定产物，它是当时的传奇地下说唱团体 Microphone Pager 在提出「日语说唱改正运动」时用到的词语。这一运动一方面是在批评主流说唱作品把说唱看作 novelty 或者说噱头来利用的做法，另一方面也是在跟当时大众所持的「日语不适合说唱」这种观念进行抗衡。
 
-这多少让我想起日本70年代初摇滚音乐圈中有过的类似现象，即所谓的「日语摇滚争论」。以内田裕野、Flower Travellin Band 为首的英语派，和以はっぴいえんど（Happy End）为代表的日语派，曾就「日语是否适合摇滚乐」这一问题展开过论战，结果当然是以はっぴいえんど的杰作专辑『風街ろまん』（风街浪漫）最终宣告了日语派的胜利。正如今天压根儿就不会有人再去强调「日语摇滚」一样，对应说唱我们自然也可以丢掉「日语」两个字了。
-
-
-![ゆるふわギャング 「Escape To The Paradise」](http://wx1.sinaimg.cn/large/e17094f2gy1ffecax1bk4j20dw0dwdni.jpg)
-
+这多少让我想起日本70年代初摇滚音乐圈中有过的类似现象，即所谓的「日语摇滚争论」。以内田裕野、Flower Travellin Band 为首的英语派，和以はっぴいえんど（Happy End）为代表的日语派，曾就「日语是否适合摇滚乐」这一问题展开过论战，结果当然是以はっぴいえんど的杰作专辑「風街ろまん」（风街浪漫）最终宣告了日语派的胜利。正如今天压根儿就不会有人再去强调「日语摇滚」一样，对应说唱我们自然也可以丢掉「日语」两个字了。
 
 ## ゆるふわギャング 「Escape To The Paradise」
 
-Lyrics: Ryugo Ishida, Sophiee、Track: OHLD
+![ゆるふわギャング 「Escape To The Paradise」](http://wx1.sinaimg.cn/large/e17094f2gy1ffecax1bk4j20dw0dwdni.jpg)
+
+*Lyrics: Ryugo Ishida, Sophiee*
+
+*Track: OHLD*
 
 「このまま」からする脱走
 
@@ -148,12 +144,13 @@ Heavenまで吸い上げていくcoco
 
 シャキッとしてパーリーに繰り出す
 
+## パブリック娘。 「25mプール」
 
 ![パブリック娘。 「25mプール」](http://wx4.sinaimg.cn/large/e17094f2gy1ffecdk33naj20dw0dwwfl.jpg)
 
-## パブリック娘。 「25mプール」
+*Lyrics: 文園太郎·清水大輔·斎藤辰也*
 
-Lyrics: 文園太郎·清水大輔·斎藤辰也、Track: TOSHIKI HAYASHI(%C)
+*Track: TOSHIKI HAYASHI*
 
 
 

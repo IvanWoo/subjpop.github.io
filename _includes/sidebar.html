@@ -2,17 +2,21 @@
 	<div class="author">
 	{% if page.dj %}
 		<p>
-			<a href="https://twitter.com/{{ page.twitter }}">
-				<img src="{{ site.baseurl }}{{ page.dj.image }}" alt="{{ page.dj.name}}" class="author">
+			<a href="https://twitter.com/{{ site.data.djs[page.dj].twitter }}">
+				<img src="{{ site.baseurl }}{{ site.data.djs[page.dj].image }}" alt="{{ site.data.djs[page.dj].name}}" class="author">
 			</a>
 		</p>
-		<p>{{ page.dj.name | markdownify }}</p>
-		<p>{{ page.dj.description | markdownify }}</p>
+		<p>{{ site.data.djs[page.dj].name | markdownify }}</p>
+		<p>{{ site.data.djs[page.dj].description | markdownify }}</p>
 
 	<div class="social-icons">
-		<a target="_blank" href="https://twitter.com/{{ page.dj.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
-		<a target="_blank" href="http://weibo.com/{{ page.dj.weibo }}">{% include social-icon.html icon="Weibo" %}</a>
-	</div>
+		{% if site.data.djs[page.dj].twitter %}
+			<a target="_blank" href="https://twitter.com/{{ site.data.djs[page.dj].twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+		{% endif %}
+		{% if site.data.djs[page.dj].weibo %}
+			<a target="_blank" href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">{% include social-icon.html icon="Weibo" %}</a>
+		{% endif %}
+		</div>
 
 	{% else %}
 		<p>

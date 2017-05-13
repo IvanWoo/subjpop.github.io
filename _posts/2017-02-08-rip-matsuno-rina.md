@@ -1,12 +1,7 @@
 ---
 date: 2017-02-08
 title: 特别放送・松野莉奈『できるかな？』
-dj:
-  name: Mimida
-  weibo: umbrellaku
-  twitter: mimida
-  image: /images/mimida.jpg
-  description: 今届坐館，fit到漏油。
+dj: Mimida
 categories:
   - Special
 featured_image: https://i.ytimg.com/vi/p-FYXT1OU0M/maxresdefault.jpg
@@ -21,7 +16,9 @@ featured_image: https://i.ytimg.com/vi/p-FYXT1OU0M/maxresdefault.jpg
 ## できるかな？
 ## 能够实现吧？
 
-作詞・作曲：大内正徳、歌：松野莉奈
+*作詞・作曲：大内正徳*
+
+*歌：松野莉奈*
 
 いつか私も 逆上がりできるかな？
 泣きながら練習してたら あなたが教えてくれたから

@@ -4,8 +4,26 @@
 		text-decoration: none;
 
 		&:hover {
-			text-decoration: underline;
+			border-bottom: 1px solid $theme-color;
 		}
+	}
+
+	h2 {
+		margin-top: 50px;
+		font-weight: bold;
+    	margin-bottom: 20px;
+
+    	a {
+    		color: black;
+
+    		&:hover {
+    			border-bottom: 1px solid $theme-color;
+    		}
+    	}
+	}
+
+	p em {
+		color: $light-grey;
 	}
 	time {
 		padding: 0 0 20px 0;
@@ -36,7 +54,7 @@
 		}
 	}
 
-	.recipe-contents {
+	.show-notes {
 		@media #{$desktop} {
 			display: flex;
 		}
@@ -47,9 +65,21 @@
 				list-style-type: none;
 				&:before {
 					content: '\00bb';
-					color: #ff4e4e;
+					color: $theme-color;
 					padding-right: 0.5em;
 				}
+			}
+
+			a {
+				color: #000;
+				text-decoration: none;
+				&:link {
+					border-bottom: 1px dotted $light-grey;
+				}
+				&:hover {
+					border-bottom: 1px solid $theme-color;
+				}
+
 			}
 		}
 
@@ -64,7 +94,7 @@
 				&:before {
 					content: counter(step-counter);
 					margin-right: 0px;
-					background-color: #ff4e4e;
+					background-color: $theme-color;
 					color: white;
 					/* padding: 1px 7px; */
 					font-size: .7em;
@@ -76,12 +106,12 @@
 				}
 			}
 		}
-		.ingredients {
+		.albums {
 			width: 250px;
 			padding: 0 43px 0 0;
 		}
 
-		.directions {
+		.playlist {
 			@media #{$desktop} {
 				flex: 1;
 			}
