@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Sub J-Pop
+title: SUBJPOP
 url: "https://subjpop.github.io/"
 baseurl:
 google_analytics_key: UA-98703426-2
@@ -10,10 +10,11 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: The homepage of Sub J-Pop, a podcast of semi-alternative Japanese pop music bi(?)weekly
+description: The homepage of SUBJPOP, a podcast of semi-alternative Japanese pop music bi(?)weekly
 author:
-  name: subjpop
+  name: Yifan
   email: subjpop@gmail.com
+  website: "ivanwoo.github.io"
   twitter: # twitter username without the @ symbol
 social:
   name:

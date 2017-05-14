@@ -6,9 +6,11 @@ layout: default
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
+
 	<h2>
 		<a href="{{ page.stream_url }}">荔枝 FM 在线收听▶️</a>
 	</h2>
+	<hr>
 	{% if page.playlist %}
 		<div class="show-notes">
 			<div class="albums">
@@ -22,7 +24,7 @@ layout: default
 			</div>
 		</div>
 	{% endif %}
-
+	<hr>
 	<div class="recipe-body">
 		{{ content }}
 	</div>
@@ -33,12 +35,15 @@ layout: default
 		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 	</ul> -->
 
-
+	<hr>
+	<div>
+	<h3>尊重原创：关于转载</h3>
+	<p>我们希望在中文环境中建立一种健康的 TrackBack 和链接机制，保证原创，并不影响传播。因此对于歌词和翻译，我们<u>欢迎</u>您在网站上推荐我们的文章，包括文字和播客片段，但<u>不赞成</u>任何形式的全文转载。</p>
+	</div>
+	<hr>
 
 	<div class="cta">
-		<h2>More delicious episodes</h2>
-		<p>This one of the many fanastic episodes available on this blog</p>
-		<div class="button"><a href="/archives">Check out more episodes</a></div>
+		<div class="button"><a href="/archives">节目分类归档</a></div>
 	</div>
 </article>
 

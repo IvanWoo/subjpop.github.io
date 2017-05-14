@@ -6,6 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
 	<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	{% if page.print_stylesheet %}
 		<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
 	{% endif %}
@@ -38,8 +39,12 @@
 		<footer>
 			<div class="container">
 				<hr>
-				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved. Made with ❤️ by <a href="https://{{ site.author.website }}"> {{ site.author.name }} </a>
 			</div>
 		</footer>
 	</body>
+<script>
+$( 'a[href^="http://"]' ).attr( 'target','_blank' )
+$( 'a[href^="https://"]' ).attr( 'target','_blank' )
+</script>
 </html>
