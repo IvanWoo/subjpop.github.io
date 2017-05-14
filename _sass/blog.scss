@@ -22,8 +22,21 @@
     	}
 	}
 
-	p em {
-		color: $light-grey;
+	p {
+		em {
+			color: $light-grey;
+		}
+
+		a {
+			color: #000;
+			text-decoration: none;
+			&:link {
+				border-bottom: 1px dotted $light-grey;
+			}
+			&:hover {
+				border-bottom: 1px solid $theme-color;
+			}
+		}
 	}
 	time {
 		padding: 0 0 20px 0;
