@@ -1,6 +1,6 @@
 ---
 date: 2016-10-07
-title: Vol. 10 宇多田光之后：大比良瑞希・Okamoto Emi
+title: Vol. 10 宇多田光之后・大比良瑞希 x Okamoto Emi
 dj: Mimida
 categories:
   - Singer/Songwriters After Hikki

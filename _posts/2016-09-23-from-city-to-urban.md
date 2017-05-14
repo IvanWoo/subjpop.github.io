@@ -1,6 +1,6 @@
 ---
 date: 2016-09-23
-title: Vol. 08 From City To Urban・2010年代的City Pop
+title: Vol. 08 From City To Urban・2010年代的 City Pop
 dj: minami
 categories:
   - brand new band

@@ -1,6 +1,6 @@
 ---
 date: 2016-08-12
-title: Vol. 02 官能音乐〜石野卓球
+title: Vol. 02 官能音乐・石野卓球
 dj: Mimida
 categories:
   - Track-Makers tracking

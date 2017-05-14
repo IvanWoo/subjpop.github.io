@@ -1,6 +1,6 @@
 ---
 date: 2016-09-30
-title: Vol. 09 Two OK Bands - 空中战 x Lucky Tapes
+title: Vol. 09 Two OK Bands・空中战 x Lucky Tapes
 dj: Mimida
 categories:
   - brand new band
