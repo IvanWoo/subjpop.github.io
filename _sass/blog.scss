@@ -212,6 +212,16 @@
 .pagination {
 	text-align: center;
 	margin: 50px 0 0 0;
+	a {
+		color: #000;
+		text-decoration: none;
+		&:link {
+			border-bottom: 1px dotted $light-grey;
+		}
+		&:hover {
+			border-bottom: 1px solid $theme-color;
+		}
+	}
 }
 
 .take-me {
