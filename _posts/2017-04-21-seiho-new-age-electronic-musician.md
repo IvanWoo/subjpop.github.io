@@ -315,7 +315,9 @@ Cry & Fight
 ### 矢野顕子「Tong Poo」
 ![img](http://wx1.sinaimg.cn/large/e17094f2gy1femoocyj8zj20dw0ds42c.jpg)
 
-*作词：矢野顕子、作曲：坂本龍一*
+*作词：矢野顕子*
+
+*作曲：坂本龍一*
 
 *Produce：Seiho*
 
@@ -493,3 +495,13 @@ Your beauty I'd still see
 Love is 2 weak 2 define
 
 Just what U mean 2 me
+
+## 人物介绍
+
+![Seiho](http://wx2.sinaimg.cn/large/e17094f2gy1femovnkiyyj21cg0w6b2a.jpg)
+
+Seiho
+
+![Sugar’s Campaign](http://wx3.sinaimg.cn/large/e17094f2gy1femovhlj32j21kw11z103.jpg)
+
+Sugar’s Campaign

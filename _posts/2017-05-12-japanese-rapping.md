@@ -146,6 +146,79 @@ Heavenまで吸い上げていくcoco
 
 シャキッとしてパーリーに繰り出す
 
+
+
+### ISSUGI 「Heat Haze feat. Mr.PUG」
+![img](http://wx3.sinaimg.cn/large/e17094f2gy1ffecbfatl0j20dw0dw7bo.jpg)
+
+*Lyrics: ISSUGI, Mr.PUG*
+
+*Track: Gradis Nice*
+
+（歌词欠奉）
+
+
+
+
+
+### Moe and ghosts × 空間現代 「不通」
+![img](http://wx3.sinaimg.cn/large/e17094f2gy1ffecbrmafqj20dw0dw432.jpg)
+
+*Lyrics: Moe, Junya Noguchi*
+
+*Track: 空間現代*
+
+（歌词欠奉）
+
+
+
+
+### あっこゴリラ 「黄熱病 -YELLOW FEVER- × STUTS」
+![img](http://wx2.sinaimg.cn/large/e17094f2gy1ffecc8doz2j20dw0dwwjp.jpg)
+
+*Lyrics: あっこゴリラ*
+
+*Track: STUTS*
+
+（歌词欠奉）
+
+
+
+
+
+### IO「Notis」
+![img](http://wx2.sinaimg.cn/large/e17094f2gy1ffeccl9sooj20dw0dy42o.jpg)
+
+*Lyrics: IO*
+
+*Track: Jazadocument*
+
+（歌词欠奉）
+
+
+
+
+### 唾奇 x Sweet William「South side ghetto」
+![img](http://wx1.sinaimg.cn/large/e17094f2gy1ffeccx49onj20dw0dwwgu.jpg)
+
+*Lyrics: 唾奇*
+
+*Track: Sweet William*
+
+（歌词欠奉）
+
+
+
+
+### TOKYO HEALTH CLUB 「MAD-ONNA ft.ZOMBIE-CHANG」
+![img](http://wx2.sinaimg.cn/large/e17094f2gy1ffecdbib12j20dw0dwacw.jpg)
+
+*Track: JYAJIE*
+
+（歌词欠奉）
+
+
+
 ### パブリック娘。 「25mプール」
 
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1ffecdk33naj20dw0dwwfl.jpg)
@@ -217,3 +290,49 @@ Can I Kick It？
 綺麗なターンで100mにもなる　でも深いとこはこわい
 
 調子にのって泳ぎすぎるな　帰りのビールで風邪ひいちゃうぜ
+
+
+### 狐火 「昨日までのベスト」
+![img](http://wx1.sinaimg.cn/large/e17094f2gy1ffecdw2l93j20dw0dsdiz.jpg)
+
+*Lyrics: 狐火*
+
+（歌词欠奉）
+
+## 人物介绍
+
+![ゆるふわギャング／Yurufuwa Gang](http://wx1.sinaimg.cn/large/e17094f2gy1ffecg531fxj20xc0hi0uo.jpg)
+
+ゆるふわギャング／Yurufuwa Gang
+
+![ISSUGI](http://wx4.sinaimg.cn/large/e17094f2gy1ffecg7bimmj20xc0ivtm7.jpg)
+
+ISSUGI
+
+![Moe and ghosts × 空間現代](http://wx2.sinaimg.cn/large/e17094f2gy1ffecmplu2pj20xc0irk5e.jpg)
+
+Moe and ghosts × 空間現代
+
+![あっこゴリラ／AKKOGORILLA](http://wx3.sinaimg.cn/large/e17094f2gy1ffecg8pxzfj20xc0mb7fs.jpg)
+
+あっこゴリラ／AKKOGORILLA
+
+![IO](http://wx3.sinaimg.cn/large/e17094f2gy1ffecg96pv8j20xc0itds6.jpg)
+
+IO
+
+![唾奇 x Sweet William](http://wx4.sinaimg.cn/large/e17094f2gy1ffecg5v3anj20xc0iracn.jpg)
+
+唾奇 x Sweet William
+
+![TOKYO HEALTH CLUB](http://wx2.sinaimg.cn/large/e17094f2gy1ffecgdhfhxj20xc0m8wwp.jpg)
+
+TOKYO HEALTH CLUB
+
+![パブリック娘。](http://wx4.sinaimg.cn/large/e17094f2gy1ffecg87r5aj20xc0ozak6.jpg)
+
+パブリック娘。
+
+![狐火](http://wx2.sinaimg.cn/large/e17094f2gy1ffecgaliwjj20xc0m8ka0.jpg)
+
+狐火

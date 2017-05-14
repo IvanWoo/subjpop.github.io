@@ -948,3 +948,36 @@ wake up wake up
 
 明天的希望
 
+## 人物介绍
+
+![KID FRESINO](http://wx3.sinaimg.cn/large/e17094f2gy1fe58j53hlzj20hs0cg7b7.jpg)
+
+KID FRESINO
+
+![中小企業](http://wx1.sinaimg.cn/large/e17094f2gy1fe58jj0aq1j20pk0h87i4.jpg)
+
+中小企業
+
+![963](http://wx1.sinaimg.cn/large/e17094f2gy1fe58k7prkaj20s10sg454.jpg)
+
+963
+
+![ちゃんみな／Chanmina](http://wx3.sinaimg.cn/large/e17094f2gy1fe58lcimk7j20dc08wwf2.jpg)
+
+ちゃんみな／Chanmina
+
+![Especia](http://wx1.sinaimg.cn/large/e17094f2gy1fe58miartxj20h80bhq53.jpg)
+
+Especia
+
+![テンテンコ／tentenko](http://wx3.sinaimg.cn/large/e17094f2gy1fe58os7ft8j20xc0xcjvt.jpg)
+
+テンテンコ／tentenko
+
+![ikanimo（ケイタイモ、野村卓史、松井泉）](http://wx3.sinaimg.cn/large/e17094f2gy1fe58qy5ul8j20vk0hsjtf.jpg)
+
+ikanimo（ケイタイモ、野村卓史、松井泉）
+
+![コムアイ（水曜日のカンパネルラ）、加山雄三、PUNPEE](http://wx1.sinaimg.cn/large/e17094f2gy1fe58t2l9eyj20su0gegv8.jpg)
+
+コムアイ（水曜日のカンパネルラ）、加山雄三、PUNPEE

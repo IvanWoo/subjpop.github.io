@@ -1696,3 +1696,111 @@ Make up your mind！
 
 
 （翻译暂无）
+
+## 人物介绍
+
+![まねきケチャ](http://wx2.sinaimg.cn/large/e17094f2gy1fc4bwjmz0pj20xc0m8wj8.jpg)
+
+まねきケチャ
+
+![sora tob sakana](http://wx4.sinaimg.cn/large/e17094f2gy1fc4bx9vrczj20hd09zmy1.jpg)
+
+sora tob sakana
+
+![アイドルネッサンス（左三为传说中的石野理子）](http://wx1.sinaimg.cn/large/e17094f2gy1fc4bys8tstj20jg0czgov.jpg)
+
+アイドルネッサンス（左三为传说中的石野理子）
+
+![アップアップガールズ](http://wx2.sinaimg.cn/large/e17094f2gy1fc4c0i9934j20ka0di40k.jpg)
+
+アップアップガールズ
+
+![Negicco](http://wx4.sinaimg.cn/large/e17094f2gy1fc4c1ya9z3j20jr0ajk1t.jpg)
+
+Negicco
+
+![虹のコンキスタドール（最中间的就是传说中的根本凪）](http://wx3.sinaimg.cn/large/e17094f2gy1fc4c2y2hqnj20vk0l0e4k.jpg)
+
+虹のコンキスタドール（最中间的就是传说中的根本凪）
+
+
+
+## Secret Track 放在最后!!!
+
+![img](http://wx2.sinaimg.cn/large/e17094f2gy1fc4a0m82lvj20dw0dwwic.jpg)
+
+### 赵老师（weibo: rock南瓜头）「悲しみのラッキースター」
+
+**悲伤的Lucky Star**
+
+*作词／作曲／编曲：细野晴臣*
+
+本首翻译引自[黄病病](http://huangbingbing.lofter.com/post/44ccf4_243c305)（weibo: real黄病病），非常感谢。
+
+もしかして　きみはラッキースター
+
+ねぇ　今までどこにいたの
+
+髪を切り　紅を差せば
+
+小鳥たちも幸せ
+
+莫非 你是LUCKY STAR
+
+呐 迄今为止 你都在哪呢
+
+剪掉头发 抹上口红的话
+
+小鸟们也幸福
+
+この日から　きみはラッキースター
+
+雨の中　どこに行こう
+
+靴を履き　傘を差せば
+
+木も街も輝く
+
+即日起 你是LUCKY STAR
+
+这雨中 你要去哪呢
+
+穿上鞋子 撑起雨伞的话
+
+树也好街道也好 都闪闪发光
+
+(Chorus)
+
+*これから　きみのために歌うよ
+
+ぼくの家に来てくれたら
+
+とてもできないと思ってた
+
+メロディーが生まれそう♪
+
+从此以后 为了你而歌唱
+
+如果你能来到我的家...
+
+真是痴心妄想呢
+
+旋律油然而生
+
+悲しみを　運ぶラッキースター
+
+ねぇ　あれからどこにいたの
+
+今からでも　明日からでも
+
+星が落ちる時まで　一緒に…
+
+搬运悲伤的 LUCKY STAR
+
+呐 自那之后 你去了哪呢
+
+就算现在 就算明天
+
+直到星辰陨落的时候为止 一直在一起*
+
+(Repeat Chorus)

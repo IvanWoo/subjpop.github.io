@@ -1751,3 +1751,43 @@ I need you 直至声嘶力竭
 飞吧！试着飞吧！
 
 飞吧！试着飞吧！
+
+## 人物介绍
+
+![欅坂46](http://wx2.sinaimg.cn/large/e17094f2gy1fccu2ns3p4j20zk0bvjyg.jpg)
+
+欅坂46
+
+![BiSH](http://wx2.sinaimg.cn/large/e17094f2gy1fccu58txijj20xc0m8gns.jpg)
+
+BiSH
+
+![わーすた](http://wx3.sinaimg.cn/large/e17094f2gy1fccu6eaxaij20xc0m8gt1.jpg)
+
+わーすた
+
+![夢みるアドレセンス](http://wx2.sinaimg.cn/large/e17094f2gy1fccu7xzn6rj21ao0v5b29.jpg)
+
+夢みるアドレセンス
+
+![lyrical school](http://wx2.sinaimg.cn/large/e17094f2gy1fccub6uv3qj20xc0hdwha.jpg)
+
+lyrical school
+
+![東京女子流](http://wx3.sinaimg.cn/large/e17094f2gy1fccuezh571j20m80xcwh8.jpg)
+
+東京女子流
+
+![私立恵比寿中学](http://wx1.sinaimg.cn/large/e17094f2gy1fccujbngfwj21kw10ru1a.jpg)
+
+私立恵比寿中学
+
+![AKB48](http://wx3.sinaimg.cn/large/e17094f2gy1fccuksxv4hj21kw0qoqbt.jpg)
+
+AKB48
+
+## Secret Track!!!
+
+![img](http://wx4.sinaimg.cn/large/e17094f2gy1fccu39ye0uj20zk0k013b.jpg)
+
+这次并没有，赵老师放心。

@@ -828,3 +828,52 @@ Good girl，她是个好女孩
 
 repeat *
 
+## 人物介绍
+
+![水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lijf3vj20jg0cywfw.jpg)
+
+水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）
+
+![sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8mo750rj20xc0p0q70.jpg)
+
+sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）
+
+![CHICO CARLITO](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liwdi1j21be0qowgj.jpg)
+
+CHICO CARLITO
+
+![ACE & 般若](http://ww4.sinaimg.cn/large/e17094f2gw1fas8li2ly9j20go09edgf.jpg)
+
+ACE & 般若
+
+![KOHH](http://ww2.sinaimg.cn/large/e17094f2gw1fas8lipqbzj20yz0jlq54.jpg)
+
+KOHH
+
+![サ上と中江（サイプレス上野, 中江友梨）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8lj30prj20ka0f842q.jpg)
+
+サ上と中江（サイプレス上野, 中江友梨）
+
+![テンテンコ（tentenko）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liei0sj20hs0qo75i.jpg)
+
+テンテンコ（tentenko）
+
+![3776（井出ちよの）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8ljd8n0j20qo0hs76n.jpg)
+
+3776（井出ちよの）
+
+![私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll11qtj20go0b4jvy.jpg)
+
+私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）
+
+![ようなぴ（from ゆるめるモ！）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8lk83pej20ka0djwh3.jpg)
+
+ようなぴ（from ゆるめるモ！）
+
+![amiinA（miyu, ami）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lkg5spj20ic0c8tb2.jpg)
+
+amiinA（miyu, ami）
+
+![cero（荒内佑, 橋本翼, 高城晶平）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll7xizj20p00xcgrm.jpg)
+
+cero（荒内佑, 橋本翼, 高城晶平）

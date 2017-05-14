@@ -748,3 +748,36 @@ Dr. K
 
 已是满面泪痕
 
+## 人物介绍
+
+![D.A.N.](http://wx1.sinaimg.cn/large/e17094f2gy1fd98db49qoj20jg0d1q75.jpg)
+
+D.A.N.
+
+![港カヲル＋グループ魂](http://wx3.sinaimg.cn/large/e17094f2gy1fd98evzqjij20ka0daq6q.jpg)
+
+港カヲル＋グループ魂
+
+![KREVA](http://wx1.sinaimg.cn/large/e17094f2gy1fd98fw5az2j20hs0b4jte.jpg)
+
+KREVA
+
+![p1 a.k.a. 2g & 呂布カルマ](http://wx4.sinaimg.cn/large/e17094f2gy1fd98h8ovuqj21kw11ye88.jpg)
+
+p1 a.k.a. 2g & 呂布カルマ
+
+![JJJ (Fla$hBackS)](http://wx4.sinaimg.cn/large/e17094f2gy1fd98i3h80nj20k00damyr.jpg)
+
+JJJ (Fla$hBackS)
+
+![sora tob sakana](http://wx3.sinaimg.cn/large/e17094f2gy1fd98j4anytj20qr0hudgk.jpg)
+
+sora tob sakana
+
+![Maison book girl](http://wx4.sinaimg.cn/large/e17094f2gy1fd98kwlspgj20xc0ku3zt.jpg)
+
+Maison book girl
+
+![電気グルーヴ](http://wx3.sinaimg.cn/large/e17094f2gy1fd98met2d5j20xc0m841j.jpg)
+
+電気グルーヴ

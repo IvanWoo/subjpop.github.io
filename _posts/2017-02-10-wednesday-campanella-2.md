@@ -1654,3 +1654,17 @@ Imi Imi Imi Imi Imi Imi Imi Imitation
 全部是Image
 
 但是是3D
+
+## 成员介绍
+
+![KOM_I & Kenmochi Hidefumi](http://wx3.sinaimg.cn/large/e17094f2gy1fckzup0c6jj20xc0p0aew.jpg)
+
+KOM_I & Kenmochi Hidefumi
+
+![KOM_I & Dr. F](http://wx4.sinaimg.cn/large/e17094f2gy1fckzvgfuyhj20m80goju1.jpg)
+
+KOM_I & Dr. F
+
+![Kenmochi Hidefumi & 松桥秀幸](http://wx2.sinaimg.cn/large/e17094f2gy1fckzvzjlhuj20k00dc0u0.jpg)
+
+Kenmochi Hidefumi & 松桥秀幸

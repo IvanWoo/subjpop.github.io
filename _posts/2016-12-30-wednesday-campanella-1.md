@@ -1434,3 +1434,17 @@ Scoop! 吉他！欢喜与热狂
 不管明天会怎样  走出窗外
 
 就能给予即刻可见的梦想
+
+## 成员介绍
+
+![img](http://ww3.sinaimg.cn/large/e17094f2gw1fb84g2aq6fj20v70ktjvs.jpg)
+
+演唱/表演担当: KOM_I（輿美咲）
+
+![img](http://ww1.sinaimg.cn/large/e17094f2gw1fb85290s2oj20jg0czq5g.jpg)
+
+音乐制作/创作担当：Kenmochi Hidefumi（釼持英郁）
+
+![img](http://ww4.sinaimg.cn/large/e17094f2gw1fb853trjrkj20jg0el410.jpg)
+
+其他一切担当：Dir. F
