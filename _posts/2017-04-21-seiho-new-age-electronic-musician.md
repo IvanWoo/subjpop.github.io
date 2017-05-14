@@ -5,6 +5,7 @@ dj: minami
 categories:
   - Track-Makers tracking
 featured_image: http://wx3.sinaimg.cn/crop.0.124.900.505.1000/e17094f2gy1femocp6fspj20p00p0tdi.jpg
+stream_url: http://www.lizhi.fm/1913563/2596230659799331846
 playlist: |-
   1. Seiho「Prologue」 ( From Seiho’s Official Site )
   2. Seiho「Plastic」（from  3rd album「Collapse」2016/5/18）
@@ -24,9 +25,12 @@ albums: |-
   * [「Cry&Fight」](http://ototoy.jp/_/default/p/60892)
 
 ---
-## [荔枝fm 在线收听▶️](http://www.lizhi.fm/1913563/2596230659799331846)
+<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
 
-## 「Prologue」
+
+## 歌词
+
+### 「Prologue」
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1femoyz2eznj20dw07vq74.jpg)
 
 *Produce：Seiho*
@@ -37,11 +41,7 @@ This Enter Zone is the purest white and vividly bright light.
 
 While without realizing it, the bird quickly takes flight around the jungle and the glass of whiskey I drank yesterday also makes the transformation.
 
-
-
-
-
-## Seiho「Plastic」（from  3rd album「Collapse」）
+### Seiho「Plastic」（from  3rd album「Collapse」）
 ![img](http://wx3.sinaimg.cn/large/e17094f2gy1femokz2skjj20dw0dwwfo.jpg)
 
 *Produce：Seiho*
@@ -49,7 +49,7 @@ While without realizing it, the bird quickly takes flight around the jungle and 
 
 
 
-## Seiho「Bird Scat」（from  EP「UNREAL」）
+### Seiho「Bird Scat」（from  EP「UNREAL」）
 ![img](http://wx2.sinaimg.cn/large/e17094f2gy1femollzq30j20dw0dw40q.jpg)
 
 *Produce：Seiho*
@@ -57,7 +57,7 @@ While without realizing it, the bird quickly takes flight around the jungle and 
 
 
 
-## Seiho 「I Feel Rave」&「Gynoid Feminism」（from  2nd  album「ABSTRKTSEX」2013/6/19）
+### Seiho 「I Feel Rave」&「Gynoid Feminism」（from  2nd  album「ABSTRKTSEX」2013/6/19）
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1femolyajhnj20dw0ce0ub.jpg)
 
 *Produce：Seiho*
@@ -65,7 +65,7 @@ While without realizing it, the bird quickly takes flight around the jungle and 
 
 
 
-## Sugar's Campaign「香港生活」
+### Sugar's Campaign「香港生活」
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1femom9r60pj20dw0dwdg8.jpg)
 
 *作词：Sugar's Campaign・Sasaki Mei*
@@ -111,7 +111,7 @@ Hard rain 随风舞动 情景fresh
 
 
 
-## 三浦大知「Cry & Fight」
+### 三浦大知「Cry & Fight」
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1femomyijimj20dw0dwmys.jpg)
 
 *作词：Daichi Miura・MOMO'mocha'N.*
@@ -312,7 +312,7 @@ Cry & Fight
 
 
 
-## 矢野顕子「Tong Poo」
+### 矢野顕子「Tong Poo」
 ![img](http://wx1.sinaimg.cn/large/e17094f2gy1femoocyj8zj20dw0ds42c.jpg)
 
 *作词：矢野顕子、作曲：坂本龍一*
@@ -418,7 +418,7 @@ Cry & Fight
 
 
 
-## 「Adore」
+### 「Adore」
 ![img](http://wx4.sinaimg.cn/large/e17094f2gy1femoqjllyij20dw0dwq2p.jpg)
 
 *作词／作曲：NELSON PRINCE ROGERS（PRINCE）*

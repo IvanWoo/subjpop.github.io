@@ -5,6 +5,7 @@ dj: davidchill
 categories:
   - J-Hip hop
 featured_image: http://wx1.sinaimg.cn/crop.0.45.900.505.1000/e17094f2gy1ffecx6vx8jj20p00goaky.jpg
+stream_url: https://www.lizhi.fm/1913563/2600656490447357446
 playlist: |-
   1. ゆるふわギャング 「Escape To The Paradise」 (from 1st album 「Mars Ice House」 2017/4/5)
   2. ISSUGI 「Heat Haze feat. Mr.PUG」 (from joint album 「DAY and NITE」 2016/11/2)
@@ -32,7 +33,6 @@ albums: |-
   * [「昨日までのベスト」](http://ototoy.jp/_/default/p/72067)
 
 ---
-## [荔枝fm 在线收听▶️](https://www.lizhi.fm/1913563/2600656490447357446)
 
 标题使用了「日本の Rap」也就是「日本说唱」这个说法，而没有用大家比较习惯的 J-Hiphop，或者是在日本本土使用率颇高的「日本語ラップ」即「日语说唱」的说法，这多少是借鉴了音乐与文化评论人磯部涼的观点。他认为传统意义上的 Hip-hop 理念正在与当今的年轻人渐行渐远。而且人们谈论 Hip-hop 时，多数情况下仅仅是在特指其四要素中的说唱因素（偶尔也用来指代 break dance 元素），而说唱作为一种表达方式又正在和各种不同的音乐类型相互渗透（比如 Idol-Rap），Rap 和 Hiphop 之间本身是不能画等号的。
 
@@ -40,9 +40,11 @@ albums: |-
 
 这多少让我想起日本70年代初摇滚音乐圈中有过的类似现象，即所谓的「日语摇滚争论」。以内田裕野、Flower Travellin Band 为首的英语派，和以はっぴいえんど（Happy End）为代表的日语派，曾就「日语是否适合摇滚乐」这一问题展开过论战，结果当然是以はっぴいえんど的杰作专辑「風街ろまん」（风街浪漫）最终宣告了日语派的胜利。正如今天压根儿就不会有人再去强调「日语摇滚」一样，对应说唱我们自然也可以丢掉「日语」两个字了。
 
-## ゆるふわギャング 「Escape To The Paradise」
+## 歌词（本期歌词大部分欠奉，实在抱歉🙇‍♀️）
 
-![ゆるふわギャング 「Escape To The Paradise」](http://wx1.sinaimg.cn/large/e17094f2gy1ffecax1bk4j20dw0dwdni.jpg)
+### ゆるふわギャング 「Escape To The Paradise」
+
+![img](http://wx1.sinaimg.cn/large/e17094f2gy1ffecax1bk4j20dw0dwdni.jpg)
 
 *Lyrics: Ryugo Ishida, Sophiee*
 
@@ -144,9 +146,9 @@ Heavenまで吸い上げていくcoco
 
 シャキッとしてパーリーに繰り出す
 
-## パブリック娘。 「25mプール」
+### パブリック娘。 「25mプール」
 
-![パブリック娘。 「25mプール」](http://wx4.sinaimg.cn/large/e17094f2gy1ffecdk33naj20dw0dwwfl.jpg)
+![img](http://wx4.sinaimg.cn/large/e17094f2gy1ffecdk33naj20dw0dwwfl.jpg)
 
 *Lyrics: 文園太郎·清水大輔·斎藤辰也*
 

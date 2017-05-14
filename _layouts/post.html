@@ -6,10 +6,13 @@ layout: default
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
+	<h2>
+		<a href="{{ page.stream_url }}">荔枝 FM 在线收听▶️</a>
+	</h2>
 	{% if page.playlist %}
 		<div class="show-notes">
 			<div class="albums">
-				<h2>💽购买链接</h2>
+				<h2>唱片购买链接</h2>
 				{{ page.albums | markdownify }}
 			</div>
 

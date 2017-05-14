@@ -8,7 +8,7 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		<h2>{{ category[0] }}</h2>
+		<h2>{{ category[0] | capitalize_all }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">

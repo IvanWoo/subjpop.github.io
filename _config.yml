@@ -12,12 +12,25 @@ disqus_shortname:
 logo: /siteicon.png
 description: The homepage of Sub J-Pop, a podcast of semi-alternative Japanese pop music bi(?)weekly
 author:
-  name:
-  email:
+  name: subjpop
+  email: subjpop@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name:
   links:
+
+# Values for the sc_player gem (https://github.com/itsbrnrd/jekyll_sc_player/blob/master/sc_player.rb)
+sc_player:
+  auto_play: false
+  buying: false
+  liking: true
+  download: true
+  sharing: true
+  show_artwork: true
+  show_comments: true
+  show_playcount: true
+  show_user: true
+  start_track: 0
 
 # -----
 # Build
