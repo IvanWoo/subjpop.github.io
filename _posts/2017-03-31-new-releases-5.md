@@ -57,9 +57,10 @@ albums: |-
 
 
 
-### 963「ストロー」 Straw／吸管
+### 963「ストロー」
 ![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe57q940uij20dw0dwteh.jpg)
 
+**Straw／吸管**
 
 *作词：Bonjour铃木*
 *作曲／编曲：Kenichiro Nishihara*
@@ -700,13 +701,14 @@ SHAKE A BODY 坦率露出肌肤吧
 
 
 
-### テンテンコ「WA·ショイ！」/ tentenko「WA Shoi！」
+### テンテンコ「WA·ショイ！」
 ![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe583qwhjgj20dw0dwaf3.jpg)
 
 ![堀ちえみ原版封套1985](http://wx1.sinaimg.cn/large/e17094f2gy1fe58n4srz5j206o06ot8x.jpg)
 
 **堀ちえみ原版封套1985**
 
+**tentenko「WA Shoi！」**
 
 *作词：铃木博文、作曲：白井良明*
 
@@ -815,8 +817,10 @@ wake up wake up
 
 
 
-### 水曜日のカンパネラ 「海 その愛」 / 星期三的康帕内拉 「大海 还有那爱」
+### 水曜日のカンパネラ 「海 その愛」
 ![img](http://wx2.sinaimg.cn/large/e17094f2gy1fe58cfqtk2j20dw0dr106.jpg)
+
+**星期三的康帕内拉 「大海 还有那爱」**
 
 *作词：岩谷时子*
 

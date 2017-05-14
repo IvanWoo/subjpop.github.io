@@ -43,8 +43,10 @@ albums: |-
 
 
 
-### 港カヲル（グループ魂）「俺でいいのかい」 / 我的话，可以吗？
+### 港カヲル（グループ魂）「俺でいいのかい」
 ![img](http://wx3.sinaimg.cn/large/e17094f2gy1fd98273t6qj20dw0dtmyu.jpg)
+
+**我的话，可以吗？**
 
 *作詞・作曲：宮藤官九郎*
 
@@ -182,8 +184,10 @@ albums: |-
 
 
 
-### KREVA 「嘘と煩悩」 / 谎言与烦恼
+### KREVA 「嘘と煩悩」
 ![img](http://wx2.sinaimg.cn/large/e17094f2gy1fd986dmraaj20dw0dx0vf.jpg)
+
+**谎言与烦恼**
 
 *作詞・作曲・編曲：KREVA*
 
@@ -525,8 +529,10 @@ Dr. K
 
 
 
-### p1 a.k.a. 2g x 呂布カルマ「生まれては死んでいく赤道直下の赤ん坊みたいに」 / 一生下来就逐渐死去就像赤道上的国家里的婴儿那样
+### p1 a.k.a. 2g x 呂布カルマ「生まれては死んでいく赤道直下の赤ん坊みたいに」
 ![img](http://wx1.sinaimg.cn/large/e17094f2gy1fd986xvnyij20dw0c1tgr.jpg)
+
+**一生下来就逐渐死去就像赤道上的国家里的婴儿那样**
 
 *作詞：呂布カルマ*
 
@@ -687,10 +693,10 @@ Dr. K
 
 
 
-### 電気グルーヴ「柿の木坂」 / 电气GROOVE「柿子树的坡」
+### 電気グルーヴ「柿の木坂」
 ![img](http://wx1.sinaimg.cn/large/e17094f2gy1fd98bq2g5zj20dw0dswjy.jpg)
 
-
+**电气GROOVE「柿子树的坡」**
 
 *作詞・作曲・編曲：石野卓球*
 

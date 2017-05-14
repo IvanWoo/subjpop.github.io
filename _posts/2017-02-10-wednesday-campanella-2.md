@@ -1,5 +1,5 @@
 ---
-date: 2017-03-31
+date: 2017-02-10
 title: Vol. 20-2 二十一世纪日音怪奇生命体・星期三的康帕内拉（下）
 dj: Mimida
 categories:
@@ -31,9 +31,10 @@ albums: |-
 
 ## 歌词
 
-### 「一休さん」 / 一休先生
+### 「一休さん」
 ![img](http://wx3.sinaimg.cn/large/e17094f2gy1fckyzgkw99j20dw0dw44y.jpg)
 
+**一休先生**
 
 *作詞／作曲／編曲：Kenmochi Hidefumi*
 
@@ -1137,9 +1138,10 @@ SION（注：指「Sono Sion／园子温」）
 
 
 
-### 「パフ」 / Puff
+### 「パフ」
 ![img](http://wx1.sinaimg.cn/large/e17094f2gy1fckzl4ervtj20dw0e2dk5.jpg)
 
+**Puff**
 
 *作詞：KOM_I*
 
@@ -1408,8 +1410,10 @@ SION（注：指「Sono Sion／园子温」）
 呆呆地眺望着，那边的光
 
 ​
-### 「ウランちゃん」 / 小乌兰
+### 「ウランちゃん」
 ​![img](http://wx4.sinaimg.cn/large/e17094f2gy1fckzot5t9tj20dw0dydp1.jpg)
+
+**小乌兰**
 
 *作詞／作曲／編曲：Kenmochi Hidefumi*
 
@@ -1565,7 +1569,9 @@ Uranus（注：天王星Uranus为铀/Uranium命名的由来）
 
 ​
 
-### 「マッチ売りの少女」 / 卖火柴的小女孩
+### 「マッチ売りの少女」
+
+**卖火柴的小女孩**
 
 *作詞／作曲／編曲：Kenmochi Hidefumi*
 
