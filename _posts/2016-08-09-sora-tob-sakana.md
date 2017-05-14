@@ -30,4 +30,6 @@ albums: |-
 
 ## 歌词
 
+#TODO add the rest lyrics
+
 NULL

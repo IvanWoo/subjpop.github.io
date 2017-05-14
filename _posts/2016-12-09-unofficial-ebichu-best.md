@@ -1241,6 +1241,7 @@ youn-youn-youn-youn-youn-young
 中中中中人DANCE MUSIC
 
 ———————————————————————————————————————
+#TODO add the rest lyrics
 
 （注：因为新浪头条文章行数有限制写不下了，所以最后三首歌词只能贴图，万一有需要文字版的朋友请私信我。）
 

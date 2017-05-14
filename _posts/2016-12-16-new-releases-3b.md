@@ -439,6 +439,8 @@ UME!
 
 ———————————————————————————————————————
 
+#TODO add the rest lyrics
+
 ![又超过了行数限制所以接下来只能贴图，需要文字版的私信我](http://ww2.sinaimg.cn/large/e17094f2gw1fas85skekrj20dw0ds0x1.jpg)又超过了行数限制所以接下来只能贴图，需要文字版的私信我
 
 ![img](http://ww4.sinaimg.cn/large/e17094f2gw1fasos01wv0j20t012sn85.jpg)
