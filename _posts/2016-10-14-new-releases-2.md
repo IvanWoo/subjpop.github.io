@@ -9,13 +9,13 @@ stream_url: http://www.lizhi.fm/1913563/2562283983487376390
 playlist: |-
     1. 水曜日のカンパネラ「松尾芭蕉」（TOYOTA CM song 2016/08/29）
     2. 柴山一幸 featuring 井出ちよの、石田彰「That&`&s the way」（from 6th album「Fly Fly Fly」2016/10/05）
-    3. MC -
+    3. 🎙️
     4. 平沢進「灰よ」（from soundtrack collection「Ash Crow」 2016/09/14）
     5. DOTAMA × Kuma the Sureshot「真面目な男」（from collab album「 DIRECTORY」2016/09/01）
-    6. - MC -
+    6. 🎙️
     7. BiSH「オーケストラ」（from 3rd album「KiLLER BiSH」2016/10/05, iTunes ver. 2016/09/05）
     8. 佐々木彩夏「あーりんはあーりん♡」（from digital single「あーりんはあーりん♡」2016/09/28）
-    9. MC -
+    9. 🎙️
     10. ももいろクローバーZ「DECORATION」（from 16th single「ザ・ゴールデン・ヒストリー」2016/09/07）
     11. AOKO「FASHION」（from 2nd major single「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」2016/09/14）
 albums: |-
