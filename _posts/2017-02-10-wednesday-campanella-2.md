@@ -3,7 +3,7 @@ date: 2017-02-10
 title: Vol. 20-2 二十一世纪日音怪奇生命体・星期三的康帕内拉（下）
 dj: Mimida
 categories:
-  - Brand new band
+  - brand new band
 featured_image: http://wx2.sinaimg.cn/crop.0.0.1688.949.1000/e17094f2gy1fckz4z4z3pj21kw0qdqv5.jpg
 stream_url: https://www.lizhi.fm/1913563/2584391298769268230
 playlist: |-

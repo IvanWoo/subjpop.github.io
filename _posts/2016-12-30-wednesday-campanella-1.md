@@ -1,9 +1,9 @@
 ---
-date: 2017-02-10
+date: 2016-12-30
 title: Vol. 20-1 二十一世纪日音怪奇生命体・星期三的康帕内拉（上）
 dj: minami
 categories:
-  - Brand new band
+  - brand new band
 featured_image: http://ww2.sinaimg.cn/crop.0.0.1686.948.1000/e17094f2gw1fb83oestwzj21kw0qc1kx.jpg
 stream_url: http://www.lizhi.fm/1913563/2576536415618402822
 playlist: |-
