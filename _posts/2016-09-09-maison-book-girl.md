@@ -23,7 +23,7 @@ albums: |-
   * [「bathroom」](http://ototoy.jp/_/default/p/56209)
   * [「summer continue」](http://ototoy.jp/_/default/p/61520)
   * [「14才のおしえて」](http://ototoy.jp/_/default/p/57974)
-  * [「最後の猫工場」](http://mora.jp/package/43000074/TCJPR0000129848（11区外购买需挂VPN）)
+  * [「最後の猫工場」](http://mora.jp/package/43000074/TCJPR0000129848)
 
 ---
 
