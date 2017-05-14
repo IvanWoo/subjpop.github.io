@@ -3,7 +3,7 @@ date: 2016-12-09
 title: Vol. 18 私立惠比寿中学・唱片公司没敢选的Ebichu BEST
 dj: Mimida
 categories:
-  - No MUSIC, NO IDOL
+  - NO MUSIC, NO IDOL
 featured_image: http://ww4.sinaimg.cn/crop.8.0.2010.1130.1000/e17094f2gw1fak2trfo8ij21kw0vegzt.jpg
 stream_url: http://www.lizhi.fm/1913563/2572660731619576838
 playlist: |-

@@ -3,7 +3,7 @@ date: 2017-02-05
 title: Vol. 21-2 偶像乐曲大奖2016・Major偶像篇
 dj: Mimida
 categories:
-  - No MUSIC, NO IDOL
+  - NO MUSIC, NO IDOL
 featured_image: http://wx1.sinaimg.cn/crop.0.72.889.500.1000/e17094f2gy1fcct9vsk5rj20oq0goatf.jpg
 stream_url: https://www.lizhi.fm/1913563/2583205767536598534
 playlist: |-

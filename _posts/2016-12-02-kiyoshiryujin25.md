@@ -3,7 +3,7 @@ date: 2016-12-02
 title: Vol. 17 清龙人25・赶在♡一夫多妻制♡偶像组合解散之前
 dj: Mimida
 categories:
-  - No MUSIC, NO IDOL
+  - NO MUSIC, NO IDOL
 featured_image: http://ww2.sinaimg.cn/crop.0.19.1919.1079.1000/e17094f2gw1fabzmwnnrfj21hc0xf1kx.jpg
 stream_url: http://www.lizhi.fm/1913563/2571000207068722182
 playlist: |-
