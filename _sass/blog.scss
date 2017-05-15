@@ -11,15 +11,15 @@
 	h2, h3 {
 		margin-top: 50px;
 		font-weight: bold;
-    	margin-bottom: 20px;
+		margin-bottom: 20px;
 
-    	a {
-    		color: black;
+		a {
+			color: black;
 
-    		&:hover {
-    			border-bottom: 1px solid $theme-color;
-    		}
-    	}
+			&:hover {
+				border-bottom: 1px solid $theme-color;
+			}
+		}
 	}
 
 	p {
@@ -232,7 +232,30 @@
 	}
 }
 
+.notice {
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+
+	h4 {
+		font-weight: bold;
+		font-size: 1em;
+		color: #1a1a1a;
+		text-indent: 0px;
+		clear: both;
+		width: 600px;
+		margin-bottom: 0px;
+	}
+
+	p {
+		color: #7d7d7d;
+		font-size: 0.85em;
+	}
+}
+
+
 .cta {
 	text-align: center;
 	padding: 50px 0 0 0;
 }
+
+
