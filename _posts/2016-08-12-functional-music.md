@@ -1,7 +1,7 @@
 ---
 date: 2016-08-12
 title: Vol. 02 官能音乐・石野卓球
-dj: Mimida
+dj: marusan
 categories:
   - Track-Makers tracking
 featured_image: /images/banners/2.jpg

@@ -20,4 +20,9 @@ stygian:
   image: /images/djs/stygian.jpg
   name: 死得瑟吉恩
   weibo: stygian
+marusan:
+  description: SUBJPOP 前主播，现微博主运营兼节目幕后工作人员。
+  image: /images/djs/marusan.png
+  name: DJ◯△□ / DJ MaruSankakuShikaku
+  weibo: subjpop
 

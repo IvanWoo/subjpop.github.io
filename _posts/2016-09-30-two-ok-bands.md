@@ -1,7 +1,7 @@
 ---
 date: 2016-09-30
 title: Vol. 09 Two OK Bands・空中战 x Lucky Tapes
-dj: Mimida
+dj: marusan
 categories:
   - brand new band
 featured_image: /images/banners/9.jpg

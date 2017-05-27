@@ -1,7 +1,7 @@
 ---
 date: 2016-08-19
 title: Vol. 03 我们来听新唱片！
-dj: Mimida
+dj: marusan
 categories:
   - NEW releases
 featured_image: /images/banners/3.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2016-09-09
 title: Vol. 06 森林中的现代音乐少女・Maison Book Girl
-dj: Mimida
+dj: marusan
 categories:
   - NO MUSIC, NO IDOL
 featured_image: /images/banners/6.jpg

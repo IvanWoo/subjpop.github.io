@@ -1,7 +1,7 @@
 ---
 date: 2016-09-16
 title: Vol. 07 那些让人难以舍弃的歌
-dj: Mimida
+dj: marusan
 categories:
   - songs for a break
 featured_image: /images/banners/7.jpg

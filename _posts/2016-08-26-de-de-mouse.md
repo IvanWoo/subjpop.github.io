@@ -1,7 +1,7 @@
 ---
 date: 2016-08-26
 title: Vol. 04 梦见另一个夏夜・DE DE MOUSE
-dj: Mimida
+dj: marusan
 categories:
   - Track-Makers tracking
 featured_image: /images/banners/4.jpg

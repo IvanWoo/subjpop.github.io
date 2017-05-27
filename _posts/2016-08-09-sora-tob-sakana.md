@@ -1,7 +1,7 @@
 ---
 date: 2016-08-09
 title: Vol. 01 后摇滚！！＋偶像组合？？＝ sora tob sakana
-dj: Mimida
+dj: marusan
 categories:
   - NO MUSIC, NO IDOL
 featured_image: /images/banners/1.jpg

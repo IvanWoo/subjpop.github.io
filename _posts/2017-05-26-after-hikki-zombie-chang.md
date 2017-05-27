@@ -1130,9 +1130,15 @@ Kawaii Baby
 
 ## 人物介绍
 
-![ZOMBIE-CHANG (Yung Meirin)](http://wx4.sinaimg.cn/large/e17094f2gy1ffxpkgagh3j20u011hdl9.jpg)ZOMBIE-CHANG (Yung Meirin)
+![ZOMBIE-CHANG (Yung Meirin)](http://wx4.sinaimg.cn/large/e17094f2gy1ffxpkgagh3j20u011hdl9.jpg)
 
-![ZOMBIE-CHANG (Yung Meirin)](http://wx1.sinaimg.cn/large/e17094f2gy1ffxpkjfbhfj20u011hjt3.jpg)ZOMBIE-CHANG (Yung Meirin)
+ZOMBIE-CHANG (Yung Meirin)
 
-![Yung Meirin I LOVE YOU](http://wx2.sinaimg.cn/large/e17094f2gy1ffxpkm2vo3j20ku0q1dhr.jpg)Yung Meirin I LOVE YOU
+![ZOMBIE-CHANG (Yung Meirin)](http://wx1.sinaimg.cn/large/e17094f2gy1ffxpkjfbhfj20u011hjt3.jpg)
+
+ZOMBIE-CHANG (Yung Meirin)
+
+![Yung Meirin I LOVE YOU](http://wx2.sinaimg.cn/large/e17094f2gy1ffxpkm2vo3j20ku0q1dhr.jpg)
+
+Yung Meirin I LOVE YOU
 

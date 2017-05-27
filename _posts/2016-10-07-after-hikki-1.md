@@ -1,7 +1,7 @@
 ---
 date: 2016-10-07
 title: Vol. 10 宇多田光之后・大比良瑞希 x Okamoto Emi
-dj: Mimida
+dj: marusan
 categories:
   - After Hikki
 featured_image: /images/banners/10.jpg
