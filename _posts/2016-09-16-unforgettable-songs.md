@@ -4,7 +4,7 @@ title: Vol. 07 那些让人难以舍弃的歌
 dj: Mimida
 categories:
   - songs for a break
-featured_image: http://ww1.sinaimg.cn/crop.0.213.1136.638.1000.562/e17094f2gw1f7v16jr09ij20vk0notfl.jpg
+featured_image: /images/banners/7.jpg
 stream_url: http://www.lizhi.fm/1913563/2557068909643039238
 playlist: |-
     1. sora tob sakana「summer plan」（from 1st album「sora tob sakana」2016/07/26）
@@ -34,6 +34,7 @@ albums: |-
 
 ---
 
+<!--featured_image: http://ww1.sinaimg.cn/crop.0.213.1136.638.1000.562/e17094f2gw1f7v16jr09ij20vk0notfl.jpg-->
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
 
 ## 歌词

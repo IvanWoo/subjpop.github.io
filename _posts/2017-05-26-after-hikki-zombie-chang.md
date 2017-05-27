@@ -3,8 +3,8 @@ date: 2017-05-26
 title: Vol. 26 宇多田光之后・ZOMBIE-CHANG
 dj: Mimida
 categories:
-  - After Hikki
-featured_image: http://wx1.sinaimg.cn/crop.0.104.1840.1034.1000/e17094f2gy1ffxmkad1s7j21f40y87wh.jpg
+  - After Hikki 
+featured_image: /images/banners/26.jpg
 stream_url: https://www.lizhi.fm/1913563/2603228810785270790
 playlist: |-
   1. ZOMBIE-CHANG「I CAN&`&T GET TO SLEEP」（from 专辑『GANG!』2017/03/03）
@@ -28,6 +28,7 @@ albums: |-
 
 ---
 
+<!--featured_image: http://wx1.sinaimg.cn/crop.0.104.1840.1034.1000/e17094f2gy1ffxmkad1s7j21f40y87wh.jpg-->
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
 
 ## 歌词
