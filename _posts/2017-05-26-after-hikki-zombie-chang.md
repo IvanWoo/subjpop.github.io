@@ -3,7 +3,7 @@ date: 2017-05-26
 title: Vol. 26 宇多田光之后・ZOMBIE-CHANG
 dj: Mimida
 categories:
-  - Singer/Songwriters After Hikki
+  - After Hikki
 featured_image: http://wx1.sinaimg.cn/crop.0.104.1840.1034.1000/e17094f2gy1ffxmkad1s7j21f40y87wh.jpg
 stream_url: https://www.lizhi.fm/1913563/2603228810785270790
 playlist: |-

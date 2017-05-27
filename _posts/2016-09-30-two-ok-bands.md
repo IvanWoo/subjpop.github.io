@@ -4,7 +4,7 @@ title: Vol. 09 Two OK Bands・空中战 x Lucky Tapes
 dj: Mimida
 categories:
   - brand new band
-featured_image: http://ww2.sinaimg.cn/crop.0.0.2048.1150.1000.562/e17094f2gw1f8boeee7mlj21kw1jsb29.jpg
+featured_image: /images/banners/9.jpg
 stream_url: http://www.lizhi.fm/1913563/2559428300534342662
 playlist: |-
     1. クウチュウ戦「追跡されてる」（from 1st mini album「コンパクト」2015/05/13）
@@ -26,7 +26,7 @@ albums: |-
 
 ---
 
-
+<!--featured_image: http://ww2.sinaimg.cn/crop.0.0.2048.1150.1000.562/e17094f2gw1f8boeee7mlj21kw1jsb29.jpg-->
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
 
 ## 歌词
