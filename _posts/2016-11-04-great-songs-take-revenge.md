@@ -4,7 +4,7 @@ title: Vol. 14 GREAT SONGS TAKE REVENGE
 dj: minami
 categories:
   - songs for a break
-featured_image: http://ww4.sinaimg.cn/crop.169.0.1402.788.1000/e17094f2gw1f9fjw0o2wzj21hc0lwag3.jpg
+featured_image: /images/banners/14.jpg
 stream_url: http://www.lizhi.fm/1913563/2566174285405687302
 playlist: |-
     1. 東京女子流「深海 -Hi-ra Mix-」（from 20th single「深海」2016/08/31）
@@ -27,6 +27,7 @@ albums: |-
 
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww4.sinaimg.cn/crop.169.0.1402.788.1000/e17094f2gw1f9fjw0o2wzj21hc0lwag3.jpg-->
 
 ## 歌词
 

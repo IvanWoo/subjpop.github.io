@@ -4,7 +4,7 @@ title: Vol. 25 日本の Rap 进行时 🎤
 dj: davidchill
 categories:
   - J-Hip hop
-featured_image: http://wx1.sinaimg.cn/crop.0.45.900.505.1000/e17094f2gy1ffecx6vx8jj20p00goaky.jpg
+featured_image: /images/banners/25.jpg
 stream_url: https://www.lizhi.fm/1913563/2600656490447357446
 playlist: |-
   1. ゆるふわギャング 「Escape To The Paradise」 (from 1st album 「Mars Ice House」 2017/4/5)
@@ -39,6 +39,8 @@ albums: |-
 其次，所谓的「日本語ラップ」即「日语说唱」这个说法，多少又显得有些陈腐。按照磯部涼的看法，「日语说唱」是一个90年代初期的历史特定产物，它是当时的传奇地下说唱团体 Microphone Pager 在提出「日语说唱改正运动」时用到的词语。这一运动一方面是在批评主流说唱作品把说唱看作 novelty 或者说噱头来利用的做法，另一方面也是在跟当时大众所持的「日语不适合说唱」这种观念进行抗衡。
 
 这多少让我想起日本70年代初摇滚音乐圈中有过的类似现象，即所谓的「日语摇滚争论」。以内田裕野、Flower Travellin Band 为首的英语派，和以はっぴいえんど（Happy End）为代表的日语派，曾就「日语是否适合摇滚乐」这一问题展开过论战，结果当然是以はっぴいえんど的杰作专辑「風街ろまん」（风街浪漫）最终宣告了日语派的胜利。正如今天压根儿就不会有人再去强调「日语摇滚」一样，对应说唱我们自然也可以丢掉「日语」两个字了。
+
+<!--featured_image: http://wx1.sinaimg.cn/crop.0.45.900.505.1000/e17094f2gy1ffecx6vx8jj20p00goaky.jpg-->
 
 ## 歌词（本期歌词大部分欠奉，实在抱歉🙇‍）
 

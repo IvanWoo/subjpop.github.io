@@ -4,7 +4,7 @@ title: Vol. 02 官能音乐・石野卓球
 dj: Mimida
 categories:
   - Track-Makers tracking
-featured_image: http://ww1.sinaimg.cn/crop.0.223.1200.674.1000.562/e17094f2gw1f6qydwy6uzj20xc0p0wgv.jpg
+featured_image: /images/banners/2.jpg
 stream_url: http://www.lizhi.fm/1913563/2550688377092409862
 playlist: |-
   1. 石野卓球「Rapt In Fantasy」
@@ -25,7 +25,7 @@ albums: |-
 
 ---
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
-
+<!--featured_image: http://ww1.sinaimg.cn/crop.0.223.1200.674.1000.562/e17094f2gw1f6qydwy6uzj20xc0p0wgv.jpg-->
 
 ## 歌词
 

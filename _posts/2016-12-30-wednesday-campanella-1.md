@@ -4,7 +4,7 @@ title: Vol. 20-1 二十一世纪日音怪奇生命体・星期三的康帕内拉
 dj: minami
 categories:
   - brand new band
-featured_image: http://ww2.sinaimg.cn/crop.0.0.1686.948.1000/e17094f2gw1fb83oestwzj21kw0qc1kx.jpg
+featured_image: /images/banners/20-1.jpg
 stream_url: http://www.lizhi.fm/1913563/2576536415618402822
 playlist: |-
     1. 水曜日のカンパネラ「ナポレオン」（from 1st EP「トライアスロン」2015/04/15）
@@ -29,6 +29,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww2.sinaimg.cn/crop.0.0.1686.948.1000/e17094f2gw1fb83oestwzj21kw0qc1kx.jpg-->
 
 ## 歌词
 

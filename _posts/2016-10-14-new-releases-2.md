@@ -4,7 +4,7 @@ title: Vol. 11 我们来听新唱片！！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://ww2.sinaimg.cn/crop.0.621.1498.841.1000/e17094f2gw1f8rcu7azi3j215m18l1kx.jpg
+featured_image: /images/banners/11.jpg
 stream_url: http://www.lizhi.fm/1913563/2562283983487376390
 playlist: |-
     1. 水曜日のカンパネラ「松尾芭蕉」（TOYOTA CM song 2016/08/29）
@@ -29,6 +29,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww2.sinaimg.cn/crop.0.621.1498.841.1000/e17094f2gw1f8rcu7azi3j215m18l1kx.jpg-->
 
 ## 歌词
 

@@ -1,23 +1,23 @@
 Mimida:
   description: 今届坐館，fit到漏油。
-  image: /images/mimida.jpg
+  image: /images/djs/mimida.jpg
   name: Mimida
   twitter: mimida
   weibo: umbrellaku
 davidchill:
   description: 駄鼻血痢
-  image: /images/davidchili.jpg
+  image: /images/djs/davidchili.jpg
   name: 大胃麒麟
   weibo: davidchili
 minami:
   description: "洋楽、邦楽どちも好き，80sと90sは心の故郷，今：左往右往，四苦八苦"
-  image: /images/minami.jpg
+  image: /images/djs/minami.jpg
   name: Pumpkinhead
   twitter: rockpumpkinhead
   weibo: pumpkinhead
 stygian:
   description: いろんなサブカルが好き，超绝可爱李艺彤
-  image: /images/stygian.jpg
+  image: /images/djs/stygian.jpg
   name: 死得瑟吉恩
   weibo: stygian
 

@@ -4,7 +4,7 @@ title: Vol. 10 宇多田光之后・大比良瑞希 x Okamoto Emi
 dj: Mimida
 categories:
   - After Hikki
-featured_image: http://ww2.sinaimg.cn/crop.0.92.1000.562.1000.562/e17094f2gw1f8js2w9puaj20rs0rfn3k.jpg
+featured_image: /images/banners/10.jpg
 stream_url: http://www.lizhi.fm/1913563/2560764069721117190
 playlist: |-
     1. 大比良瑞希「TIME LIMIT」（from 1st Album「TRUE ROMANCE」2016/07/06）
@@ -28,6 +28,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--http://ww2.sinaimg.cn/crop.0.92.1000.562.1000.562/e17094f2gw1f8js2w9puaj20rs0rfn3k.jpg-->
 
 ## 歌词
 

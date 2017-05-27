@@ -4,7 +4,7 @@ title: Vol. 08 From City To Urban・2010年代的 City Pop
 dj: minami
 categories:
   - brand new band
-featured_image: http://ww2.sinaimg.cn/crop.0.6.1080.606.1000.562/e17094f2gw1f83lk9imvmj20u00q6q8o.jpg
+featured_image: /images/banners/8.jpg
 stream_url: http://www.lizhi.fm/1913563/2558376059315751430
 playlist: |-
     1. Cero「Yellow Magus」（from 3rd album「Obscure Ride」2015/05/27）
@@ -29,6 +29,7 @@ albums: |-
 
 ---
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww2.sinaimg.cn/crop.0.6.1080.606.1000.562/e17094f2gw1f83lk9imvmj20u00q6q8o.jpg-->
 
 ## 歌词
 

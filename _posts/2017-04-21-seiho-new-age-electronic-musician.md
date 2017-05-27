@@ -4,7 +4,7 @@ title: Vol. 24 Seiho・日本新生代电音奇男
 dj: minami
 categories:
   - Track-Makers tracking
-featured_image: http://wx3.sinaimg.cn/crop.0.124.900.505.1000/e17094f2gy1femocp6fspj20p00p0tdi.jpg
+featured_image: /images/banners/24.jpg
 stream_url: http://www.lizhi.fm/1913563/2596230659799331846
 playlist: |-
   1. Seiho「Prologue」 ( From Seiho’s Official Site )
@@ -26,7 +26,7 @@ albums: |-
 
 ---
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
-
+<!--featured_image: http://wx3.sinaimg.cn/crop.0.124.900.505.1000/e17094f2gy1femocp6fspj20p00p0tdi.jpg-->
 
 ## 歌词
 

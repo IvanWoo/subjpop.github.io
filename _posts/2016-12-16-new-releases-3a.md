@@ -4,7 +4,7 @@ title: Vol. 19-1 我们来听新唱片！！！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg
+featured_image: /images/banners/19-1.jpg
 stream_url: https://www.lizhi.fm/1913563/2573900538354813446
 playlist: |-
     1. 水曜日のカンパネラ「アラジン」（from major 1st single「SUPERKID」2016/11/01）
@@ -33,6 +33,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg-->
 
 ## 歌词
 

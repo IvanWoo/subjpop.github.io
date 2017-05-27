@@ -4,7 +4,7 @@ title: Vol. 17 清龙人25・赶在♡一夫多妻制♡偶像组合解散之前
 dj: Mimida
 categories:
   - NO MUSIC, NO IDOL
-featured_image: http://ww2.sinaimg.cn/crop.0.19.1919.1079.1000/e17094f2gw1fabzmwnnrfj21hc0xf1kx.jpg
+featured_image: /images/banners/17.jpg
 stream_url: http://www.lizhi.fm/1913563/2571000207068722182
 playlist: |-
     1. 清竜人25「Will♡You♡Marry♡Me?」（from 1st album『PROPOSE』2015/09/02）
@@ -27,6 +27,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww2.sinaimg.cn/crop.0.19.1919.1079.1000/e17094f2gw1fabzmwnnrfj21hc0xf1kx.jpg-->
 
 ## 歌词
 

@@ -4,7 +4,7 @@ title: Vol. 21-2 偶像乐曲大奖2016・Major偶像篇
 dj: Mimida
 categories:
   - NO MUSIC, NO IDOL
-featured_image: http://wx1.sinaimg.cn/crop.0.72.889.500.1000/e17094f2gy1fcct9vsk5rj20oq0goatf.jpg
+featured_image: /images/banners/21-2.jpg
 stream_url: https://www.lizhi.fm/1913563/2583205767536598534
 playlist: |-
     1. 欅坂46「サイレントマジョリティー」（from 1st single「サイレントマジョリティー」2016/04/06）
@@ -29,6 +29,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://wx1.sinaimg.cn/crop.0.72.889.500.1000/e17094f2gy1fcct9vsk5rj20oq0goatf.jpg-->
 
 ## 歌词
 

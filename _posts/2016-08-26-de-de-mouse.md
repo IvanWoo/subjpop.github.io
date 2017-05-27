@@ -4,7 +4,7 @@ title: Vol. 04 梦见另一个夏夜・DE DE MOUSE
 dj: Mimida
 categories:
   - Track-Makers tracking
-featured_image: http://ww4.sinaimg.cn/crop.0.103.1777.998.1000.562/e17094f2gw1f776xhdpxij21dd0wx78d.jpg
+featured_image: /images/banners/4.jpg
 stream_url: http://www.lizhi.fm/1913563/2553284633284748294
 playlist: |-
   1. DE DE MOUSE「remember night」（from new EP「summer twilight」2016/08/17）
@@ -27,6 +27,7 @@ albums: |-
 
 ---
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww4.sinaimg.cn/crop.0.103.1777.998.1000.562/e17094f2gw1f776xhdpxij21dd0wx78d.jpg-->
 
 
 ## 歌词

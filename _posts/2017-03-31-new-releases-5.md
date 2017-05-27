@@ -4,7 +4,7 @@ title: Vol. 23 我们来听新唱片！！！！！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://wx4.sinaimg.cn/crop.0.0.1200.674.1000/e17094f2gy1fe5lq0e4prj20xc0m8wit.jpg
+featured_image: /images/banners/23.jpg
 stream_url: http://www.lizhi.fm/1913563/2593418764038370822
 playlist: |-
     1. KID FRESINO「Salve feat. JJJ」（from EP『Salve』2017/01/25）
@@ -32,6 +32,8 @@ albums: |-
 本期歌词原文及正确性保持在98.5%左右的中文翻译
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+
+<!--featured_image: http://wx4.sinaimg.cn/crop.0.0.1200.674.1000/e17094f2gy1fe5lq0e4prj20xc0m8wit.jpg-->
 
 ## 歌词
 

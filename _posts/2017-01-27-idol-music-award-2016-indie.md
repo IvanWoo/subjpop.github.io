@@ -4,7 +4,7 @@ title: Vol. 21-1 偶像乐曲大奖2016・独立/地方偶像篇
 dj: Mimida
 categories:
   - NO MUSIC, NO IDOL
-featured_image: http://wx3.sinaimg.cn/crop.0.79.889.500.1000/e17094f2gy1fc4a9fz1qxj20oq0go4qp.jpg
+featured_image: /images/banners/21-1.jpg
 stream_url: http://www.lizhi.fm/1913563/2581563228161845766
 playlist: |-
     1. まねきケチャ「きみわずらい」（from 1st single「きみわずらい／妄想桜」2016/04/26）
@@ -40,6 +40,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://wx3.sinaimg.cn/crop.0.79.889.500.1000/e17094f2gy1fc4a9fz1qxj20oq0go4qp.jpg-->
 
 ## 歌词
 

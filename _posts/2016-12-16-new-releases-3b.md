@@ -4,7 +4,7 @@ title: Vol. 19-2 我们来听新唱片！！！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg
+featured_image: /images/banners/19-2.jpg
 stream_url: http://www.lizhi.fm/1913563/2573898143910512134
 playlist: |-
     1. 3776「正月はええもんだ」（from EP「歳時記・第一巻」2016/11/24）
@@ -28,6 +28,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg-->
 
 ## 歌词
 

@@ -4,7 +4,7 @@ title: Vol. 22 我们来听新唱片！！！！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://wx1.sinaimg.cn/crop.0.0.1200.674.1000/e17094f2gy1fd994mwi8sj20xc0irtfw.jpg
+featured_image: /images/banners/22.jpg
 stream_url: http://www.lizhi.fm/1913563/2588242553198892550
 playlist: |-
     1. D.A.N.「SSWB」（from single『SSWB』2016/12/23）
@@ -31,6 +31,8 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+
+<!--featured_image: http://wx1.sinaimg.cn/crop.0.0.1200.674.1000/e17094f2gy1fd994mwi8sj20xc0irtfw.jpg-->
 
 ## 歌词
 

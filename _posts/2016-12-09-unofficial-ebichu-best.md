@@ -4,7 +4,7 @@ title: Vol. 18 私立惠比寿中学・唱片公司没敢选的 Ebichu BEST
 dj: Mimida
 categories:
   - NO MUSIC, NO IDOL
-featured_image: http://ww4.sinaimg.cn/crop.8.0.2010.1130.1000/e17094f2gw1fak2trfo8ij21kw0vegzt.jpg
+featured_image: /images/banners/18.jpg
 stream_url: http://www.lizhi.fm/1913563/2572660731619576838
 playlist: |-
     1. 私立恵比寿中学「私立恵比寿中学の日常 (Prologue)：二乗の事情」（from 2nd album『金八』2015/01/28）
@@ -28,6 +28,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww4.sinaimg.cn/crop.8.0.2010.1130.1000/e17094f2gw1fak2trfo8ij21kw0vegzt.jpg-->
 
 ## 歌词
 

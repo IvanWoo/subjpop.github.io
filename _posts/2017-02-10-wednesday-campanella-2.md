@@ -4,7 +4,7 @@ title: Vol. 20-2 二十一世纪日音怪奇生命体・星期三的康帕内拉
 dj: Mimida
 categories:
   - brand new band
-featured_image: http://wx2.sinaimg.cn/crop.0.0.1688.949.1000/e17094f2gy1fckz4z4z3pj21kw0qdqv5.jpg
+featured_image: /images/banners/20-2.jpg
 stream_url: https://www.lizhi.fm/1913563/2584391298769268230
 playlist: |-
     1. 「一休さん」（from 1st major album「SUPERMAN」2017/02/08）
@@ -28,6 +28,8 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://wx2.sinaimg.cn/crop.0.0.1688.949.1000/e17094f2gy1fckz4z4z3pj21kw0qdqv5.jpg-->
+
 
 ## 歌词
 

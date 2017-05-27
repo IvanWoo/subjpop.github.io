@@ -4,7 +4,7 @@ title: Vol. 03 我们来听新唱片！
 dj: Mimida
 categories:
   - NEW releases
-featured_image: http://ww3.sinaimg.cn/crop.0.0.1919.1079.1000.562/e17094f2gw1f6z4tr0c6wj21hc0u04qp.jpg
+featured_image: /images/banners/3.jpg
 stream_url: http://www.lizhi.fm/1913563/2551994715020845062
 playlist: |-
   1. Especia「Savior」（from 4th EP「Mirage」2016/08/10）
@@ -29,6 +29,7 @@ albums: |-
 ---
 
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!--featured_image: http://ww3.sinaimg.cn/crop.0.0.1919.1079.1000.562/e17094f2gw1f6z4tr0c6wj21hc0u04qp.jpg-->
 
 ## 歌词
 
