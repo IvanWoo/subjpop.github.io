@@ -1,7 +1,7 @@
 ---
 date: 2016-11-04
 title: Vol. 14 GREAT SONGS TAKE REVENGE
-dj: minami
+dj: Mimida
 categories:
   - songs for a break
 featured_image: /images/banners/14.jpg
