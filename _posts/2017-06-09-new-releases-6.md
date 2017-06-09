@@ -1,6 +1,6 @@
 ---
 date: 2017-06-09
-title: Vol. 23 我们来听新唱片！！！！！！
+title: Vol. 27 我们来听新唱片！！！！！！
 dj: Mimida
 categories:
   - NEW releases
