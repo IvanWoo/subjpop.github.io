@@ -619,8 +619,6 @@ dancing the night through the night
 
 **因工作忙碌这回就先翻了这么几首，其余暂时欠奉，总之大家就先来欣赏一下封套**
 
-おかもとえみ「ストライク！」
-
 ![おかもとえみ「POOL」](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrtnq61sj20dw0dw0tg.jpg)
 
 おかもとえみ「POOL」
