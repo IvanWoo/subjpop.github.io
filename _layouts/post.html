@@ -10,6 +10,9 @@ layout: default
 	<h2>
 		<a href="{{ page.stream_url }}">荔枝 FM 在线收听 ▶️</a>
 	</h2>
+	<div>
+		<audio class="audioPlayer" controls preload="none" src="{{ site.data.stream_yaml[page.stream_url] }}"></audio>
+	</div>
 	<hr>
 	{% if page.playlist %}
 		<div class="show-notes">
@@ -46,19 +49,3 @@ layout: default
 		<div class="button"><a href="/archives">节目分类归档</a></div>
 	</div>
 </article>
-
-<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
-<script>
-	$(function() {
-		$('.post img').imgPin();
-
-		$('a[href*=\\#]').on('click', function(event){
-			var el = $(this.hash);
-			if (el.length > 0) {
-				event.preventDefault();
-				$('html,body').animate({scrollTop:$(this.hash).offset().top - 50}, 500);
-			}
-		});
-	});
-</script> -->
