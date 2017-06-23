@@ -1,12 +1,10 @@
 ---
-title:
-categories:
 date:
-featured_image:
-recipe:
-  servings:
-  prep:
-  cook:
-  ingredients_markdown:
-  directions_markdown:
+title:
+dj:
+categories:
+featured_image: 
+stream_url: 
+playlist: |-
+albums: |-
 ---
