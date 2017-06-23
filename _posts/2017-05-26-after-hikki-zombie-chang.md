@@ -5,7 +5,7 @@ dj: Mimida
 categories:
   - After Hikki 
 featured_image: /images/banners/26.jpg
-stream_url: https://www.lizhi.fm/1913563/2603228810785270790
+stream_url: http://www.lizhi.fm/1913563/2603228810785270790
 playlist: |-
   1. ZOMBIE-CHANG「I CAN&`&T GET TO SLEEP」（from 专辑『GANG!』2017/03/03）
   2. ZOMBIE-CHANG「TARINAI」（from 专辑『GANG!』2017/03/03）

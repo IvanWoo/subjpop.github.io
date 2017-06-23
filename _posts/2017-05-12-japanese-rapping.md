@@ -5,7 +5,7 @@ dj: davidchill
 categories:
   - J-Hip hop
 featured_image: /images/banners/25.jpg
-stream_url: https://www.lizhi.fm/1913563/2600656490447357446
+stream_url: http://www.lizhi.fm/1913563/2600656490447357446
 playlist: |-
   1. ゆるふわギャング 「Escape To The Paradise」 (from 1st album 「Mars Ice House」 2017/4/5)
   2. ISSUGI 「Heat Haze feat. Mr.PUG」 (from joint album 「DAY and NITE」 2016/11/2)

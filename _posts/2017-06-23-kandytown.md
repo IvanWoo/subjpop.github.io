@@ -5,7 +5,7 @@ dj: davidchill
 categories:
   - J-Hip hop
 featured_image: /images/banners/28.jpg
-stream_url: https://www.lizhi.fm/1913563/2608459664339857926
+stream_url: http://www.lizhi.fm/1913563/2608459664339857926
 playlist: |-
   1. DJ PMX「Neon Wave feat. GOTTZ, MUD & IO (KANDYTOWN)」（from 3rd original album『THE ORIGINAL III』2017/5/17）
   2. Ryohu「Blue Rose」（from 1st EP『All in One - EP』2017/4/5）
