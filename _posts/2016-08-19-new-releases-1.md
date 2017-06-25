@@ -20,7 +20,7 @@ playlist: |-
   11. 水曜日のカンパネラ「ツチノコ」（from 1st major EP「UMA」2016/06/22）
 albums: |-
   * [「Mirage」](http://ototoy.jp/_/default/p/65308)
-  * [](https://soundcloud.com/especia)
+  * [「Especia」](https://soundcloud.com/especia)
   * [「Mohican」](http://mora.jp/package/43000005/VE3WA-17617/)
   * [「超能力セレナーデ」](http://ototoy.jp/_/default/p/64908)
   * [「できれば愛を」](http://ototoy.jp/_/default/a/64469)
