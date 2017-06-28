@@ -1,6 +1,6 @@
 ---
 date: 2017-06-23
-title: Vol. 28 KANDYTOWN・糖镇City-Hiphop
+title: Vol. 28 KANDYTOWN・糖镇City-Hiphop 🍬
 dj: davidchill
 categories:
   - J-Hip hop
