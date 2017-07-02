@@ -48,7 +48,7 @@ defaults:
     values:
       layout: "post"
       push_sidebar_down: true
-      print_stylesheet: true
+      print_stylesheet: false
       comments: true
   -
     scope:
