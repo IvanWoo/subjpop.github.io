@@ -48,9 +48,9 @@ albums: |-
 
 『カマトト』
 
-**Lyrics: KOPERU**
+*Lyrics: KOPERU*
 
-**Track: ISSEI**
+*Track: ISSEI*
 
 （歌词欠奉）
 
@@ -62,9 +62,9 @@ albums: |-
 
 『JAPANESE YEDO MONKEY』
 
-**Lyrics: TWINKLE+**
+*Lyrics: TWINKLE+*
 
-**Track: Mitsu The Beats**
+*Track: Mitsu The Beats*
 
 （歌词欠奉）
 
@@ -77,11 +77,11 @@ albums: |-
 
 『磊』
 
-Lyrics: MonyHorse・PETZ・ JUNKMAN、Track: Chaki Zulu
+*Lyrics: MonyHorse・PETZ・ JUNKMAN*
+
+*Track: Chaki Zulu*
 
 （歌词欠奉）
-
-
 
 
 
@@ -91,9 +91,9 @@ Lyrics: MonyHorse・PETZ・ JUNKMAN、Track: Chaki Zulu
 
 『DIZZiNESS』
 
-**Lyrics: YDIZZY**
+*Lyrics: YDIZZY*
 
-**Track: Chaki Zulu**
+*Track: Chaki Zulu*
 
 [Verse 1]
 
@@ -308,9 +308,9 @@ Sounds like 啪 啪啪啪啪啪
 
 『DEEP GREEN』
 
-**Lyrics: 鈴木真海子**
+*Lyrics: 鈴木真海子*
 
-**Track: Supple**
+*Track: Supple*
 
 (歌词欠奉)
 
@@ -323,9 +323,9 @@ Sounds like 啪 啪啪啪啪啪
 
 『Cupid & Bataille, Dirty Microphone』
 
-**Rap: I.C.I・谷王 (大谷能生) ・ OMSB・N/K (菊地成孔)**
+*Rap: I.C.I・谷王 (大谷能生) ・ OMSB・N/K (菊地成孔)*
 
-**Track: Yusuke Mori**
+*Track: Yusuke Mori*
 
 [I.C.I]
 
@@ -465,7 +465,7 @@ I & I you & you 开始发狂
 
 『スーサイド』
 
-**Lyrics: Paranel**
+*Lyrics: Paranel*
 
 （歌词欠奉）
 
@@ -477,9 +477,9 @@ I & I you & you 开始发狂
 
 『low mind boi』
 
-**Lyrics: VaVa**
+*Lyrics: VaVa*
 
-**Track: VaVa**
+*Track: VaVa*
 
 (歌词欠奉)
 
@@ -492,9 +492,9 @@ I & I you & you 开始发狂
 
 『ミクロボーイとマグロガール』
 
-**Lyrics：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI**
+*Lyrics：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI*
 
-**Track：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI**
+*Track：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI*
 
 1234 緩急つけてトリッキー
 
