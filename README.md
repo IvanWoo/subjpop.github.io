@@ -22,3 +22,5 @@ $ bundle exec jekyll serve
 $ bundle exec jekyll build
 ~~~
 
+## Tips
+- [Bundler's Purpose and Rationale](http://bundler.io/rationale.html)
