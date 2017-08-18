@@ -596,7 +596,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 *Produce: LATIN QUARTER (PAN PACFIC PLAYA)*
 
-![lyrics](http://wx4.sinaimg.cn/mw690/620b9ac2gy1finx60ydxyj22io1w0kjl.jpg)
+![lyrics](http://wx4.sinaimg.cn/large/620b9ac2gy1finx60ydxyj22io1w0kjl.jpg)
 
 (翻译欠奉)
 
