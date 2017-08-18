@@ -24,3 +24,7 @@ $ bundle exec jekyll build
 
 ## Tips
 - [Bundler's Purpose and Rationale](http://bundler.io/rationale.html)
+- [Speed up Jekyll site regeneration](http://www.marcusoft.net/2015/11/speed-up-jekyll-site-regeneration.html)
+~~~bash
+$ bundle exec jekyll serve --watch --limit_posts 3
+~~~
