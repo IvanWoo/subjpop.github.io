@@ -1,6 +1,6 @@
 ---
 date: 2017-05-12
-title: Vol. 25 日本の Rap 进行时 🎤
+title: Vol. 25 日本のRap进行时 🎤
 dj: davidchill
 categories:
   - J-Hip hop
