@@ -53,7 +53,7 @@
 		}
 	}
 	time {
-		padding: 0 0 20px 0;
+		padding: 0 0 15px 0;
 		display: block;
 	}
 
@@ -91,7 +91,7 @@
 			li {
 				list-style-type: none;
 				&:before {
-					content: '\00bb';
+					content: '»';
 					color: $theme-color;
 					padding-right: 0.5em;
 				}
@@ -123,11 +123,12 @@
 					margin-right: 0px;
 					background-color: $theme-color;
 					color: white;
-					/* padding: 1px 7px; */
+					// padding: 1px 7px;
 					font-size: .7em;
+					font-weight: bold;
 					position: absolute;
 					left: -34px;
-					top: -2px;
+					top: 1px;
 					width: 25px;
 					text-align: center;
 				}
