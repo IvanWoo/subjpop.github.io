@@ -959,4 +959,4 @@ RYUTist
 
 ![・・・・・・・・・（dotstokyo）](https://wx4.sinaimg.cn/large/e17094f2gy1fj3n4llqd1j20xc0nt415.jpg)
 
-・・・・・・・・・（dotstokyo）
+[・・・・・・・・・（dotstokyo）](https://twitter.com/dotstokyo)
