@@ -200,9 +200,9 @@ Last Cruise, that day and that night…
 ### Climax Night (album version)
 ![img](http://ww1.sinaimg.cn/large/e17094f2gw1f83kph4o50j20dw0dw74y.jpg)
 
-*作詞、作曲:カクダテ*
+*作詞、作曲：カクダテ*
 
-*編曲:Yogee New waves*
+*編曲：Yogee New waves*
 
 目が見えなとも 姿形色が分かる
 

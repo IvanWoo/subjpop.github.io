@@ -30,9 +30,17 @@ h2 {
 	font-size: 1.4em;
 }
 
-time {
+.entry-meta{
+	display: inline-block;
 	color: $light-grey;
 	font-size: 1.0em;
+	margin: 0.3em 0 0.3em 0;
+	a {
+		color: $light-grey;
+		&:hover {
+			border-bottom: 1px solid $theme-color;
+		}
+	}
 }
 
 header {

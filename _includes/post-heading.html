@@ -9,7 +9,14 @@
 	</a>
 </h1>
 
-<time datetime="{{ include.post.date | date_to_xmlschema }}">
-	By {{ site.data.djs[post.dj].name }} {{ site.data.djs[page.dj].name }} |
-	{{ include.post.date | date: "%Y/%m/%d" }}
-</time>
+<div class=entry-meta>
+	<span class=author>
+		 By 
+			<a target="_blank" href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">{{ site.data.djs[page.dj].name }}</a>
+			<a target="_blank" href="http://weibo.com/{{ site.data.djs[post.dj].weibo }}">{{ site.data.djs[post.dj].name }}</a>
+	</span>
+	<span> | </span>
+	<time datetime="{{ include.post.date | date_to_xmlschema }}">
+		{{ include.post.date | date: "%Y/%m/%d" }}
+	</time>
+</div>
