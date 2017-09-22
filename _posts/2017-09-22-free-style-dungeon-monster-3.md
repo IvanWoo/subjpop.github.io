@@ -33,9 +33,9 @@ albums: |-
 <!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
 
 
-![FREESTYLE MONSTERS by Dmen Watanabe]
+![FREESTYLE MONSTERS by Dmen Watanabe](https://wx4.sinaimg.cn/large/e17094f2gy1fjfxn1ztktj20x30x3qq6.jpg)
 
-(https://wx4.sinaimg.cn/large/e17094f2gy1fjfxn1ztktj20x30x3qq6.jpg)FREESTYLE MONSTERS by Dmen Watanabe
+FREESTYLE MONSTERS by Dmen Watanabe
 
 
 ## 歌词及翻译
