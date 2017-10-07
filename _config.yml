@@ -2,7 +2,7 @@
 # Site
 
 title: SUBJPOP
-url: "https://subjpop.github.io/"
+url: "https://subjpop.github.io"
 baseurl:
 google_analytics_key: UA-98703426-2
 newsletter_action:
@@ -81,8 +81,6 @@ podcast:
   title: SUBJPOP
   art: /images/favicon.png
   category: Music
-  subcategories:
-  - Japanese J-POP
   subtitle: SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
   summary: >
     SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
