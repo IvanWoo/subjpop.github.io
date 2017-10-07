@@ -11,7 +11,7 @@ layout: default
 		<a href="{{ page.stream_url }}">荔枝 FM 在线收听 ▶️</a>
 	</h2>
 	<div>
-		<audio class="audioPlayer" controls preload="none" src="{{ site.data.stream_yaml[page.stream_url] }}"></audio>
+		<audio class="audioPlayer" controls preload="none" src="{{ site.data.stream_yaml[page.stream_url].url }}"></audio>
 	</div>
 	<hr>
 	{% if page.playlist %}

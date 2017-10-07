@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>{{ site.podcast.title }}</title>
+    <link>{{ site.url }}</link>
+    <itunes:author>{{ site.author }}</itunes:author>
+    <copyright>{{ site.license }}</copyright>
+    <language>zh-cn</language>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <itunes:category text="{{ site.podcast.category }}">
+      {% for subcategory in site.podcast.subcategories %}  
+      <itunes:category text="{{ subcategory }}"/>
+      {% endfor %}
+    </itunes:category>
+    <itunes:explicit>Yes</itunes:explicit>
+    <itunes:image href="{{ site.baseurl }}/images/favicon.png"/>
+    <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
+    <description>{{ site.podcast.summary }}</description>
+    <itunes:summary>{{ site.podcast.summary }}</itunes:summary>
+    <itunes:owner>
+      <itunes:name>{{ site.author.name }}</itunes:name>
+      <itunes:email>{{ site.author.email }}</itunes:email>
+    </itunes:owner>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+
+    {% for post in site.posts %}
+    <item>
+      <title>{{ post.title }}</title>
+      <itunes:explicit>Yes</itunes:explicit>
+      <itunes:author>{{ post.dj }}</itunes:author>
+      <itunes:duration>{{ site.data.stream_yaml[post.stream_url].duration }}</itunes:duration>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary><![CDATA[{{ post.playlist | strip_newlines }}]]></itunes:summary>
+      <description><![CDATA[{{ post.featured_image | strip_newlines }}]]></description>
+      <guid isPermaLink="true">{{ post.stream_url }}</guid>
+      <category>{{ site.podcast.category }}</category>
+      <enclosure length="{{ site.data.stream_yaml[post.stream_url].duration }}" url="{{ site.data.stream_yaml[post.stream_url].url }}" type="audio/mpeg"/>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>

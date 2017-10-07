@@ -74,3 +74,15 @@ exclude:
   - README.md
   - LICENCE
 
+# Misc
+licence: CC-BY-CA
+# Podcast
+podcast:
+  title: SUBJPOP
+  art: /images/favicon.png
+  category: Music
+  subcategories:
+  - Japanese J-POP
+  subtitle: SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
+  summary: >
+    SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
