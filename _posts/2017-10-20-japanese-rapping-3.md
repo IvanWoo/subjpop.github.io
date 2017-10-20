@@ -412,8 +412,8 @@ V to the I to the B to the E
 『柴又日記』
 
 *Lyrics: ZORN*
-*
-Track: OMSB・ZORN*
+
+*Track: OMSB・ZORN*
 
 （歌词暂无）
 
