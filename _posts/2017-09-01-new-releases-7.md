@@ -29,7 +29,7 @@ albums: |-
   * [「ECSTASY」](https://itunes.apple.com/jp/album/ecstasy/id1252972172)
   * [「Hello, future day」](http://ototoy.jp/_/default/p/76222)
   * [「公開実験《LINK MIX》」](http://ototoy.jp/_/default/p/80210)
-  * [「しゅわしゅわEP」（「ねぇ」](http://ototoy.jp/_/default/p/70039)
+  * [「しゅわしゅわEP」](http://ototoy.jp/_/default/p/70039)
 
 ---
 
