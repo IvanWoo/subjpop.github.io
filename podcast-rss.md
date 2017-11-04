@@ -1,4 +1,4 @@
 ---
-layout: itunes-feed-layout
+layout: podcast-rss
 permalink: /podcast.xml
 ---
