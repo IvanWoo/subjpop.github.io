@@ -61,6 +61,11 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
+  -
+    scope:
+      path: "about.html"
+    values:
+      layout: "default-sakura"
 
 gems:
   - jekyll-sitemap
