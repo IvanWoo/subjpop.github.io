@@ -66,6 +66,11 @@ defaults:
       path: "about.html"
     values:
       layout: "default-sakura"
+  -
+    scope:
+      path: "2017-ranking.html"
+    values:
+      layout: "book-reader"
 
 gems:
   - jekyll-sitemap
