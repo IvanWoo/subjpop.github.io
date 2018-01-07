@@ -28,3 +28,6 @@ $ bundle exec jekyll build
 ~~~bash
 $ bundle exec jekyll serve --watch --limit_posts 3
 ~~~
+
+## Credit
+[The Internet Archive BookReader](https://github.com/internetarchive/bookreader) was developed by [Richard Caceres](https://github.com/rchrd2).
