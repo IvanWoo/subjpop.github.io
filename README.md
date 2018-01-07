@@ -28,5 +28,5 @@ $ bundle exec jekyll serve --watch --limit_posts 3
 ~~~
 
 ## Credit
-- The Jekyll theme was modified based on [Treat](https://github.com/CloudCannon/treat-jekyll-template). 
+- The Jekyll theme was customized based on [Treat](https://github.com/CloudCannon/treat-jekyll-template). 
 - [The Internet Archive BookReader](https://github.com/internetarchive/bookreader) was developed by [Richard Caceres](https://github.com/rchrd2).
