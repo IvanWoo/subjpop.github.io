@@ -68,6 +68,11 @@ defaults:
       layout: "default-sakura"
   -
     scope:
+      path: "podcast-rss.md"
+    values:
+      layout: "podcast-rss"
+  -
+    scope:
       path: "2017-ranking.html"
     values:
       layout: "book-reader"
