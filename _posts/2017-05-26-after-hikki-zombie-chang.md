@@ -1,7 +1,7 @@
 ---
 date: 2017-05-26
 title: Vol. 26 宇多田光之后・ZOMBIE-CHANG
-dj: Mimida
+dj: mimida
 categories:
   - After Hikki 
 featured_image: /images/banners/26.jpg

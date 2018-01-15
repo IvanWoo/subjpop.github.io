@@ -1,7 +1,7 @@
 ---
 date: 2016-12-16
 title: Vol. 19-2 我们来听新唱片！！！
-dj: Mimida
+dj: mimida
 categories:
   - NEW releases
 featured_image: /images/banners/19-2.jpg

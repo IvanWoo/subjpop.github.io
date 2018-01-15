@@ -1,7 +1,7 @@
 ---
 date: 2017-02-08
 title: 特别放送・松野莉奈「できるかな？」
-dj: Mimida
+dj: mimida
 categories:
   - Special
 featured_image: /images/banners/special-1.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2017-09-22
 title: "Vol. 34 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 III"
-dj: Mimida
+dj: mimida
 categories:
   - J-Hip hop
 featured_image: /images/banners/34.jpg

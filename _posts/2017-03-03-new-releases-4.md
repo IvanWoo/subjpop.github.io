@@ -1,7 +1,7 @@
 ---
 date: 2017-03-03
 title: Vol. 22 我们来听新唱片！！！！
-dj: Mimida
+dj: mimida
 categories:
   - NEW releases
 featured_image: /images/banners/22.jpg

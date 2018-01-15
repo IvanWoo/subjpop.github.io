@@ -1,7 +1,7 @@
 ---
 date: 2017-09-01
 title: Vol. 33 我们来听新唱片......and no Hip Hop！！！！！！！
-dj: Mimida
+dj: mimida
 categories:
   - NEW releases
 featured_image: /images/banners/33.jpg

@@ -1,7 +1,7 @@
 ---
 date: 2017-06-09
 title: Vol. 27 我们来听新唱片！！！！！！
-dj: Mimida
+dj: mimida
 categories:
   - NEW releases
 featured_image: /images/banners/27.jpg

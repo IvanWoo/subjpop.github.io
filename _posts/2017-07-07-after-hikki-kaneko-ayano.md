@@ -1,7 +1,7 @@
 ---
 date: 2017-07-07
 title: Vol. 29 宇多田光之后・Kaneko Ayano
-dj: Mimida
+dj: mimida
 categories:
   - After Hikki 
 featured_image: /images/banners/29.jpg

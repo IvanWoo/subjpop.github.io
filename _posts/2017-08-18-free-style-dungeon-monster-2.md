@@ -1,7 +1,7 @@
 ---
 date: 2017-08-18
 title: "Vol. 32 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 II"
-dj: Mimida
+dj: mimida
 categories:
   - J-Hip hop
 featured_image: /images/banners/32.jpg

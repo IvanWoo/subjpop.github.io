@@ -1,7 +1,7 @@
 ---
 date: 2017-07-21
 title: "Vol. 30 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 I"
-dj: Mimida
+dj: mimida
 categories:
   - J-Hip hop
 featured_image: /images/banners/30.jpg

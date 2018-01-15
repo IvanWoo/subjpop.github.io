@@ -1,7 +1,7 @@
 ---
 date: 2017-12-01
 title: Vol. 37 下潜到偶像音乐的最深处：姫乃たま・Himeno Tama
-dj: Mimida
+dj: mimida
 categories:
   - NO MUSIC, NO IDOL
 featured_image: /images/banners/37.jpg

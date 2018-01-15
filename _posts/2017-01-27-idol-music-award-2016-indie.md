@@ -1,7 +1,7 @@
 ---
 date: 2017-01-27
 title: Vol. 21-1 偶像乐曲大奖2016・独立/地方偶像篇
-dj: Mimida
+dj: mimida
 categories:
   - NO MUSIC, NO IDOL
 featured_image: /images/banners/21-1.jpg

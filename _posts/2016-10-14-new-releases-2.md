@@ -1,7 +1,7 @@
 ---
 date: 2016-10-14
 title: Vol. 11 我们来听新唱片！！
-dj: Mimida
+dj: mimida
 categories:
   - NEW releases
 featured_image: /images/banners/11.jpg
