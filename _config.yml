@@ -77,7 +77,7 @@ defaults:
     values:
       layout: "book-reader"
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
