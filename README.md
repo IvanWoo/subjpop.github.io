@@ -26,6 +26,10 @@ $ bundle exec jekyll build
 ~~~bash
 $ bundle exec jekyll serve --watch --limit_posts 3
 ~~~
+- [Automatic refreshing supported by jekyll 3.7.0](https://jekyllrb.com/news/2018/01/02/jekyll-3-7-0-released/)
+~~~bash
+$ bundle exec jekyll serve --livereload
+~~~
 
 ## Credit
 - The Jekyll theme was customized based on [Treat](https://github.com/CloudCannon/treat-jekyll-template). 
