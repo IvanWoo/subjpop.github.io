@@ -34,7 +34,9 @@
       <itunes:summary><![CDATA[
       <p>播放列表</p>
       {{ post.playlist | markdownify }}
-      <p>歌词以及翻译</p>
+      <a href="{{ site.url }}{{ post.url }}">
+        <p>歌词以及翻译</p>
+      </a>
       <a href="{{ site.url }}{{ post.url }}">
         <img src="{{ site.url }}{{ post.featured_image}}">
       </a>
@@ -43,7 +45,9 @@
       <description><![CDATA[
       <p>播放列表</p>
       {{ post.playlist | markdownify }}
-      <p>歌词以及翻译</p>
+      <a href="{{ site.url }}{{ post.url }}">
+        <p>歌词以及翻译</p>
+      </a>
       <a href="{{ site.url }}{{ post.url }}">
         <img src="{{ site.url }}{{ post.featured_image}}">
       </a>
