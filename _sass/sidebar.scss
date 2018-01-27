@@ -68,6 +68,41 @@
 		padding-left: 15px;
 		padding-top: 23px;
 	}
+	.good-stuff {
+		h3 {
+			padding: 20px 0 1px 0;
+		}
+		blockquote {
+			font-style: italic;
+			line-height: 1.4em;
+			font-size: 13.5px;
+			margin: 0 0 0 1em;
+			padding: 0 1em;
+			color: #6a737d;
+			border-left: 0.25em solid #dfe2e5;
+		}
+		ul {
+			padding: 0;
+			li {
+				list-style: none !important;
+				border-bottom: 1px solid #cacaca;
+				/*margin-left: -3px;*/
+				padding: 0.5em 5px 0.5em 0;
+				&:hover {
+					border-bottom: 1px solid $theme-color;
+				}
+				a {
+					color: #000;
+					text-decoration: none;
+					&:hover {
+						border-bottom: 0;
+					}
+				}
+			}
+		}
+	}
+	
+
 }
 
 .sidebar.push {

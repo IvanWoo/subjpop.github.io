@@ -42,6 +42,21 @@
 		</div>
 	</a>
 
+
+	<div class="good-stuff">
+		<h3>
+			Good Stuff
+		</h3>
+		<blockquote>如果 SUBJPOP 的内容已经满足不了你的好奇心，可以试试这些。</blockquote>
+		<ul>
+			{% for website in site.data.curated_websites %}
+				<li>
+					<a href="{{ website.url }}"> {{ website.name }} </a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+
 	<!-- newsletter
 	<form action="{{ site.newsletter_action }}" method="post">
 		<h3>Newsletter</h3>
