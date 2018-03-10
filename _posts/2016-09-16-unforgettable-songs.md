@@ -501,8 +501,6 @@ How about you！？
 
 凯尔派水妖 尼斯湖水怪 我 和你也是吧……？
 
-———————————————————————————————————————
-
 ![img](http://ww3.sinaimg.cn/large/e17094f2gw1f7uzzr8ckkj20dw0dwn0w.jpg)
 
 ### old friend's song
