@@ -13,7 +13,7 @@
       {% endfor %}
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{ site.url }}/images/favicon.png"/>
+    <itunes:image href="{{ site.url }}/images/podcast-artwork.jpg"/>
     <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
     <description>{{ site.podcast.summary }}</description>
     <itunes:summary>{{ site.podcast.summary }}</itunes:summary>
