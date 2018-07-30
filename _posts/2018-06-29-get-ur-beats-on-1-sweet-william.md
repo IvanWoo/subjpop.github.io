@@ -315,7 +315,7 @@ Let me, let me
 
 *Track: Sweet William*
 
-歌词与翻译请移步[Vol. 39 The Man from Yosemiya・冲绳Rapper唾奇](https://subjpop.com/j-hip%20hop/2018/03/09/the-man-from-yosemiya/)
+歌词与翻译请移步[Vol. 39 The Man from Yosemiya・冲绳Rapper唾奇](https://subjpop.com/j-hip%20hop/2018/03/09/the-man-from-yosemiya/#唾奇sweet-williammade-my-day)
 
 ### Sweet William「Jet pilot (Awakening Freaks Remix) feat. NF Zessho」
 
