@@ -2,32 +2,46 @@
 title: Home
 ---
 <section class="posts">
-	{% for post in paginator.posts %}
-		<article class="post">
-			{% include post-heading.html post=post %}
-			<div class="image">
-				<img src="{{ post.featured_image }}" alt="{{ post.title }}">
-			</div>
+  <!-- post list -->
+  {% for post in paginator.posts %}
+    <article class="post">
+      {% include post-heading.html post=post %}
+      <div class="image">
+        <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+      </div>
 
-			{{ post.excerpt }}
-			<!-- {{ post.content | strip_html | truncatewords: 50 }} -->
+      {{ post.excerpt }}
+      <!-- {{ post.content | strip_html | truncatewords: 50 }} -->
 
-			<p><a class="button" href="{{ post.url }}">Read more</a></p>
-			<hr>
-		</article>
-	{% endfor %}
+      <p><a class="button" href="{{ post.url }}">Read more</a></p>
+      <hr>
+    </article>
+  {% endfor %}
+  
+  <!-- pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination"> 
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">❮ Prev</a>
+    {% else %}
+      <span>❮ Prev</span>
+    {% endif %}
 
-	{% if paginator.total_pages > 1 %}
-		<div class="pagination">
-			{% if paginator.previous_page %}
-				<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">❮ Newer</a>
-			{% endif %}
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="webjeda">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="/">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
 
-			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-			{% if paginator.next_page %}
-				<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older ❯</a>
-			{% endif %}
-		</div>
-	{% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next ❯</a>
+    {% else %}
+      <span>Next ❯</span>
+    {% endif %}
+  </div>
+  {% endif %}
 </section>

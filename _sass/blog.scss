@@ -244,16 +244,21 @@
 
 .pagination {
 	text-align: center;
-	margin: 50px 0 0 0;
 	a {
-		color: #000;
+		color: $theme-color;
 		text-decoration: none;
-		&:link {
-			border-bottom: 1px dotted $light-grey;
-		}
 		&:hover {
-			border-bottom: 1px solid $theme-color;
+			background-color: #f1f1f1;
+			color: #333;
 		}
+	}
+	a, span {
+		padding: 7px 18px;
+		border: 1px solid #eee;
+		margin-left: -2px;
+		margin-right: -2px;
+		background-color: #ffffff;
+		display: inline-block;
 	}
 }
 
