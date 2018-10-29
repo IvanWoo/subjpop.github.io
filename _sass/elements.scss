@@ -93,3 +93,15 @@ a {
 	text-decoration: none;
 	color: black;
 }
+
+.posts .latest h1::before {
+	content: "新";
+	font-weight: normal;
+	color: black;
+	width: 1em;
+	height: 1.3em;
+	margin-right: 0.05em;
+	padding: 0.05em 0.28em;
+	background: $theme-color;
+	border-radius: 100%;
+}
