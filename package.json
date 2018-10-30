@@ -1,0 +1,33 @@
+{
+  "name": "subjpop.github.io",
+  "version": "1.0.0",
+  "description": "## How-to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch --mode development --output ./js/main.js",
+    "dev": "webpack --mode development --output ./js/main.js",
+    "build": "webpack --mode production --output ./js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanWoo/subjpop.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanWoo/subjpop.github.io/issues"
+  },
+  "homepage": "https://github.com/IvanWoo/subjpop.github.io#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "chaffle": "^2.0.0"
+  }
+}

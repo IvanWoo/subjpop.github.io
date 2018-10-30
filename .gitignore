@@ -1,4 +1,10 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+
+# IDE
 .vscode/
+
+# npm
+node_modules/
+dist/

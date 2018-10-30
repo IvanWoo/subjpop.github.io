@@ -88,6 +88,11 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - package-lock.json
+  - package.json
+  - webpack.config.js
+  - src
+  - node_modules
 
 # Misc
 licence: CC-BY-CA

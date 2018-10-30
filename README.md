@@ -6,17 +6,20 @@ Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
 $ bundle install
+$ npm install
 ~~~
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
 ~~~bash
+$ npm run start
 $ bundle exec jekyll serve
 ~~~
 
 [Before you upload the generated files to the server](https://stackoverflow.com/questions/41511696/jekyll-build-is-putting-localhost-links-in-site-production-files/41512277):
 
 ~~~bash
+$ npm run build
 $ bundle exec jekyll build
 ~~~
 
