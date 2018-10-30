@@ -5,8 +5,8 @@
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
-$ bundle install
 $ npm install
+$ bundle install
 ~~~
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
