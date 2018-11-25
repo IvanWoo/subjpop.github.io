@@ -28,6 +28,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "chaffle": "^2.0.0"
+    "chaffle": "^2.0.0",
+    "lazysizes": "^4.1.4"
   }
 }

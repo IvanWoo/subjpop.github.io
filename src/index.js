@@ -1,4 +1,5 @@
 import Chaffle from "chaffle";
+import lazySizes from "lazysizes";
 
 document.addEventListener('DOMContentLoaded', function () {
   openInNewTab();
