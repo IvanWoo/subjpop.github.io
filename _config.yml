@@ -80,6 +80,11 @@ defaults:
       path: "2017-ranking.html"
     values:
       layout: "book-reader"
+  -
+    scope:
+      path: "2018-ranking.html"
+    values:
+      layout: "book-reader"
 
 plugins:
   - jekyll-sitemap
