@@ -83,7 +83,10 @@
 	}
 
 	.apple-music {
-		@extend .good-stuff
+		@extend .good-stuff;
+		.shadow-box {
+			border-radius: 10px;
+		}
 	}
 	
 	.good-stuff {
