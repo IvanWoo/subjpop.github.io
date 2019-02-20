@@ -2,7 +2,7 @@
   "name": "subjpop.github.io",
   "version": "1.0.0",
   "description": "## How-to use",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack --watch --mode development --output ./js/main.js",
