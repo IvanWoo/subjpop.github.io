@@ -72,6 +72,11 @@ defaults:
       layout: "default-sakura"
   -
     scope:
+      path: "stats.html"
+    values:
+      layout: "default"
+  -
+    scope:
       path: "podcast-rss.md"
     values:
       layout: "podcast-rss"
