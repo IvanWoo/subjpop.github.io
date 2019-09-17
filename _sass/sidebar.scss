@@ -11,10 +11,12 @@
 
 	.author {
 		text-align: center;
+
 		p {
 			padding: 0;
 			margin: 0;
 		}
+
 		img {
 			width: 200px;
 			border-radius: 200px;
@@ -31,6 +33,7 @@
 		display: flex;
 		justify-content: center;
 		margin: 10px 0 0 0;
+
 		a {
 			padding: 3px;
 			text-decoration: none;
@@ -54,7 +57,7 @@
 		color: #000;
 		margin-top: 20px;
 	}
-	
+
 	.ranking_2018 {
 		background: url('../images/ranking-banners/2018-ranking-banner.png');
 		// background: url('../images/ranking-banners/2017-banner.png');
@@ -75,25 +78,34 @@
 	}
 
 	.side_feature_bg {
-		font-size: 20px; 
+		font-size: 20px;
 		font-weight: bold;
 		// letter-spacing: 5px;
 		padding-left: 15px;
 		padding-top: 23px;
 	}
 
+
 	.apple-music {
-		@extend .good-stuff;
+		.shadow-box {
+			border-radius: 10px;
+		}
+
+		margin-bottom: 10px;
+	}
+
+	.spotify-playlist {
 		.shadow-box {
 			border-radius: 10px;
 		}
 	}
-	
+
 	.good-stuff {
 		h3 {
 			// padding: 20px 0 1px 0;
 			margin-top: 20px;
 		}
+
 		blockquote {
 			// font-style: italic;
 			line-height: 1.4em;
@@ -103,19 +115,24 @@
 			color: #6a737d;
 			border-left: 0.25em solid #dfe2e5;
 		}
+
 		ul {
 			padding: 0;
+
 			li {
 				list-style: none !important;
 				border-bottom: 1px solid #cacaca;
 				/*margin-left: -3px;*/
 				padding: 0.5em 5px 0.5em 0;
+
 				&:hover {
 					border-bottom: 1px solid $theme-color;
 				}
+
 				a {
 					color: #000;
 					text-decoration: none;
+
 					&:hover {
 						border-bottom: 0;
 					}
@@ -123,7 +140,7 @@
 			}
 		}
 	}
-	
+
 
 }
 

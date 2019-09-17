@@ -1,24 +1,27 @@
 <aside class="sidebar">
 	<div class="author">
-	{% if page.dj %}
+		{% if page.dj %}
 		<p>
 			<a href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">
-				<img src="{{ site.baseurl }}{{ site.data.djs[page.dj].image }}" alt="{{ site.data.djs[page.dj].name}}" class="author">
+				<img src="{{ site.baseurl }}{{ site.data.djs[page.dj].image }}" alt="{{ site.data.djs[page.dj].name}}"
+					class="author">
 			</a>
 		</p>
 		<p>{{ site.data.djs[page.dj].name | markdownify }}</p>
 		<p>{{ site.data.djs[page.dj].description | markdownify }}</p>
 
-	<div class="social-icons">
-		{% if site.data.djs[page.dj].twitter %}
-			<a target="_blank" href="https://twitter.com/{{ site.data.djs[page.dj].twitter }}">{% include social-icon.html icon="Twitter" %}</a>
-		{% endif %}
-		{% if site.data.djs[page.dj].weibo %}
-			<a target="_blank" href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">{% include social-icon.html icon="Weibo" %}</a>
-		{% endif %}
+		<div class="social-icons">
+			{% if site.data.djs[page.dj].twitter %}
+			<a target="_blank"
+				href="https://twitter.com/{{ site.data.djs[page.dj].twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+			{% endif %}
+			{% if site.data.djs[page.dj].weibo %}
+			<a target="_blank"
+				href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">{% include social-icon.html icon="Weibo" %}</a>
+			{% endif %}
 		</div>
 
-	{% else %}
+		{% else %}
 		<p>
 			<a href="http://weibo.com/{{ site.data.sidebar.weibo }}">
 				<img src="{{ site.baseurl }}{{ site.data.sidebar.image }}" alt="{{ site.data.sidebar.name}}" class="author">
@@ -27,20 +30,30 @@
 		<p>{{ site.data.sidebar.description | markdownify }}</p>
 
 		<div class="social-icons">
-			<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
-			<a target="_blank" href="http://weibo.com/{{ site.data.sidebar.weibo }}">{% include social-icon.html icon="Weibo" %}</a>
+			<a target="_blank"
+				href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>
+			<a target="_blank"
+				href="http://weibo.com/{{ site.data.sidebar.weibo }}">{% include social-icon.html icon="Weibo" %}</a>
 			<a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
 			<a target="_blank" href="{{ site.baseurl }}/podcast.xml">{% include social-icon.html icon="Podcast" %}</a>
 		</div>
-	{% endif %}
+		{% endif %}
 	</div>
 
-	<a href="{{ site.baseurl }}/2017-ranking/">
-		<div class="side_feature ranking_2017 shadow-box">
-			<div class="side_feature_bg">最佳日音唱片
-				<br/>年度总选・2017</div>
+	<div class="playlist">
+		<h3>SUBJPICK・2019</h3>
+		<div class="apple-music">
+			<iframe class="shadow-box" allow="autoplay *; encrypted-media *;" frameborder="0" height="350"
+				style="width:100%;max-width:300px;overflow:hidden;background:transparent;"
+				sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+				src="https://embed.music.apple.com/jp/playlist/subjpick/pl.u-Zmblzgrs99mj7W"></iframe>
 		</div>
-	</a>
+
+		<div class="spotify-playlist">
+			<iframe class="shadow-box" src="https://open.spotify.com/embed/playlist/3iTcj8JElzAeLjuX9LQ8E6" width="100%"
+				style="max-width:300px;" height="350" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+		</div>
+	</div>
 
 	<a href="{{ site.baseurl }}/2018-ranking/">
 		<div class="side_feature ranking_2018 shadow-box">
@@ -49,12 +62,12 @@
 		</div>
 	</a>
 
-	<div class="apple-music">
-		<h3>SUBJPICK・2019</h3>
-		<iframe class="shadow-box" allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
-		sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
-		src="https://embed.music.apple.com/ca/playlist/subjpick-j-pop-2019/pl.u-Zmblzgrs99mj7W?app=music"></iframe>
-	</div>
+	<a href="{{ site.baseurl }}/2017-ranking/">
+		<div class="side_feature ranking_2017 shadow-box">
+			<div class="side_feature_bg">最佳日音唱片
+				<br />年度总选・2017</div>
+		</div>
+	</a>
 
 	<div class="good-stuff">
 		<h3>
@@ -63,9 +76,9 @@
 		<blockquote>如果 SUBJPOP 的内容已经满足不了你的好奇心，可以试试这些。</blockquote>
 		<ul>
 			{% for website in site.data.curated_websites %}
-				<li>
-					<a href="{{ website.url }}"> {{ website.name }} </a>
-				</li>
+			<li>
+				<a href="{{ website.url }}"> {{ website.name }} </a>
+			</li>
 			{% endfor %}
 		</ul>
 	</div>
