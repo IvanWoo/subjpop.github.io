@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: The homepage of SUBJPOP, a podcast of semi-alternative Japanese pop music bi(?)weekly
+description: SUBJPOP - exploring, introducing and promoting the latest semi-alternative Japanese popular music and related live performances
 author:
   name: Yifan
   email: subjpop@gmail.com
