@@ -21,6 +21,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
+          npm install
           npm run build
           gem install bundler
           bundle install
@@ -35,7 +36,7 @@ jobs:
 
       - name: Copy Site to Host Repo
         run: |
-          cp -r _site/ host-repo/
+          cp -R _site/ host-repo
 
       - name: Commit Changes and Push
         run: |
