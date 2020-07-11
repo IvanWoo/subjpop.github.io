@@ -1,0 +1,47 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      
+      - name: Setup Ruby 💎
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+
+      - name: Install and Build 🔧
+        run: |
+          npm run build
+          gem install bundler
+          bundle install
+          bundle exec jekyll build
+
+      - name: Checkout Host Repo
+        uses: actions/checkout@v2
+        with:
+          repository: subjpop/subjpop.github.io
+          token: ${{ secrets.GH_PAT }}
+          path: host-repo
+
+      - name: Copy Site to Host Repo
+        run: |
+          cp -r _site/ host-repo/
+
+      - name: Commit Changes and Push
+        run: |
+          cd host-repo
+          git add .
+          git config --local user.email "tyivanwu@gmail.com"
+          git config --local user.name "Yifan Wu"
+          git commit -m "🎊 subjpop.com updated!" -a
+          git push
