@@ -36,7 +36,7 @@ jobs:
 
       - name: Copy Site to Host Repo
         run: |
-          cp -R _site/ host-repo
+          cp -R _site/. host-repo
 
       - name: Commit Changes and Push
         run: |
