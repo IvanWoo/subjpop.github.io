@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "chaffle": "^2.1.0",
-    "lazysizes": "^4.1.8"
+    "lazysizes": "^5.2.1"
   }
 }
