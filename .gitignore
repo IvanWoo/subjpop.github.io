@@ -9,3 +9,4 @@ _site/
 # npm
 node_modules/
 dist/
+js/main.js
