@@ -32,22 +32,32 @@
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary><![CDATA[
-      <p>播放列表</p>
-      {{ post.playlist | markdownify }}
-      <a href="{{ site.url }}{{ post.url }}">
-        <p>歌词以及翻译</p>
-      </a>
+      {% if post.playlist %}
+        <p>播放列表</p>
+        {{ post.playlist | markdownify }}
+        <a href="{{ site.url }}{{ post.url }}">
+          <p>歌词以及翻译</p>
+        </a>
+      {% endif %}
+      {% if post.highlights %}
+        {{ post.content }}
+      {% endif %}
       <a href="{{ site.url }}{{ post.url }}">
         <img src="{{ site.url }}{{ post.featured_image}}">
       </a>
       <p>主播</p>
       <ul> <li>{{ site.data.djs[post.dj].name }} </li> </ul>]]></itunes:summary>
       <description><![CDATA[
-      <p>播放列表</p>
-      {{ post.playlist | markdownify }}
-      <a href="{{ site.url }}{{ post.url }}">
-        <p>歌词以及翻译</p>
-      </a>
+      {% if post.playlist %}
+        <p>播放列表</p>
+        {{ post.playlist | markdownify }}
+        <a href="{{ site.url }}{{ post.url }}">
+          <p>歌词以及翻译</p>
+        </a>
+      {% endif %}
+      {% if post.highlights %}
+        {{ post.content }}
+      {% endif %}
       <a href="{{ site.url }}{{ post.url }}">
         <img src="{{ site.url }}{{ post.featured_image}}">
       </a>

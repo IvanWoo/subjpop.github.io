@@ -14,17 +14,26 @@ layout: default
 		<audio class="audioPlayer" controls preload="metadata" src="{{ site.data.stream_yaml[page.stream_url].url }}"></audio>
 	</div>
 	<hr>
-	{% if page.playlist %}
+	{% if page.albums or page.playlist or page.highlights %}
 		<div class="show-notes">
-			<div class="albums">
-				<h2>唱片购买链接</h2>
-				{{ page.albums | markdownify }}
-			</div>
-
-			<div class="playlist">
-				<h2>Playlist</h2>
-				{{ page.playlist | markdownify }}
-			</div>
+			{% if page.albums %}
+				<div class="albums">
+					<h2>唱片购买链接</h2>
+					{{ page.albums | markdownify }}
+				</div>
+			{% endif %}
+			{% if page.playlist %}
+				<div class="playlist">
+					<h2>Playlist</h2>
+					{{ page.playlist | markdownify }}
+				</div>
+			{% endif %}
+			{% if page.highlights %}
+				<div class="highlights">
+					<h2>部分要点</h2>
+					{{ page.highlights | markdownify }}
+				</div>
+			{% endif %}
 		</div>
 	{% endif %}
 	<hr>
