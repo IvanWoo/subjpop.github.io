@@ -21,14 +21,14 @@
   },
   "homepage": "https://github.com/IvanWoo/subjpop.github.io#readme",
   "devDependencies": {
-    "@babel/core": "^7.12.16",
-    "@babel/preset-env": "^7.12.16",
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
     "babel-loader": "^8.2.2",
     "webpack": "^4.46.0",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "chaffle": "^2.1.0",
-    "lazysizes": "^5.2.1-rc1"
+    "lazysizes": "^5.3.2"
   }
 }
