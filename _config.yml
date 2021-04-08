@@ -171,6 +171,10 @@ podcast:
   title: SUBJPOP
   art: /images/favicon.png
   category: Music
+  subcategories:
+    - Music Commentary
+    - Music Interviews
+    - Music History
   subtitle: SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
   summary: >
     SUBJPOP is a podcast of semi-alternative Japanese pop music bi(?)weekly.
