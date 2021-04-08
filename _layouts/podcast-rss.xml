@@ -63,7 +63,8 @@
       </a>
       <p>主播</p>
       <ul> <li>{{ site.data.djs[post.dj].name }} </li> </ul>]]></description>
-      <guid isPermaLink="true">{{ post.stream_url }}</guid>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+      <link>{{ site.url }}{{ post.url }}</link>
       <category>{{ site.podcast.category }}</category>
       <enclosure length="{{ site.data.stream_yaml[post.stream_url].duration }}" url="{{ site.data.stream_yaml[post.stream_url].url }}" type="audio/mpeg"/>
     </item>
