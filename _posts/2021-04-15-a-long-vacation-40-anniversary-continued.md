@@ -5,7 +5,7 @@ dj: mimida
 categories:
   - S02
 featured_image: /images/banners/s2/2.jpg
-stream_url: https://www.lizhi.fm/1913563/5172903732186373126
+stream_url: https://www.lizhi.fm/1913563/5173257961761595398
 highlights: |-
   - 01:40 《长假》里我最喜欢的一首歌之耳田篇
   - 10:26 《长假》里我最喜欢的一首歌之红房篇
@@ -60,7 +60,7 @@ S02E02 大泷咏一《长假》研讨会・续摊
 - 06:17 大滝詠一 - 君は天然色 (1981)
 - 09:24 山下達郎 - 君は天然色 (Live) (2019)
 - 10:39 大滝詠一 - カナリア諸島にて (1981)
-- 12:02 Mina - Un Buco Nella S\*\*\*\*\*\*(1964)
+- 12:02 Mina - Un Buco Nella Sabbia(1964)
 - 13:03 弘田三枝子 - 砂に消えた涙 (1964)
 - 15:12 百瀬まなみ - カナリア諸島にて (1982)
 - 18:44 大滝詠一 - Pap-Pi-Doo-Bi-Doo-Ba 物語 (1981)
