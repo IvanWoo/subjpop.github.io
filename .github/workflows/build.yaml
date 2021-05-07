@@ -36,13 +36,13 @@ jobs:
 
       - name: Copy Site to Host Repo
         run: |
-          cp -R _site/. host-repo
+          rsync -avz --delete --exclude=/.git _site/. host-repo
 
       - name: Commit Changes and Push
         run: |
           cd host-repo
-          git add .
           git config --local user.email "tyivanwu@gmail.com"
           git config --local user.name "Yifan Wu"
-          git commit -m "🎊 subjpop.com updated!" -a
+          git add -A
+          git commit -m "🎊 subjpop.com updated at $(date +%Y-%m-%dT%H:%M:%S)!"
           git push
