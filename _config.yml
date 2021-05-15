@@ -107,7 +107,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      push_sidebar_down: true
       print_stylesheet: false
       comments: true
   -
@@ -120,12 +119,12 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-      push_sidebar_down: true
   -
     scope:
       path: "about.html"
     values:
-      layout: "default-sakura"
+      layout: "default"
+      load_sakura: true
   -
     scope:
       path: "stats.html"
