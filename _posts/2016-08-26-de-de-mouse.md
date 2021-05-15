@@ -26,7 +26,7 @@ albums: |-
   * [「+1」](https://itunes.apple.com/jp/album/+1-tong-chang-pan/id285198465)
 
 ---
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww4.sinaimg.cn/crop.0.103.1777.998.1000.562/e17094f2gw1f776xhdpxij21dd0wx78d.jpg-->
 
 

@@ -28,7 +28,7 @@ albums: |-
   * 本期所有曲目正版付费下载均可在 Apple Music 或 amazon.co.jp 上找到。
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://wx1.sinaimg.cn/crop.0.72.889.500.1000/e17094f2gy1fcct9vsk5rj20oq0goatf.jpg-->
 
 ## 歌词

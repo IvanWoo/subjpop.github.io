@@ -28,7 +28,7 @@ albums: |-
   * [「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」](http://ototoy.jp/_/default/a/114504)
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww2.sinaimg.cn/crop.0.621.1498.841.1000/e17094f2gw1f8rcu7azi3j215m18l1kx.jpg-->
 
 ## 歌词

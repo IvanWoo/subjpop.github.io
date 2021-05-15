@@ -24,7 +24,7 @@ albums: |-
   * [「LUNATIQUE」](http://t.cn/Rtpr4nu)
 
 ---
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww1.sinaimg.cn/crop.0.223.1200.674.1000.562/e17094f2gw1f6qydwy6uzj20xc0p0wgv.jpg-->
 
 ## 歌词

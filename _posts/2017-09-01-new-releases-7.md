@@ -33,7 +33,7 @@ albums: |-
 
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 ![『NOW that's what I call SUBJPOP, Vol.7』](https://wx2.sinaimg.cn/large/e17094f2gy1fj3lb9hm1nj20dw0dwtcy.jpg)
 

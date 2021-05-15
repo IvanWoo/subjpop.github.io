@@ -25,7 +25,7 @@ albums: |-
 
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 ![PUNPEE, the Snoopy](http://cdnimg103.lizhi.fm/audio_cover/2018/01/26/2649307876292035591_640x640.jpg)
 

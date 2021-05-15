@@ -13,14 +13,14 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
 ~~~bash
 $ npm run start
-$ bundle exec jekyll serve
+$ rake dev
 ~~~
 
 [Before you upload the generated files to the server](https://stackoverflow.com/questions/41511696/jekyll-build-is-putting-localhost-links-in-site-production-files/41512277):
 
 ~~~bash
 $ npm run build
-$ bundle exec jekyll build
+$ rake build
 ~~~
 
 ## Tips

@@ -25,7 +25,7 @@ albums: |-
   * [「Cry&Fight」](http://ototoy.jp/_/default/p/60892)
 
 ---
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://wx3.sinaimg.cn/crop.0.124.900.505.1000/e17094f2gy1femocp6fspj20p00p0tdi.jpg-->
 
 ## 歌词

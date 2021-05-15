@@ -31,7 +31,7 @@ albums: |-
 ---
 本期歌词原文及正确性保持在98.5%左右的中文翻译
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 <!--featured_image: http://wx4.sinaimg.cn/crop.0.0.1200.674.1000/e17094f2gy1fe5lq0e4prj20xc0m8wit.jpg-->
 

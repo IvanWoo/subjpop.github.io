@@ -30,7 +30,7 @@ albums: |-
 
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 
 ![FREESTYLE MONSTERS by Dmen Watanabe](https://wx4.sinaimg.cn/large/e17094f2gy1fjfxn1ztktj20x30x3qq6.jpg)

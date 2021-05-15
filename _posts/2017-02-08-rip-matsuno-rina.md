@@ -12,7 +12,7 @@ stream_url: https://www.lizhi.fm/1913563/2584126703015995398
 
 前两天节目里我们还说，有机会要和大家一起来听听「エビ中のユニットアルバム2015盤」里小波的 solo，没想到先听的竟然会是同一张盘里莉奈的歌。「总有一天，能组建一个美好的家庭吧？总有一天，能够洒脱地告别吧？」人已不在也没什么好说了，就希望大家都能抓紧时间、快快乐乐的吧。
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 <!--featured_image: https://i.ytimg.com/vi/p-FYXT1OU0M/maxresdefault.jpg-->
 

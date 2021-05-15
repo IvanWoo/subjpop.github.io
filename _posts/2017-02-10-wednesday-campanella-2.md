@@ -27,7 +27,7 @@ albums: |-
   * [「SUPERMAN」](http://ototoy.jp/_/default/p/70617)
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://wx2.sinaimg.cn/crop.0.0.1688.949.1000/e17094f2gy1fckz4z4z3pj21kw0qdqv5.jpg-->
 
 

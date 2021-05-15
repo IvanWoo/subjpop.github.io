@@ -28,7 +28,7 @@ albums: |-
   * [「UMA」](http://ototoy.jp/_/default/a/85357)
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww3.sinaimg.cn/crop.0.0.1919.1079.1000.562/e17094f2gw1f6z4tr0c6wj21hc0u04qp.jpg-->
 
 ## 歌词

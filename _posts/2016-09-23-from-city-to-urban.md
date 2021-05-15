@@ -28,7 +28,7 @@ albums: |-
   * [「CIGARETTE & ALCOHOL」](http://ototoy.jp/_/default/p/63842)
 
 ---
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww2.sinaimg.cn/crop.0.6.1080.606.1000.562/e17094f2gw1f83lk9imvmj20u00q6q8o.jpg-->
 
 ## 歌词

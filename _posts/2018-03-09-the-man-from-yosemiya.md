@@ -32,7 +32,7 @@ albums: |-
 
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 
 ![img](https://wx3.sinaimg.cn/large/0070Kgsgly1fozkeos8qaj31jk1jk1ky.jpg)
 

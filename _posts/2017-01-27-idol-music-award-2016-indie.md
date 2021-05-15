@@ -39,7 +39,7 @@ albums: |-
   * [secret track/中场隐藏曲目](https://www.weibo.com/subjpop/)
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://wx3.sinaimg.cn/crop.0.79.889.500.1000/e17094f2gy1fc4a9fz1qxj20oq0go4qp.jpg-->
 
 ## 歌词

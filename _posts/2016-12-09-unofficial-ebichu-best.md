@@ -27,7 +27,7 @@ albums: |-
   * 相关唱片 amazon.co.jp 或者 Apple Music 日本店应该都有。
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww4.sinaimg.cn/crop.8.0.2010.1130.1000/e17094f2gw1fak2trfo8ij21kw0vegzt.jpg-->
 
 ## 歌词

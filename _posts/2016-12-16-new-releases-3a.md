@@ -32,7 +32,7 @@ albums: |-
   * [「街の報せ」](http://ototoy.jp/_/default/p/68361)
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg-->
 
 ## 歌词

@@ -27,7 +27,7 @@ albums: |-
 
 ---
 
-<!-- {% sc_player https://soundcloud.com/waek/daze-ft-girl-is-tough-new-york %} -->
+<!-- hide excerpt -->
 <!--http://ww2.sinaimg.cn/crop.0.92.1000.562.1000.562/e17094f2gw1f8js2w9puaj20rs0rfn3k.jpg-->
 
 ## 歌词

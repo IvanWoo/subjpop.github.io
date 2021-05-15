@@ -20,18 +20,6 @@ social:
   name:
   links:
 
-# Values for the sc_player gem (https://github.com/itsbrnrd/jekyll_sc_player/blob/master/sc_player.rb)
-sc_player:
-  auto_play: false
-  buying: false
-  liking: true
-  download: true
-  sharing: true
-  show_artwork: true
-  show_comments: true
-  show_playcount: true
-  show_user: true
-  start_track: 0
 
 # Values for the Jekyll Lazy Load Image gem (https://github.com/kenchan0130/jekyll-lazy-load-image#_configyml)
 lazy_load_image:
@@ -156,12 +144,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENSE
   - package-lock.json
   - package.json
   - webpack.config.js
   - src
   - node_modules
+  - scripts
+  - rakefile.rb
 
 # Misc
 licence: CC-BY-CA
