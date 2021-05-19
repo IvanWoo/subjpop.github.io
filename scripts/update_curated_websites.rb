@@ -13,10 +13,7 @@ def input
   # Yaml Cookbook: http://yaml.org/YAML_for_ruby.html
   entries = []
   data.each do |datum|
-    h = {}
-    h['name'] = datum[0]
-    h['url'] = datum[1]
-    entries << h
+    entries.push({ 'name' => datum[0], 'url' => datum[1] })
   end
   entries
 end
