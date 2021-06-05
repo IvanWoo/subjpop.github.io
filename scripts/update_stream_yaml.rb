@@ -44,8 +44,6 @@ end
 class Ximalaya
   def initialize(album_id)
     @album_id = album_id
-    @server_time = server_time
-    @now = now
     @xm_sign = xm_sign
   end
 
@@ -81,8 +79,9 @@ class Ximalaya
 
   def xm_sign
     # https://blog.csdn.net/BigBoy_Coder/article/details/103406332
-    md5_hash = Digest::MD5.hexdigest("himalaya-#{@server_time}")
-    "#{md5_hash}(#{random_num})#{@server_time}(#{random_num})#{@now}"
+    cached_server_time = server_time
+    md5_hash = Digest::MD5.hexdigest("himalaya-#{cached_server_time}")
+    "#{md5_hash}(#{random_num})#{cached_server_time}(#{random_num})#{now}"
   end
 
   def audio_src(audio_id)

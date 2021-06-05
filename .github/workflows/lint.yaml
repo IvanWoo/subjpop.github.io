@@ -29,4 +29,4 @@ jobs:
 
       - name: Lint
         run: |
-          bundle exec rubocop
+          bundle exec rubocop --enable-pending-cops
