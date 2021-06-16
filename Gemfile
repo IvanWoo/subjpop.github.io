@@ -17,4 +17,6 @@ group :development do
   gem 'httparty', '~> 0.18.1'
   gem 'rubocop', '~> 1.14'
   gem 'solargraph'
+  gem 'ruby-debug-ide'
+  gem 'debase'
 end
