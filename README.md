@@ -4,36 +4,42 @@
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ npm install
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ npm run start
 $ rake dev
-~~~
+```
 
 [Before you upload the generated files to the server](https://stackoverflow.com/questions/41511696/jekyll-build-is-putting-localhost-links-in-site-production-files/41512277):
 
-~~~bash
+```bash
 $ npm run build
 $ rake build
-~~~
+```
+
+Auto format
+
+```bash
+$ bundle exec rubocop --enable-pending-cops -a
+```
 
 ## Tips
 - [Bundler's Purpose and Rationale](http://bundler.io/rationale.html)
 - [Jekyll flags](https://jekyllrb.com/docs/usage/)
 - [Speed up Jekyll site regeneration](http://www.marcusoft.net/2015/11/speed-up-jekyll-site-regeneration.html)
-~~~bash
+```bash
 $ bundle exec jekyll serve --livereload --limit_posts 1
-~~~
+```
 - [Automatic refreshing supported by jekyll 3.7.0](https://jekyllrb.com/news/2018/01/02/jekyll-3-7-0-released/)
-~~~bash
+```bash
 $ bundle exec jekyll serve --livereload
-~~~
+```
 
 ## Credit
 - The Jekyll theme was customized based on [Treat](https://github.com/CloudCannon/treat-jekyll-template). 
