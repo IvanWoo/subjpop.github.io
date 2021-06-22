@@ -9,6 +9,19 @@
             "type": "Ruby",
             "request": "launch",
             "program": "${workspaceFolder}/${relativeFile}"
+        },
+        {
+            "name": "Debug current file with rdbg",
+            "type": "rdbg",
+            "request": "launch",
+            "script": "${file}",
+            "args": [],
+            "askParameters": true,
+        },
+        {
+            "type": "rdbg",
+            "name": "Attach with rdbg",
+            "request": "attach"
         }
     ]
 }
