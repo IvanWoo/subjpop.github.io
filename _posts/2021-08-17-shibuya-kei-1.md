@@ -22,6 +22,27 @@ highlights: |-
   - 39:16 从英国Club Jazz到桥本彻「Free Soul」系列
   - 53:35 采样大普及 a.k.a. 涩谷系作为朋克
   - 59:30 在日的Beyond为何与涩谷系没交集？
+include_tracks: |-
+  - 00:00 Cornelius - 太陽は僕の敵 (1993)
+  - 08:32 Kahimi karie - Mike Alway's Dairy (1992)
+  - 21:54 加地秀基 - La Boum - My Boom Is Me (1997)
+  - 28:13 Cornelius - Smoke (2001)
+  - 44:16 Art Blakey & IDJ Dancers  - UK Jazzdance 1986
+  - 46:36 John Thomas & Lifeforce - Like a Samba (1980)
+  - 48:13 Alaide Costa- Catavento (1976)
+  - 51:01 Jackson Sisters - I Believe In Miracles (1976)
+  - 54:20 Primal Scream - Come Together (Terry Farley Extended 12” Mix) (1990)
+  - 56:22 Elvis Presley - Suspicious Minds (1969)
+  - 57:01 岡村靖幸 - 家庭教師 (1990)
+  - 57:44 Prince - Rebirth Of The Flesh (1986)
+  - 60:44 Beyond - 遥かなる夢に ~ Far Away~ (1993)
+  - 61:52 爆風スランプ - 月光 (1989)
+  - 63:01 United Future Organization - Loud Minority (Radio Mix) (1992)
+  - 64:41 Frank foster - The Loud Minority (1972)
+  - 65:32 Mongo Santamaria - Dirty Willie (1976)
+  - 65:51 Art Blakey & The Jazz Messengers - A Night in Tunisia (1961)
+  - 66:17 Michel Legrand - La Pasionaria (1979)
+  - 71:26 彭羚 - 回味 (1996)
 ---
 
 S02E06 内什么之前让我们再听一回涩谷系（上）
@@ -51,26 +72,7 @@ S02E06 内什么之前让我们再听一回涩谷系（上）
 
 ## 收录歌曲：
 
-- 00:00 Cornelius - 太陽は僕の敵 (1993)
-- 08:32 Kahimi karie - Mike Alway's Dairy (1992)
-- 21:54 加地秀基 - La Boum - My Boom Is Me (1997)
-- 28:13 Cornelius - Smoke (2001)
-- 44:16 Art Blakey & IDJ Dancers  - UK Jazzdance 1986
-- 46:36 John Thomas & Lifeforce - Like a Samba (1980)
-- 48:13 Alaide Costa- Catavento (1976)
-- 51:01 Jackson Sisters - I Believe In Miracles (1976)
-- 54:20 Primal Scream - Come Together (Terry Farley Extended 12” Mix) (1990)
-- 56:22 Elvis Presley - Suspicious Minds (1969)
-- 57:01 岡村靖幸 - 家庭教師 (1990)
-- 57:44 Prince - Rebirth Of The Flesh (1986)
-- 60:44 Beyond - 遥かなる夢に ~ Far Away~ (1993)
-- 61:52 爆風スランプ - 月光 (1989)
-- 63:01 United Future Organization - Loud Minority (Radio Mix) (1992)
-- 64:41 Frank foster - The Loud Minority (1972)
-- 65:32 Mongo Santamaria - Dirty Willie (1976)
-- 65:51 Art Blakey & The Jazz Messengers - A Night in Tunisia (1961)
-- 66:17 Michel Legrand - La Pasionaria (1979)
-- 71:26 彭羚 - 回味 (1996)
+{{ page.include_tracks }}
 
 {% include s2-footer.md %}
 
