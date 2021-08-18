@@ -76,10 +76,6 @@ S02E06 内什么之前让我们再听一回涩谷系（上）
 - 66:17 Michel Legrand - La Pasionaria (1979)
 - 71:26 彭羚 - 回味 (1996)
 
-请在各流媒体平台搜索“SUBJPOD”收听本期节目配套歌单。
-
-想来跟我们聊聊？想听我们聊哪个话题？
-
-欢迎在下面留言或发邮件到subjpop@gmail.com告诉我们〜
+{% include s2-footer.md %}
 
 本期图标制作：您好

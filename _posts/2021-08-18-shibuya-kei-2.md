@@ -80,11 +80,7 @@ S02E07 内什么之前让我们再听一回涩谷系（中）
 - 46:27 Pizzicato Five - Sweet Soul Revue (1993)
 - 49:56 Steve & Teresa - Catching a Wave (1983)
 
-请在各流媒体平台搜索“SUBJPOD”收听本期节目配套歌单。
-
-想来跟我们聊聊？想听我们聊哪个话题？
-
-欢迎在下面留言或发邮件到subjpop@gmail.com告诉我们〜
+{% include s2-footer.md %}
 
 本期图标制作：您好
 
