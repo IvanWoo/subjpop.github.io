@@ -6,6 +6,9 @@ categories:
   - S02
 featured_image: /images/banners/s2/1.jpg
 stream_url: https://www.lizhi.fm/1913563/5171736186133723654
+hosts: |-
+  - 耳田 a.k.a. mimida
+  - 您好
 highlights: |-
   - 03:30 大泷咏一简介
   - 05:15 从樱桃小丸子到范晓萱
@@ -27,8 +30,7 @@ S02E01 大泷咏一《长假》研讨会
 
 ## 主持：
 
-- 耳田 a.k.a. mimida
-- 您好
+{{ page.hosts }}
 
 ## 嘉宾：
 

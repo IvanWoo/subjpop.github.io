@@ -6,6 +6,9 @@ categories:
   - S02
 featured_image: /images/banners/s2/7.jpg
 stream_url: https://www.ximalaya.com/yinyue/49373071/445150146
+hosts: |-
+  - 耳田 a.k.a. mimida
+  - 您好
 highlights: |-
   - 02:25 佐佐木敦的「四个象限」说
   - 03:25 Flipper's Guitar・前史
@@ -35,8 +38,7 @@ S02E07 内什么之前让我们再听一回涩谷系（中）
 
 ## 主持：
 
-- 您好
-- 耳田
+{{ page.hosts }}
 
 ## 嘉宾：
 

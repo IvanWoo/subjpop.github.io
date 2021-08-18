@@ -6,6 +6,9 @@ categories:
   - S02
 featured_image: /images/banners/s2/2.jpg
 stream_url: https://www.lizhi.fm/1913563/5173257961761595398
+hosts: |-
+  - 耳田 a.k.a. mimida
+  - 您好
 highlights: |-
   - 01:40 《长假》里我最喜欢的一首歌之耳田篇
   - 10:26 《长假》里我最喜欢的一首歌之红房篇
@@ -26,8 +29,7 @@ S02E02 大泷咏一《长假》研讨会・续摊
 
 ## 主持：
 
-- 耳田 a.k.a. mimida
-- 您好
+{{ page.hosts }}
 
 ## 嘉宾：
 
