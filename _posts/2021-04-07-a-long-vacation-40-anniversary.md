@@ -9,6 +9,9 @@ stream_url: https://www.lizhi.fm/1913563/5171736186133723654
 hosts: |-
   - 耳田 a.k.a. mimida
   - 您好
+guests: |-
+  - redhousepainter（音潮在彗星再来时）
+  - 安藤小子（复调）
 highlights: |-
   - 03:30 大泷咏一简介
   - 05:15 从樱桃小丸子到范晓萱
@@ -34,8 +37,7 @@ S02E01 大泷咏一《长假》研讨会
 
 ## 嘉宾：
 
-- redhousepainter（音潮在彗星再来时）
-- 安藤小子（复调）
+{{ page.guests }}
 
 ## 部分要点：
 

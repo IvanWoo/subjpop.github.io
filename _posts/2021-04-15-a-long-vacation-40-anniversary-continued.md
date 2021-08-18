@@ -9,6 +9,9 @@ stream_url: https://www.lizhi.fm/1913563/5173257961761595398
 hosts: |-
   - 耳田 a.k.a. mimida
   - 您好
+guests: |-
+  - redhousepainter（音潮在彗星再来时）
+  - 安藤小子（复调）
 highlights: |-
   - 01:40 《长假》里我最喜欢的一首歌之耳田篇
   - 10:26 《长假》里我最喜欢的一首歌之红房篇
@@ -33,8 +36,7 @@ S02E02 大泷咏一《长假》研讨会・续摊
 
 ## 嘉宾：
 
-- redhousepainter（音潮在彗星再来时）
-- 安藤小子（复调）
+{{ page.guests }}
 
 ## 部分要点：
 

@@ -9,6 +9,9 @@ stream_url: https://www.ximalaya.com/yinyue/49373071/444783699
 hosts: |-
   - 耳田 a.k.a. mimida
   - 您好
+guests: |-
+  - redhousepainter（音潮在彗星再来时）
+  - 南瓜头赵老师
 highlights: |-
   - 02:30 学界的日本流行音乐研究热点
   - 06:38 我们的涩谷系初体验
@@ -40,8 +43,7 @@ S02E06 内什么之前让我们再听一回涩谷系（上）
 
 ## 嘉宾：
 
-- redhousepainter（音潮在彗星再来时）
-- 南瓜头赵老师
+{{ page.guests }}
 
 ## 部分要点：
 
