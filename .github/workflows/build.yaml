@@ -21,13 +21,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
+          bundler-cache: true
 
       - name: Install and Build 🔧
         run: |
           npm install
           npm run build
-          gem install bundler
-          bundle install
           bundle exec jekyll build
 
       - name: Checkout Host Repo
