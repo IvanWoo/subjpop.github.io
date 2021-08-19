@@ -58,22 +58,6 @@ S02E06 内什么之前让我们再听一回涩谷系（上）
 所以，内什么之前，就让我们再听一回涩谷系。
 
 
-## 主持：
-
-{{ page.hosts }}
-
-## 嘉宾：
-
-{{ page.guests }}
-
-## 部分要点：
-
-{{ page.highlights }}
-
-## 收录歌曲：
-
-{{ page.include_tracks }}
-
-{% include s2-footer.md %}
+{% include default-content.md %}
 
 本期图标制作：您好

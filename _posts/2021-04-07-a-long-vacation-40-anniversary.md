@@ -39,20 +39,4 @@ S02E01 大泷咏一《长假》研讨会
 
 这期开选题正好撞上日本流行乐名作《A LONG VACATION》发行四十周年，那不用多想了，头一回我们就来聊聊它。
 
-## 主持：
-
-{{ page.hosts }}
-
-## 嘉宾：
-
-{{ page.guests }}
-
-## 部分要点：
-
-{{ page.highlights }}
-
-## 收录歌曲：
-
-{{ page.include_tracks }}
-
-{% include s2-footer.md %}
+{% include default-content.md %}

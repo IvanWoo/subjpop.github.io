@@ -55,20 +55,4 @@ S02E02 大泷咏一《长假》研讨会・续摊
 
 转型多方会谈的 SUBJPOP 播客，继续乱侃发行四十周年的大泷咏一代表作《A LONG VACATION》。
 
-## 主持：
-
-{{ page.hosts }}
-
-## 嘉宾：
-
-{{ page.guests }}
-
-## 部分要点：
-
-{{ page.highlights }}
-
-## 收录歌曲：
-
-{{ page.include_tracks }}
-
-{% include s2-footer.md %}
+{% include default-content.md %}
