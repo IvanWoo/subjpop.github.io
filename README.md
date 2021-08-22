@@ -34,11 +34,11 @@ $ bundle exec rubocop --enable-pending-cops -a
 - [Jekyll flags](https://jekyllrb.com/docs/usage/)
 - [Speed up Jekyll site regeneration](http://www.marcusoft.net/2015/11/speed-up-jekyll-site-regeneration.html)
 ```bash
-$ bundle exec jekyll serve --livereload --limit_posts 1
+$ bundle exec jekyll serve --livereload --host localhost --open-url --limit_posts 1 
 ```
 - [Automatic refreshing supported by jekyll 3.7.0](https://jekyllrb.com/news/2018/01/02/jekyll-3-7-0-released/)
 ```bash
-$ bundle exec jekyll serve --livereload
+$ bundle exec jekyll serve --livereload --host localhost --open-url
 ```
 
 ## Credit
