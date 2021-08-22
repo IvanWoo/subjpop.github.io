@@ -151,7 +151,7 @@ exclude:
   - src
   - node_modules
   - scripts
-  - rakefile.rb
+  - Rakefile
 
 # Misc
 licence: CC-BY-CA
