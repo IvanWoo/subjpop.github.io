@@ -144,6 +144,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CONTRIBUTING.md
   - LICENSE
   - package-lock.json
   - package.json
