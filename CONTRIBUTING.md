@@ -1,5 +1,18 @@
 # Contribution guidelines
 
+<!-- TOC -->
+
+- [Contribution guidelines](#contribution-guidelines)
+    - [Contributing code](#contributing-code)
+        - [Fork it](#fork-it)
+        - [Create a feature branch](#create-a-feature-branch)
+        - [Commit your changes](#commit-your-changes)
+        - [Run & test](#run--test)
+        - [Push to your feature branch](#push-to-your-feature-branch)
+        - [Create new Pull Request](#create-new-pull-request)
+
+<!-- /TOC -->
+
 ## Contributing code
 
 ### Fork it
