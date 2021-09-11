@@ -15,6 +15,16 @@
         "maintenance",
         "doc"
       ]
+    },
+    {
+      "login": "idmimida",
+      "name": "mimida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39655292?v=4",
+      "profile": "https://github.com/idmimida",
+      "contributions": [
+        "audio",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

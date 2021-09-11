@@ -1,6 +1,6 @@
 # SUBJPOP
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## How-to use
@@ -57,6 +57,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://yifanwu.studio/"><img src="https://avatars.githubusercontent.com/u/15613549?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yifan Wu</b></sub></a><br /><a href="https://github.com/IvanWoo/subjpop.github.io/commits?author=IvanWoo" title="Code">💻</a> <a href="#maintenance-IvanWoo" title="Maintenance">🚧</a> <a href="https://github.com/IvanWoo/subjpop.github.io/commits?author=IvanWoo" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/idmimida"><img src="https://avatars.githubusercontent.com/u/39655292?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mimida</b></sub></a><br /><a href="#audio-idmimida" title="Audio">🔊</a> <a href="https://github.com/IvanWoo/subjpop.github.io/commits?author=idmimida" title="Code">💻</a></td>
   </tr>
 </table>
 
