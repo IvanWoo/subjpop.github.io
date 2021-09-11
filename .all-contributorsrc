@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "IvanWoo",
+      "name": "Yifan Wu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15613549?v=4",
+      "profile": "https://yifanwu.studio/",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "subjpop.github.io",
+  "projectOwner": "IvanWoo",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
