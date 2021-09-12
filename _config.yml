@@ -152,6 +152,7 @@ exclude:
   - src
   - spec
   - lib
+  - test
   - node_modules
   - scripts
   - Rakefile
