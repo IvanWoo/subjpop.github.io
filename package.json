@@ -2,10 +2,9 @@
   "name": "subjpop.github.io",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha ./test",
+    "test": "mocha --require @babel/register",
     "start": "webpack --watch --mode development",
     "build": "webpack --mode production"
   },
@@ -23,6 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.13.15",
     "@babel/preset-env": "^7.13.15",
+    "@babel/register": "^7.15.3",
     "babel-loader": "^8.2.2",
     "chai": "^4.3.4",
     "css-loader": "^6.2.0",
