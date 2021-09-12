@@ -6,13 +6,7 @@ layout: default
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
-
-	<h2>
-		<a href="{{ page.stream_url }}">在线收听 ▶️</a>
-	</h2>
-	<div>
-		<audio class="audioPlayer" controls preload="metadata" src="{{ site.data.stream_yaml[page.stream_url].url }}"></audio>
-	</div>
+	{% include podcast-player.html %}
 	<hr>
 	{% if page.albums or page.playlist or page.highlights %}
 		<div class="show-notes">

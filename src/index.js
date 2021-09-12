@@ -1,10 +1,13 @@
 import Chaffle from "chaffle";
 import lazySizes from "lazysizes";
+import "shikwasa/dist/shikwasa.min.css";
+import Shikwasa from "shikwasa";
 
 document.addEventListener("DOMContentLoaded", () => {
   openInNewTab();
   markLatest();
   scrambleAuthor();
+  createPodcastPlayer();
 });
 
 // open external link in a new tab
@@ -39,5 +42,22 @@ const scrambleAuthor = () => {
     el.addEventListener("mouseover", () => {
       chaffle.init();
     });
+  });
+};
+
+const createPodcastPlayer = () => {
+  const podcastPlayer = document.querySelector(".podcast-player");
+
+  const { title, cover, src } = podcastPlayer.dataset;
+
+  const player = new Shikwasa({
+    container: () => podcastPlayer,
+    audio: {
+      title: title,
+      artist: "SUBJPOP",
+      cover: cover,
+      src: src,
+    },
+    themeColor: "#ff4e4e",
   });
 };

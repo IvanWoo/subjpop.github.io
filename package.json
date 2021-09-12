@@ -1,13 +1,12 @@
 {
   "name": "subjpop.github.io",
   "version": "1.0.0",
-  "description": "## How-to use",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack --watch --mode development --output ./js/main.js",
-    "dev": "webpack --mode development --output ./js/main.js",
-    "build": "webpack --mode production --output ./js/main.js"
+    "start": "webpack --watch --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -24,11 +23,14 @@
     "@babel/core": "^7.13.15",
     "@babel/preset-env": "^7.13.15",
     "babel-loader": "^8.2.2",
-    "webpack": "^4.46.0",
-    "webpack-cli": "^3.3.12"
+    "css-loader": "^6.2.0",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
   },
   "dependencies": {
     "chaffle": "^2.1.0",
-    "lazysizes": "^5.3.2"
+    "lazysizes": "^5.3.2",
+    "shikwasa": "^2.1.2"
   }
 }

@@ -1,0 +1,17 @@
+<h2>
+  <a href="{{ page.stream_url }}">在线收听 ▶️</a>
+</h2>
+<div
+  class="podcast-player"
+  data-title="{{ page.title }}"
+  data-cover="{{ page.featured_image }}"
+  data-src="{{ site.data.stream_yaml[page.stream_url].url }}"
+>
+  <!-- this is where the player will be injected -->
+  <audio
+    class="audioPlayer"
+    controls
+    preload="metadata"
+    src="{{ site.data.stream_yaml[page.stream_url].url }}"
+  ></audio>
+</div>
