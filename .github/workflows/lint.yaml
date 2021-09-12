@@ -1,4 +1,4 @@
-name: Lint
+name: Lint and Test
 
 on:
   push:
@@ -25,4 +25,8 @@ jobs:
 
       - name: Lint
         run: |
-          bundle exec rubocop --enable-pending-cops
+          rake lint
+
+      - name: Test
+        run: |
+          rake test

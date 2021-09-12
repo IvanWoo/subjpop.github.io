@@ -17,8 +17,23 @@ task :build do
   sh 'bundle exec jekyll build'
 end
 
+desc 'Rspec test'
+task :test do
+  sh 'bundle exec rspec'
+end
+
 # https://www.danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html
 desc 'Test the broken links'
-task test: [:build] do
+task test_links: [:build] do
   sh 'bundle exec htmlproofer --assume_extension ./_site'
+end
+
+desc 'Rubocop lint'
+task :lint do
+  sh 'bundle exec rubocop --enable-pending-cops'
+end
+
+desc 'Rubocop lint with auto fixing'
+task :lint! do
+  sh 'bundle exec rubocop --enable-pending-cops -A'
 end

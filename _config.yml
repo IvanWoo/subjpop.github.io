@@ -150,6 +150,8 @@ exclude:
   - package.json
   - webpack.config.js
   - src
+  - spec
+  - lib
   - node_modules
   - scripts
   - Rakefile
