@@ -1,6 +1,6 @@
 import { expect } from "chai";
 
-import { timestampToSeconds, parseHighlights } from "../src/utils.js";
+import { timestampToSeconds, getChapters } from "../src/utils.js";
 
 describe("timestampToSeconds()", () => {
   const tests = [
@@ -18,21 +18,37 @@ describe("timestampToSeconds()", () => {
   });
 });
 
-describe("parseHighlights()", () => {
+describe("getChapters()", () => {
   const tests = [
     {
       args: `- 03:11 大森靖子「欺凌」事件始末
 - 14:15 ZOC创团主旨`,
       expected: [
-        [191, "大森靖子「欺凌」事件始末"],
-        [855, "ZOC创团主旨"],
+        { title: "大森靖子「欺凌」事件始末", startTime: 191, endTime: 192 },
+        { title: "ZOC创团主旨", startTime: 855, endTime: 856 },
+      ],
+    },
+    {
+      args: `- 51:05  小泽健二曲项向天歌，红房哥哥无语泪两行
+- 57:47 涩谷系和当下美国最流行音乐的交集`,
+      expected: [
+        {
+          title: "小泽健二曲项向天歌，红房哥哥无语泪两行",
+          startTime: 3065,
+          endTime: 3066,
+        },
+        {
+          title: "涩谷系和当下美国最流行音乐的交集",
+          startTime: 3467,
+          endTime: 3468,
+        },
       ],
     },
   ];
 
   tests.forEach(({ args, expected }) => {
     it(`correctly parses ${args}`, () => {
-      expect(parseHighlights(args)).to.eql(expected);
+      expect(getChapters(args)).to.eql(expected);
     });
   });
 });
