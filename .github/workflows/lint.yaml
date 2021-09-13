@@ -23,6 +23,10 @@ jobs:
           ruby-version: '2.7.1'
           bundler-cache: true
 
+      - name: Install
+        run: |
+          npm install
+
       - name: Lint
         run: |
           rake lint
@@ -30,3 +34,4 @@ jobs:
       - name: Test
         run: |
           rake test
+          npm run test
