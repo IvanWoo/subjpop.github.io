@@ -1,6 +1,9 @@
 import { expect } from "chai";
 
-import { timestampToSeconds, getChapters } from "../src/utils.js";
+import {
+  timestampToSeconds,
+  getChapters,
+} from "../../src/podcastPlayer/utils.js";
 
 describe("timestampToSeconds()", () => {
   const tests = [

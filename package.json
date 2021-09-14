@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha --require @babel/register",
+    "test": "mocha --require @babel/register test/**/*.js",
     "start": "webpack --watch --mode development",
     "build": "webpack --mode production"
   },
