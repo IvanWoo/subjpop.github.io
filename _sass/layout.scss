@@ -11,6 +11,9 @@
 }
 
 .content {
+	width: 100%;
+	max-width: 780px;
+
 	@media #{$desktop} {
 		flex: 1;
 	}
