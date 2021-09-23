@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'spec_helper'
 require_relative '../../lib/podcast_hosts'
 
 RSpec.describe Lizhi do
