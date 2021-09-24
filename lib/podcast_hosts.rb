@@ -9,7 +9,7 @@ XIMALAYA_ALBUM_ID = '49373071'
 
 # Lizhi to get stream_table of Lizhi
 class Lizhi
-  def initialize(radio_id)
+  def initialize(radio_id = LIZHI_RADIO_ID)
     @radio_id = radio_id
   end
 
@@ -40,7 +40,7 @@ end
 
 # Ximalaya to get stream_table of Ximalaya
 class Ximalaya
-  def initialize(album_id)
+  def initialize(album_id = XIMALAYA_ALBUM_ID)
     @album_id = album_id
     @xm_sign = xm_sign
   end

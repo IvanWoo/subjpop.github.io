@@ -16,8 +16,8 @@ def output(stream_table)
 end
 
 def main
-  lizhi = Lizhi.new(LIZHI_RADIO_ID)
-  ximalaya = Ximalaya.new(XIMALAYA_ALBUM_ID)
+  lizhi = Lizhi.new
+  ximalaya = Ximalaya.new
   stream_table = ximalaya.stream_table.merge(lizhi.stream_table)
   output(stream_table)
 end
