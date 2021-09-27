@@ -7,8 +7,8 @@ RSpec.describe 'podcast_hosts' do
   shared_examples 'scrap_success' do
     it 'has stream_table' do
       stream_table = subject.stream_table
-      expect(stream_table.keys).to all(match(host_url))
-      expect(stream_table.length).to satisfy('be positive') { |v| v.positive? }
+      expect(stream_table.keys).to all(include(host_url))
+      expect(stream_table.length).to be_positive
     end
   end
 
