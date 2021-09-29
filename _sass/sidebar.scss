@@ -1,151 +1,147 @@
 .sidebar {
-	width: 250px;
-	padding: 70px 0 0 0;
-	margin: 0 auto;
+    width: 250px;
+    padding: 70px 0 0 0;
+    margin: 0 auto;
 
+    @media #{$desktop} {
+        margin: 0;
+        padding: 0 0 0 70px;
+    }
 
-	@media #{$desktop} {
-		margin: 0;
-		padding: 0 0 0 70px;
-	}
+    .author {
+        text-align: center;
 
-	.author {
-		text-align: center;
+        p {
+            padding: 0;
+            margin: 0;
+        }
 
-		p {
-			padding: 0;
-			margin: 0;
-		}
+        img {
+            width: 200px;
+            border-radius: 200px;
+            margin: 0 0 10px 0;
+            transition: all 1.9s ease-in-out;
 
-		img {
-			width: 200px;
-			border-radius: 200px;
-			margin: 0 0 10px 0;
-			transition: all 1.9s ease-in-out;
+            &:hover {
+                filter: hue-rotate(360deg);
+            }
+        }
+    }
 
-			&:hover {
-				filter: hue-rotate(360deg);
-			}
-		}
-	}
+    .social-icons {
+        display: flex;
+        justify-content: center;
+        margin: 10px 0 0 0;
 
-	.social-icons {
-		display: flex;
-		justify-content: center;
-		margin: 10px 0 0 0;
+        a {
+            padding: 3px;
+            text-decoration: none;
 
-		a {
-			padding: 3px;
-			text-decoration: none;
+            &:hover svg {
+                fill: #000;
+            }
+        }
 
-			&:hover svg {
-				fill: #000;
-			}
-		}
+        svg {
+            width: 25px;
+            height: 25px;
+            fill: $light-grey;
+        }
+    }
 
-		svg {
-			width: 25px;
-			height: 25px;
-			fill: $light-grey;
-		}
-	}
+    .ranking_2017 {
+        background: url("../images/ranking-banners/2017-ranking-banner.png");
+        // background: url('../images/ranking-banners/2017-banner.png');
+        background-size: cover;
+        color: #000;
+        margin-top: 20px;
+    }
 
-	.ranking_2017 {
-		background: url('../images/ranking-banners/2017-ranking-banner.png');
-		// background: url('../images/ranking-banners/2017-banner.png');
-		background-size: cover;
-		color: #000;
-		margin-top: 20px;
-	}
+    .ranking_2018 {
+        background: url("../images/ranking-banners/2018-ranking-banner.png");
+        // background: url('../images/ranking-banners/2017-banner.png');
+        background-size: cover;
+        color: #fff;
+        margin-top: 20px;
+    }
 
-	.ranking_2018 {
-		background: url('../images/ranking-banners/2018-ranking-banner.png');
-		// background: url('../images/ranking-banners/2017-banner.png');
-		background-size: cover;
-		color: #fff;
-		margin-top: 20px;
-	}
+    .side_feature {
+        width: 100%;
+        height: 100px;
+        background-size: cover;
+        background-position: right;
+    }
 
-	.side_feature {
-		width: 100%;
-		height: 100px;
-		background-size: cover;
-		background-position: right
-	}
+    .side_feature:hover {
+        color: #fff;
+    }
 
-	.side_feature:hover {
-		color: #fff;
-	}
+    .side_feature_bg {
+        font-size: 20px;
+        font-weight: bold;
+        // letter-spacing: 5px;
+        padding-left: 15px;
+        padding-top: 23px;
+    }
 
-	.side_feature_bg {
-		font-size: 20px;
-		font-weight: bold;
-		// letter-spacing: 5px;
-		padding-left: 15px;
-		padding-top: 23px;
-	}
+    .apple-music {
+        .shadow-box {
+            border-radius: 10px;
+        }
 
+        margin-bottom: 10px;
+    }
 
-	.apple-music {
-		.shadow-box {
-			border-radius: 10px;
-		}
+    .spotify-playlist {
+        .shadow-box {
+            border-radius: 10px;
+        }
+    }
 
-		margin-bottom: 10px;
-	}
+    .good-stuff {
+        h3 {
+            // padding: 20px 0 1px 0;
+            margin-top: 20px;
+        }
 
-	.spotify-playlist {
-		.shadow-box {
-			border-radius: 10px;
-		}
-	}
+        blockquote {
+            // font-style: italic;
+            line-height: 1.4em;
+            font-size: 13.5px;
+            margin: 0 0 0 1em;
+            padding: 0 1em;
+            color: #6a737d;
+            border-left: 0.25em solid #dfe2e5;
+        }
 
-	.good-stuff {
-		h3 {
-			// padding: 20px 0 1px 0;
-			margin-top: 20px;
-		}
+        ul {
+            padding: 0;
 
-		blockquote {
-			// font-style: italic;
-			line-height: 1.4em;
-			font-size: 13.5px;
-			margin: 0 0 0 1em;
-			padding: 0 1em;
-			color: #6a737d;
-			border-left: 0.25em solid #dfe2e5;
-		}
+            li {
+                list-style: none !important;
+                border-bottom: 1px solid #cacaca;
+                /*margin-left: -3px;*/
+                padding: 0.5em 5px 0.5em 0;
 
-		ul {
-			padding: 0;
+                &:hover {
+                    border-bottom: 1px solid $theme-color;
+                }
 
-			li {
-				list-style: none !important;
-				border-bottom: 1px solid #cacaca;
-				/*margin-left: -3px;*/
-				padding: 0.5em 5px 0.5em 0;
+                a {
+                    color: #000;
+                    text-decoration: none;
 
-				&:hover {
-					border-bottom: 1px solid $theme-color;
-				}
-
-				a {
-					color: #000;
-					text-decoration: none;
-
-					&:hover {
-						border-bottom: 0;
-					}
-				}
-			}
-		}
-	}
-
-
+                    &:hover {
+                        border-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
 }
 
 .sidebar.push {
-	@media #{$desktop} {
-		padding-top: 72px;
-	}
+    @media #{$desktop} {
+        padding-top: 72px;
+    }
 }

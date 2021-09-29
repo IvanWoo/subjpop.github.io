@@ -2,47 +2,48 @@
 layout: default
 ---
 <article class="post">
-	{% include post-heading.html post=page post_page=true %}
-	<div class="image">
-		<img src="{{ page.featured_image }}" alt="{{ page.title }}">
-	</div>
-	{% include podcast-player.html %}
-	<hr>
-	{% if page.albums or page.playlist or page.highlights %}
-		<div class="show-notes">
-			{% if page.albums %}
-				<div class="albums">
-					<h2>唱片购买链接</h2>
-					{{ page.albums | markdownify }}
-				</div>
-			{% endif %}
-			{% if page.playlist %}
-				<div class="playlist">
-					<h2>Playlist</h2>
-					{{ page.playlist | markdownify }}
-				</div>
-			{% endif %}
-			{% if page.highlights %}
-				<div class="highlights">
-					<h2>部分要点</h2>
-					{{ page.highlights | markdownify }}
-				</div>
-			{% endif %}
-		</div>
-	{% endif %}
-	<hr>
-	<div class="episode-body">
-		{{ content }}
-	</div>
+    {% include post-heading.html post=page post_page=true %}
+    <div class="image">
+        <img src="{{ page.featured_image }}" alt="{{ page.title }}">
+    </div>
+    {% include podcast-player.html %} <hr>
+    {% if page.albums or page.playlist or page.highlights %}
+        <div class="show-notes">
+            {% if page.albums %}
+                <div class="albums">
+                    <h2>唱片购买链接</h2>
+                    {{ page.albums | markdownify }}
+                </div>
+            {% endif %}
+            {% if page.playlist %}
+                <div class="playlist">
+                    <h2>Playlist</h2>
+                    {{ page.playlist | markdownify }}
+                </div>
+            {% endif %}
+            {% if page.highlights %}
+                <div class="highlights">
+                    <h2>部分要点</h2>
+                    {{ page.highlights | markdownify }}
+                </div>
+            {% endif %}
+        </div>
+    {% endif %}
+    <hr>
+    <div class="episode-body">
+        {{ content }}
+    </div>
 
-	<hr>
-	<div class="notice">
-		<h4>尊重原创：关于转载</h4>
-		<p>我们希望在中文环境中建立一种健康的 TrackBack 和链接机制，保证原创，并不影响传播。因此对于歌词和翻译，我们<u>欢迎</u>您在网站上推荐我们的文章，包括文字和播客片段，但<u>不赞成</u>任何形式的全文转载。</p>
-	</div>
-	<hr>
+    <hr>
+    <div class="notice">
+        <h4>尊重原创：关于转载</h4>
+        <p>我们希望在中文环境中建立一种健康的 TrackBack 和链接机制，保证原创，并不影响传播。因此对于歌词和翻译，我们<u>欢迎</u>您在网站上推荐我们的文章，包括文字和播客片段，但<u>不赞成</u>任何形式的全文转载。</p>
+    </div>
+    <hr>
 
-	<div class="cta">
-		<div class="button"><a href="/archives">节目分类归档</a></div>
-	</div>
+    <div class="cta">
+        <div class="button">
+            <a href="/archives">节目分类归档</a>
+        </div>
+    </div>
 </article>
