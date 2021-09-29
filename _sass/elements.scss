@@ -1,107 +1,109 @@
 ::selection {
-	background-color: $theme-color;
+    background-color: $theme-color;
 }
 
 // add https://quizlet.com/ like shadow-box
 .shadow-box {
-	box-shadow: 0 0.3125rem 1rem 0 rgba(0, 0, 0, 0.24);
+    box-shadow: 0 0.3125rem 1rem 0 rgba(0, 0, 0, 0.24);
 }
 
 html,
 body {
-	padding: 0;
-	margin: 0;
-	line-height: 1.8em;
+    padding: 0;
+    margin: 0;
+    line-height: 1.8em;
 }
 
 body,
 input,
 textarea {
-	font-family: Noto Sans CJK SC, Noto Sans SC, PingFang SC, Segoe UI, Hiragino Sans GB, Helvetica Neue, Arial, Microsoft Yahei, WenQuanYi Micro Hei, sans-serif;
-	color: #222;
+    font-family: Noto Sans CJK SC, Noto Sans SC, PingFang SC, Segoe UI,
+        Hiragino Sans GB, Helvetica Neue, Arial, Microsoft Yahei,
+        WenQuanYi Micro Hei, sans-serif;
+    color: #222;
 }
 
 h1 {
-	font-size: 1.6em;
-	margin: 0;
-	padding: 0;
-	line-height: 1.3em;
-	@media #{$desktop} {
-		font-size: 1.8em;
-	}
+    font-size: 1.6em;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3em;
+    @media #{$desktop} {
+        font-size: 1.8em;
+    }
 }
 
 h2 {
-	font-size: 1.4em;
+    font-size: 1.4em;
 }
 
-.entry-meta{
-	display: inline-block;
-	color: $light-grey;
-	font-size: 1.0em;
-	margin: 0.3em 0 0.3em 0;
-	a {
-		color: $light-grey;
-		&:hover {
-			border-bottom: 1px solid $theme-color;
-		}
-	}
+.entry-meta {
+    display: inline-block;
+    color: $light-grey;
+    font-size: 1em;
+    margin: 0.3em 0 0.3em 0;
+    a {
+        color: $light-grey;
+        &:hover {
+            border-bottom: 1px solid $theme-color;
+        }
+    }
 }
 
 header {
-	text-align: center;
-	padding: 80px 0 60px 0;
+    text-align: center;
+    padding: 80px 0 60px 0;
 }
 
 img {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 // center episodes' banner
 .image {
-	text-align: center;
+    text-align: center;
 }
 
-ol li+li {
-	margin: 20px 0 0 0;
+ol li + li {
+    margin: 20px 0 0 0;
 }
 
 footer {
-	color: $light-grey;
-	text-align: center;
-	padding: 20px 0;
-	font-size: .8em;
-	a {
-		color: #000;
-		text-decoration: none;
-		&:link {
-			border-bottom: 1px dotted $light-grey;
-		}
-		&:hover {
-			border-bottom: 1px solid $theme-color;
-		}
-	}
+    color: $light-grey;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.8em;
+    a {
+        color: #000;
+        text-decoration: none;
+        &:link {
+            border-bottom: 1px dotted $light-grey;
+        }
+        &:hover {
+            border-bottom: 1px solid $theme-color;
+        }
+    }
 }
 
 hr {
-	border: 0;
-	border-bottom: 1px solid #eee;
-	padding: 10px;
+    border: 0;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
 }
 
 a {
-	text-decoration: none;
-	color: black;
+    text-decoration: none;
+    color: black;
 }
 
 .latest h1::before {
-	content: "新";
-	font-weight: normal;
-	color: black;
-	width: 1em;
-	height: 1.3em;
-	margin-right: 0.05em;
-	padding: 0.05em 0.28em;
-	background: $theme-color;
-	border-radius: 100%;
+    content: "新";
+    font-weight: normal;
+    color: black;
+    width: 1em;
+    height: 1.3em;
+    margin-right: 0.05em;
+    padding: 0.05em 0.28em;
+    background: $theme-color;
+    border-radius: 100%;
 }

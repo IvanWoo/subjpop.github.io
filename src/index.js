@@ -6,12 +6,12 @@ import { scrambleAuthor } from "./animations";
 import createPodcastPlayer from "./podcastPlayer";
 
 const main = () => {
-  openInNewTab();
-  markLatest();
-  scrambleAuthor();
-  createPodcastPlayer();
+    openInNewTab();
+    markLatest();
+    scrambleAuthor();
+    createPodcastPlayer();
 };
 
 document.addEventListener("DOMContentLoaded", () => {
-  main();
+    main();
 });
