@@ -2,5 +2,6 @@
     "cSpell.words": [
         "Lizhi",
         "Ximalaya"
-    ]
+    ],
+    "editor.formatOnSave": false,
 }

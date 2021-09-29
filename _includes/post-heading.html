@@ -1,22 +1,23 @@
 <!-- {% if include.post_page %}
-	<div class="take-me">
-		<a class="button" href="#episode">Jump to end</a>
-	</div>
+    <div class="take-me">
+        <a class="button" href="#episode">Jump to end</a>
+    </div>
 {% endif %} -->
 <h1>
     <a href="{{ include.post.url }}">
-		{{ include.post.title }}
-	</a>
+        {{ include.post.title }}
+    </a>
 </h1>
 
-<div class=entry-meta>
-	<span class=author>
-		 by 
-			<a data-chaffle="en" target="_blank" href="http://weibo.com/{{ site.data.djs[page.dj].weibo }}">{{ site.data.djs[page.dj].name }}</a>
-			<a data-chaffle="en" target="_blank" href="http://weibo.com/{{ site.data.djs[post.dj].weibo }}">{{ site.data.djs[post.dj].name }}</a>
-	</span>
-	<span> | </span>
-	<time datetime="{{ include.post.date | date_to_xmlschema }}">
-		{{ include.post.date | date: "%Y/%m/%d" }}
-	</time>
+<div class="entry-meta">
+    {% if site.data.djs[post.dj] %}
+        <span class="author">
+            by
+            <a data-chaffle="en" href="http://weibo.com/{{ site.data.djs[post.dj].weibo }}" target="_blank">{{ site.data.djs[post.dj].name }}</a>
+            |
+        </span>
+    {% endif %}
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">
+        {{ include.post.date | date: "%Y/%m/%d" }}
+    </time>
 </div>
