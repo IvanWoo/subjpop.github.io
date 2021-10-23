@@ -1,23 +1,39 @@
 ---
 title: Stats
 ---
-<!-- https://observablehq.com/@jashkenas/handy-embed-code-generator -->
-<div id="observablehq-bb62ba0e">
-  <div class="observablehq-viewof-groupKey"></div>
-  <div class="observablehq-viewof-metric"></div>
-  <div class="observablehq-chart"></div>
-  <div style="overflow: hidden;"><a style="display: block; float:right;"
-      href="https://observablehq.com/@ivanwoo/subjpop-program-data-viz-nested"><object type="image/svg+xml"
-        style="pointer-events: none;" width=180 height=22
-        data="https://static.observableusercontent.com/files/c3fab254a006f1a3a1f9f63aba8ab1460db4752529036b9962950bde0ec195bab823daa6b278b1c3401e545b3bd640ddfdcad805cf9859af218cb2b9fed4ddf0"></object></a>
-  </div>
-</div>
+<h1>{{ page.title }}</h1>
+<p>
+    <!-- https://observablehq.com/@jashkenas/handy-embed-code-generator -->
+    <div id="observablehq-bb62ba0e">
+        <div class="observablehq-viewof-groupKey"></div>
+        <div class="observablehq-viewof-metric"></div>
+        <div class="observablehq-chart"></div>
+        <div style="overflow: hidden;">
+            <a
+                href="https://observablehq.com/@ivanwoo/subjpop-program-data-viz-nested"
+                style="display: block; float:right;">
+                <object
+                    data="https://static.observableusercontent.com/files/c3fab254a006f1a3a1f9f63aba8ab1460db4752529036b9962950bde0ec195bab823daa6b278b1c3401e545b3bd640ddfdcad805cf9859af218cb2b9fed4ddf0"
+                    height="22"
+                    style="pointer-events: none;"
+                    type="image/svg+xml"
+                    width="180"></object>
+            </a>
+        </div>
+    </div>
+</p>
 <script type="module">
-  import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
-  import define from "https://api.observablehq.com/@ivanwoo/subjpop-program-data-viz-nested.js?v=3";
-  (new Runtime).module(define, name => {
-    if (name === "viewof groupKey") return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-groupKey")();
-    if (name === "viewof metric") return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-metric")();
-    if (name === "chart") return Inspector.into("#observablehq-bb62ba0e .observablehq-chart")();
-  });
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/@ivanwoo/subjpop-program-data-viz-nested.js?v=3";
+    (new Runtime).module(define, name => {
+        if (name === "viewof groupKey") {
+            return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-groupKey")();
+        }
+        if (name === "viewof metric") {
+            return Inspector.into("#observablehq-bb62ba0e .observablehq-viewof-metric")();
+        }
+        if (name === "chart") {
+            return Inspector.into("#observablehq-bb62ba0e .observablehq-chart")();
+        }
+    });
 </script>
