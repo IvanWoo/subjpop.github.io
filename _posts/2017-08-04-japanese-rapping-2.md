@@ -35,7 +35,6 @@ albums: |-
 
 ---
 
-<!--featured_image: http://wx1.sinaimg.cn/crop.0.45.900.505.1000/e17094f2gy1ffecx6vx8jj20p00goaky.jpg-->
 
 ![img](https://wx1.sinaimg.cn/large/e17094f2gy1fi757nbo5rj20rs0rsn8u.jpg)
 

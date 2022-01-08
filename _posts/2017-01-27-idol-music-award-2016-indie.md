@@ -40,7 +40,6 @@ albums: |-
 ---
 
 <!-- hide excerpt -->
-<!--featured_image: http://wx3.sinaimg.cn/crop.0.79.889.500.1000/e17094f2gy1fc4a9fz1qxj20oq0go4qp.jpg-->
 
 ## 歌词
 

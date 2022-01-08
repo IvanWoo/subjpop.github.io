@@ -33,7 +33,6 @@ albums: |-
 ---
 
 <!-- hide excerpt -->
-<!--featured_image: http://ww4.sinaimg.cn/crop.0.161.1433.805.1000/e17094f2gw1fas6v5eu3yj213t0wl7jb.jpg-->
 
 ## 歌词
 

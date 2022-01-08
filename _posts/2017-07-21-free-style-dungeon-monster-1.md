@@ -32,7 +32,6 @@ albums: |-
 
 Banner image by [@tairartairar](https://twitter.com/tairartairar).
 
-<!--featured_image: http://wx1.sinaimg.cn/crop.0.104.1840.1034.1000/e17094f2gy1ffxmkad1s7j21f40y87wh.jpg-->
 <!-- hide excerpt -->
 
 ![FREESTYLE MONSTERS by Dmen Watanabe](https://wx2.sinaimg.cn/large/e17094f2gy1fhr06t87p7j20go0go10c.jpg)

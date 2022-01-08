@@ -14,7 +14,6 @@ stream_url: https://www.lizhi.fm/1913563/2584126703015995398
 
 <!-- hide excerpt -->
 
-<!--featured_image: https://i.ytimg.com/vi/p-FYXT1OU0M/maxresdefault.jpg-->
 
 ## 歌词
 

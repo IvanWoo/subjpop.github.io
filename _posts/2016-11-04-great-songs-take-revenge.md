@@ -27,7 +27,6 @@ albums: |-
 
 
 <!-- hide excerpt -->
-<!--featured_image: http://ww4.sinaimg.cn/crop.169.0.1402.788.1000/e17094f2gw1f9fjw0o2wzj21hc0lwag3.jpg-->
 
 ## 歌词
 

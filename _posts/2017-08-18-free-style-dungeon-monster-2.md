@@ -29,7 +29,6 @@ albums: |-
 ---
 
 
-<!--featured_image: http://wx1.sinaimg.cn/crop.0.104.1840.1034.1000/e17094f2gy1ffxmkad1s7j21f40y87wh.jpg-->
 <!-- hide excerpt -->
 
 ![FREESTYLE MONSTERS by Dmen Watanabe](https://wx3.sinaimg.cn/large/e17094f2gy1finanmm451j20x30x3kfu.jpg)
