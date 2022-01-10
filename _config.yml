@@ -148,6 +148,7 @@ exclude:
   - test
   - node_modules
   - scripts
+  - tools
   - Rakefile
 
 # Misc
