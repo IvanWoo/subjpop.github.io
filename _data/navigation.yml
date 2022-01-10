@@ -6,5 +6,5 @@
   link: /archives
 - name: Stats
   link: /stats
-# - name: Contact
-#   link: /contact
+- name: Search
+  link: /search

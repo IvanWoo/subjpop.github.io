@@ -115,6 +115,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "search.html"
+    values:
+      layout: "default"
+  - scope:
       path: "podcast-rss.md"
     values:
       layout: "podcast-rss"
