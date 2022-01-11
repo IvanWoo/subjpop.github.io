@@ -100,7 +100,7 @@ const main = () => {
                 filename,
                 attributes.title,
                 attributes.date,
-                attributes.categories[0],
+                attributes.categories[0].toLowerCase(),
                 Array.from(flatten(keywords))
             ),
         ];
