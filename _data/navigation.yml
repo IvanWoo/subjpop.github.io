@@ -4,7 +4,7 @@
   link: /about
 - name: Archives
   link: /archives
-- name: Stats
-  link: /stats
+# - name: Stats
+#   link: /stats
 - name: Search
   link: /search
