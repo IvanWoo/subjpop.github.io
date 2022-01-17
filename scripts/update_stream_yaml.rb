@@ -18,14 +18,6 @@ def output(stream_table)
   puts '💎 rss feed generated successfully'
 end
 
-def merge_stream_tables(stream_tables)
-  stream_table = {}
-  stream_tables.each do |stream_table_item|
-    stream_table.merge(stream_table_item)
-  end
-  stream_table
-end
-
 def main_fast
   pool = Concurrent::ThreadPoolExecutor.new(max_threads: 4)
   podcast_hosts = [Lizhi.new, Ximalaya.new]
@@ -35,8 +27,9 @@ def main_fast
     end
   end.map(&:value)
 
-  stream_table = merge_stream_tables(stream_tables)
-  output(stream_table)
+  # merge a list of hash into a single hash
+  res = stream_tables.reduce(:merge)
+  output(res)
 end
 
 def main_slow

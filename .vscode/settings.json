@@ -12,4 +12,9 @@
             "source.fixAll.eslint": false
         }
     },
+    "ruby.lint": {
+        "rubocop": {
+            "forceExclusion": true,
+        }
+    },
 }

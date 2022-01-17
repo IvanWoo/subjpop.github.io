@@ -37,3 +37,8 @@ desc 'Rubocop lint with auto fixing'
 task :lint! do
   sh 'bundle exec rubocop --enable-pending-cops -A'
 end
+
+desc 'Benchmark the scrapers'
+task :benchmark do
+  sh '(cd benchmark && bundle exec ruby podcast_hosts.rb)'
+end

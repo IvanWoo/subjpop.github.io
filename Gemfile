@@ -19,5 +19,6 @@ group :development, :test do
   gem 'rspec'
   gem 'rubocop', '~> 1.20'
   gem 'ruby-debug-ide'
+  gem 'ruby-prof', '~> 1.4'
   gem 'solargraph'
 end

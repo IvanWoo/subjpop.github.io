@@ -13,3 +13,4 @@ js/main.js.LICENSE.txt
 
 assets/search.json
 assets/search.bin
+benchmark/*.html

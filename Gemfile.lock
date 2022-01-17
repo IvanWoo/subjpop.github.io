@@ -126,6 +126,7 @@ GEM
       parser (>= 3.0.1.1)
     ruby-debug-ide (0.7.3)
       rake (>= 0.8.1)
+    ruby-prof (1.4.3)
     ruby-progressbar (1.11.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -173,6 +174,7 @@ DEPENDENCIES
   rspec
   rubocop (~> 1.20)
   ruby-debug-ide
+  ruby-prof (~> 1.4)
   solargraph
 
 BUNDLED WITH
