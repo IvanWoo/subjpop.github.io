@@ -1,8 +1,6 @@
 # frozen_string_literal: true
 
-require 'concurrent'
-
-require_relative '../lib/podcast_hosts'
+require_relative '../lib/all_stream_tables'
 
 ROOT_DIR = File.expand_path('..', __dir__)
 STREAM_YAML = "#{ROOT_DIR}/_data/stream_yaml.yml"
@@ -18,29 +16,8 @@ def output(stream_table)
   puts '💎 rss feed generated successfully'
 end
 
-def main_fast
-  pool = Concurrent::ThreadPoolExecutor.new(max_threads: 4)
-  podcast_hosts = [Lizhi.new, Ximalaya.new]
-  stream_tables = podcast_hosts.map do |podcast_host|
-    Concurrent::Future.execute({ executor: pool }) do
-      podcast_host.stream_table
-    end
-  end.map(&:value)
-
-  # merge a list of hash into a single hash
-  res = stream_tables.reduce(:merge)
-  output(res)
-end
-
-def main_slow
-  lizhi = Lizhi.new
-  ximalaya = Ximalaya.new
-  stream_table = ximalaya.stream_table.merge(lizhi.stream_table)
-  output(stream_table)
-end
-
 def main
-  main_fast
+  output(all_stream_tables)
 end
 
 main
