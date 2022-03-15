@@ -9,9 +9,7 @@ def output(stream_table)
   old_stream_table = YAML.safe_load(File.read(STREAM_YAML))
   old_stream_table = {} if old_stream_table.nil?
   stream_table = old_stream_table.merge(stream_table)
-  File.open(STREAM_YAML, 'w') do |file|
-    file.write stream_table.to_yaml
-  end
+  File.write(STREAM_YAML, stream_table.to_yaml)
 
   puts '💎 rss feed generated successfully'
 end

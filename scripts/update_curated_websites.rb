@@ -19,9 +19,7 @@ def input
 end
 
 def output(entries)
-  File.open(SITES_YAML, 'w') do |f|
-    f.write(entries.to_yaml)
-  end
+  File.write(SITES_YAML, entries.to_yaml)
 
   puts '💎 curated websites list generated successfully'
 end
