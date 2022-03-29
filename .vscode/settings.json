@@ -5,6 +5,10 @@
     ],
     "editor.tabSize": 4,
     "editor.formatOnSave": true,
+    "html.validate.scripts": false,
+    "scss.validate": false,
+    "css.validate": false,
+    "html.validate.styles": false,
     "liquid.format": true,
     "[html]": {
         "editor.defaultFormatter": "sissel.shopify-liquid",
