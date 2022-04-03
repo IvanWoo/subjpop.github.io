@@ -1,8 +1,3 @@
-<!-- {% if include.post_page %}
-    <div class="take-me">
-        <a class="button" href="#episode">Jump to end</a>
-    </div>
-{% endif %} -->
 <h1>
     <a href="{{ include.post.url }}">
         {{ include.post.title }}
@@ -10,13 +5,13 @@
 </h1>
 
 <div class="entry-meta">
-    {% if site.data.djs[post.dj] %}
+    {% if site.data.djs[include.post.dj] %}
         <span class="author">
             by
             <a
                 data-chaffle="en"
                 href="http://weibo.com/{{ site.data.djs[post.dj].weibo }}"
-                target="_blank">{{ site.data.djs[post.dj].name }}</a>
+                target="_blank">{{ site.data.djs[include.post.dj].name }}</a>
             |
         </span>
     {% endif %}
