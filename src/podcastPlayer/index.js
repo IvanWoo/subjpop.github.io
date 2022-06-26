@@ -1,7 +1,7 @@
 import "shikwasa/dist/shikwasa.min.css";
 import Shikwasa from "shikwasa";
 import * as Chapter from "shikwasa/dist/shikwasa.chapter.cjs";
-import "shikwasa/dist/shikwasa.chapter.css";
+import "shikwasa/dist/shikwasa.chapter.min.css";
 
 import { getChapters } from "./utils";
 
