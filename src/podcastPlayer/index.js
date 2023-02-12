@@ -1,12 +1,10 @@
-import "shikwasa/dist/shikwasa.min.css";
-import Shikwasa from "shikwasa";
-import * as Chapter from "shikwasa/dist/shikwasa.chapter.cjs";
-import "shikwasa/dist/shikwasa.chapter.min.css";
+import "shikwasa/dist/style.css";
+import { Chapter, Player } from "shikwasa";
 
 import { getChapters } from "./utils";
 
 const createPodcastPlayer = () => {
-    Shikwasa.use(Chapter);
+    Player.use(Chapter);
 
     const podcastPlayer = document.querySelector(".podcast-player");
     if (!podcastPlayer) {
@@ -16,7 +14,7 @@ const createPodcastPlayer = () => {
     const { title, cover, src, highlights } = podcastPlayer.dataset;
     const chapters = !!highlights ? getChapters(highlights) : null;
 
-    const player = new Shikwasa({
+    const player = new Player({
         container: () => podcastPlayer,
         audio: {
             title: title,

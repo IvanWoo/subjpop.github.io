@@ -35,3 +35,8 @@ jobs:
         run: |
           rake test
           npm run test
+
+      - name: Build
+        run: |
+          rake build
+          npm run build

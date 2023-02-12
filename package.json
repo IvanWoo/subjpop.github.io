@@ -49,6 +49,6 @@
     "@ygoe/msgpack": "^1.0.3",
     "chaffle": "^2.1.0",
     "lazysizes": "^5.3.2",
-    "shikwasa": "^2.1.4"
+    "shikwasa": "^2.2.0"
   }
 }
