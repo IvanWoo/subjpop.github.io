@@ -1,4 +1,5 @@
-import "shikwasa/dist/style.css";
+// FIXME: import from the js file
+// import "shikwasa/dist/style.css";
 import { Chapter, Player } from "shikwasa";
 
 import { getChapters } from "./utils";
