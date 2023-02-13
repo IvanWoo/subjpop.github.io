@@ -26,17 +26,19 @@ jobs:
       - name: Install
         run: |
           npm install
+          bundle install
 
       - name: Lint
         run: |
+          npm run lint
           rake lint
 
       - name: Test
         run: |
-          rake test
           npm run test
+          rake test
 
       - name: Build
         run: |
-          rake build
           npm run build
+          rake build
