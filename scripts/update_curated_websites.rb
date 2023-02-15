@@ -8,7 +8,7 @@ SITES_CSV = "#{ROOT_DIR}/_data/_curated_websites.csv"
 SITES_YAML = "#{ROOT_DIR}/_data/curated_websites.yml"
 
 def input
-  data = CSV.read(SITES_CSV, **{ encoding: 'UTF-8', headers: true })
+  data = CSV.read(SITES_CSV, encoding: 'UTF-8', headers: true)
 
   # Yaml Cookbook: http://yaml.org/YAML_for_ruby.html
   entries = []
