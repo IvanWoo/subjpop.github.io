@@ -15,7 +15,7 @@ end
 group :development, :test do
   gem 'debase'
   gem 'html-proofer'
-  gem 'httparty', '~> 0.18.1'
+  gem 'httparty', '~> 0.21.0'
   gem 'rspec'
   gem 'rubocop', '~> 1.20'
   gem 'ruby-debug-ide'
