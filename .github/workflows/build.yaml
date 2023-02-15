@@ -28,7 +28,8 @@ jobs:
           npm install
           npm run build
           npm run tool:searchindex
-          bundle exec jekyll build
+          bundle install
+          rake build
 
       - name: Checkout Host Repo
         uses: actions/checkout@v2
