@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           persist-credentials: false
       
@@ -32,7 +32,7 @@ jobs:
           rake build
 
       - name: Checkout Host Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: subjpop/subjpop.github.io
           token: ${{ secrets.GH_PAT }}
