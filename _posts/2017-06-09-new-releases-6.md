@@ -3,62 +3,56 @@ date: 2017-06-09
 title: Vol. 27 我们来听新唱片！！！！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/27.jpg
 stream_url: http://www.lizhi.fm/1913563/2606449192303099398
 playlist: |-
-  1. 963「ろすとぷらねっと」（from 3rd single『ろすとぷらねっと』2017/04/05）
-  2. Maison book girl「end of Summer dream」（from 2nd album『image』2017/04/05）
-  3. 🎙️
-  4. Yogee New Waves「Ride on Wave」（from 2nd album『WAVES』2017/05/17）
-  5. There There Theres「RadicalHead」（from 1st single『Upstairs Down』2017/05/08）
-  6. 🎙️
-  7. ゆるふわギャング「Fuckin' Car」（from 1st album『Mars Ice House』2017/04/08）
-  8. Ittō「Inside Out」（from 3rd album『I』2017/05/10）
-  9. 🎙️
-  10. Cornelius「あなたがいるなら」（from 6th album『Mellow Waves』2017/06/28）
-  11. 私立恵比寿中学「感情電車」（from 4st album『エビクラシー』2017/05/31）
-  12. 🎙️
-  13. DJみそしるとMCごはん「とりのから揚げ」（from soundtrack『ごちそんぐDJの音楽』2017/03/29）
-  14. 清竜人25「ねえねえ...」（from 2nd album『WIFE』2017/04/12）​
+    1. 963「ろすとぷらねっと」（from 3rd single『ろすとぷらねっと』2017/04/05）
+    2. Maison book girl「end of Summer dream」（from 2nd album『image』2017/04/05）
+    3. 🎙️
+    4. Yogee New Waves「Ride on Wave」（from 2nd album『WAVES』2017/05/17）
+    5. There There Theres「RadicalHead」（from 1st single『Upstairs Down』2017/05/08）
+    6. 🎙️
+    7. ゆるふわギャング「Fuckin' Car」（from 1st album『Mars Ice House』2017/04/08）
+    8. Ittō「Inside Out」（from 3rd album『I』2017/05/10）
+    9. 🎙️
+    10. Cornelius「あなたがいるなら」（from 6th album『Mellow Waves』2017/06/28）
+    11. 私立恵比寿中学「感情電車」（from 4st album『エビクラシー』2017/05/31）
+    12. 🎙️
+    13. DJみそしるとMCごはん「とりのから揚げ」（from soundtrack『ごちそんぐDJの音楽』2017/03/29）
+    14. 清竜人25「ねえねえ...」（from 2nd album『WIFE』2017/04/12）​
 
 albums: |-
-  * [「image」](http://ototoy.jp/_/default/p/72845)
-  * [「WAVES」](http://ototoy.jp/_/default/p/75126)
-  * [「Upstairs Down」](http://ototoy.jp/_/default/p/74514)
-  * [「Mars Ice House」](http://ototoy.jp/_/default/p/73023)
-  * [「I」](https://itunes.apple.com/jp/album/id1229561459?app=itunes&ign-mpt=uo=4)
-  * [「Mellow Waves」](https://itunes.apple.com/jp/album/mellow-waves/id1228895132?i=1228895140&l=en)
-  * [「エビクラシー」](http://mora.jp/package/43000001/4547366314014/)
-  * [「ごちそんぐDJの音楽」](https://itunes.apple.com/jp/album/ごちそんぐdjの音楽/id1216048645)
-  * [「WIFE」](http://ototoy.jp/_/default/p/73424)
-
+    * [「image」](http://ototoy.jp/_/default/p/72845)
+    * [「WAVES」](http://ototoy.jp/_/default/p/75126)
+    * [「Upstairs Down」](http://ototoy.jp/_/default/p/74514)
+    * [「Mars Ice House」](http://ototoy.jp/_/default/p/73023)
+    * [「I」](https://itunes.apple.com/jp/album/id1229561459?app=itunes&ign-mpt=uo=4)
+    * [「Mellow Waves」](https://itunes.apple.com/jp/album/mellow-waves/id1228895132?i=1228895140&l=en)
+    * [「エビクラシー」](http://mora.jp/package/43000001/4547366314014/)
+    * [「ごちそんぐDJの音楽」](https://itunes.apple.com/jp/album/ごちそんぐdjの音楽/id1216048645)
+    * [「WIFE」](http://ototoy.jp/_/default/p/73424)
 ---
 
 <!-- hide excerpt -->
 
-
-
-
 ## 歌词
-
-
 
 ### 963「ろすとぷらねっと」
 
-![『ろすとぷらねっと』](https://wx3.sinaimg.cn/large/e17094f2gy1fge9z9ob8zj20dw0dw41h.jpg)
+![『ろすとぷらねっと』](/images/posts/e17094f2gy1fge9z9ob8zj20dw0dw41h.jpg)
 
 **Lost Planet**
 
-*作词／作曲：新城贤一（SUBMARINE）*
+_作词／作曲：新城贤一（SUBMARINE）_
 
-*编曲：三浦康嗣 (口ロロ／Kuchiroro )*
+_编曲：三浦康嗣 (口ロロ／Kuchiroro )_
 
-我々は130億光年離れた大牛惑星六行目三番地からやってきた宇宙人である。
+我々は 130 億光年離れた大牛惑星六行目三番地からやってきた宇宙人である。
 
 この星を征服しにきた。
 
-我们是130亿光年外大牛星第六行第三号来的外星人。
+我们是 130 亿光年外大牛星第六行第三号来的外星人。
 
 我们为征服这颗行星而来。
 
@@ -66,7 +60,7 @@ albums: |-
 
 やばい感じ　イマジンシー　ランプはチカチカしっぱなし
 
-目標あの青い星　
+目標あの青い星
 
 円偏光　燃料確認よし
 
@@ -74,7 +68,7 @@ LET'S GO！LET'S GO！
 
 缺氧的船仓里　紧急情况　满舵
 
-感觉不妙　EMERGENCY　灯一直闪个不停
+感觉不妙　 EMERGENCY 　灯一直闪个不停
 
 目标是那颗蓝色的星球
 
@@ -98,7 +92,7 @@ LET'S GO！LET'S GO！
 
 右も左も人、人、人
 
-OH NO！いきなり迷子　ヒットポイント000
+OH NO！いきなり迷子　ヒットポイント 000
 
 そう、まずは食べ物
 
@@ -122,7 +116,7 @@ OH NO！いきなり迷子　ヒットポイント000
 
 わかんないから全部レージに
 
-気づけば財布はEMPTY
+気づけば財布は EMPTY
 
 地球に来て一日そうじ
 
@@ -138,13 +132,13 @@ OH NO！いきなり迷子　ヒットポイント000
 
 地图上没画　转来转去
 
-瞪大了眼睛NO NO
+瞪大了眼睛 NO NO
 
 但是要往哪边去好呢？这里又是哪里？
 
-左边右边全是人、人、人（译注：致敬SEEDA『花と雨』里的「TOKYO」）
+左边右边全是人、人、人（译注：致敬 SEEDA『花と雨』里的「TOKYO」）
 
-OH NO！突然就迷了路　HIT POINT 000
+OH NO！突然就迷了路　 HIT POINT 000
 
 那么首先去找点儿吃的
 
@@ -154,11 +148,11 @@ Cookie、marshmallow、chocolate
 
 像黑洞一样全吞进去
 
-一只手拿着饼干window shopping
+一只手拿着饼干 window shopping
 
-粉红色的one-piece好可爱
+粉红色的 one-piece 好可爱
 
-接着是jeans
+接着是 jeans
 
 格子的短裙　学院气
 
@@ -168,7 +162,7 @@ Cookie、marshmallow、chocolate
 
 已经不知道了全部拿到收银台去
 
-意识过来钱包已经EMPTY
+意识过来钱包已经 EMPTY
 
 来地球不过一天就全败光
 
@@ -186,15 +180,15 @@ Cookie、marshmallow、chocolate
 
 今月入ってすでに３回
 
-仏の顔もう一回　店長　
+仏の顔もう一回　店長
 
 無理絶対
 
 この星着いてもう一年
 
-船の修理にあと100年
+船の修理にあと 100 年
 
-それまでコツコツMAKE MONEY
+それまでコツコツ MAKE MONEY
 
 お家に着くまで何光年？
 
@@ -210,7 +204,7 @@ Cookie、marshmallow、chocolate
 
 飞船的修理还要一百年
 
-到那时为止就勤勤恳恳MAKE MONEY
+到那时为止就勤勤恳恳 MAKE MONEY
 
 回家的距离是多少光年？
 
@@ -222,7 +216,7 @@ Cookie、marshmallow、chocolate
 
 よしばっちり
 
-百万トンで15歳　正体隠してバイト三昧
+百万トンで 15 歳　正体隠してバイト三昧
 
 今に見てなさい　もうじきこの星は…
 
@@ -242,13 +236,13 @@ Cookie、marshmallow、chocolate
 
 赶紧刷牙咯吱咯吱
 
-不能错过的电视剧　预录设定pi-pi-
+不能错过的电视剧　预录设定 pi-pi-
 
-Fashion check　认真贯彻
+Fashion check 　认真贯彻
 
 堪称完美
 
-百万吨级的15岁　隐藏起真实面目全力打工
+百万吨级的 15 岁　隐藏起真实面目全力打工
 
 等着瞧吧　这个星球马上就要......
 
@@ -290,14 +284,11 @@ Fashion check　认真贯彻
 
 在遥远的那一边　那颗星静静地闪着光
 
-
-
-
 ### Maison book girl「end of Summer dream」
 
-![『image』](https://wx4.sinaimg.cn/large/e17094f2gy1fgea3h7picj20dw0dswkq.jpg)
+![『image』](/images/posts/e17094f2gy1fgea3h7picj20dw0dswkq.jpg)
 
-*作词／作曲／编曲：樱井健太*
+_作词／作曲／编曲：樱井健太_
 
 寂しい夏、終わってく。体だけを許して。
 
@@ -343,24 +334,21 @@ Fashion check　认真贯彻
 
 在声音的间隙，继续寻找着出口。
 
-
-
-
 ### Yogee New Waves「Ride on Wave」
 
-![『WAVES』](https://wx2.sinaimg.cn/large/e17094f2gy1fgeaput05hj20dw0dwguc.jpg)
+![『WAVES』](/images/posts/e17094f2gy1fgeaput05hj20dw0dwguc.jpg)
 
-*作词／作曲：角馆健悟*
+_作词／作曲：角馆健悟_
 
-*编曲：Yogee New Waves*
+_编曲：Yogee New Waves_
 
-RIDE ON WAVE　この波に乗り　どこまでゆこうか
+RIDE ON WAVE 　この波に乗り　どこまでゆこうか
 
-RIDE ON WAVE　きっと　つかんだら離さないだろう
+RIDE ON WAVE 　きっと　つかんだら離さないだろう
 
-RIDE ON WAVE　乘着这波浪　到哪儿去吧
+RIDE ON WAVE 　乘着这波浪　到哪儿去吧
 
-RIDE ON WAVE　一定　抓住了就不会再放手吧
+RIDE ON WAVE 　一定　抓住了就不会再放手吧
 
 ゆれる草木　騒がしい君と　音の鳴る方へ　音の鳴る方へ
 
@@ -386,17 +374,17 @@ RIDE ON WAVE　一定　抓住了就不会再放手吧
 
 然后放出漂流瓶　前往下一个地方
 
-RIDE ON WAVE　この音に乗り　どこまで飛ぼうか
+RIDE ON WAVE 　この音に乗り　どこまで飛ぼうか
 
-RIDE ON WAVE　きっと　月も顔を出すのだろう
+RIDE ON WAVE 　きっと　月も顔を出すのだろう
 
-RIDE ON WAVE　乘着这声音　飞到哪里去吧
+RIDE ON WAVE 　乘着这声音　飞到哪里去吧
 
-RIDE ON WAVE　肯定　月亮也会露出脸吧
+RIDE ON WAVE 　肯定　月亮也会露出脸吧
 
 ぬれた頬に日が差した模様　音の鳴る方へ　音の鳴る方へ
 
-もともこもないような　その笑顔がさ　旅路のLUCK握ってる
+もともこもないような　その笑顔がさ　旅路の LUCK 握ってる
 
 秘密しまって？
 
@@ -408,13 +396,13 @@ RIDE ON WAVE　肯定　月亮也会露出脸吧
 
 漂流　漂流　漂流　漂流
 
-RIDE ON WAVE　この音に乗り　もと辿れば
+RIDE ON WAVE 　この音に乗り　もと辿れば
 
-RIDE ON WAVE　不思議な街　海　空　ほら
+RIDE ON WAVE 　不思議な街　海　空　ほら
 
-RIDE ON WAVE　乘着这声音　继续前进吧
+RIDE ON WAVE 　乘着这声音　继续前进吧
 
-RIDE ON WAVE　不可思议的街道　大海　天空　你看
+RIDE ON WAVE 　不可思议的街道　大海　天空　你看
 
 RIDE ON WAVE
 
@@ -424,14 +412,11 @@ RIDE ON WAVE
 
 RIDE ON WAVE
 
-
-
-
 ### There There Theres「RadicalHead」
 
-![『Upstairs Down』](https://wx3.sinaimg.cn/large/e17094f2gy1fgearqbgxxj20dw0dqjye.jpg)
+![『Upstairs Down』](/images/posts/e17094f2gy1fgearqbgxxj20dw0dqjye.jpg)
 
-*作詞／作曲／編曲：福井真理*
+_作詞／作曲／編曲：福井真理_
 
 Teddy, Ready, Merry! って声高に
 
@@ -461,7 +446,7 @@ Feeling my body
 
 Feeling my body
 
-（*1）
+（\*1）
 
 レクイエムがアンバランス
 
@@ -483,7 +468,7 @@ Atmosphere, Ladies also
 
 Head！Head！Head！
 
-（*2）
+（\*2）
 
 「Say Hello！」って朝から叫ぼう
 
@@ -501,89 +486,79 @@ Good Good morning world！
 
 Washing“I don't know”
 
-ココロ＋カラダ＝We say be alright
+ココロ＋カラダ＝ We say be alright
 
-MotorなHeadで振り乱し
+Motor な Head で振り乱し
 
-BedなHeadでSinging Restart
+Bed な Head で Singing Restart
 
 心+体=We say be alright
 
-Motor的Head乱甩
+Motor 的 Head 乱甩
 
-Bed的Head来Singing Restart
+Bed 的 Head 来 Singing Restart
 
-（*1）
+（\*1）
 
 Head！Head！Head！
 
-（*2）
+（\*2）
 
-ココロ＋カラダ＝We say be alright
+ココロ＋カラダ＝ We say be alright
 
-TalkingなHeadだけでまだ物足りない
-
-心+体=We say be alright
-
-只是Talking的Head还不足够
-
-（*2）
-
-ココロ＋カラダ＝We say be alright
-
-MotorなHeadで振り乱し
-
-BedなHeadでSinging Restart
-
-RadicalなHeadでリアルにComing back
+Talking な Head だけでまだ物足りない
 
 心+体=We say be alright
 
-Motor的Head乱甩
+只是 Talking 的 Head 还不足够
 
-Bed的Head Singing Restart
+（\*2）
 
-Radical的Head朝着现实Coming back
+ココロ＋カラダ＝ We say be alright
 
+Motor な Head で振り乱し
 
+Bed な Head で Singing Restart
 
+Radical な Head でリアルに Coming back
+
+心+体=We say be alright
+
+Motor 的 Head 乱甩
+
+Bed 的 Head Singing Restart
+
+Radical 的 Head 朝着现实 Coming back
 
 ### ゆるふわギャング「Fuckin' Car」
 
-![『Mars Ice House』](https://wx2.sinaimg.cn/large/e17094f2gy1fgeauhthn0j20dw0dw7d1.jpg)
+![『Mars Ice House』](/images/posts/e17094f2gy1fgeauhthn0j20dw0dw7d1.jpg)
 
-*作词：Ryugo・Sophiee*
+_作词：Ryugo・Sophiee_
 
-*编曲：JayTrill・Malikai Hits*
+_编曲：JayTrill・Malikai Hits_
 
 （歌词暂无）
-
-
-
-
 
 ### Ittō「Inside Out」
 
-![『I』](https://wx2.sinaimg.cn/large/e17094f2gy1fgeavk95svj20dw0dwgpj.jpg)
+![『I』](/images/posts/e17094f2gy1fgeavk95svj20dw0dwgpj.jpg)
 
-*作词：Ittō*
+_作词：Ittō_
 
-*编曲：Rumtum*
+_编曲：Rumtum_
 
 （歌词暂无）
 
-
-
-
 ### Cornelius「あなたがいるなら」
 
-![『Mellow Waves』](https://wx4.sinaimg.cn/large/e17094f2gy1fgeb1n9hh8j20dw0dwjxo.jpg)
+![『Mellow Waves』](/images/posts/e17094f2gy1fgeb1n9hh8j20dw0dwjxo.jpg)
 
 **如果有你在**
 
-*作词：坂本慎太郎*
+_作词：坂本慎太郎_
 
-*作曲／编曲：小山田圭吾*
+_作曲／编曲：小山田圭吾_
 
 ただ見てるだけでなぜ訳もなく
 
@@ -693,16 +668,13 @@ Radical的Head朝着现实Coming back
 
 如果有你在
 
-
-
-
 ### 私立恵比寿中学「感情電車」
 
-![『エビクラシー』](https://wx4.sinaimg.cn/large/e17094f2gy1fgeb39nymvj20dw0dsgvq.jpg)
+![『エビクラシー』](/images/posts/e17094f2gy1fgeb39nymvj20dw0dsgvq.jpg)
 
-*作词／作曲／编曲：田村步美*
+_作词／作曲／编曲：田村步美_
 
-（根据网友[canner74翻译](http://www.bilibili.com/video/av10643400/)的版本进行微调整而成，特此致谢！）
+（根据网友[canner74 翻译](http://www.bilibili.com/video/av10643400/)的版本进行微调整而成，特此致谢！）
 
 好きだからこそ聞けない　はかない未来のありか
 
@@ -722,7 +694,7 @@ Radical的Head朝着现实Coming back
 
 強い人だから
 
-Information不停奔驰，边界又再度被扩张
+Information 不停奔驰，边界又再度被扩张
 
 即使无法掌握资讯，道路总是会出现的
 
@@ -782,7 +754,7 @@ Information不停奔驰，边界又再度被扩张
 
 かけがえのない人だよ
 
-Information绝赞进行中！刮擦路面狂奔而去
+Information 绝赞进行中！刮擦路面狂奔而去
 
 标准是什么，就算不知道
 
@@ -896,16 +868,13 @@ Information绝赞进行中！刮擦路面狂奔而去
 
 到哪里都停不下来了哟
 
+### DJ みそしると MC ごはん「とりのから揚げ」
 
+![『ごちそんぐDJの音楽』](/images/posts/e17094f2gy1fgebcimtlmj20dw0dwdn3.jpg)
 
+**DJ 味增汤和 MC 白米饭「炸鸡块」**
 
-### DJみそしるとMCごはん「とりのから揚げ」
-
-![『ごちそんぐDJの音楽』](https://wx1.sinaimg.cn/large/e17094f2gy1fgebcimtlmj20dw0dwdn3.jpg)
-
-**DJ味增汤和MC白米饭「炸鸡块」**
-
-*作词／作曲／编曲：DJみそしるとMCごはん*
+_作词／作曲／编曲：DJ みそしると MC ごはん_
 
 とりが空を飛ぶから　空揚げなのですか　(たぶん違うそれ違う)
 
@@ -927,15 +896,15 @@ I can fly/fry，you can fly/fry，勇气与爱
 
 （译注：日语里「fly」和「fry」读音相同，此处为双关）
 
-とりならモモ主義　500g購入し
+とりならモモ主義　 500g 購入し
 
-一口大moreジューシー　カットしよう下準備
+一口大 more ジューシー　カットしよう下準備
 
-鸡的话当然是大腿肉，买上个500克
+鸡的话当然是大腿肉，买上个 500 克
 
-切成一口大小more juicy，我们来做准备
+切成一口大小 more juicy，我们来做准备
 
-しょうゆ　おさけ　おなじ大さじ1杯　めいっぱいいいかい？
+しょうゆ　おさけ　おなじ大さじ 1 杯　めいっぱいいいかい？
 
 「いいよ　それ表面張力って言うんだよ　プルプルしてるやつ」
 
@@ -943,33 +912,33 @@ I can fly/fry，you can fly/fry，勇气与爱
 
 みんなみんなもみこみな　インダ冷蔵庫
 
-「ブレイクタイムは10分だぜ　イェイ」
+「ブレイクタイムは 10 分だぜ　イェイ」
 
 酱油和清酒，同样是一汤匙，盛得满满的行吗？
 
 「太行啦，这就是所谓的表面张力喔，鼓起来一抖一抖的」
 
-姜汁是必须，小孩子有一天也会知道Ginger（译注：发音同「神社」）因果
+姜汁是必须，小孩子有一天也会知道 Ginger（译注：发音同「神社」）因果
 
-所有的东西和鸡肉混在一起揉，然后in da冰箱
+所有的东西和鸡肉混在一起揉，然后 in da 冰箱
 
-「休息时间是10分钟哟，YEAH」
+「休息时间是 10 分钟哟，YEAH」
 
 ザルあげ水分グッバイ　片栗粉もぎゅっとタイム
 
-大さじ1入れては混ぜ　混ぜ混ぜ全部で3杯
+大さじ 1 入れては混ぜ　混ぜ混ぜ全部で 3 杯
 
-架上滤网水分goodbye，也到了把淀粉紧紧裹上的time
+架上滤网水分 goodbye，也到了把淀粉紧紧裹上的 time
 
 一大汤匙撒到鸡肉里搅，搅啊搅搅完分成三份
 
-170℃中温　あぶらで揚げていこう
+170℃ 中温　あぶらで揚げていこう
 
 沈むが待て浮かぶまで　フライアゲイン
 
 「ほら、どうやら揚がってきたみたいだぜ」
 
-170度六成热，放进油里炸吧
+170 度六成热，放进油里炸吧
 
 沉下去了就等等，等它浮上来，FLY AGAIN
 
@@ -981,25 +950,25 @@ I can fly/fry，you can fly/fry，勇气与爱
 
 スキですノックアウト寸前
 
-「お口までの距離は残り3cm・2・1」
+「お口までの距離は残り 3cm・2・1」
 
-小鸡小鸡FLY AGAIN
+小鸡小鸡 FLY AGAIN
 
-HEART的小火（译注：灶转小火），唤起了小伙子
+HEART 的小火（译注：灶转小火），唤起了小伙子
 
 （译注：借用广岛职业棒球队的吉祥物「カープ坊や」）
 
-好喜欢这KNOCK OUT前一刻
+好喜欢这 KNOCK OUT 前一刻
 
-「离你的嘴还差3cm、2、1」
+「离你的嘴还差 3cm、2、1」
 
 食いちぎる前歯ぶっちぎる食欲おまえはなんて罪なやつなんだ
 
-KARAAGEの果てまで飛んでいきたいぜ　はてさて
+KARAAGE の果てまで飛んでいきたいぜ　はてさて
 
 一口咬下去，用门牙狠狠咬下去，食欲你这家伙是多么的罪孽深重啊
 
-想要一直扑腾到KARAAGE的最后呐，哎呀哎呀这可怎么好
+想要一直扑腾到 KARAAGE 的最后呐，哎呀哎呀这可怎么好
 
 とりが空を飛ぶから　空揚げなのですか　(たぶん違うそれ違う)
 
@@ -1017,18 +986,15 @@ KARAAGEの果てまで飛んでいきたいぜ　はてさて
 
 I can fly/fry，you can fly/fry，勇气与爱
 
+### 清竜人 25「ねえねえ…」
 
-
-
-### 清竜人25「ねえねえ…」
-
-![『WIFE』](https://wx3.sinaimg.cn/large/e17094f2gy1fgebem0txzj20dw0dsjwe.jpg)
+![『WIFE』](/images/posts/e17094f2gy1fgebem0txzj20dw0dsjwe.jpg)
 
 **NeNe......**
 
-*作词／作曲：清龙人*
+_作词／作曲：清龙人_
 
-*编曲：ダンスマン*
+_编曲：ダンスマン_
 
 ごめんよ...　手が離せなくてさ...　また明日聞かせてよ
 
@@ -1048,7 +1014,7 @@ I can fly/fry，you can fly/fry，勇气与爱
 
 おやすみ...　キッスをほっぺに　ああ...　ごまかさないで...
 
-Darling...　Darling...　Darling...　Darling...　一人じゃ眠れない...
+Darling...　 Darling...　 Darling...　 Darling...　一人じゃ眠れない...
 
 ねえねえ...　ねえねえ...　ねえねえ...　もっと...　私を見つめて...
 
@@ -1056,9 +1022,9 @@ Darling...　Darling...　Darling...　Darling...　一人じゃ眠れない...
 
 晚安...在脸蛋上亲亲　啊啊…不要糊弄我……
 
-Darling...　Darling...　Darling...　Darling…一个人我可睡不着...
+Darling...　 Darling...　 Darling...　 Darling…一个人我可睡不着...
 
-NeNe…　NeNe…　NeNe…　再…　好好看看我…
+NeNe…　 NeNe…　 NeNe…　再…　好好看看我…
 
 啊〜啊　明明还想更加被你疼爱啊…
 
@@ -1080,7 +1046,7 @@ NeNe…　NeNe…　NeNe…　再…　好好看看我…
 
 静かに...　キッスをリップに　ああ…　惑わさないで...
 
-Darling...　Darling...　Darling...
+Darling...　 Darling...　 Darling...
 
 Darling...　貴方に触れていたい...
 
@@ -1090,54 +1056,52 @@ Darling...　貴方に触れていたい...
 
 静静地…　在唇上亲吻　啊啊…　别让我困惑…
 
-Darling...　Darling...　Darling…
+Darling...　 Darling...　 Darling…
 
 Darling...　想要你触摸...
 
-NeNe…　NeNe…　NeNe…　再…　疼爱我一些…
+NeNe…　 NeNe…　 NeNe…　再…　疼爱我一些…
 
-啊〜啊　Ne…　就再多陪我一会儿…不行吗？　真拿你没办法啊…
-
+啊〜啊　 Ne…　就再多陪我一会儿…不行吗？　真拿你没办法啊…
 
 ## 人物介绍
 
-![963（新・新体制）](https://wx1.sinaimg.cn/large/e17094f2gy1fgebrux2naj20dw0dwteb.jpg)
+![963（新・新体制）](/images/posts/e17094f2gy1fgebrux2naj20dw0dwteb.jpg)
 
 963（新・新体制）
 
-![Maison book girl](https://wx1.sinaimg.cn/large/e17094f2gy1fgebnk66d4j20ic0c8wff.jpg)
+![Maison book girl](/images/posts/e17094f2gy1fgebnk66d4j20ic0c8wff.jpg)
 
 Maison book girl
 
-![Yogee New Waves](https://wx4.sinaimg.cn/large/e17094f2gy1fgebq3n54yj20o80g54d0.jpg)
+![Yogee New Waves](/images/posts/e17094f2gy1fgebq3n54yj20o80g54d0.jpg)
 
 Yogee New Waves
 
-![There There Theres](https://wx2.sinaimg.cn/large/e17094f2gy1fgebr30pvnj20hs0dcjsx.jpg)
+![There There Theres](/images/posts/e17094f2gy1fgebr30pvnj20hs0dcjsx.jpg)
 
 There There Theres
 
-![ゆるふわギャング](https://wx3.sinaimg.cn/large/e17094f2gy1fgebtsznazj20hs0hs13w.jpg)
+![ゆるふわギャング](/images/posts/e17094f2gy1fgebtsznazj20hs0hs13w.jpg)
 
 ゆるふわギャング
 
-![Ittō](https://wx1.sinaimg.cn/large/e17094f2gy1fgebvhlu5uj20go0b4n0q.jpg)
+![Ittō](/images/posts/e17094f2gy1fgebvhlu5uj20go0b4n0q.jpg)
 
 Ittō
 
-![Cornelius（小山田圭吾）](https://wx2.sinaimg.cn/large/e17094f2gy1fgec3ebbgdj20go0b43yr.jpg)
+![Cornelius（小山田圭吾）](/images/posts/e17094f2gy1fgec3ebbgdj20go0b43yr.jpg)
 
 Cornelius（小山田圭吾）
 
-![私立恵比寿中学](https://wx2.sinaimg.cn/large/e17094f2gy1fgeckiquv4j20m80eun5v.jpg)
+![私立恵比寿中学](/images/posts/e17094f2gy1fgeckiquv4j20m80eun5v.jpg)
 
 私立恵比寿中学
 
-![DJみそしるとMCごはん](https://wx1.sinaimg.cn/large/e17094f2gy1fgecl9ldzsj20ka0djgm5.jpg)
+![DJみそしるとMCごはん](/images/posts/e17094f2gy1fgecl9ldzsj20ka0djgm5.jpg)
 
-DJみそしるとMCごはん
+DJ みそしると MC ごはん
 
-![清竜人25](https://wx2.sinaimg.cn/large/e17094f2gy1fgecmwnhunj20xc0p0wjo.jpg)
+![清竜人25](/images/posts/e17094f2gy1fgecmwnhunj20xc0p0wjo.jpg)
 
-清竜人25
-
+清竜人 25

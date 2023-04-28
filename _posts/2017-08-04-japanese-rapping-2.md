@@ -3,122 +3,112 @@ date: 2017-08-04
 title: Vol. 31 日本のRap进行时 2.o
 dj: davidchill
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/31.jpg
 stream_url: https://www.lizhi.fm/1913563/2613825092105386502
 playlist: |-
-  1. KOPERU & ISSEI 「Movie Right At You」(from 1st joint album『カマトト』2017/6/14)
-  2. 🎙️
-  3. TWINKLE+ 「Midnight Run (TYO)」(from 1st album『JAPANESE YEDO MONKEY』2017/6/7)
-  4. MONYPETZJNKMN 「SPACY」(from 1st album『磊』2017/5/17)
-  5. YDIZZY 「YES」(from 1st album『DIZZiNESS』2017/6/7)
-  6. 🎙️
-  7. 鈴木真海子 「Contact」(from 1st EP 『DEEP GREEN』2017/6/21)
-  8. 🎙️
-  9. JAZZ DOMMUNISTERS「あたらしい悲しいお知らせ feat. I.C.I, OMSB」(from 2nd album 『Cupid & Bataille, Dirty Microphone』2017/6/7)
-  10. 🎙️
-  11. Paranel「僕が死んでも誰も気づかない」(from 3rd album 『スーサイド』2017/6/21)
-  12. VaVa 「Time Walker」(from 1st rap album 『low mind boi』2017/6/21)
-  13. 🎙️
-  14. スチャダラパーとEGO-WRAPPIN&`& 「ミクロボーイとマグロガール」(from joint single 『ミクロボーイとマグロガール』2017/5/10)
+    1. KOPERU & ISSEI 「Movie Right At You」(from 1st joint album『カマトト』2017/6/14)
+    2. 🎙️
+    3. TWINKLE+ 「Midnight Run (TYO)」(from 1st album『JAPANESE YEDO MONKEY』2017/6/7)
+    4. MONYPETZJNKMN 「SPACY」(from 1st album『磊』2017/5/17)
+    5. YDIZZY 「YES」(from 1st album『DIZZiNESS』2017/6/7)
+    6. 🎙️
+    7. 鈴木真海子 「Contact」(from 1st EP 『DEEP GREEN』2017/6/21)
+    8. 🎙️
+    9. JAZZ DOMMUNISTERS「あたらしい悲しいお知らせ feat. I.C.I, OMSB」(from 2nd album 『Cupid & Bataille, Dirty Microphone』2017/6/7)
+    10. 🎙️
+    11. Paranel「僕が死んでも誰も気づかない」(from 3rd album 『スーサイド』2017/6/21)
+    12. VaVa 「Time Walker」(from 1st rap album 『low mind boi』2017/6/21)
+    13. 🎙️
+    14. スチャダラパーとEGO-WRAPPIN&`& 「ミクロボーイとマグロガール」(from joint single 『ミクロボーイとマグロガール』2017/5/10)
 
 albums: |-
-  * [「カマトト」](https://itunes.apple.com/jp/album/カマトト/id1241849734?l=en)
-  * [「JAPANESE YEDO MONKEY」](http://ototoy.jp/_/default/p/75222)
-  * [「磊」](https://itunes.apple.com/jp/album/磊/id1226382387?l=en)
-  * [「DIZZiNESS」](http://ototoy.jp/_/default/p/75586)
-  * [「DEEP GREEN」](http://ototoy.jp/_/default/p/76409)
-  * [「Cupid & Bataille, Dirty Microphone」](https://itunes.apple.com/jp/album/cupid-bataille-dirty-microphone/id1240658620?l=en)
-  * [「スーサイド」](https://itunes.apple.com/jp/album/スーサイド/id1246727116?l=en)
-  * [「low mind boi」](http://ototoy.jp/_/default/p/75658)
-  * [「ミクロボーイとマグロガール」](http://ototoy.jp/_/default/p/74390)
-
+    * [「カマトト」](https://itunes.apple.com/jp/album/カマトト/id1241849734?l=en)
+    * [「JAPANESE YEDO MONKEY」](http://ototoy.jp/_/default/p/75222)
+    * [「磊」](https://itunes.apple.com/jp/album/磊/id1226382387?l=en)
+    * [「DIZZiNESS」](http://ototoy.jp/_/default/p/75586)
+    * [「DEEP GREEN」](http://ototoy.jp/_/default/p/76409)
+    * [「Cupid & Bataille, Dirty Microphone」](https://itunes.apple.com/jp/album/cupid-bataille-dirty-microphone/id1240658620?l=en)
+    * [「スーサイド」](https://itunes.apple.com/jp/album/スーサイド/id1246727116?l=en)
+    * [「low mind boi」](http://ototoy.jp/_/default/p/75658)
+    * [「ミクロボーイとマグロガール」](http://ototoy.jp/_/default/p/74390)
 ---
 
-
-![img](https://wx1.sinaimg.cn/large/e17094f2gy1fi757nbo5rj20rs0rsn8u.jpg)
+![img](/images/posts/e17094f2gy1fi757nbo5rj20rs0rsn8u.jpg)
 
 ## 歌词
 
-
 ### KOPERU & ISSEI 「Movie Right At You」
 
-![『カマトト』](https://wx1.sinaimg.cn/large/e17094f2gy1fi75wkagx9j20dw0dwgmt.jpg)
+![『カマトト』](/images/posts/e17094f2gy1fi75wkagx9j20dw0dwgmt.jpg)
 
 『カマトト』
 
-*Lyrics: KOPERU*
+_Lyrics: KOPERU_
 
-*Track: ISSEI*
+_Track: ISSEI_
 
 （歌词欠奉）
-
-
 
 ### TWINKLE+ 「Midnight Run (TYO)」
 
-![『JAPANESE YEDO MONKEY』](https://wx1.sinaimg.cn/large/e17094f2gy1fi75yiz4m7j20dw0dw0u9.jpg)
+![『JAPANESE YEDO MONKEY』](/images/posts/e17094f2gy1fi75yiz4m7j20dw0dw0u9.jpg)
 
 『JAPANESE YEDO MONKEY』
 
-*Lyrics: TWINKLE+*
+_Lyrics: TWINKLE+_
 
-*Track: Mitsu The Beats*
+_Track: Mitsu The Beats_
 
 （歌词欠奉）
-
-
-
 
 ### MONYPETZJNKMN 「SPACY」
 
-![『磊』](https://wx1.sinaimg.cn/large/e17094f2gy1fi75zje9bpj20dw0dw77e.jpg)
+![『磊』](/images/posts/e17094f2gy1fi75zje9bpj20dw0dw77e.jpg)
 
 『磊』
 
-*Lyrics: MonyHorse・PETZ・ JUNKMAN*
+_Lyrics: MonyHorse・PETZ・ JUNKMAN_
 
-*Track: Chaki Zulu*
+_Track: Chaki Zulu_
 
 （歌词欠奉）
 
-
-
 ### YDIZZY 「YES」
 
-![『DIZZiNESS』](https://wx3.sinaimg.cn/large/e17094f2gy1fi760t0mmyj20dw0dwdjr.jpg)
+![『DIZZiNESS』](/images/posts/e17094f2gy1fi760t0mmyj20dw0dwdjr.jpg)
 
 『DIZZiNESS』
 
-*Lyrics: YDIZZY*
+_Lyrics: YDIZZY_
 
-*Track: Chaki Zulu*
+_Track: Chaki Zulu_
 
 [Verse 1]
 
-ねえYDiZZY　楽しんでるのって　あ、はーい
+ねえ YDiZZY 　楽しんでるのって　あ、はーい
 
-oo　是　ja
+oo 　是　 ja
 
 喂 YDiZZY 玩得开心吗？ 啊是呀
 
-oo　是　ja
+oo 　是　 ja
 
-車はBMWって?　あ、はーい
+車は BMW って?　あ、はーい
 
-oo　是　ja
+oo 　是　 ja
 
-车子是BMW对吧？ 啊是呀
+车子是 BMW 对吧？ 啊是呀
 
-oo　是　ja
+oo 　是　 ja
 
 ねえ　本当に　シラフなのって　あ、はーい
 
-oo　是　ja
+oo 　是　 ja
 
 喂 真的还没喝醉吧？ 啊是呀
 
-oo　是　ja
+oo 　是　 ja
 
 今日もいい匂いって　あ、はーい
 
@@ -150,7 +140,7 @@ oo　是　ja
 
 Tattoo on my chest, Diamonds on my neck
 
-愛想笑い　Money on my mind
+愛想笑い　 Money on my mind
 
 啊是呀
 
@@ -166,7 +156,7 @@ Tattoo on my chest, Diamonds on my neck
 
 あ、はーい
 
-俺はYDiZZY
+俺は YDiZZY
 
 大把大把地捞
 
@@ -174,7 +164,7 @@ Tattoo on my chest, Diamonds on my neck
 
 啊是呀
 
-老子是YDiZZY
+老子是 YDiZZY
 
 BMW it's my car
 
@@ -182,7 +172,7 @@ BMW it's my car
 
 すいやせん
 
-BMW是我的车
+BMW 是我的车
 
 在和女孩子咻咻 呜
 
@@ -190,7 +180,7 @@ BMW是我的车
 
 メットは無くてもぬめっと責める
 
-なぁ　お前って　やれって　責める　what?
+なぁ　お前って　やれって　責める　 what?
 
 没戴安全帽还嫌黏糊糊
 
@@ -200,31 +190,31 @@ BMW是我的车
 
 そう。そう。そう。そう。あ、はーい
 
-oo　是　ja
+oo 　是　 ja
 
 x 4
 
 对 对 对 对 啊 是~
 
-哦哦 是ja
+哦哦 是 ja
 
 [Verse 2]
 
 何でも大丈夫　考えない
 
-まぁでも　I'm sorry　頑張らない
+まぁでも　 I'm sorry 　頑張らない
 
 怎么着都行 没有顾虑
 
 不过嘛 抱歉 我也不会努力
 
-乗るか降りるか　君が選べ　それは君のGAME
+乗るか降りるか　君が選べ　それは君の GAME
 
-生きる俺は　走る　進む　これは俺のGAME
+生きる俺は　走る　進む　これは俺の GAME
 
-要往上还是往下 随你的便 那是你的GAME
+要往上还是往下 随你的便 那是你的 GAME
 
-血性的老子只管奔驰和前进， 这是老子的GAME
+血性的老子只管奔驰和前进， 这是老子的 GAME
 
 当たり前　モテること
 
@@ -234,13 +224,13 @@ x 4
 
 光是说话 就已经激动了吧？
 
-そこの家で寝てるBitch　俺のファン
+そこの家で寝てる Bitch 　俺のファン
 
 時を駆けるませた少女　俺のファン
 
-那边在家睡觉的Bitch 是我的fan
+那边在家睡觉的 Bitch 是我的 fan
 
-和时间赛跑的早熟少女 也是我的fan
+和时间赛跑的早熟少女 也是我的 fan
 
 あ、はーい
 
@@ -250,9 +240,9 @@ x 4
 
 做鬼脸 不听话 打屁屁 呜
 
-やった者勝ち　That's right, that's right
+やった者勝ち　 That's right, that's right
 
-早い者勝ち　That's right, that's right
+早い者勝ち　 That's right, that's right
 
 行动者为王 没错 没错
 
@@ -280,7 +270,7 @@ x 4
 
 正直　何でも良い
 
-Sounds like　パん　パパパパパパパン
+Sounds like 　パん　パパパパパパパン
 
 说真的 怎么着都行
 
@@ -300,37 +290,33 @@ Sounds like 啪 啪啪啪啪啪
 
 [Hook]
 
-
 ### 鈴木真海子 「Contact」
 
-![『DEEP GREEN』](https://wx4.sinaimg.cn/large/e17094f2gy1fi766e93s6j20dw0dwjtq.jpg)
+![『DEEP GREEN』](/images/posts/e17094f2gy1fi766e93s6j20dw0dwjtq.jpg)
 
 『DEEP GREEN』
 
-*Lyrics: 鈴木真海子*
+_Lyrics: 鈴木真海子_
 
-*Track: Supple*
+_Track: Supple_
 
 (歌词欠奉)
 
-
-
-
 ### JAZZ DOMMUNISTERS「あたらしい悲しいお知らせ feat. I.C.I, OMSB」
 
-![『Cupid & Bataille, Dirty Microphone』](https://wx4.sinaimg.cn/large/e17094f2gy1fi768k27ihj20dw0dwwgo.jpg)
+![『Cupid & Bataille, Dirty Microphone』](/images/posts/e17094f2gy1fi768k27ihj20dw0dwwgo.jpg)
 
 『Cupid & Bataille, Dirty Microphone』
 
-*Rap: I.C.I・谷王 (大谷能生) ・ OMSB・N/K (菊地成孔)*
+_Rap: I.C.I・谷王 (大谷能生) ・ OMSB・N/K (菊地成孔)_
 
-*Track: Yusuke Mori*
+_Track: Yusuke Mori_
 
 [I.C.I]
 
-父の仕事の都合でアフリカで育ったので、あたしにとって街中で裸でいることや、踊ることは普通のことだった。彼らは7.0の視力で、月や星座の姿を正確に捉え、それを自分たちの肌に刻んでいた。10進法を使って、つまり10か月に１度、人類学者が砂漠を越えてやっと来ると村人たちはお土産に群がった。それは両極にある二つの白い粉で、一つは「塩」、一つは「砂糖」という名前だった。村人はそれを、大きなタロイモの葉の上にぶちまけてしまい、歌を歌いながら完全に混ぜ合わせると、両手でそれをすくい、貪るように舐め続けた。それがあたしの最初に見たエロチカ。その後あたしは彼に出会い、愛し合う方法として、彼におしえた。
+父の仕事の都合でアフリカで育ったので、あたしにとって街中で裸でいることや、踊ることは普通のことだった。彼らは 7.0 の視力で、月や星座の姿を正確に捉え、それを自分たちの肌に刻んでいた。10 進法を使って、つまり 10 か月に１度、人類学者が砂漠を越えてやっと来ると村人たちはお土産に群がった。それは両極にある二つの白い粉で、一つは「塩」、一つは「砂糖」という名前だった。村人はそれを、大きなタロイモの葉の上にぶちまけてしまい、歌を歌いながら完全に混ぜ合わせると、両手でそれをすくい、貪るように舐め続けた。それがあたしの最初に見たエロチカ。その後あたしは彼に出会い、愛し合う方法として、彼におしえた。
 
-由于父亲工作的缘故我从小在非洲长大，对我来说在街上裸体、跳舞之类的事情可以说是家常便饭。他们凭着7.0的视力准确掌握了月亮和星座的形状，并将其刻在自己的皮肤上。按照十进制计算，每十月一次，人类学家会穿越沙漠来到这里，村民们都会围在他带来的礼物周围。那是两种完全相反的白色粉粒，一种叫“盐”，一种叫“砂糖”。村民将它们倒在巨大的芋头叶上，一边唱着歌一边将其完全搅拌混合，然后用双手捧起来，舔食得津津有味。那就是我最初见识到的情色。后来我遇到了他，并把这一幕作为相爱的方法教给了他。
+由于父亲工作的缘故我从小在非洲长大，对我来说在街上裸体、跳舞之类的事情可以说是家常便饭。他们凭着 7.0 的视力准确掌握了月亮和星座的形状，并将其刻在自己的皮肤上。按照十进制计算，每十月一次，人类学家会穿越沙漠来到这里，村民们都会围在他带来的礼物周围。那是两种完全相反的白色粉粒，一种叫“盐”，一种叫“砂糖”。村民将它们倒在巨大的芋头叶上，一边唱着歌一边将其完全搅拌混合，然后用双手捧起来，舔食得津津有味。那就是我最初见识到的情色。后来我遇到了他，并把这一幕作为相爱的方法教给了他。
 
 [谷王]
 
@@ -338,11 +324,11 @@ Sounds like 啪 啪啪啪啪啪
 
 口を付けず冷たスープ。耳を貸さず閉じた扉。いつもいつも遅れ届き封を切らず捨てる手紙。
 
-空に迷い道に落ちた伝書鳩が告げるはずの5000年の時を越えて君が探す地図の在りか。
+空に迷い道に落ちた伝書鳩が告げるはずの 5000 年の時を越えて君が探す地図の在りか。
 
 一人読んで消した記録。海に捨てた傷の記憶。罪にならぬ罪と嘘にならぬ嘘を重ね歩く。
 
-Fuck死ね死ねばいいむしろ殺す　この豚野郎と口の中で歌うように空に向けて一人祈る。
+Fuck 死ね死ねばいいむしろ殺す　この豚野郎と口の中で歌うように空に向けて一人祈る。
 
 こんにちは。大丈夫。ありがとう。さようなら。当たり前の言葉だけで駅について切れた電話。
 
@@ -354,11 +340,11 @@ Fuck死ね死ねばいいむしろ殺す　この豚野郎と口の中で歌う�
 
 还没喝就已经冷掉的汤。还没听见就关掉的门。总是迟迟寄来未拆封就扔掉的信。
 
-在空中迷失掉落到地上的信鸽 本该传递跨越了5000年时间的你所寻找的地图所在。
+在空中迷失掉落到地上的信鸽 本该传递跨越了 5000 年时间的你所寻找的地图所在。
 
 一人阅过即焚的纪录。扔到海中的伤的记忆。不是罪恶的罪恶与不是谎言的谎言重叠在一起。
 
-Fuck去死死了才好还不如杀掉 口中念叨“这头死猪”如唱歌一样朝着天空独自祈求。
+Fuck 去死死了才好还不如杀掉 口中念叨“这头死猪”如唱歌一样朝着天空独自祈求。
 
 你好。没事。谢谢。再见。到站时挂掉电话就只有这些想当然的语言。
 
@@ -384,11 +370,11 @@ Fuck去死死了才好还不如杀掉 口中念叨“这头死猪”如唱歌一
 
 俺は日常を愛す、life is nice
 
-だがぶち壊したいんだ　diggity slice n dice
+だがぶち壊したいんだ　 diggity slice n dice
 
 神と悪魔、仏と修羅、互い違い
 
-いや　think twiceさ交わす堅い誓い。
+いや　 think twice さ交わす堅い誓い。
 
 我热爱日常 life is nice
 
@@ -414,15 +400,15 @@ I & I you & you 开始发狂
 
 在梦中创作出老掉牙的布鲁斯
 
-1秒と9999秒
+1 秒と 9999 秒
 
 間を彷徨う夢遊病は重度
 
 価値観が距離　マジで“そこ”のみ　苦悩
 
-自分の感覚こそが宗教　u know?
+自分の感覚こそが宗教　 u know?
 
-1秒和9999秒
+1 秒和 9999 秒
 
 在其间徘徊有重度梦游症
 
@@ -432,7 +418,7 @@ I & I you & you 开始发狂
 
 体温　視線　仕草　作るムード
 
-1ミリでも噓なら　声は空洞
+1 ミリでも噓なら　声は空洞
 
 無重力が切なく、刹那は空虚
 
@@ -440,7 +426,7 @@ I & I you & you 开始发狂
 
 体温 视线 举止 制造情绪
 
-哪怕有1毫米谎言 声音也会成为空洞
+哪怕有 1 毫米谎言 声音也会成为空洞
 
 失重难以忍受 刹那成空虚
 
@@ -450,50 +436,41 @@ I & I you & you 开始发狂
 
 [N/K]
 
-母の仕事の都合で、日本で育ったので、街中で裸になったり、踊り出すことは僕にとって異常なことだった。彼らは0.003の視力で、あらゆる動画やテキストを読む、自分の中に貧弱で奇妙な国家と歴史を生み出していた。3進法、つまり600年もかけて、飲むと痛みや苦しさから逃られれる薬品を作ってはそれを飲み続けていたことから、とうとうそれにも飽きてしまい、飲むと、痛みや苦しさが増えす薬を試し始めていた。僕がいたのは、そんな素晴らしい時代だった。夜になると大人たちは、その薬を甘いお酒と一緒に飲んでは、泣いたり苦しみ喘いで誰も寝らなかった。それが僕が最初に見たエロチカ。その後僕は彼女と出会って、彼女にこのことを、愛し合う方法として、教えすぎてしまった。
+母の仕事の都合で、日本で育ったので、街中で裸になったり、踊り出すことは僕にとって異常なことだった。彼らは 0.003 の視力で、あらゆる動画やテキストを読む、自分の中に貧弱で奇妙な国家と歴史を生み出していた。3 進法、つまり 600 年もかけて、飲むと痛みや苦しさから逃られれる薬品を作ってはそれを飲み続けていたことから、とうとうそれにも飽きてしまい、飲むと、痛みや苦しさが増えす薬を試し始めていた。僕がいたのは、そんな素晴らしい時代だった。夜になると大人たちは、その薬を甘いお酒と一緒に飲んでは、泣いたり苦しみ喘いで誰も寝らなかった。それが僕が最初に見たエロチカ。その後僕は彼女と出会って、彼女にこのことを、愛し合う方法として、教えすぎてしまった。
 
-由于母亲工作的缘故我从小在日本长大，对我来说在街上裸体、跳舞之类的事情简直是天方夜谭。他们凭着0.003的视力看着各种各样的视频和文字，在自己心中建立起贫乏却又奇妙的国家和历史。按照三进制计算，600年来， 他们一直制造着能摆脱痛苦的药并不停地喝着， 最后终于腻了，转而开始尝试喝了反而会增加痛苦的药。我所身处的就是那样精彩的一个时代。到了夜里，大人们把那种药和甜酒混在一起喝下，一边哭泣一边痛苦地喘息，谁也不睡觉。那就是我最初见识到的情色。后来我遇到了她，并把这一幕作为相爱的方法，过度地教给了她。
-
-
-
-
+由于母亲工作的缘故我从小在日本长大，对我来说在街上裸体、跳舞之类的事情简直是天方夜谭。他们凭着 0.003 的视力看着各种各样的视频和文字，在自己心中建立起贫乏却又奇妙的国家和历史。按照三进制计算，600 年来， 他们一直制造着能摆脱痛苦的药并不停地喝着， 最后终于腻了，转而开始尝试喝了反而会增加痛苦的药。我所身处的就是那样精彩的一个时代。到了夜里，大人们把那种药和甜酒混在一起喝下，一边哭泣一边痛苦地喘息，谁也不睡觉。那就是我最初见识到的情色。后来我遇到了她，并把这一幕作为相爱的方法，过度地教给了她。
 
 ### Paranel「僕が死んでも誰も気づかない」
 
-![『スーサイド』](https://wx3.sinaimg.cn/large/e17094f2gy1fi76bit0bmj20dw0cgdhz.jpg)
+![『スーサイド』](/images/posts/e17094f2gy1fi76bit0bmj20dw0cgdhz.jpg)
 
 『スーサイド』
 
-*Lyrics: Paranel*
+_Lyrics: Paranel_
 
 （歌词欠奉）
 
-
-
 ### VaVa 「Time Walker」
 
-![『low mind boi』](https://wx3.sinaimg.cn/large/e17094f2gy1fi76c6ple1j20dw0dw40x.jpg)
+![『low mind boi』](/images/posts/e17094f2gy1fi76c6ple1j20dw0dw40x.jpg)
 
 『low mind boi』
 
-*Lyrics: VaVa*
+_Lyrics: VaVa_
 
-*Track: VaVa*
+_Track: VaVa_
 
 (歌词欠奉)
 
+### スチャダラパーと EGO-WRAPPIN' 「ミクロボーイとマグロガール」
 
-
-
-### スチャダラパーとEGO-WRAPPIN' 「ミクロボーイとマグロガール」
-
-![『ミクロボーイとマグロガール』](https://wx2.sinaimg.cn/large/e17094f2gy1fi76cr9p7gj20dw0dwjug.jpg)
+![『ミクロボーイとマグロガール』](/images/posts/e17094f2gy1fi76cr9p7gj20dw0dwjug.jpg)
 
 『ミクロボーイとマグロガール』
 
-*Lyrics：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI*
+_Lyrics：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI_
 
-*Track：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI*
+_Track：M.KOSHIMA・Y.MATSUMOTO・S.MATSUMOTO・YOSHIE NAKANO・MASAKI MORI_
 
 1234 緩急つけてトリッキー
 
@@ -637,42 +614,40 @@ YesYesYa'll とか言っちゃう YO
 
 （翻译欠奉）
 
-
-
 ## 人物介绍
 
-![ISSEI & KOPERU](https://wx4.sinaimg.cn/large/e17094f2gy1fi76e5s7i4j20m80ettj2.jpg)
+![ISSEI & KOPERU](/images/posts/e17094f2gy1fi76e5s7i4j20m80ettj2.jpg)
 
 ISSEI & KOPERU
 
-![TWINKLE+](https://wx1.sinaimg.cn/large/e17094f2gy1fi76j0jtk0j20m80etq9h.jpg)
+![TWINKLE+](/images/posts/e17094f2gy1fi76j0jtk0j20m80etq9h.jpg)
 
 TWINKLE+
 
-![MONYPETZJNKMN](https://wx1.sinaimg.cn/large/e17094f2gy1fi76jcqfb8j20m80eu7ed.jpg)
+![MONYPETZJNKMN](/images/posts/e17094f2gy1fi76jcqfb8j20m80eu7ed.jpg)
 
 MONYPETZJNKMN
 
-![YDIZZY](https://wx3.sinaimg.cn/large/e17094f2gy1fi76jqk66xj20m80euwkn.jpg)
+![YDIZZY](/images/posts/e17094f2gy1fi76jqk66xj20m80euwkn.jpg)
 
 YDIZZY
 
-![鈴木真海子](https://wx1.sinaimg.cn/large/e17094f2gy1fi76k1fa2gj20m80ewdj4.jpg)
+![鈴木真海子](/images/posts/e17094f2gy1fi76k1fa2gj20m80ewdj4.jpg)
 
 鈴木真海子
 
-![JAZZ DOMMUNISTERS](https://wx2.sinaimg.cn/large/e17094f2gy1fi76ke386rj20m80go445.jpg)
+![JAZZ DOMMUNISTERS](/images/posts/e17094f2gy1fi76ke386rj20m80go445.jpg)
 
 JAZZ DOMMUNISTERS
 
-![Paranel](https://wx3.sinaimg.cn/large/e17094f2gy1fi76kndrh4j20m80etgs5.jpg)
+![Paranel](/images/posts/e17094f2gy1fi76kndrh4j20m80etgs5.jpg)
 
 Paranel
 
-![VaVa](https://wx1.sinaimg.cn/large/e17094f2gy1fi76kwbhgsj20m80euafm.jpg)
+![VaVa](/images/posts/e17094f2gy1fi76kwbhgsj20m80euafm.jpg)
 
 VaVa
 
-![スチャダラパー, EGO-WRAPPIN'](https://wx1.sinaimg.cn/large/e17094f2gy1fi76l3dq4jj20m80g1mz9.jpg)
+![スチャダラパー, EGO-WRAPPIN'](/images/posts/e17094f2gy1fi76l3dq4jj20m80g1mz9.jpg)
 
 スチャダラパー, EGO-WRAPPIN'

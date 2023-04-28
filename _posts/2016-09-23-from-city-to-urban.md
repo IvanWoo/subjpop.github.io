@@ -3,7 +3,7 @@ date: 2016-09-23
 title: Vol. 08 From City To Urban・2010年代的 City Pop
 dj: minami
 categories:
-  - brand new band
+    - brand new band
 featured_image: /images/banners/8.jpg
 stream_url: http://www.lizhi.fm/1913563/2558376059315751430
 playlist: |-
@@ -19,52 +19,50 @@ playlist: |-
     10. Lucky Tapes「MOON」（from 2nd album「CIGARETTE & ALCOHOL」2016/07/06）
 
 albums: |-
-  * [「Obscure Ride」](http://ototoy.jp/_/default/p/52326)
-  * [「Obscure Ride」](https://itunes.apple.com/jp/album/picture/id1068330026)
-  * [「PARAISO」](http://ototoy.jp/_/default/p/45060)
-  * [「YASHINOKI HOUSE」](http://ototoy.jp/_/default/p/52090)
-  * [「Awesome City Tracks」](http://mora.jp/package/43000005/NCS-10093/)
-  * [「The Bay」](http://ototoy.jp/_/default/p/53260)
-  * [「CIGARETTE & ALCOHOL」](http://ototoy.jp/_/default/p/63842)
-
+    * [「Obscure Ride」](http://ototoy.jp/_/default/p/52326)
+    * [「Obscure Ride」](https://itunes.apple.com/jp/album/picture/id1068330026)
+    * [「PARAISO」](http://ototoy.jp/_/default/p/45060)
+    * [「YASHINOKI HOUSE」](http://ototoy.jp/_/default/p/52090)
+    * [「Awesome City Tracks」](http://mora.jp/package/43000005/NCS-10093/)
+    * [「The Bay」](http://ototoy.jp/_/default/p/53260)
+    * [「CIGARETTE & ALCOHOL」](http://ototoy.jp/_/default/p/63842)
 ---
+
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
-
 ### Yellow Magus
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f83kh21l1mj20dw0dw0tu.jpg)
 
-*作詞、作曲：荒内佑*
+![img](/images/posts/e17094f2gw1f83kh21l1mj20dw0dw0tu.jpg)
+
+_作詞、作曲：荒内佑_
 
 Yellow Magus Yellow Magus
 
 Yellow Magus Yellow Magus
 
-サーファーたち見送るOcean Liner to nowhere
+サーファーたち見送る Ocean Liner to nowhere
 
-打ち寄せる波はnova
+打ち寄せる波は nova
 
 波止場の女たちのカフスが風に揺れる
 
 冲浪者们目送着 Ocean Liner to nowhere
 
-翻涌的海浪是nova
+翻涌的海浪是 nova
 
 码头上女孩们的袖口也随风摇曳
 
 船出に沸き立つ群衆の声を掻き消し
 
-祝砲をあげろHarbor
+祝砲をあげろ Harbor
 
 その時人知れずに水夫が囁いた
 
 群众们为了启航而欢呼沸腾
 
-呼声在harbor的礼炮中戛然而止
+呼声在 harbor 的礼炮中戛然而止
 
 此时水手在无人处窃窃私语
 
@@ -78,7 +76,7 @@ Yellow Magus Yellow Magus
 
 Last Cruise,that day and that night…
 
-誰もが忘れた船の名はYellow Magus
+誰もが忘れた船の名は Yellow Magus
 
 東方で行方知れず
 
@@ -90,7 +88,7 @@ Last Cruise,that day and that night…
 
 ５色の嘴　もたげてた　あの姿
 
-被人遗忘的船名是Yellow Magus
+被人遗忘的船名是 Yellow Magus
 
 在东方下落不明
 
@@ -140,11 +138,11 @@ See the Light, See the Light 鬼火在沙漠上流窜
 
 飞沙走尘 什么将要来临
 
-Desert Song, Desert Song　フィナーレを迎え入れてくれ
+Desert Song, Desert Song 　フィナーレを迎え入れてくれ
 
 今夜中に砂漠へと渡り
 
-See the Light, See the Light　砂の上を走る鬼火たち
+See the Light, See the Light 　砂の上を走る鬼火たち
 
 光　宿し　うごめいている
 
@@ -166,15 +164,13 @@ See the Light, See the Light 鬼火在沙漠上流窜
 
 Last Cruise, that day and that night…
 
-
-
-
 ### ディスクブラジル (Alone)
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f83knhhmtpj20dw0dwwhy.jpg)
+
+![img](/images/posts/e17094f2gw1f83knhhmtpj20dw0dwwhy.jpg)
 
 **Disco Brazil (Alone)**
 
-*作词、作曲：王舟*
+_作词、作曲：王舟_
 
 不意に今日まで届いてまったね
 
@@ -192,16 +188,13 @@ Last Cruise, that day and that night…
 
 是否遇到了找寻的人？
 
-
-
-
-
 ### Climax Night (album version)
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f83kph4o50j20dw0dw74y.jpg)
 
-*作詞、作曲：カクダテ*
+![img](/images/posts/e17094f2gw1f83kph4o50j20dw0dw74y.jpg)
 
-*編曲：Yogee New waves*
+_作詞、作曲：カクダテ_
+
+_編曲：Yogee New waves_
 
 目が見えなとも 姿形色が分かる
 
@@ -247,25 +240,23 @@ Last Cruise, that day and that night…
 
 随着在你心中刻下的旋律舞动 只是想要恋上自己而已啊
 
-
-
-
 ### ちょっと待ってよ
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f83krm3jr0j20dk0dwjt0.jpg)
+
+![img](/images/posts/e17094f2gw1f83krm3jr0j20dk0dwjt0.jpg)
 
 **稍等一下哟**
 
-*作詞、作曲：安部勇磨*
+_作詞、作曲：安部勇磨_
 
 Ah ちょっと待ってよ
 
-1.2の3で 南の島へ 行ってしまおう
+1.2 の 3 で 南の島へ 行ってしまおう
 
 TOROPICAL LADY 腰振りバンバンバン
 
 Ah 等一下吧
 
-1.2数到3 就往南方的岛屿出发吧
+1.2 数到 3 就往南方的岛屿出发吧
 
 TOROPICAL LADY 扭动腰身 梆梆梆
 
@@ -285,7 +276,7 @@ Ah 海の上 月が揺れて
 
 泳ぐマーメイド
 
- (また会おうね)
+(また会おうね)
 
 Ah 海面上 月亮摇曳着
 
@@ -299,7 +290,7 @@ Ah ちょっと待ってよ
 
 ヤシの木揺れて フラミンゴ踊る
 
-Ah等一下哟
+Ah 等一下哟
 
 波浪之声 将你我紧紧相连
 
@@ -309,7 +300,7 @@ Ah 海の上 月が揺れて
 
 泳ぐマーメイド
 
- (お幸せに)
+(お幸せに)
 
 Ah 海面上 月亮摇曳着
 
@@ -317,16 +308,15 @@ Ah 海面上 月亮摇曳着
 
 祝你幸福哟
 
-
-
 ### 涙の上海ナイト
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f83kw9vh9vj20dw0c6dge.jpg)
+
+![img](/images/posts/e17094f2gw1f83kw9vh9vj20dw0c6dge.jpg)
 
 **泪的上海之夜**
 
-*作词：マツザカタクミ*
+_作词：マツザカタクミ_
 
-*作曲：atagi*
+_作曲：atagi_
 
 病みつき饮茶な热帯夜
 
@@ -342,7 +332,7 @@ Ah 海面上 月亮摇曳着
 
 乡下的阿婆悠闲地喝着茶
 
-Jasmine Girl拼命踩着自行车
+Jasmine Girl 拼命踩着自行车
 
 トン・ナン・シャー・ペー
 
@@ -374,7 +364,7 @@ Jasmine Girl拼命踩着自行车
 
 小笼包也舞动起来
 
-你是漂亮的上海girl
+你是漂亮的上海 girl
 
 卖弄一下火力的厉害吧
 
@@ -384,27 +374,25 @@ Jasmine Girl拼命踩着自行车
 
 それでも素敌な上海ガール
 
-言叶の壁には目と目でeye to eye
+言叶の壁には目と目で eye to eye
 
 無问题 it's alright！！
 
 虽然到处都是我不了解的事
 
-但还是觉得上海girl超级棒
+但还是觉得上海 girl 超级棒
 
 用眼神交流解决语言障碍吧
 
 没问题 it's alright！！
 
-
-
-
 ### YMM
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f83kyynrf1j20f00dn414.jpg)
 
-*作詞：YONCE*
+![img](/images/posts/e17094f2gw1f83kyynrf1j20f00dn414.jpg)
 
-*作曲：Suchmos*
+_作詞：YONCE_
+
+_作曲：Suchmos_
 
 触れてみたい 嗅いでみたい
 
@@ -434,7 +422,7 @@ Everything is green
 
 風を掴める もっと高い所にいたい
 
-Silverのかおり 頭が冴える
+Silver のかおり 頭が冴える
 
 鮮やかな色で塗り潰す
 
@@ -444,7 +432,7 @@ Everything is green
 
 抓住这风 想要去往更高的地方
 
-silver的芬芳 头脑是清醒的
+silver 的芬芳 头脑是清醒的
 
 涂满鲜艳的色彩
 
@@ -462,7 +450,7 @@ She's so cool We cool And you？
 
 Happy brothers get together with M.R.
 
-Grindしたら 心たかぶる
+Grind したら 心たかぶる
 
 Please Let me stand next your fire, Jimi
 
@@ -470,13 +458,13 @@ Please Let me stand next your fire, Jimi
 
 Happy brothers get together with M.R.
 
-grind的话 心中涌起兴奋
+grind 的话 心中涌起兴奋
 
 Please Let me stand next your fire, Jimi
 
 吐息が響く 目線を交わす
 
-こぼれるSmile
+こぼれる Smile
 
 いつも以上に 繋がり合える
 
@@ -484,7 +472,7 @@ Kingdom throne kingdom throne
 
 沉重鼻息 目光交错
 
-溢出的smile
+溢出的 smile
 
 一直像以上这样 紧密连接彼此
 
@@ -498,13 +486,11 @@ I'm so cool He's so cool
 
 She's so cool We cool And you？
 
-
-
-
 ### MOON
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f83l1a9zmqj20dc0dct9p.jpg)
 
-*作詞、作曲：高橋海*
+![img](/images/posts/e17094f2gw1f83l1a9zmqj20dc0dct9p.jpg)
+
+_作詞、作曲：高橋海_
 
 不安が押し寄せても眠れるように
 
@@ -542,7 +528,7 @@ She's so cool We cool And you？
 
 无论何时 总是两人一起嬉笑
 
-随意地KISS
+随意地 KISS
 
 心醉沉迷
 
@@ -582,7 +568,7 @@ She's so cool We cool And you？
 
 无论何时 总是两人一起嬉笑
 
-随意地KISS
+随意地 KISS
 
 心醉沉迷
 

@@ -3,26 +3,25 @@ date: 2018-01-26
 title: Vol. 38 摩登而怀旧・多才而平凡：嘻哈天才PUNPEE
 dj: minami
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/38.jpg
 stream_url: https://www.lizhi.fm/1913563/2649306396758064646
 playlist: |-
-  1. PUNPEE「2057」(from 1st album『Modern Times』2017/10/04) 
-  2. PUNPEE「Lovely Man」(from 1st album『Modern Times』2017/10/04)  
-  3. PUNPEE「宇宙に行く」(from 1st album『Modern Times』2017/10/04) 
-  4. 🎙️
-  5. PUNPEE「Renaissance」(from 1st album『Modern Times』2017/10/04) 
-  6. PUNPEE「Scenario (Film)」(from 1st album『Modern Times』2017/10/04)
-  7. 🎙️
-  8. PUNPEE「タイムマシーンにのって」(from 1st album『Modern Times』2017/10/04)
-  9. PUNPEE「Hero」(from 1st album『Modern Times』2017/10/04) 
-  10. 🎙️
-  11. Sugbabe「夏休み (宵) feat. PUNPEE」(from rental album『RENTAL’S』2017/09/20)
+    1. PUNPEE「2057」(from 1st album『Modern Times』2017/10/04) 
+    2. PUNPEE「Lovely Man」(from 1st album『Modern Times』2017/10/04)  
+    3. PUNPEE「宇宙に行く」(from 1st album『Modern Times』2017/10/04) 
+    4. 🎙️
+    5. PUNPEE「Renaissance」(from 1st album『Modern Times』2017/10/04) 
+    6. PUNPEE「Scenario (Film)」(from 1st album『Modern Times』2017/10/04)
+    7. 🎙️
+    8. PUNPEE「タイムマシーンにのって」(from 1st album『Modern Times』2017/10/04)
+    9. PUNPEE「Hero」(from 1st album『Modern Times』2017/10/04) 
+    10. 🎙️
+    11. Sugbabe「夏休み (宵) feat. PUNPEE」(from rental album『RENTAL’S』2017/09/20)
 
 albums: |-
-  * [「Modern Times」](https://ototoy.jp/_/default/p/83937)
-  * [「Modern Times」](https://itunes.apple.com/cn/album/modern-times/1291839477)
-
+    * [「Modern Times」](https://ototoy.jp/_/default/p/83937)
+    * [「Modern Times」](https://itunes.apple.com/cn/album/modern-times/1291839477)
 ---
 
 <!-- hide excerpt -->
@@ -31,17 +30,17 @@ albums: |-
 
 ## 歌词及翻译（必有错漏，欢迎指正）：
 
-![PUNPEE『Modern Times』](https://wx1.sinaimg.cn/large/e17094f2ly1fnsf76q7oyj20ii0ggdjc.jpg)
+![PUNPEE『Modern Times』](/images/posts/e17094f2ly1fnsf76q7oyj20ii0ggdjc.jpg)
 
 PUNPEE『Modern Times』
 
-![PUNPEE『Modern Times』](https://wx1.sinaimg.cn/large/e17094f2ly1fnsfdsgwaoj20m809sthc.jpg)
+![PUNPEE『Modern Times』](/images/posts/e17094f2ly1fnsfdsgwaoj20m809sthc.jpg)
 
 PUNPEE『Modern Times』
 
 ### PUNPEE「2057」
 
-*Scripted by PUNPEE / Music by PUNPEE / 40年后的PUNPEE by 麻生智久*
+_Scripted by PUNPEE / Music by PUNPEE / 40 年后的 PUNPEE by 麻生智久_
 
 んああぁ..
 
@@ -57,17 +56,15 @@ PUNPEE『Modern Times』
 
 あのストリートの顔役も朝のニュースの顔になり、今をときめくあのラッパー、そいつの親父もまだこんなシャバ僧だった。ああいやぁ、こりゃ書くなよ。あの老いぼれすぐ怒るからなぁ。自分もそんな星の数いるラッパー達をかき分けて我先にっ…簡単な理由だよ。危なっかしくも勇敢で冒険の日々の連続。他の物は目に入らない真っ直ぐな男だった。
 
-最初的街坊间的小明星，现在也成了早间新闻里的人物，成了闪闪发光的rapper，这家伙的老爸当时也还是个傻了吧唧的愣头青呢。哎呀，这个不要写哟，不然那老糊涂会马上生气的。我也是在多如繁星的rapper之中推推挤挤、拼命扒拉着往前……理由很简单，因为咱就是那样一个不惧危难、勇敢地过着每天冒险的生活、一旦认准了目标就心无旁骛的率真男子。
+最初的街坊间的小明星，现在也成了早间新闻里的人物，成了闪闪发光的 rapper，这家伙的老爸当时也还是个傻了吧唧的愣头青呢。哎呀，这个不要写哟，不然那老糊涂会马上生气的。我也是在多如繁星的 rapper 之中推推挤挤、拼命扒拉着往前……理由很简单，因为咱就是那样一个不惧危难、勇敢地过着每天冒险的生活、一旦认准了目标就心无旁骛的率真男子。
 
 おお、中身の話だったなぁ。　ああ、確かあの始まりの曲は…
 
 噢噢，这都是接下来得细说的事了呐。啊啊，开头的那首歌好像是......
 
-
-
 ### PUNPEE「Lovely Man」
 
-*Scripted by PUNPEE / Music by Nottz / Additional Chorus by パンピーこども探偵団*
+_Scripted by PUNPEE / Music by Nottz / Additional Chorus by パンピーこども探偵団_
 
 ※
 
@@ -79,7 +76,7 @@ PUNPEE『Modern Times』
 
 支度して LA LA LA ケツしめて LA LA LA
 
-到时间了快起床哟 这懒鬼总是在赖床哟 
+到时间了快起床哟 这懒鬼总是在赖床哟
 
 收拾准备 LALALA 夹紧屁股 LALALA
 
@@ -89,9 +86,9 @@ PUNPEE『Modern Times』
 
 はいはい まぁご存知の通り 見た目も中身もまぁ覇気がない
 
-はしにも棒にも引っかからずに男だか女か 
+はしにも棒にも引っかからずに男だか女か
 
-それもわからない あ Pです
+それもわからない あ P です
 
 何につけてもとんずらゲーム すぐ言い訳 考えエモい曲でごまかしてる
 
@@ -99,7 +96,7 @@ PUNPEE『Modern Times』
 
 やれって言われるとやる気でね 何も言われなきゃ 少し焦る
 
-別に俺なんかいなくてもね KOHH君, tofubeats, 弟とかがいる!!! そんじゃ二度寝
+別に俺なんかいなくてもね KOHH 君, tofubeats, 弟とかがいる!!! そんじゃ二度寝
 
 救いようってのが俺にもしなきゃ 板橋区でのたれ死ぬパンピー氏
 
@@ -109,7 +106,7 @@ PUNPEE『Modern Times』
 
 软硬不吃 给人感觉不男不女
 
-啊 说的就是在下P
+啊 说的就是在下 P
 
 一有事发生就玩跑路 马上找借口 用自我感动的曲子来掩饰
 
@@ -117,9 +114,9 @@ PUNPEE『Modern Times』
 
 被人要求去做的事话提不起干劲 但别人什么都不说的话又有点焦虑
 
-反正就算没有我 也有KOHH、tofubeats、弟弟他们在（译注：PUNPEE的亲弟，说唱歌手slack）这么一想，那就睡个回笼觉吧
+反正就算没有我 也有 KOHH、tofubeats、弟弟他们在（译注：PUNPEE 的亲弟，说唱歌手 slack）这么一想，那就睡个回笼觉吧
 
-自我拯救一下什么的也从来没想过 板桥区横尸街头的PUNPEE氏
+自我拯救一下什么的也从来没想过 板桥区横尸街头的 PUNPEE 氏
 
 最近真的太闲了 不如就来做张专辑玩玩
 
@@ -131,11 +128,11 @@ repeat ※
 
 実はあのヒッキーと共演した日を機に 生きる気が死んだのだ こもり引き (:D)┼─┤
 
-3ヶ月くらいかな よくできた話 この世界はきっと仮想現実
+3 ヶ月くらいかな よくできた話 この世界はきっと仮想現実
 
-思春期の自分のシンボルへ多元宇宙がエスコート　
+思春期の自分のシンボルへ多元宇宙がエスコート
 
-今みてるリーフのComics SF MOVIE 妄想癖がドレスコード
+今みてるリーフの Comics SF MOVIE 妄想癖がドレスコード
 
 見渡す限り皮肉なこんな世界じゃ 皮肉な曲は笑えないしな
 
@@ -145,25 +142,23 @@ repeat ※
 
 看来得摘了眼镜染个头发吧 就我这样子谁都不会留意啊
 
-其实在跟HIKKI共演之后 更是觉得死了也无所谓了 就在家里宅着 (:D)┼─┤
+其实在跟 HIKKI 共演之后 更是觉得死了也无所谓了 就在家里宅着 (:D)┼─┤
 
 有三个月吧 常有的事了 这世界一定是虚拟现实
 
-多重宇宙守护 朝着青春期时自己的Symbol
+多重宇宙守护 朝着青春期时自己的 Symbol
 
-现在看着的活页纸上的Comics SF MOVIE 妄想癖是dress code
+现在看着的活页纸上的 Comics SF MOVIE 妄想癖是 dress code
 
 在放眼望去充满讽刺的这个世界里 讽刺的歌曲可让人笑不出来呐
 
 装出一副可怜样儿 博取一下同情 好啦 这就是故事的开始
 
-
-
 ### PUNPEE「宇宙に行く」
 
 **前往宇宙**
 
-*Scripted by PUNPEE / Music by PUNPEE*
+_Scripted by PUNPEE / Music by PUNPEE_
 
 ※
 
@@ -175,7 +170,7 @@ repeat ※
 
 飞往宇宙 带着你一起 地球上的种种 就随便它们去吧
 
-宇宙へ飛んでけ (魂胆はなし) 
+宇宙へ飛んでけ (魂胆はなし)
 
 宇宙へ飛んでけ 恋せよ乙女達
 
@@ -185,7 +180,7 @@ repeat ※
 
 オートファクシミリ オートファクシミリ
 
-ファクシミリ 転送する 感情のメッセージをホログラフのデータで ドゥドゥドゥ♪
+ファクシミリ 転送する 感情のメッセージをホログラフのデータで ドゥドゥドゥ ♪
 
 トルティーヤはじめ 全てが急成長の分野で楽しみ
 
@@ -205,7 +200,7 @@ Auto-facsimile auto-facsimile （自动传真）
 
 Auto-facsimile auto-facsimile
 
-发送传真 用全息影像传送情感讯息 嘟嘟嘟♪♪♪
+发送传真 用全息影像传送情感讯息 嘟嘟嘟 ♪♪♪
 
 开始烙煎饼 各方面的急速成长让人感受到乐趣
 
@@ -221,7 +216,7 @@ repeat ※
 
 今朝のニュースもスキャンダルばっか並んで つまんね
 
-宇宙は僕らを いざなってくれるのにDAMN
+宇宙は僕らを いざなってくれるのに DAMN
 
 自分のケツ穴追うトムとジェリーみたいです
 
@@ -233,11 +228,11 @@ repeat ※
 
 就像是追逐着自己屁眼的猫和老鼠一般
 
-エイリアン達がもし 襲ってくれたら 地球はひとつになるかもしれね 
+エイリアン達がもし 襲ってくれたら 地球はひとつになるかもしれね
 
 そんじゃクラウドファンディングでも立ち上げて でっち上げ宇宙人作ろうかしら
 
-肌がGreen 膣が3つある女子たちとポテトチップス Netflixで 無重力
+肌が Green 膣が 3 つある女子たちとポテトチップス Netflix で 無重力
 
 これからと言う時に またエマージェンシー 宇宙でも結局戦争なっちゃうじゃん
 
@@ -245,31 +240,29 @@ repeat ※
 
 这样话不如成立个众筹 捏造宇宙人的情报吧
 
-有着绿色肌肤三条阴.道的女人们 还有薯片 Netflix无重力
+有着绿色肌肤三条阴.道的女人们 还有薯片 Netflix 无重力
 
 接下来就该是再次进入紧急事态 最后升级到宇宙大战
 
-僕は役立たずのロボット これは最後のミッション 
+僕は役立たずのロボット これは最後のミッション
 
 終えても 地球には二度と戻れないよ Oh
 
-家族みなでいった 寿司BARを思い出して寝るよ 
+家族みなでいった 寿司 BAR を思い出して寝るよ
 
 遠く果てのない宇宙で 宇宙になるよ Oh
 
-我是没用的机器人 这是最后的任务 
+我是没用的机器人 这是最后的任务
 
 即使顺利完成 也再也回不到地球了 Oh
 
-回忆着全家一起去过的寿司bar 沉沉入睡
+回忆着全家一起去过的寿司 bar 沉沉入睡
 
 在遥远无际的宇宙里 与它合而为一 Oh
 
-
-
 ### PUNPEE「Renaissance」
 
-*Scripted by PUNPEE、Sugbabe / Music by PUNPEE*
+_Scripted by PUNPEE、Sugbabe / Music by PUNPEE_
 
 ※
 
@@ -277,23 +270,23 @@ repeat ※
 
 少しだけ微量の閃光が差せば全て変わるから
 
-それはRenaissance, Renaissanceお目にかかるよ
+それは Renaissance, Renaissance お目にかかるよ
 
-君のRenaissance じゃあさ 作り出そう
+君の Renaissance じゃあさ 作り出そう
 
 你闭塞的大脑中
 
 只要灵光微微一闪 一切就都会改变
 
-那便是Renaissance, 与Renaissanc相遇吧
+那便是 Renaissance, 与 Renaissanc 相遇吧
 
-创造出你的Renaissance吧
+创造出你的 Renaissance 吧
 
 大きな海原にデッカイお宝を探しに
 
 だけど ほんと見つからない
 
-ふてくされ砂浜でイジケChilling 孤独だ
+ふてくされ砂浜でイジケ Chilling 孤独だ
 
 我ら偉大で滑稽な暇人
 
@@ -301,15 +294,15 @@ repeat ※
 
 あの有名なエジソンもアインシュタインも暇人
 
-レノンも暇すぎてImagine
+レノンも暇すぎて Imagine
 
 机上の空論にフッと息をかけ
 
 暗闇に光を注ぐ これじゃ想像妊娠
 
-ヨチヨチもいつのまに話題だけ独り歩きさ   
+ヨチヨチもいつのまに話題だけ独り歩きさ
 
-いつもと同じ壁を眺め 
+いつもと同じ壁を眺め
 
 批評家や女子のウケを考えつくよりさ
 
@@ -327,7 +320,7 @@ repeat ※
 
 著名的爱迪生和爱因斯坦也是闲人
 
-列侬也是因为太闲了所以才会imagine
+列侬也是因为太闲了所以才会 imagine
 
 忽地对着纸上谈兵的幻想呵口气
 
@@ -345,39 +338,39 @@ repeat ※
 
 repeat ※
 
-安物のカウチの香り 
+安物のカウチの香り
 
 コンビニのインスタントコーヒーを
 
-くゆらせて一人気取る 
+くゆらせて一人気取る
 
 つまり大切なのは気の持ちようだ たぶん
 
-捻り出してくものじゃないんだ 
+捻り出してくものじゃないんだ
 
 酔った明け方に自然に開くさ
 
-捻り出してくものじゃないんだ 
+捻り出してくものじゃないんだ
 
 どうしてもなら リンゴでもかじれば
 
-Clubで最初に聞いた自分の
+Club で最初に聞いた自分の
 
-Beatのショボさ 悔しさは今も忘れない
+Beat のショボさ 悔しさは今も忘れない
 
-あと尊敬する人に自分のBeatを
+あと尊敬する人に自分の Beat を
 
 賞賛された日も忘れるわけがない
 
-大きな海原で財宝は 結果見当たらない 
+大きな海原で財宝は 結果見当たらない
 
 イジケて砂浜に作ったオブジェ
 
 意外と自分らしくていいじゃん いいじゃん
 
-Coach的便宜香氛
+Coach 的便宜香氛
 
-冲着便利店的速溶咖啡 
+冲着便利店的速溶咖啡
 
 独自一人拿捏着情调
 
@@ -391,11 +384,11 @@ Coach的便宜香氛
 
 如果非要干点啥，那不如去咬一口苹果吧
 
-最初在club听到自己做的寒酸beat
+最初在 club 听到自己做的寒酸 beat
 
 那种不甘 至今无法忘怀
 
-后来我做的beat被尊敬的人赞赏
+后来我做的 beat 被尊敬的人赞赏
 
 那一天也无法忘怀
 
@@ -405,11 +398,9 @@ Coach的便宜香氛
 
 意外地很有自我风格 不是挺好嘛 不是挺好嘛
 
-
-
 ### PUNPEE「Scenario (Film)」
 
-*Scripted by PUNPEE, Sugbabe / Music by A$AP P on the boards / Additional Key by Natsuhiko Muraoka*
+_Scripted by PUNPEE, Sugbabe / Music by A$AP P on the boards / Additional Key by Natsuhiko Muraoka_
 
 ※
 
@@ -417,15 +408,15 @@ Baby, Baby 今もし君が そのセリフを口にすれば
 
 このドラマの視聴率はまた
 
-下がるから 後にしとこう 
+下がるから 後にしとこう
 
 この続きは 未だ書き途中だ
 
 できれば...その話は是非フィナーレに…と思う
 
-Baby，Baby 若你现在说出那句台词 
+Baby，Baby 若你现在说出那句台词
 
-这部电视剧的收视率就又要下降了 
+这部电视剧的收视率就又要下降了
 
 所以再等等吧
 
@@ -439,7 +430,7 @@ Baby，Baby 若你现在说出那句台词
 
 その....君は 人気女優みたいに ほらまた"恋してる自分"に恋してる
 
-趣味悪いiPhoneケース持って くすぶってる僕にしびれを切らせてる
+趣味悪い iPhone ケース持って くすぶってる僕にしびれを切らせてる
 
 だけどさ Sorry 誰しもが 見たくないよ 負け犬の自伝映画
 
@@ -457,7 +448,7 @@ Baby，Baby 若你现在说出那句台词
 
 那个......你就像是人气女演员 这不 又爱上了“恋爱中的自己”
 
-我拿着恶趣味的iPhone手机壳 等得焦躁 头上冒烟
+我拿着恶趣味的 iPhone 手机壳 等得焦躁 头上冒烟
 
 但是呢 sorry 任谁也不想看呀 丧家犬的自传电影
 
@@ -467,19 +458,19 @@ Baby，Baby 若你现在说出那句台词
 
 那些嘲笑你着的没脑子的围观群众 也是这部电影里的临时演员
 
-人生是只有一次的no-cut  垃圾般的人生大概就和烂片一样
+人生是只有一次的 no-cut 垃圾般的人生大概就和烂片一样
 
 repeat ※
 
-最近 少し秘密が増えたよな 
+最近 少し秘密が増えたよな
 
 でも見たいのは ディレクターズカット
 
-僕は第四の壁越しに 
+僕は第四の壁越しに
 
 いもしない客に愚痴こぼしてさ Crazy!!!
 
-君はベイビーホリデイ 僕は呼ぶ 
+君はベイビーホリデイ 僕は呼ぶ
 
 僕の仕事は休日も平日 だからか
 
@@ -487,7 +478,7 @@ repeat ※
 
 最終回に近づいてくまで ピークはダメダメ 作ったらダメ
 
-だけどあの娘にとってはね 今日が最終回 
+だけどあの娘にとってはね 今日が最終回
 
 打ち切りなら冗談じゃねーって ダメだ
 
@@ -499,53 +490,51 @@ repeat ※
 
 アナログ盤みたいにね 傷も味になればいい そうだね だからこのまま
 
-最近多了一些小秘密呐  
+最近多了一些小秘密呐
 
-但是想看的是Director’s Cut
+但是想看的是 Director’s Cut
 
 我越过第四面墙（译注：戏剧术语，指剧中人物和剧外观众直接沟通）
 
 对不可爱的观众发牢骚 Crazy！！！
 
-你是Baby Holiday 我呼唤你
+你是 Baby Holiday 我呼唤你
 
-无论工作日还是休息日 我都要工作 
+无论工作日还是休息日 我都要工作
 
 所以见你那天就是假日 你就是我的假日 Baby Holiday
 
-在最终章临近之前 不可以有Peak 不能制造Peak
+在最终章临近之前 不可以有 Peak 不能制造 Peak
 
 然而对于那个姑娘来说 今天就是最后一集了
 
 别开玩笑说要腰斩什么的 不要啊
 
-焦躁不安 Metallica响彻车库  ahhhgh
+焦躁不安 Metallica 响彻车库 ahhhgh
 
-播着System Of A Down 行尸走肉一般......
+播着 System Of A Down 行尸走肉一般......
 
 时间会以各种各样的形式 试着在我们身上留下伤痕
 
-但就像黑胶唱片一样 让伤口变成别有的风味就好了 
+但就像黑胶唱片一样 让伤口变成别有的风味就好了
 
 是啊 所以 就这样吧
 
 repeat ※
 
-
-
 ### PUNPEE「タイムマシーンにのって」
 
 **乘上时光机**
 
-*Scripted by PUNPEE, Sugbabe / Music by PUNPEE*
+_Scripted by PUNPEE, Sugbabe / Music by PUNPEE_
 
 人はこれって時にどうしても 時間を戻せたらとか言うね
 
-でも誰も直せないか 直せないんだなぁ 
+でも誰も直せないか 直せないんだなぁ
 
 昔からそうだし まぁしょうがないねぇ
 
-きっと先は不確定 不安定 
+きっと先は不確定 不安定
 
 でもお行儀よくじゃつまんないね
 
@@ -555,7 +544,7 @@ repeat ※
 
 人在这种时候总会说「如果时间能够倒流的话......」
 
-可是任谁也回不去 回不去的哟 
+可是任谁也回不去 回不去的哟
 
 古往今来都是这样 没有办法呀
 
@@ -605,7 +594,7 @@ ha どこをどうやってもね
 
 ピースサイン伝えてる今のとこいい調子
 
-青春の1ページも たったの1ページで
+青春の 1 ページも たったの 1 ページで
 
 自慢の人生のハイライトも
 
@@ -625,7 +614,7 @@ Ha 不管在哪里做着什么
 
 透过镜头 面向未来
 
-V字手势传达着现在还不错的状态
+V 字手势传达着现在还不错的状态
 
 青春的一页 也不过就只是一页
 
@@ -677,7 +666,7 @@ Honiaramuniarakapopoko
 
 大家总是郁郁寡欢闷闷不乐
 
-被截止期追赶着创造历史 
+被截止期追赶着创造历史
 
 极力去掩饰软弱
 
@@ -747,7 +736,7 @@ repeat ※
 
 回到父母相遇的那天（译注：电影《回到未来》的情节）
 
-给后面的Jocks倒上酒
+给后面的 Jocks 倒上酒
 
 儿子亲自来给你们制造机会喽
 
@@ -765,33 +754,31 @@ repeat ※
 
 「Thanks for my family and friends. 但好戏接下来才要开始喔」
 
-
-
 ### PUNPEE「HERO」
 
-*Scripted by PUNPEE / Music by PUNPEE*
+_Scripted by PUNPEE / Music by PUNPEE_
 
 ※
 
-僕は君のHero よく無責任にそういうけれど
+僕は君の Hero よく無責任にそういうけれど
 
 僕はいたって普通の エキストラみたいな存在で
 
 だけど君は言うよ でもヒロインがそういうならば
 
-つまり僕はHero 僕は君のHero
+つまり僕は Hero 僕は君の Hero
 
-我是你的Hero 虽然是超不负责的那种
+我是你的 Hero 虽然是超不负责的那种
 
 我是最普通的 如同群演一般的存在
 
-但你说 如果Heroine是那样的话
+但你说 如果 Heroine 是那样的话
 
-那么我就是Hero 我就是你的Hero
+那么我就是 Hero 我就是你的 Hero
 
 ガキの頃憧れたスーパーヒーローみたいにドンピシャじゃないけど登場
 
-知ったかサブカル長男PUNPEEっす 板橋の傭兵からの饒舌 炸裂
+知ったかサブカル長男 PUNPEE っす 板橋の傭兵からの饒舌 炸裂
 
 昼はだらしない前髪たらして 裸眼でコンビニの店番さ
 
@@ -799,23 +786,23 @@ repeat ※
 
 現実に打ちのめされて フラッシュトンプソンに彼女をもってかれ
 
-バイト代はネガティブなゾーンへ まるでMad max 輸血袋 最低
+バイト代はネガティブなゾーンへ まるで Mad max 輸血袋 最低
 
 だけど眼下に広がる闇夜の街をぽつんと覗くと ワクワクするのさ
 
 やらかせることなら沢山あんじゃん オイタするくらいにフレームオン!
 
-虽然并没有像孩童时期憧憬的超级英雄那样闪亮登场 
+虽然并没有像孩童时期憧憬的超级英雄那样闪亮登场
 
-认识我吗 在下是亚文化长男PUNPEE 来自板桥的佣兵的饶舌 炸裂
+认识我吗 在下是亚文化长男 PUNPEE 来自板桥的佣兵的饶舌 炸裂
 
-白天遮着邋遢的刘海 不戴眼镜在便利店当收银员 
+白天遮着邋遢的刘海 不戴眼镜在便利店当收银员
 
 但到了晚上就戴上护目镜 为了柔弱的路易斯莱恩（译注：超人的女朋友） 向着黑暗的街道进发
 
 被现实狠狠击败 被闪电汤普森抢走女朋友
 
-打工赚的钱都流入了负空间 简直是Mad max 输血袋 最糟
+打工赚的钱都流入了负空间 简直是 Mad max 输血袋 最糟
 
 但独自一人窥视眼前延伸出的黑暗大街时 却心潮澎湃
 
@@ -825,17 +812,17 @@ repeat ※
 
 少し耳を傾けて 彼らの言うことに目を向けて キリが無いんだもう。。
 
-彼女もペットもあの教授もみんなスーパーヒーローじゃ気が滅入る 
+彼女もペットもあの教授もみんなスーパーヒーローじゃ気が滅入る
 
-手垢にまみれたシナリオ達をピクニック中にVillainがまたも阻む 
+手垢にまみれたシナリオ達をピクニック中に Villain がまたも阻む
 
 Shazam! kimota! 輝ける日の下も。。。って
 
-決まり文句もクソダルいよ!(Stanもnuffsaid,,,)
+決まり文句もクソダルいよ!(Stan も nuffsaid,,,)
 
 投票の結果とっとと爆死 骨抜きもアダマンチニウムじゃ辛い
 
-Thorの妹もimage違い 日本にYashidaやsazaeなんかはいない
+Thor の妹も image 違い 日本に Yashida や sazae なんかはいない
 
 クローンと鉢合っちゃったり でもそのクローン自体がモノホンだったり
 
@@ -847,9 +834,9 @@ Thorの妹もimage違い 日本にYashidaやsazaeなんかはいない
 
 人生のハイライトが表紙になれば いやでも背表紙に値段が載る
 
-だから しくじってもそのうちの1ページさIt's clobberin timeさ right? bub
+だから しくじってもそのうちの 1 ページさ It's clobberin time さ right? bub
 
-（↑  ↑  ↑
+（↑ ↑ ↑
 
 美漫梗太多
 
@@ -863,21 +850,21 @@ Thorの妹もimage違い 日本にYashidaやsazaeなんかはいない
 
 だけど君は言うよ でもヒロインがそういうならば
 
-つまり僕はHero 僕は君のHero
+つまり僕は Hero 僕は君の Hero
 
 与别人相比 谁都不会觉得自己是最好的
 
 所以不去比较比较好 也许这才是问题所在
 
-但你说 如果Heroine是那样的话
+但你说 如果 Heroine 是那样的话
 
-那么我就是Hero 我就是你的Hero
+那么我就是 Hero 我就是你的 Hero
 
-実は昔Heroはこの世に実際居て でも色々あってどこかに消えた
+実は昔 Hero はこの世に実際居て でも色々あってどこかに消えた
 
 僕らは記憶を消され かすかな記憶達がコミックになり残った
 
-この曲は唯一それを覚えてた PUNPEEから君に送るメッセージさ
+この曲は唯一それを覚えてた PUNPEE から君に送るメッセージさ
 
 偉い人に化けた異星人が 想像力を惰性で流そうと目論んでる! ってまた。。。
 
@@ -889,11 +876,11 @@ Thorの妹もimage違い 日本にYashidaやsazaeなんかはいない
 
 灰色の世界にひらめきを 夢のような暇つぶしを つくりだそうぜ Hero
 
-事实上Hero确实在这世上存在过 但因为各种原因消失了
+事实上 Hero 确实在这世上存在过 但因为各种原因消失了
 
 我们的记忆被消除 只有少量记忆还残存在漫画中
 
-这首歌是唯一记得那些的PUNPEE发送给你们的Message
+这首歌是唯一记得那些的 PUNPEE 发送给你们的 Message
 
 外星人伪装成伟大的家伙们 企图再次用惰性来摧毁想象力
 
@@ -905,18 +892,15 @@ Thorの妹もimage違い 日本にYashidaやsazaeなんかはいない
 
 快创造出如梦般的休闲品 让这灰色的世界闪闪发光吧 Hero
 
-
-
-
 ### Sugbabe「夏休み（宵）feat.PUNPEE」
 
-![PUNPEE『RENTAL’S』](https://wx3.sinaimg.cn/large/e17094f2ly1fnsf7rvzexj20ii0ib794.jpg)
+![PUNPEE『RENTAL’S』](/images/posts/e17094f2ly1fnsf7rvzexj20ii0ib794.jpg)
 
 PUNPEE『RENTAL’S』
 
 **暑假（入夜）**
 
-*Lyrics / Music by PUNPEE, Sugbabe*
+_Lyrics / Music by PUNPEE, Sugbabe_
 
 こっちじゃさぁ
 
@@ -938,13 +922,13 @@ PUNPEE『RENTAL’S』
 
 夏の夜は長くはない
 
-PSPは今必要ないでしょ
+PSP は今必要ないでしょ
 
 でもふっとしたとき暇になるの
 
 雨の終わりに..
 
-夏夜并不漫长 如今也无需PSP了吧
+夏夜并不漫长 如今也无需 PSP 了吧
 
 却在不经意间有了空闲 在雨停之时
 
@@ -966,7 +950,7 @@ PSPは今必要ないでしょ
 
 夏座敷の上 未だ寝ころんでる
 
-見上げた草木の下 
+見上げた草木の下
 
 想いにふけっちゃってる
 
@@ -1048,16 +1032,14 @@ PSPは今必要ないでしょ
 
 总而言之暑假时光 不会消失于这世间
 
-虽然很快就会变冷  一时不会再热起来
+虽然很快就会变冷 一时不会再热起来
 
 你看哟 这最美好的瞬间 拖着袖子转眼间就不见
 
 一直等待的烟火也快要 消失于即将破晓的夜空
 
-
-
 ## 人物介绍：
 
-![img](https://wx2.sinaimg.cn/large/e17094f2ly1fnti8i5mfjj20m80eu40k.jpg)
+![img](/images/posts/e17094f2ly1fnti8i5mfjj20m80eu40k.jpg)
 
 PUNPEE / Sugababe = 高田智央 (1984.03.26)

@@ -3,7 +3,7 @@ date: 2016-09-09
 title: Vol. 06 森林中的现代音乐少女・Maison Book Girl
 dj: marusan
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/6.jpg
 stream_url: http://www.lizhi.fm/1913563/2555606984380017670
 playlist: |-
@@ -20,11 +20,10 @@ playlist: |-
     11. Maison book girl「blue light」（from 1st EP「summer continue」2015/03/30）
 
 albums: |-
-  * [「bathroom」](http://ototoy.jp/_/default/p/56209)
-  * [「summer continue」](http://ototoy.jp/_/default/p/61520)
-  * [「14才のおしえて」](http://ototoy.jp/_/default/p/57974)
-  * [「最後の猫工場」](http://mora.jp/package/43000074/TCJPR0000129848)
-
+    * [「bathroom」](http://ototoy.jp/_/default/p/56209)
+    * [「summer continue」](http://ototoy.jp/_/default/p/61520)
+    * [「14才のおしえて」](http://ototoy.jp/_/default/p/57974)
+    * [「最後の猫工場」](http://mora.jp/package/43000074/TCJPR0000129848)
 ---
 
 <!-- hide excerpt -->
@@ -33,12 +32,11 @@ albums: |-
 
 （这次林少华式的诗词翻得尤为吃力，必有错漏，欢迎探讨指正）
 
-
-
 ### bath room
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f7ne1cv4mej20dw0dwjs3.jpg)
 
-*作词／作曲／编曲：樱井健太*
+![img](/images/posts/e17094f2gw1f7ne1cv4mej20dw0dwjs3.jpg)
+
+_作词／作曲／编曲：樱井健太_
 
 [verse 1]
 
@@ -68,7 +66,7 @@ albums: |-
 
 真实的事物逐渐变得模糊。
 
-bath room里编织了谎言的少女们，在看着什么呢？
+bath room 里编织了谎言的少女们，在看着什么呢？
 
 「もう忘れたの？」／「まだ覚えてる？」
 
@@ -76,11 +74,11 @@ bath room里编织了谎言的少女们，在看着什么呢？
 
 [chorus 1]
 
-falling girl　深い森の中に潜む
+falling girl 　深い森の中に潜む
 
 鳥の声に引きずられてゆくの。
 
-falling girl　深く連れ去られていった
+falling girl 　深く連れ去られていった
 
 悲しみだけ、落とし物の様に。
 
@@ -110,11 +108,11 @@ falling girl 被带往深处去
 
 [chorus 2]
 
-falling girl　君を救えなかったから、
+falling girl 　君を救えなかったから、
 
 同じ事を繰り返すだけなの。
 
-falling girl　二度と交わわせない約束。
+falling girl 　二度と交わわせない約束。
 
 絶望の中、美しい笑顔で。
 
@@ -132,10 +130,9 @@ falling girl 约定再不会交错。
 
 [verse 1]
 
-
 ### my cut
 
-*作词／作曲／编曲：樱井健太*
+_作词／作曲／编曲：樱井健太_
 
 去って行った一人の少女。偶像、思想。
 
@@ -185,13 +182,13 @@ falling girl 约定再不会交错。
 
 [chorus 2]
 
-何故か15年前の事思い出してしまうのは、
+何故か 15 年前の事思い出してしまうのは、
 
 何も変わってないからなの。
 
 僕の名前も二つに切って。
 
-要说为什么会想起15年前的事，
+要说为什么会想起 15 年前的事，
 
 是因为一切都没有改变的缘故吧。
 
@@ -201,14 +198,13 @@ falling girl 约定再不会交错。
 
 [chorus 2]
 
-
 ### 最後のような彼女の曲
 
 **最后一般的她的曲子**
 
-*作词：コショージメグミ（子庄司恵）*
+_作词：コショージメグミ（子庄司恵）_
 
-*作曲／编曲：樱井健太*
+_作曲／编曲：樱井健太_
 
 水玉空　ガラス色の雲　物語は僕に突き刺さる雨
 
@@ -224,17 +220,17 @@ falling girl 约定再不会交错。
 
 [chorus]
 
-she tune like end　踊ったら　オレンジな僕
+she tune like end 　踊ったら　オレンジな僕
 
-she tune like end　歌ったら　スパイスな君
+she tune like end 　歌ったら　スパイスな君
 
 失楽園　キュラキュラに会えたなら
 
 「僕の世界だけ。」って差しだした「ウソ。」
 
-she tune like end 舞动的话，orange的我
+she tune like end 舞动的话，orange 的我
 
-she tune like end 歌唱的话，spice的你
+she tune like end 歌唱的话，spice 的你
 
 失乐园，骨碌碌地相遇的话
 
@@ -258,10 +254,9 @@ she tune like end 歌唱的话，spice的你
 
 [chorus] x 2
 
-
 ### snow irony
 
-*作词／作曲／编曲：樱井健太*
+_作词／作曲／编曲：樱井健太_
 
 始まりの日の夜は、いつでも雨が降って。
 
@@ -271,11 +266,11 @@ she tune like end 歌唱的话，spice的你
 
 透过后门，烟雾中的我们，在摇晃。
 
-16月から、君はガラスで隠されたよ。
+16 月から、君はガラスで隠されたよ。
 
 ベッドの中で一人。雪が雨に変わるよ。
 
-从16月起，你就藏在玻璃后面。
+从 16 月起，你就藏在玻璃后面。
 
 一个人躺在床上。雪变成了雨。
 
@@ -347,23 +342,21 @@ she tune like end 歌唱的话，spice的你
 
 [chorus 2]
 
+### 14 才のおしえて
 
+![封套A](/images/posts/e17094f2gw1f7nejvooimj20dw0dqaeq.jpg)
 
+封套 A
 
-### 14才のおしえて
-![封套A](http://ww2.sinaimg.cn/large/e17094f2gw1f7nejvooimj20dw0dqaeq.jpg)
+![封套B](/images/posts/e17094f2gw1f7nek8bgnqj20dw0dqtc6.jpg)
 
-封套A
+封套 B
 
-![封套B](http://ww3.sinaimg.cn/large/e17094f2gw1f7nek8bgnqj20dw0dqtc6.jpg)
+**请告诉 14 岁的我**
 
-封套B
+_作词／作曲：大森靖子_
 
-**请告诉14岁的我**
-
-*作词／作曲：大森靖子*
-
-*编曲：樱井健太*
+_编曲：樱井健太_
 
 先輩…
 
@@ -377,13 +370,13 @@ she tune like end 歌唱的话，spice的你
 
 只是叫一声罢了
 
-おしえて14さいのロマンティック
+おしえて 14 さいのロマンティック
 
 あたしだけがまだ
 
 知らない未経験があるのは知ってる
 
-请告诉我吧14岁的romantic
+请告诉我吧 14 岁的 romantic
 
 只有我还没体验过的未知领域
 
@@ -411,7 +404,7 @@ she tune like end 歌唱的话，spice的你
 
 バカで　アホな　同級生とはちがう
 
-1年たっても　あたし　あんな　大人になれない
+1 年たっても　あたし　あんな　大人になれない
 
 和又蠢又笨的同级生不一样的啊
 
@@ -425,13 +418,13 @@ she tune like end 歌唱的话，spice的你
 
 摇摇晃晃飘落，恋情它......
 
-おしえて14歳のロマンティック
+おしえて 14 歳のロマンティック
 
 あたしだけがまだ
 
 知らない未経験があるのは知ってる
 
-请告诉我吧14岁的romantic
+请告诉我吧 14 岁的 romantic
 
 只有我还没体验过的未知领域
 
@@ -441,7 +434,7 @@ she tune like end 歌唱的话，spice的你
 
 注目浴びちゃって　なんかちょっとシラケる
 
-装作没有兴趣的样子，在文化祭的live上
+装作没有兴趣的样子，在文化祭的 live 上
 
 你受到注目了呢，我稍微有些情绪低落
 
@@ -501,41 +494,37 @@ she tune like end 歌唱的话，spice的你
 
 好喜欢你
 
-おしえて14歳のロマンティック
+おしえて 14 歳のロマンティック
 
 あたしだけがまだ
 
 知らない未経験があるのは知ってる
 
-请告诉我吧14岁的romantic
+请告诉我吧 14 岁的 romantic
 
 只有我还没体验过的未知领域
 
 它的存在你是知道的
 
-
-
-
 ### last cat factory
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f7nel2z6c2j20dw0dw0w5.jpg)
 
-*作词／作曲／编曲：樱井健太*
+![img](/images/posts/e17094f2gw1f7nel2z6c2j20dw0dw0w5.jpg)
+
+_作词／作曲／编曲：樱井健太_
 
 （欠奉）
 
-
-
-
 ### blue light
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f7nelvpsw2j20dw0dwwh4.jpg)
 
-*作词／作曲／编曲：樱井健太*
+![img](/images/posts/e17094f2gw1f7nelvpsw2j20dw0dwwh4.jpg)
+
+_作词／作曲／编曲：樱井健太_
 
 秋に降る雪を眺めて、光の中にあった小さなノイズ探して、忘れ物探す。
 
-1年前の事を思う。夢じゃないの？古く新しい季節は、いつかの日々で。
+1 年前の事を思う。夢じゃないの？古く新しい季節は、いつかの日々で。
 
-凝视着秋天里降下的雪，寻找着光芒中存在的小小的noise，寻找遗忘的东西。
+凝视着秋天里降下的雪，寻找着光芒中存在的小小的 noise，寻找遗忘的东西。
 
 想着一年前的事。那不是梦吗？陈旧的新季节，几时的每一天。
 
@@ -571,7 +560,7 @@ she tune like end 歌唱的话，spice的你
 
 冷えた道路、白が積もる部屋、鳴らない音。
 
-2年後とか、美しい嘘を時計台は知っていたの？
+2 年後とか、美しい嘘を時計台は知っていたの？
 
 冰冷的道路，堆积着白色的房间，不发声响的声音。
 

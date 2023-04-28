@@ -3,47 +3,41 @@ date: 2017-05-26
 title: Vol. 26 宇多田光之后・ZOMBIE-CHANG
 dj: mimida
 categories:
-  - After Hikki 
+    - After Hikki
 featured_image: /images/banners/26.jpg
 stream_url: http://www.lizhi.fm/1913563/2603228810785270790
 playlist: |-
-  1. ZOMBIE-CHANG「I CAN&`&T GET TO SLEEP」（from 专辑『GANG!』2017/03/03）
-  2. ZOMBIE-CHANG「TARINAI」（from 专辑『GANG!』2017/03/03）
-  3. 🎙️
-  4. ZOMBIE-CHANG「WEEKEND」（from 专辑『GANG!』2017/03/03）
-  5. ZOMBIE-CHANG「KOURAKUEN」（from 专辑『GANG!』2017/03/03）
-  6. 🎙️
-  7. ZOMBIE-CHANG「summer time UKR remix」（from EP『恋のバカンス』2015/08/25）
-  8. YOSA「夜明け前 feat. ZOMBIE-CHANG & SALU」（from 专辑『Orion』2016/04/06）
-  9. 🎙️
-  10. ZOMBIE-CHANG「SEMETE KANASHII TOKINIWA」（from 专辑『ZOMBIE-CHANGE』2016/01/20）
-  11. ZOMBIE-CHANG「KAWAII BABY」（from 专辑『GANG!』2017/03/03）
+    1. ZOMBIE-CHANG「I CAN&`&T GET TO SLEEP」（from 专辑『GANG!』2017/03/03）
+    2. ZOMBIE-CHANG「TARINAI」（from 专辑『GANG!』2017/03/03）
+    3. 🎙️
+    4. ZOMBIE-CHANG「WEEKEND」（from 专辑『GANG!』2017/03/03）
+    5. ZOMBIE-CHANG「KOURAKUEN」（from 专辑『GANG!』2017/03/03）
+    6. 🎙️
+    7. ZOMBIE-CHANG「summer time UKR remix」（from EP『恋のバカンス』2015/08/25）
+    8. YOSA「夜明け前 feat. ZOMBIE-CHANG & SALU」（from 专辑『Orion』2016/04/06）
+    9. 🎙️
+    10. ZOMBIE-CHANG「SEMETE KANASHII TOKINIWA」（from 专辑『ZOMBIE-CHANGE』2016/01/20）
+    11. ZOMBIE-CHANG「KAWAII BABY」（from 专辑『GANG!』2017/03/03）
 
 albums: |-
-  * [「恋のバカンス」](https://omake-club.bandcamp.com/album/e-p-4)
-  * [「ZOMBIE-CHANGE」](http://ototoy.jp/_/default/p/5947)
-  * [「GANG!」](http://ototoy.jp/_/default/p/72419)
-  * [「Orion」](http://ototoy.jp/_/default/p/61715)
-  * [「夜明け前 feat. ZOMBIE-CHANG & SALU -」](http://ototoy.jp/_/default/p/64934)
-
+    * [「恋のバカンス」](https://omake-club.bandcamp.com/album/e-p-4)
+    * [「ZOMBIE-CHANGE」](http://ototoy.jp/_/default/p/5947)
+    * [「GANG!」](http://ototoy.jp/_/default/p/72419)
+    * [「Orion」](http://ototoy.jp/_/default/p/61715)
+    * [「夜明け前 feat. ZOMBIE-CHANG & SALU -」](http://ototoy.jp/_/default/p/64934)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
-
 歌词及翻译（本期基本靠听写，必有错漏望海涵）
-
-
 
 ### ZOMBIE-CHANG「I CAN'T GET TO SLEEP」
 
-![ZOMBIE-CHANG「GANG!」](http://wx4.sinaimg.cn/large/e17094f2gy1ffxmlh3ey5j20dw0dw0zo.jpg)
+![ZOMBIE-CHANG「GANG!」](/images/posts/e17094f2gy1ffxmlh3ey5j20dw0dw0zo.jpg)
 
-*作词／作曲／编曲：ZOMBIE-CHANG*
+_作词／作曲／编曲：ZOMBIE-CHANG_
 
 明日までにやらなきゃいけないことがる
 
@@ -143,13 +137,11 @@ I can't get to sleep tonight
 
 炎热的夜里身体要化掉啦
 
-
-
 ### ZOMBIE-CHANG「TARINAI」
 
 **足りない／不足**
 
-*作词／作曲／编曲：ZOMBIE-CHANG*
+_作词／作曲／编曲：ZOMBIE-CHANG_
 
 考えてもしたかない
 
@@ -233,11 +225,9 @@ get en-get en-get enough of your love
 
 get en-get en-get enough
 
-
-
 ### ZOMBIE-CHANG「WEEKEND」
 
-*作词／作曲／编曲：ZOMBIE-CHANG*
+_作词／作曲／编曲：ZOMBIE-CHANG_
 
 悲しみ忘れて
 
@@ -259,19 +249,19 @@ get en-get en-get enough
 
 晴れ渡る日に潜む
 
-砕けしたFEELING
+砕けした FEELING
 
 誰にも言えぬ
 
-寂しいWEEKEND
+寂しい WEEKEND
 
 隐藏在放晴的日子里
 
-破碎掉的FEELING
+破碎掉的 FEELING
 
 无人可以倾诉
 
-寂寞的WEEKEND
+寂寞的 WEEKEND
 
 SUNDAY, MONDAY, TUESDAY
 
@@ -305,13 +295,13 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 もう全部手伝ってて
 
-ジーンズはNAVY
+ジーンズは NAVY
 
-恋はCRAZY
+恋は CRAZY
 
-通り過ぎたら私はLONELY
+通り過ぎたら私は LONELY
 
-あなたBABY　私はLAZY
+あなた BABY 　私は LAZY
 
 OH OH OH WEEKEND WEEKEND
 
@@ -323,27 +313,27 @@ OH OH OH WEEKEND WEEKEND
 
 回过神来能干的活儿已经全部干完
 
-JEANS是NAVY
+JEANS 是 NAVY
 
-爱情是CRAZY
+爱情是 CRAZY
 
-走过头的我到头来是LONELY
+走过头的我到头来是 LONELY
 
-你是我的BABY，可我却很LAZY
+你是我的 BABY，可我却很 LAZY
 
 OH OH OH WEEKEND WEEKEND
 
-夏に潜む可笑しいのFEELING
+夏に潜む可笑しいの FEELING
 
 今なら言える
 
-さようならWEEKEND
+さようなら WEEKEND
 
-潜藏在夏日里的好笑的FEELING
+潜藏在夏日里的好笑的 FEELING
 
 现在终于可以说出口
 
-再见吧WEEKEND
+再见吧 WEEKEND
 
 SUNDAY, MONDAY, TUESDAY
 
@@ -369,13 +359,11 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 只是那样大概就已经足够了
 
-
-
 ### ZOMBIE-CHANG「KOURAKUEN」
 
 **後楽園／后乐园**
 
-*作词／作曲／编曲：ZOMBIE-CHANG*
+_作词／作曲／编曲：ZOMBIE-CHANG_
 
 もう終わった恋だけれど
 
@@ -399,7 +387,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 ここではね　忘れように
 
-2人は全てを消し去るように
+2 人は全てを消し去るように
 
 约定在品川站碰头
 
@@ -447,7 +435,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 夜にはね　メリーゴーランド
 
-光るけど2人離れ離れ
+光るけど 2 人離れ離れ
 
 黄昏时不得不强忍住
 
@@ -493,93 +481,13 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 再回首已不见后乐园
 
-
-
-
-
 ### ZOMBIE-CHANG「summer time UKR remix」
 
-![ZOMBIE-CHANG「恋のバカンス E.P.」](http://wx3.sinaimg.cn/large/e17094f2gy1ffxpe4w2xkj20dw0dx0xs.jpg)
+![ZOMBIE-CHANG「恋のバカンス E.P.」](/images/posts/e17094f2gy1ffxpe4w2xkj20dw0dx0xs.jpg)
 
-*作词／作曲：ZOMBIE-CHANG*
+_作词／作曲：ZOMBIE-CHANG_
 
-*编曲：UKR*
-
-光るハイウェイ　知らぬ街へ
-
-車飛ばして連れていて
-
-言葉だけじゃ伝えきれないような懐かしい
-
-大人になってみたふり
-
-子供のままではいられない
-
-知ったけど未だに夢見ている
-
-待ちわびてる
-
-明亮的高速路，通往未知的街
-
-带上我飞驰而去
-
-那种怀念，只用语言难以尽吐
-
-装作试着成为大人的样子
-
-知道不能一直这样像个孩子
-
-却仍在做着梦
-
-仍在焦急地等待
-
-君のせい　きっと君のせい
-
-あんたといるとつまんないし
-
-たけど未だ待ちわびている
-
-夢を見てる
-
-「お先に」言ってみてふり
-
-ほんとはいいてきものもないし
-
-忘れられない恋なんてない
-
-忘れちゃうわ
-
-是你的错，肯定是你的错
-
-和你在一起时又很无趣
-
-但我仍在焦急地等待
-
-仍在做着梦
-
-装作试着说出「我先走了」
-
-其实也根本没有什么目的地
-
-没有什么恋情无法忘记
-
-我就来把你忘记掉
-
-気がつけば　分かるあなたの匂い
-
-振り向けば　笑うあなたの顔
-
-何があるってわけじゃないけど話たい
-
-それだけでいい　私の夏なんて
-
-回过神来意识到，那是你的气味
-
-回过头看，是你笑着的脸
-
-也没什么原因，就是想说出来
-
-我的夏天只是那样就好
+_编曲：UKR_
 
 光るハイウェイ　知らぬ街へ
 
@@ -657,21 +565,93 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 我的夏天只是那样就好
 
+光るハイウェイ　知らぬ街へ
 
+車飛ばして連れていて
 
+言葉だけじゃ伝えきれないような懐かしい
 
+大人になってみたふり
+
+子供のままではいられない
+
+知ったけど未だに夢見ている
+
+待ちわびてる
+
+明亮的高速路，通往未知的街
+
+带上我飞驰而去
+
+那种怀念，只用语言难以尽吐
+
+装作试着成为大人的样子
+
+知道不能一直这样像个孩子
+
+却仍在做着梦
+
+仍在焦急地等待
+
+君のせい　きっと君のせい
+
+あんたといるとつまんないし
+
+たけど未だ待ちわびている
+
+夢を見てる
+
+「お先に」言ってみてふり
+
+ほんとはいいてきものもないし
+
+忘れられない恋なんてない
+
+忘れちゃうわ
+
+是你的错，肯定是你的错
+
+和你在一起时又很无趣
+
+但我仍在焦急地等待
+
+仍在做着梦
+
+装作试着说出「我先走了」
+
+其实也根本没有什么目的地
+
+没有什么恋情无法忘记
+
+我就来把你忘记掉
+
+気がつけば　分かるあなたの匂い
+
+振り向けば　笑うあなたの顔
+
+何があるってわけじゃないけど話たい
+
+それだけでいい　私の夏なんて
+
+回过神来意识到，那是你的气味
+
+回过头看，是你笑着的脸
+
+也没什么原因，就是想说出来
+
+我的夏天只是那样就好
 
 ### YOSA「夜明け前 feat. ZOMBIE-CHANG & SALU」
 
-![YOSA「夜明け前 feat. ZOMBIE-CHANG & SALU」](http://wx3.sinaimg.cn/large/e17094f2gy1ffxpf7jg29j20dw0dwn1o.jpg)
+![YOSA「夜明け前 feat. ZOMBIE-CHANG & SALU」](/images/posts/e17094f2gy1ffxpf7jg29j20dw0dwn1o.jpg)
 
-![YOSA「Orion」](http://wx3.sinaimg.cn/large/e17094f2gy1ffxpfspr6sj20dw0ciq7y.jpg)
+![YOSA「Orion」](/images/posts/e17094f2gy1ffxpfspr6sj20dw0ciq7y.jpg)
 
 **天亮之前**
 
-*作词／作曲：ZOMBIE-CHANG·SALU*
+_作词／作曲：ZOMBIE-CHANG·SALU_
 
-*编曲：YOSA*
+_编曲：YOSA_
 
 光る街はたちまち明るくなる
 
@@ -759,7 +739,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 怒り悲しみを抜き去るフリーウェイ
 
-あいつは降りた15分前
+あいつは降りた 15 分前
 
 谁也不愿拥抱我
 
@@ -767,7 +747,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 将悲愤甩在身后的高速路
 
-在那家伙降临的15分钟前
+在那家伙降临的 15 分钟前
 
 来たるべき未来に向けて
 
@@ -803,7 +783,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 遅かれ早かれ選ぶことになる
 
-ストックホルムかGO HOME
+ストックホルムか GO HOME
 
 まだ月明かりに見え隠れしてる太陽
 
@@ -813,7 +793,7 @@ WEDNESDAY, THURSDAY, FRIDAY
 
 迟早都要做出选择
 
-是Stockholm还是GO HOME
+是 Stockholm 还是 GO HOME
 
 在月色中若隐若现的太阳
 
@@ -873,17 +853,13 @@ MOONLIGHT TOKYO
 
 坏掉之前大家都会散去
 
-
-
-
-
 ### ZOMBIE-CHANG「SEMETE KANASHII TOKINIWA」
 
-![ZOMBIE-CHANG「ZOMBIE-CHANGE」](http://wx2.sinaimg.cn/large/e17094f2gy1ffxpgr68erj20dw0dwwjn.jpg)
+![ZOMBIE-CHANG「ZOMBIE-CHANGE」](/images/posts/e17094f2gy1ffxpgr68erj20dw0dwwjn.jpg)
 
 **せめて悲しい時には／至少在我悲伤的时候**
 
-*作词／作曲／编曲：ZOMBIE-CHANG*
+_作词／作曲／编曲：ZOMBIE-CHANG_
 
 副歌部分：
 
@@ -935,15 +911,13 @@ MOONLIGHT TOKYO
 
 至少在我寂寞的时候，带我去一个什么遥远的地方吧
 
-
-
 ### ZOMBIE-CHANG「KAWAII BABY」
 
-*作词：Don Stirling·漣健児*
+_作词：Don Stirling·漣健児_
 
-*作曲：Bill Nauman*
+_作曲：Bill Nauman_
 
-*编曲：ZOMBIE-CHANG*
+_编曲：ZOMBIE-CHANG_
 
 可愛いベイビー　と呼ぶのは
 
@@ -953,7 +927,7 @@ Pretty Little Baby
 
 可愛いベイビー
 
-唤一声KAWAII BABY
+唤一声 KAWAII BABY
 
 大概是因为深爱着你
 
@@ -975,7 +949,7 @@ Pretty Little Baby
 
 Pretty Little Baby
 
-最棒的Baby
+最棒的 Baby
 
 恋をするって素敵じゃない
 
@@ -1011,7 +985,7 @@ Pretty Little Baby
 
 Pretty Little Baby
 
-我的Baby
+我的 Baby
 
 可愛いベイビー　ハイハイ
 
@@ -1043,15 +1017,15 @@ Pretty Little Baby
 
 Pretty Little Baby
 
-我的Baby
+我的 Baby
 
-アハー　YEAH
+アハー　 YEAH
 
-アハー　YEAH
+アハー　 YEAH
 
-アハー　YEAH
+アハー　 YEAH
 
-アハー　YEAH
+アハー　 YEAH
 
 アハー　アハー
 
@@ -1067,13 +1041,13 @@ AHA，AHA
 
 可愛いベイビー　可愛いベイビー
 
-Pretty Little Baby　Pretty Little Baby
+Pretty Little Baby 　 Pretty Little Baby
 
 私のベイビー　私のベイビー
 
 可愛いベイビー　可愛いベイビー
 
-Pretty Little Baby　Pretty Little Baby
+Pretty Little Baby 　 Pretty Little Baby
 
 私のベイビー　私のベイビー
 
@@ -1083,13 +1057,13 @@ Kawaii Baby，Kawaii Baby
 
 Pretty Little Baby, Pretty Little Baby
 
-我的Baby，我的Baby
+我的 Baby，我的 Baby
 
 Kawaii Baby，Kawaii Baby
 
 Pretty Little Baby, Pretty Little Baby
 
-我的Baby，我的Baby
+我的 Baby，我的 Baby
 
 Kawaii Baby，Hai Hai
 
@@ -1097,7 +1071,7 @@ Kawaii Baby，Hai Hai
 
 可愛いベイビー　ハイハイ
 
-Pretty Little Baby　ハイハイ
+Pretty Little Baby 　ハイハイ
 
 私のベイビー　ハイハイ
 
@@ -1107,11 +1081,11 @@ Kawaii Baby，Hai Hai
 
 Pretty Little Baby，Hai Hai
 
-我的Baby，Hai Hai
+我的 Baby，Hai Hai
 
 可愛いベイビー　ハイハイ
 
-Pretty Little Baby　ハイハイ
+Pretty Little Baby 　ハイハイ
 
 私のベイビー　ハイハイ
 
@@ -1121,23 +1095,20 @@ Kawaii Baby，Hai Hai
 
 Pretty Little Baby，Hai Hai
 
-我的Baby，Hai Hai
+我的 Baby，Hai Hai
 
 Kawaii Baby
 
-
-
 ## 人物介绍
 
-![ZOMBIE-CHANG (Yung Meirin)](http://wx4.sinaimg.cn/large/e17094f2gy1ffxpkgagh3j20u011hdl9.jpg)
+![ZOMBIE-CHANG (Yung Meirin)](/images/posts/e17094f2gy1ffxpkgagh3j20u011hdl9.jpg)
 
 ZOMBIE-CHANG (Yung Meirin)
 
-![ZOMBIE-CHANG (Yung Meirin)](http://wx1.sinaimg.cn/large/e17094f2gy1ffxpkjfbhfj20u011hjt3.jpg)
+![ZOMBIE-CHANG (Yung Meirin)](/images/posts/e17094f2gy1ffxpkjfbhfj20u011hjt3.jpg)
 
 ZOMBIE-CHANG (Yung Meirin)
 
-![Yung Meirin I LOVE YOU](http://wx2.sinaimg.cn/large/e17094f2gy1ffxpkm2vo3j20ku0q1dhr.jpg)
+![Yung Meirin I LOVE YOU](/images/posts/e17094f2gy1ffxpkm2vo3j20ku0q1dhr.jpg)
 
 Yung Meirin I LOVE YOU
-

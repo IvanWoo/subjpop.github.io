@@ -3,52 +3,51 @@ date: 2017-07-21
 title: "Vol. 30 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 I"
 dj: mimida
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/30.jpg
 stream_url: https://www.lizhi.fm/1913563/2613681554297353222
 playlist: |-
-  1. 掌幻、CHICO CARLITO & 焚巻「フリースタイル・ダンジョン 2016」（from single「フリースタイル・ダンジョン 2016」2016/05/18）
-  2. CHICO CARLITO「朔」（from single「朔」2016/10/21）+「Intro」（from album「Carlito's Way」2016/12/07）
-  3. 🎙️
-  4. CHICO CARLITO「一陽来復 feat Chouji & 唾奇」（from album「Carlito's Way」2016/12/07）
-  5. MC漢 & DJ琥珀「I'm a ￥ plant」（from album「MURDARATION」2012/08/08）+「This is Freestyle」（from album「MURDARATION」2012/08/08）
-  6. 🎙️
-  7. 漢「漢流の極論」（from album「導 みちしるべ」2005/01/26）
-  8. DJ Krush「猛者-Mosa- featuring KAN」（from remix album「STEPPING STONES The Self-Remixed Best -lyricism-」2006/03/24）
-  9. 🎙️
-  10. MC 漢「スキミング」（from album「MURDARATION (ACAPPELLA VERSION)」2013/04/10）
-  11. MC漢 & DJ琥珀「光と影の街」（from album「MURDARATION」2012/08/08）
+    1. 掌幻、CHICO CARLITO & 焚巻「フリースタイル・ダンジョン 2016」（from single「フリースタイル・ダンジョン 2016」2016/05/18）
+    2. CHICO CARLITO「朔」（from single「朔」2016/10/21）+「Intro」（from album「Carlito's Way」2016/12/07）
+    3. 🎙️
+    4. CHICO CARLITO「一陽来復 feat Chouji & 唾奇」（from album「Carlito's Way」2016/12/07）
+    5. MC漢 & DJ琥珀「I'm a ￥ plant」（from album「MURDARATION」2012/08/08）+「This is Freestyle」（from album「MURDARATION」2012/08/08）
+    6. 🎙️
+    7. 漢「漢流の極論」（from album「導 みちしるべ」2005/01/26）
+    8. DJ Krush「猛者-Mosa- featuring KAN」（from remix album「STEPPING STONES The Self-Remixed Best -lyricism-」2006/03/24）
+    9. 🎙️
+    10. MC 漢「スキミング」（from album「MURDARATION (ACAPPELLA VERSION)」2013/04/10）
+    11. MC漢 & DJ琥珀「光と影の街」（from album「MURDARATION」2012/08/08）
 
 albums: |-
-  * [「フリースタイル・ダンジョン 2016」](http://t.cn/RovOdsN)
-  * [「朔」](https://soundcloud.com/libra-records/sets/chico-carlito)
-  * [「Carlito's Way」](http://ototoy.jp/_/default/p/69021)
-  * [「導 みちしるべ」](http://t.cn/RovOslT)
-  * [「MURDARATION」](http://t.cn/RovWPlC)
-  * [「MURDARATION (ACAPPELLA VERSION)」](http://t.cn/RovW7bt)
-  * [「STEPPING STONES The Self-Remixed Best -lyricism-」](http://t.cn/RovWzKM)
-
+    * [「フリースタイル・ダンジョン 2016」](http://t.cn/RovOdsN)
+    * [「朔」](https://soundcloud.com/libra-records/sets/chico-carlito)
+    * [「Carlito's Way」](http://ototoy.jp/_/default/p/69021)
+    * [「導 みちしるべ」](http://t.cn/RovOslT)
+    * [「MURDARATION」](http://t.cn/RovWPlC)
+    * [「MURDARATION (ACAPPELLA VERSION)」](http://t.cn/RovW7bt)
+    * [「STEPPING STONES The Self-Remixed Best -lyricism-」](http://t.cn/RovWzKM)
 ---
 
 Banner image by [@tairartairar](https://twitter.com/tairartairar).
 
 <!-- hide excerpt -->
 
-![FREESTYLE MONSTERS by Dmen Watanabe](https://wx2.sinaimg.cn/large/e17094f2gy1fhr06t87p7j20go0go10c.jpg)
+![FREESTYLE MONSTERS by Dmen Watanabe](/images/posts/e17094f2gy1fhr06t87p7j20go0go10c.jpg)
 
 ## 歌词
 
 ### 掌幻、CHICO CARLITO、焚巻「フリースタイル・ダンジョン 2016 feat. Zeebra」
 
-![『フリースタイル・ダンジョン 2016』](https://wx2.sinaimg.cn/large/e17094f2gy1fhqytf160cj20dw0dwq7i.jpg)
+![『フリースタイル・ダンジョン 2016』](/images/posts/e17094f2gy1fhqytf160cj20dw0dwq7i.jpg)
 
 『フリースタイル・ダンジョン 2016』
 
 **Freestyle Dungeon 2016**
 
-*Lyrics：掌幻・CHICO CARLITO・焚巻*
+_Lyrics：掌幻・CHICO CARLITO・焚巻_
 
-*Beats：MIDO*
+_Beats：MIDO_
 
 【Zeebra】
 
@@ -62,29 +61,29 @@ We're still HERE!
 
 (hook)
 
-フリースタイル･ダンジョン抜けて参上 
+フリースタイル･ダンジョン抜けて参上
 
 俺がフリースタイル･ダンジョン抜けて参上
 
-闯过Freestyle Dungeon站在你面前
+闯过 Freestyle Dungeon 站在你面前
 
-我闯过了Freestyle Dungeon站在你面前
+我闯过了 Freestyle Dungeon 站在你面前
 
 【掌幻】
 
 俺が掌幻
 
-レプリゼント S田区
+レプリゼント S 田区
 
 我是掌幻
 
-Represent S田区
+Represent S 田区
 
 武器はこの身一つ 他には何もないぜ
 
 これまでの生き様が唯一のアイテム
 
-1度スタート切れば引き返せない
+1 度スタート切れば引き返せない
 
 先に進めば進む程に道が狭いダンジョン中
 
@@ -92,9 +91,9 @@ Represent S田区
 
 どこの誰が相手だろうが注ぐ全身全霊
 
-1ショットに賭ける人生ゲーム
+1 ショットに賭ける人生ゲーム
 
-本気と本気の度合いの違い 目を見りゃ8割出来る理解
+本気と本気の度合いの違い 目を見りゃ 8 割出来る理解
 
 敵である事が勿体ない だがここでは一切容赦しない
 
@@ -116,7 +115,7 @@ Represent S田区
 
 一旦决定开始就绝对不会再退回去
 
-越往前走路越窄 在这无尽的Dungeon里
+越往前走路越窄 在这无尽的 Dungeon 里
 
 尸体堆成山 感到恐怖却绝不会停步是男人的意义
 
@@ -130,13 +129,13 @@ Represent S田区
 
 但在这儿可不讲情面那种东西
 
-冷酷无情的flow......和全盘即兴的battle
+冷酷无情的 flow......和全盘即兴的 battle
 
 取下首级后送你去极乐净土随你在里边快活个够
 
 迷宫的入场者每年在增加
 
-来一段Rap立刻宣传效果也增大
+来一段 Rap 立刻宣传效果也增大
 
 要说这是一时的流行，那马上就该过时了吗？
 
@@ -144,11 +143,11 @@ Represent S田区
 
 【CHICO CARLITO】
 
-俺がCHICO CARLITO
+俺が CHICO CARLITO
 
 禁断の果実をひと齧り
 
-我是CHICO CARLITO
+我是 CHICO CARLITO
 
 禁断的果实 让我来咬上一口
 
@@ -174,11 +173,11 @@ Nah mean? 闇 切り裂く眼差し
 
 ずっとこっち見ている火の鳥 捕まえるチャンスは一度っきり
 
-きりきり舞いとかギリギリlowでも結局なるのは灰しかない
+きりきり舞いとかギリギリ low でも結局なるのは灰しかない
 
-やっぱり飛び火していく灯火 故に燃やし尽くしてみなよlife
+やっぱり飛び火していく灯火 故に燃やし尽くしてみなよ life
 
-丑三つ前にmonsterのお目覚め
+丑三つ前に monster のお目覚め
 
 誰の差し金か首にワンハネハネ
 
@@ -188,19 +187,19 @@ Nah mean? 闇 切り裂く眼差し
 
 Nah mean？黑暗 能把你身体割裂的眼神（译注：译者此时已经完全放弃了译文押韵的尝试，大家就看个意思吧）
 
-Labyrinth里有着佗与寂
+Labyrinth 里有着佗与寂
 
-神灵附身吐吐舌头杂鱼便退治R.I.P 
+神灵附身吐吐舌头杂鱼便退治 R.I.P
 
-KONPURA 地下的Dungeon walk around（译注：= compliance：该节目在电视上播放时，每逢脏话会静音同时字幕打「KONPURA」） 
+KONPURA 地下的 Dungeon walk around（译注：= compliance：该节目在电视上播放时，每逢脏话会静音同时字幕打「KONPURA」）
 
 环望四周全是蚊子的幼虫
 
 快放弃吧精神像豆腐一样脆弱的家伙们 我是说真的
 
-这可是个只要踏出一步就再也无法回头的地狱难度GAME
+这可是个只要踏出一步就再也无法回头的地狱难度 GAME
 
-Bug技还是死角攻击 决定好之前就得拿着麦克燥起来
+Bug 技还是死角攻击 决定好之前就得拿着麦克燥起来
 
 是吧？最后能靠的只有自己
 
@@ -208,9 +207,9 @@ Bug技还是死角攻击 决定好之前就得拿着麦克燥起来
 
 飞舞盘旋至终于可以触及的高度 可最后得到的只有灰烬
 
-终究不过是灯芯里溅出的火花 所以就让它熊熊燃烧到尽头吧这life
+终究不过是灯芯里溅出的火花 所以就让它熊熊燃烧到尽头吧这 life
 
-午夜两点前monster睁开双眼
+午夜两点前 monster 睁开双眼
 
 是谁的挑唆 用脑袋来换百万日元
 
@@ -226,13 +225,13 @@ NEWJACK SKILLZ/ HUMAN MUSIC
 
 NEWJACK SKILLZ/ HUMAN MUSIC
 
-スーワサイドからDo or Die
+スーワサイドから Do or Die
 
-片手に持つMIC侍
+片手に持つ MIC 侍
 
 有名やら無名知らねえ
 
-修正きかないLife
+修正きかない Life
 
 One Night Crazy
 
@@ -240,15 +239,15 @@ One Night Crazy
 
 変わりコンプラ打ち抜くサイコガンコブラ
 
-Human頂くNoブレーキ
+Human 頂く No ブレーキ
 
 Play List
 
-ぶちこめTHA INSIDE
+ぶちこめ THA INSIDE
 
 アウトサイダー
 
-溜まる負債額もこいつでペイPLAYするDJ
+溜まる負債額もこいつでペイ PLAY する DJ
 
 cash rules everything around me
 
@@ -256,21 +255,21 @@ C.r.e.a.m.
 
 とは違う世界
 
-瓜二つの韻踏んで飛ばないLeafにバイバイ
+瓜二つの韻踏んで飛ばない Leaf にバイバイ
 
 体内栽培する感覚の刃
 
 Survivor
 
-Rhymeの密林やらかしたいんだ
+Rhyme の密林やらかしたいんだ
 
 迷宮ノートリアス生存確率何％
 
-喉元のTrigger伝家の宝刀Revolver
+喉元の Trigger 伝家の宝刀 Revolver
 
 本職 同業者 Monkey 異端児 サイファー Manchie
 
-Crazy Funky MadなJunkie
+Crazy Funky Mad な Junkie
 
 に送るライミング
 
@@ -278,25 +277,25 @@ Crazy Funky MadなJunkie
 
 誰かに食われりゃ死霊の仲間入り
 
-自杀行为Do or Die
+自杀行为 Do or Die
 
-单手握着MIC的武士
+单手握着 MIC 的武士
 
 有名还是无名一概不知
 
-无法反悔的Life
+无法反悔的 Life
 
 One Night Crazy
 
-已经上了膛的Hand Gun
+已经上了膛的 Hand Gun
 
-发出变幻莫测的CONPURA射穿你 Psychogun COBRA（译注：寺泽武一『宇宙海贼哥普拉』）
+发出变幻莫测的 CONPURA 射穿你 Psychogun COBRA（译注：寺泽武一『宇宙海贼哥普拉』）
 
-Human接招No Brake
+Human 接招 No Brake
 
 Play List
 
-子弹打入THA INSIDE
+子弹打入 THA INSIDE
 
 Outsider
 
@@ -314,72 +313,69 @@ C.r.e.a.m.
 
 Survivor
 
-想一头埋进Rhyme的密林中
+想一头埋进 Rhyme 的密林中
 
-迷宫notorious生存概率几%？
+迷宫 notorious 生存概率几%？
 
-喉头的Trigger传家的宝刀Revolver
+喉头的 Trigger 传家的宝刀 Revolver
 
 本行 同行 Monkey 异端儿 Cypher Manchie
 
 Crazy Funky Mad Junkie
 
-向你们送上这Rhyming
+向你们送上这 Rhyming
 
-战斗的胜出者才能照到的Shining
+战斗的胜出者才能照到的 Shining
 
 被谁吞掉的话洞里就又多一个死灵
 
 (hook)
 
-フリースタイル･ダンジョン抜けて参上 
+フリースタイル･ダンジョン抜けて参上
 
 俺がフリースタイル･ダンジョン抜けて参上
 
-闯过Freestyle Dungeon来到你面前
+闯过 Freestyle Dungeon 来到你面前
 
-我闯过了Freestyle Dungeon来到你面前
+我闯过了 Freestyle Dungeon 来到你面前
 
 【Zeebra】
 
 これがフリースタイル･ダンジョン 2016、BITCH！
 
-这就是Freestyle Dungeon 2016，BITCH！
-
-
+这就是 Freestyle Dungeon 2016，BITCH！
 
 ### CHICO CARLITO「朔（ゆびきり）」
 
-![『朔』](https://wx4.sinaimg.cn/large/e17094f2gy1fhqz2brroxj20dw0dwthl.jpg)
+![『朔』](/images/posts/e17094f2gy1fhqz2brroxj20dw0dwthl.jpg)
 
 『朔』
 
-*Lyrics：CHICO CARLITO*
+_Lyrics：CHICO CARLITO_
 
-*Beats：Mr BEATS a.k.a DJ CELORY*
+_Beats：Mr BEATS a.k.a DJ CELORY_
 
-+
+-
 
 ### CHICO CARLITO「Intro」
 
-*Lyrics：CHICO CARLITO*
+_Lyrics：CHICO CARLITO_
 
-*Beats：J-TARO*
+_Beats：J-TARO_
 
 （歌词暂无：说唱歌词太且俚语口语太多，没时间一一推敲润色，实在抱歉）
 
-
 ### CHICO CARLITO「一陽来復 feat. CHOUJI, 唾奇」
 
-![『Carlitos Way』](https://wx1.sinaimg.cn/large/e17094f2gy1fhqz4tv20kj20dw0dw7bg.jpg)
+![『Carlitos Way』](/images/posts/e17094f2gy1fhqz4tv20kj20dw0dw7bg.jpg)
 
 『Carlitos Way』
 
 **冬去春来（苦尽甘来／否极泰来）**
 
-*Lyrics：CHICO CARLITO・CHOUJI・唾奇*
+_Lyrics：CHICO CARLITO・CHOUJI・唾奇_
 
-*Beats：Sweet William*
+_Beats：Sweet William_
 
 [CHICO CARLITO]
 
@@ -411,11 +407,11 @@ One time for ya mind
 
 そして乾杯 まだ終われない
 
-終わらない俺らのLife goes on
+終わらない俺らの Life goes on
 
 果てしない哀しみの上
 
-音奏でる琉球style
+音奏でる琉球 style
 
 压抑着懊恼和朋友们一起生活
 
@@ -429,7 +425,7 @@ Just a moment 但时间可不会停泊
 
 梦和理想终快与现实同步
 
-在一切顺利的timing
+在一切顺利的 timing
 
 应该是不成问题的小难度
 
@@ -449,7 +445,7 @@ One time for ya mind
 
 在这无尽的悲哀之上
 
-奏起我们的琉球style
+奏起我们的琉球 style
 
 [hook]
 
@@ -483,11 +479,11 @@ One time for ya mind
 
 算是理所当然的景色吗 my homie
 
-只能让它向前继续向前，这个story
+只能让它向前继续向前，这个 story
 
 [CHOUJI]
 
-（沖縄石垣 CHOUJI  Lesson）
+（沖縄石垣 CHOUJI Lesson）
 
 努力は報われるなんて考えない方が良いぜ
 
@@ -515,7 +511,7 @@ One time for ya mind
 
 CHOUJI 唾奇 チコカリ（うちなんちゅ）
 
-俺たちのCDを手に取り
+俺たちの CD を手に取り
 
 準備しろ泡盛とかヘニーとウィード
 
@@ -523,7 +519,7 @@ CHOUJI 唾奇 チコカリ（うちなんちゅ）
 
 思わず仲間とグラスが上がる
 
-（冲绳石垣岛 CHOUJI  Lesson）
+（冲绳石垣岛 CHOUJI Lesson）
 
 努力就能有回报之类的事还是别想的好
 
@@ -539,7 +535,7 @@ CHOUJI 唾奇 チコカリ（うちなんちゅ）
 
 拿着爱妻便当出门不吃糟蹋掉简直该去劳教
 
-想用RAP摆脱困境
+想用 RAP 摆脱困境
 
 沉湎于神韵还不错的心境
 
@@ -547,11 +543,11 @@ CHOUJI 唾奇 チコカリ（うちなんちゅ）
 
 CHOUJI、唾奇、CHICO CARLI（冲绳人）
 
-入手我们的CD
+入手我们的 CD
 
-备好了琉球烧酒、HENNESSY和WEEDS
+备好了琉球烧酒、HENNESSY 和 WEEDS
 
-minus摇晃着变成了plus
+minus 摇晃着变成了 plus
 
 情不自禁和朋友们举起了杯子
 
@@ -559,7 +555,7 @@ minus摇晃着变成了plus
 
 [唾奇]
 
-すでにもう始まってるぜMy Bro
+すでにもう始まってるぜ My Bro
 
 何も無い所からもうすぐそこ
 
@@ -567,19 +563,19 @@ minus摇晃着变成了plus
 
 力任せに咲かせる
 
-約束が束 満開に散る桜俺のペースならruffだ
+約束が束 満開に散る桜俺のペースなら ruff だ
 
 決めた道 道中は楽じゃない
 
 ヤクザのパイセン
 
-シャブ喰ったMy Men
+シャブ喰った My Men
 
 ネガとかポジ偉そうによく喋るゴミ
 
 誰の言うこともシカトして今があるなら今闇なら
 
-このBeatsをありがとう S.W
+この Beats をありがとう S.W
 
 Baby 安らかに眠れ
 
@@ -589,7 +585,7 @@ Baby 安らかに眠れ
 
 パパまだ馬鹿だからあがらなきゃな
 
-已经开始了喔My Bro
+已经开始了喔 My Bro
 
 从一无所有开始马上就要到达那里
 
@@ -597,19 +593,19 @@ Baby 安らかに眠れ
 
 用尽全力绽放自己
 
-誓约是花束，飘散满地的樱花，我的pace是ruff的神韵
+誓约是花束，飘散满地的樱花，我的 pace 是 ruff 的神韵
 
 决定好了的道路，走起来难道不该是一路快活下去？
 
 黑道的前辈
 
-磕了药的My Men
+磕了药的 My Men
 
-什么Negative、Positive，自以为是逼叨叨的垃圾
+什么 Negative、Positive，自以为是逼叨叨的垃圾
 
 不管谁说什么都无视，如果拥有现在，如果正处于黑暗
 
-这个Beats多谢了S.W（译注：Beatmaker的Sweet William）
+这个 Beats 多谢了 S.W（译注：Beatmaker 的 Sweet William）
 
 Baby 安宁地睡吧
 
@@ -619,19 +615,15 @@ Baby 安宁地睡吧
 
 爸爸还是个傻瓜所以不能不接着往上爬啦
 
-
-
-
-
 ### 「I'm a ￥ plant」
 
-![『MURDARATION』](https://wx4.sinaimg.cn/large/e17094f2gy1fhqzm5rdsfj20dw0dwta3.jpg)
+![『MURDARATION』](/images/posts/e17094f2gy1fhqzm5rdsfj20dw0dwta3.jpg)
 
 『MURDARATION』
 
-*Lyrics：MC 漢、Beats: DJ Yas*
+_Lyrics：MC 漢、Beats: DJ Yas_
 
-*Remix：DJ 琥珀*
+_Remix：DJ 琥珀_
 
 [Hook]
 
@@ -647,17 +639,17 @@ Baby 安宁地睡吧
 
 セメントよりも固い俺のセキュリティ
 
-LIVE直前まで吸い込み咳き込み
+LIVE 直前まで吸い込み咳き込み
 
 ヘタ打ちゃペナルティ兵隊は身代わり
 
-隠し場所はアナルにPUSSY
+隠し場所はアナルに PUSSY
 
 ハメ外せホーミーどうせ腐れ縁やっといて損はねぇ
 
 やっとの思いでカウンターを狙う
 
-簡単な計画で現ナマをGET
+簡単な計画で現ナマを GET
 
 民家に逃げ込むか人ゴミに消える
 
@@ -667,7 +659,7 @@ LIVE直前まで吸い込み咳き込み
 
 は!?ゴリ押しするさ
 
-刺すか刺されるか、いやTHUGなら切り裂く
+刺すか刺されるか、いや THUG なら切り裂く
 
 気付けばほらな、また誰かの策略
 
@@ -681,7 +673,7 @@ LIVE直前まで吸い込み咳き込み
 
 ただのゴロツキじゃ無ぇこっちは本気
 
-新宿東京JAPAN
+新宿東京 JAPAN
 
 スリルとリスクとグッド・スメルで勃起する集団
 
@@ -701,7 +693,7 @@ LIVE直前まで吸い込み咳き込み
 
 直感で見抜け捜査のメス
 
-誰の絵図でもBOMBすぐに塗り潰す
+誰の絵図でも BOMB すぐに塗り潰す
 
 俺に頼るなら頼むから黙れブス
 
@@ -709,17 +701,15 @@ LIVE直前まで吸い込み咳き込み
 
 （翻译暂无）
 
-
-
 ### 「漢流の極論」
 
-![『導 みちしるべ』](https://wx3.sinaimg.cn/large/e17094f2gy1fhqznyb1lrj20dw0dljx1.jpg)
+![『導 みちしるべ』](/images/posts/e17094f2gy1fhqznyb1lrj20dw0dljx1.jpg)
 
 『導 みちしるべ』
 
-*Lyrics：MC 漢*
+_Lyrics：MC 漢_
 
-*Beats：O-Ki*
+_Beats：O-Ki_
 
 この神田の流れ気の向くままに身をまかせる
 
@@ -727,7 +717,7 @@ LIVE直前まで吸い込み咳き込み
 
 心ここにあらず 吸収 粘膜 鼻から吸い込む麻
 
-心の隙間埋める遊び だらけ方も様々 
+心の隙間埋める遊び だらけ方も様々
 
 棚から牡丹餅ボーナス 借りた借りは必ず返す
 
@@ -751,7 +741,7 @@ LIVE直前まで吸い込み咳き込み
 
 取り乱してすみません 既に取り返し付きません。
 
-まずは3度のメシよりも札束とバッツの香り
+まずは 3 度のメシよりも札束とバッツの香り
 
 感情的になるよりも落ち着いて上下左右前後斜め確認
 
@@ -763,7 +753,7 @@ LIVE直前まで吸い込み咳き込み
 
 汗水垂した金はどんだけ綺麗なのか教えてくれよ誰か目に見える形で
 
-めんどくせぇ事は後回し 臭い過去に蓋をして 目に余る暮らし振りで吸いまくるeveryday
+めんどくせぇ事は後回し 臭い過去に蓋をして 目に余る暮らし振りで吸いまくる everyday
 
 遅い朝飯を食って目をこすり思い起こす 後にひけない歌詞を書いて重い腰を起こす
 
@@ -827,30 +817,27 @@ LIVE直前まで吸い込み咳き込み
 
 （翻译暂无）
 
-
-
-
 ### 「猛者-Mosa-」
 
-![『STEPPING STONES The Self-Remixed Best -lyricism-』](https://wx3.sinaimg.cn/large/e17094f2gy1fhqzpqcm29j20dw0dbn9c.jpg)
+![『STEPPING STONES The Self-Remixed Best -lyricism-』](/images/posts/e17094f2gy1fhqzpqcm29j20dw0dbn9c.jpg)
 
 『STEPPING STONES The Self-Remixed Best -lyricism-』
 
-*Lyrics：MC 漢*
+_Lyrics：MC 漢_
 
-*Beats：DJ KRUSH*
+_Beats：DJ KRUSH_
 
-おいなんでも流行り種HIPHOPは形だけ
+おいなんでも流行り種 HIPHOP は形だけ
 
 たまには欲しいだろこう言った変わり種
 
-俺の売りはILLでスキルフルなリリック
+俺の売りは ILL でスキルフルなリリック
 
-最高にポジティブでクソDOPEなラップ
+最高にポジティブでクソ DOPE なラップ
 
 足元には気をつけろ猿も木から落ちる
 
-MCも滑ったらステージから堕ちる
+MC も滑ったらステージから堕ちる
 
 ごめんね はい残念幸も三年
 
@@ -866,7 +853,7 @@ MCも滑ったらステージから堕ちる
 
 検索ボタン一つで管理される社会
 
-険悪なムードでもHIPHOPで和解
+険悪なムードでも HIPHOP で和解
 
 学校の授業よりも重要だったストリート事情
 
@@ -886,11 +873,11 @@ MCも滑ったらステージから堕ちる
 
 焼き付くエンジンのように燃え滾るエナジー
 
-幼稚なライム書いて弱者睨んでたってNG
+幼稚なライム書いて弱者睨んでたって NG
 
 必死こいて銭暮らし
 
-要するにストリートじゃ通用しないMCじゃリスナーは幻滅
+要するにストリートじゃ通用しない MC じゃリスナーは幻滅
 
 マジ台場軽蔑 ついに交渉決裂でもそれが現実
 
@@ -926,18 +913,15 @@ MCも滑ったらステージから堕ちる
 
 （翻译暂无）
 
-
-
-
 ### 「スキミング」
 
-![『MURDARATION (ACAPPELLA VERSION)』](https://wx2.sinaimg.cn/large/e17094f2gy1fhqzsjs219j20dw0dwq6w.jpg)
+![『MURDARATION (ACAPPELLA VERSION)』](/images/posts/e17094f2gy1fhqzsjs219j20dw0dwq6w.jpg)
 
 『MURDARATION (ACAPPELLA VERSION)』
 
 **Skimming**
 
-*Lyrics：MC 漢*
+_Lyrics：MC 漢_
 
 ヤバくねェが これはディスじゃねェ
 
@@ -959,7 +943,7 @@ MCも滑ったらステージから堕ちる
 
 普段の動きは身長に プッシャーディーラーも筆頭に
 
-東京都知事にヒットマン 追い込みかけてくBBOY
+東京都知事にヒットマン 追い込みかけてく BBOY
 
 ピンポイントでピント合わす 金になるなら男女問わずか
 
@@ -987,7 +971,7 @@ MCも滑ったらステージから堕ちる
 
 こいつ誰腰つきやっべェ 落ち着きねえ個室のトイレ
 
-まだまだイケイケKAN たまには抜け駆けさ
+まだまだイケイケ KAN たまには抜け駆けさ
 
 今のうちに考えとけよ？ パクられる前の言い訳は
 
@@ -1001,22 +985,21 @@ MCも滑ったらステージから堕ちる
 
 （翻译暂无）
 
-
 ### 「光と影の街」
 
-特别感谢这首歌词的译者：[@edward_無心](http://www.weibo.com/edwardfuckyou)
+特别感谢这首歌词的译者：[@edward\_無心](http://www.weibo.com/edwardfuckyou)
 
 **光和影的街**
 
-*Lyrics：MC 漢*
+_Lyrics：MC 漢_
 
-*Beats：T. TANAKA*
+_Beats：T. TANAKA_
 
-*Remix：DJ 琥珀*
+_Remix：DJ 琥珀_
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
-kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
+kinginterior ぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
@@ -1026,7 +1009,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 都市一隅的风景 微不足道的成功
 
-保持坦诚  随时保持清醒
+保持坦诚 随时保持清醒
 
 荒废的单行道上 将油门猛踩直冲
 
@@ -1042,9 +1025,9 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 新宿クライム先々週巻き起こす
 
-防犯ビデオのvtrを何度も巻き戻す
+防犯ビデオの vtr を何度も巻き戻す
 
-たかが知れてるぜてめェのthuglife
+たかが知れてるぜてめェの thuglife
 
 いじめになるならこれ以上探るな殴り合い
 
@@ -1052,7 +1035,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 ラチあかなきゃ拉致監禁 攫ったもん勝ち
 
-捌いたもんはxxxトラックまで
+捌いたもんは xxx トラックまで
 
 軽いフットワークキャッシュバックブラックマネー
 
@@ -1070,7 +1053,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 总是马上砍--人开--枪杀气腾腾
 
-RAP技巧之类在这里毫不顶用
+RAP 技巧之类在这里毫不顶用
 
 在新宿犯下罪行引起轰动
 
@@ -1102,7 +1085,7 @@ RAP技巧之类在这里毫不顶用
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
-kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
+kinginterior ぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
@@ -1112,7 +1095,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 都市一隅的风景 微不足道的成功
 
-保持坦诚  随时保持清醒
+保持坦诚 随时保持清醒
 
 荒废的单行道上 将油门猛踩直冲
 
@@ -1132,9 +1115,9 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 闊歩する路地裏切った張ったメンチ切る
 
-ドタバタのリンチ めげずにrevenge
+ドタバタのリンチ めげずに revenge
 
-血の気荒いbrother 舌打ちする売人
+血の気荒い brother 舌打ちする売人
 
 栄養ドリンクのビン 中身非売品
 
@@ -1146,7 +1129,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 煮え詰まった日々送る独裁主義の独唱
 
-明治ストリートcrew業界じゃいたんじ
+明治ストリート crew 業界じゃいたんじ
 
 職安とり裏で睨み合ったイラン人
 
@@ -1180,7 +1163,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 独--裁--主义式的演讲 每天都活在困境
 
-M明治S street C crew（MSC）是业界异端
+M 明治 S street C crew（MSC）是业界异端
 
 职业介绍所大道背面是怒视的伊朗人
 
@@ -1192,7 +1175,7 @@ NO STOP 商业繁盛
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
-kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
+kinginterior ぜってェに気は抜くな 荒れたワンウェィ 下手踏みするアクセル
 
 光と影垣間見る 都会の片隅で 見るチッポケなサクセス
 
@@ -1202,7 +1185,7 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 都市一隅的风景 微不足道的成功
 
-保持坦诚  随时保持清醒
+保持坦诚 随时保持清醒
 
 荒废的单行道上 将油门猛踩直冲
 
@@ -1212,22 +1195,20 @@ kinginteriorぜってェに気は抜くな 荒れたワンウェィ 下手踏み
 
 趴倒在沥青路上 抑或徜徉在不劳而获的幸福中
 
-
-
 ## 人物介绍
 
-![CHICO (by Dmen Watanabe)](https://wx4.sinaimg.cn/large/e17094f2gy1fhr1a632uej20dw0dw41v.jpg)
+![CHICO (by Dmen Watanabe)](/images/posts/e17094f2gy1fhr1a632uej20dw0dw41v.jpg)
 
 CHICO (by Dmen Watanabe)
 
-![CHICO CARLITO](https://wx1.sinaimg.cn/large/e17094f2gy1fhr01039jfj20tm0go74w.jpg)
+![CHICO CARLITO](/images/posts/e17094f2gy1fhr01039jfj20tm0go74w.jpg)
 
 CHICO CARLITO
 
-![MC漢（by Dmen Watanabe）](https://wx4.sinaimg.cn/large/e17094f2gy1fhr1b07ak2j20dw0dw77z.jpg)
+![MC漢（by Dmen Watanabe）](/images/posts/e17094f2gy1fhr1b07ak2j20dw0dw77z.jpg)
 
-MC漢（by Dmen Watanabe）
+MC 漢（by Dmen Watanabe）
 
-![(DARTHREIDER &) MC漢 a.k.a. Gami](https://wx2.sinaimg.cn/large/e17094f2gy1fhqzzljrp0j20qe0gwtbg.jpg)
+![(DARTHREIDER &) MC漢 a.k.a. Gami](/images/posts/e17094f2gy1fhqzzljrp0j20qe0gwtbg.jpg)
 
-(DARTHREIDER &) MC漢 a.k.a. Gami
+(DARTHREIDER &) MC 漢 a.k.a. Gami

@@ -3,37 +3,36 @@ date: 2018-06-29
 title: Vol. 42 Get Ur Beats On 1・Sweet William
 dj: davidchill
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/42.jpg
 stream_url: https://www.lizhi.fm/1913563/2677785371517132294
 playlist: |-
-  1. m-flo「How You Like Me Now (Sweet William Remix)」(from remix album『BACK2THEFUTURETHEALBUM』2018/02/28)
-  2. Sweet William「Sky lady feat. Jinmenusagi Itto & Kikivivilily」(from album 『Arte Frasco』2016/10/05)
-  3. 🎙️
-  4. Sweet William「F.R.E.S.H.M.E.N. Meets Drums」(from album『LO ONE』2015/02/16)
-  5. 唾奇 × Sweet William「 Let Me」(from joint album『Jasmine』2017/04/19)
-  6. Sweet William「太陽の背後」 (from album 『Arte Frasco』2016/10/05)
-  7. 🎙️
-  8. Sweet William「Act like yours (feat サトウユウヤ & ANPYO)」(from EP『Blue』2017/12/13)
-  9. 唾奇 × Sweet William「Made My Day」(from joint album『Jasmine』2017/04/19)
-  10. Sweet William「Jet pilot (Awakening Freaks Remix) feat. NF Zessho」(from EP『Orange』2016/11/12)
-  11. 🎙️
-  12. Jiva Nel Mondo × Sweet William「Odd Thing (Lightnight Remix)」(from joint album『MONDO CREATE』 2016/06/11)
-  13. Sweet William「Just thing (feat. 唾奇)」(from EP『Blue』2017/12/13)
-  14. Sweet William「He's Coming Home !」(from album 『Arte Frasco』2016/10/05)
-  15. 🎙️
-  16. 唾奇「Walkin prod.Sweet William」(from EP『道-TAO-』CD reissue: 2018/03/23)
+    1. m-flo「How You Like Me Now (Sweet William Remix)」(from remix album『BACK2THEFUTURETHEALBUM』2018/02/28)
+    2. Sweet William「Sky lady feat. Jinmenusagi Itto & Kikivivilily」(from album 『Arte Frasco』2016/10/05)
+    3. 🎙️
+    4. Sweet William「F.R.E.S.H.M.E.N. Meets Drums」(from album『LO ONE』2015/02/16)
+    5. 唾奇 × Sweet William「 Let Me」(from joint album『Jasmine』2017/04/19)
+    6. Sweet William「太陽の背後」 (from album 『Arte Frasco』2016/10/05)
+    7. 🎙️
+    8. Sweet William「Act like yours (feat サトウユウヤ & ANPYO)」(from EP『Blue』2017/12/13)
+    9. 唾奇 × Sweet William「Made My Day」(from joint album『Jasmine』2017/04/19)
+    10. Sweet William「Jet pilot (Awakening Freaks Remix) feat. NF Zessho」(from EP『Orange』2016/11/12)
+    11. 🎙️
+    12. Jiva Nel Mondo × Sweet William「Odd Thing (Lightnight Remix)」(from joint album『MONDO CREATE』 2016/06/11)
+    13. Sweet William「Just thing (feat. 唾奇)」(from EP『Blue』2017/12/13)
+    14. Sweet William「He's Coming Home !」(from album 『Arte Frasco』2016/10/05)
+    15. 🎙️
+    16. 唾奇「Walkin prod.Sweet William」(from EP『道-TAO-』CD reissue: 2018/03/23)
 
 albums: |-
-  * [「BACK2THEFUTURETHEALBUM」](https://ototoy.jp/_/default/p/96703)
-  * [「Arte Frasco」](https://ototoy.jp/_/default/p/93060)
-  * [「LO ONE」](https://ototoy.jp/_/default/p/93078)
-  * [「Jasmine」](https://ototoy.jp/_/default/p/73651)
-  * [「Blue」](https://ototoy.jp/_/default/p/93057)
-  * [「Orange」](https://ototoy.jp/_/default/p/93059)
-  * [「MONDO CREATE」](https://ototoy.jp/_/default/p/93079)
-  * [「道-TAO-」](http://diskunion.net/clubh/ct/detail/1007557915)
-
+    * [「BACK2THEFUTURETHEALBUM」](https://ototoy.jp/_/default/p/96703)
+    * [「Arte Frasco」](https://ototoy.jp/_/default/p/93060)
+    * [「LO ONE」](https://ototoy.jp/_/default/p/93078)
+    * [「Jasmine」](https://ototoy.jp/_/default/p/73651)
+    * [「Blue」](https://ototoy.jp/_/default/p/93057)
+    * [「Orange」](https://ototoy.jp/_/default/p/93059)
+    * [「MONDO CREATE」](https://ototoy.jp/_/default/p/93079)
+    * [「道-TAO-」](http://diskunion.net/clubh/ct/detail/1007557915)
 ---
 
 <!-- hide excerpt -->
@@ -44,33 +43,31 @@ albums: |-
 
 代理主播：[大胃麒麟 a.k.a. DVC](https://weibo.com/davidchili)
 
-![0070Kgsgly1fsmgq2r7mzj30rs0rsn7i.jpg](https://ws2.sinaimg.cn/large/006tKfTcly1fssbvw23ytj30rs0rsgsl.jpg)
+![0070Kgsgly1fsmgq2r7mzj30rs0rsn7i.jpg](/images/posts/006tKfTcly1fssbvw23ytj30rs0rsgsl.jpg)
 
 ## 歌词（本期翻译暂时欠奉）:
 
 ### m-flo「How You Like Me Now (Sweet William Remix)」
 
-![0070Kgsgly1fsmgz6sv0wj30dw0dw42a.jpg](https://ws3.sinaimg.cn/large/006tKfTcly1fssbvzv21ij30dw0dwdhi.jpg)
+![0070Kgsgly1fsmgz6sv0wj30dw0dw42a.jpg](/images/posts/006tKfTcly1fssbvzv21ij30dw0dwdhi.jpg)
 
 『BACK2THEFUTURETHEALBUM』
 
-*Lyrics: Lisa・Verbal・Taku*
+_Lyrics: Lisa・Verbal・Taku_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (歌词暂时欠奉)
 
-
 ### Sweet William「Sky lady feat. Jinmenusagi Itto & Kikivivilily」
 
-![0070Kgsgly1fsmh4rgy7uj30dw0dwn2t.jpg](https://ws2.sinaimg.cn/large/006tKfTcly1fssbvni7pij30dw0dwgoo.jpg)
+![0070Kgsgly1fsmh4rgy7uj30dw0dwn2t.jpg](/images/posts/006tKfTcly1fssbvni7pij30dw0dwgoo.jpg)
 
 『Arte Frasco』
 
+_Lyrics: Jinmenusagi・Itto・kiki vivi lily_
 
-*Lyrics: Jinmenusagi・Itto・kiki vivi lily*
-
-*Track: Sweet William*
+_Track: Sweet William_
 
 Oh, baby get me right
 
@@ -90,7 +87,7 @@ Oh, baby get me right
 
 伝う記憶の中または歌の中
 
-昨日のBEERは胃袋の中
+昨日の BEER は胃袋の中
 
 追いかけて 探り探り
 
@@ -118,7 +115,7 @@ Oh, baby get me right
 
 Stereo
 
-24/7亀の甲羅の背に乗るバックパッカー
+24/7 亀の甲羅の背に乗るバックパッカー
 
 じゃあ行こうかこのまんま行ける所まで小旅行 出掛けよう
 
@@ -146,9 +143,9 @@ Stereo
 
 思ったよりもここは明るい
 
-グラスの 氷溶けきったJuice
+グラスの 氷溶けきった Juice
 
-そろそろ 出かける時間It's comin
+そろそろ 出かける時間 It's comin
 
 タバコと 財布を ポッケに入れて
 
@@ -190,21 +187,21 @@ Oh, はやく連れ出してよ
 
 ### Sweet William「F.R.E.S.H.M.E.N. Meets Drums」
 
-![0070Kgsgly1fsmheoo5tzj30dw0dwgqq.jpg](https://ws4.sinaimg.cn/large/006tKfTcly1fssbvx8iw0j30dw0dw76v.jpg)
+![0070Kgsgly1fsmheoo5tzj30dw0dwgqq.jpg](/images/posts/006tKfTcly1fssbvx8iw0j30dw0dw76v.jpg)
 
 『LO ONE』
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (instrumental)
 
 ### 唾奇 × Sweet William「 Let Me」
 
-![0070Kgsgly1fsmhhz766dj30dw0dwgva.jpg](https://ws1.sinaimg.cn/large/006tKfTcly1fssbvrur8zj30dw0dwdln.jpg)
+![0070Kgsgly1fsmhhz766dj30dw0dwgva.jpg](/images/posts/006tKfTcly1fssbvrur8zj30dw0dwdln.jpg)
 
-*Lyrics: 唾奇*
+_Lyrics: 唾奇_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 求めるだけ もう止めるな
 
@@ -230,7 +227,7 @@ Oh, はやく連れ出してよ
 
 分岐する道 幸あれ
 
-Let me, let me  
+Let me, let me
 
 気になりもしない赤の他人
 
@@ -276,7 +273,7 @@ Let me, let me
 
 分岐する道 幸あれ
 
-Let me, let me  
+Let me, let me
 
 気になりもしない赤の他人
 
@@ -288,84 +285,79 @@ Let me, let me
 
 その後の話持ってく墓場
 
-
 ### Sweet William「太陽の背後」
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (instrumental)
 
 ### Sweet William「Act like yours (feat サトウユウヤ & ANPYO)」
 
-![0070Kgsgly1fsmhurjyflj30dw0dw0u4.jpg](https://ws1.sinaimg.cn/large/006tKfTcly1fssbvq0arrj30dw0dw0t6.jpg)
+![0070Kgsgly1fsmhurjyflj30dw0dw0u4.jpg](/images/posts/006tKfTcly1fssbvq0arrj30dw0dw0t6.jpg)
 
 『Blue』
 
+_Lyrics: サトウユウヤ・ANPYO_
 
-*Lyrics: サトウユウヤ・ANPYO*
-
-*Track: Sweet William*
+_Track: Sweet William_
 
 (歌词暂时欠奉)
 
+### 唾奇 ×Sweet William「Made My Day」
 
-### 唾奇×Sweet William「Made My Day」
+_Lyrics: 唾奇_
 
-*Lyrics: 唾奇*
+_Track: Sweet William_
 
-*Track: Sweet William*
-
-歌词与翻译请移步[Vol. 39 The Man from Yosemiya・冲绳Rapper唾奇](https://subjpop.com/j-hip%20hop/2018/03/09/the-man-from-yosemiya/#唾奇sweet-williammade-my-day)
+歌词与翻译请移步[Vol. 39 The Man from Yosemiya・冲绳 Rapper 唾奇](https://subjpop.com/j-hip%20hop/2018/03/09/the-man-from-yosemiya/#唾奇sweet-williammade-my-day)
 
 ### Sweet William「Jet pilot (Awakening Freaks Remix) feat. NF Zessho」
 
-![0070Kgsgly1fsmi3jo4iwj30dw0dwwg8.jpg](https://ws3.sinaimg.cn/large/006tKfTcly1fssbvxzec4j30dw0dwmxn.jpg)
+![0070Kgsgly1fsmi3jo4iwj30dw0dwwg8.jpg](/images/posts/006tKfTcly1fssbvxzec4j30dw0dwmxn.jpg)
 
 『Orange』
 
-*Lyrics: NF Zessho*
+_Lyrics: NF Zessho_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
-(歌词暂时欠奉) 
+(歌词暂时欠奉)
 
 ### Jiva Nel Mondo × Sweet William「Odd Thing (Lightnight Remix)」
 
-![0070Kgsgly1fsmi7l57xoj30dw0dw7au.jpg](https://ws4.sinaimg.cn/large/006tKfTcly1fssbvz55cwj30dw0dwn02.jpg)
+![0070Kgsgly1fsmi7l57xoj30dw0dw7au.jpg](/images/posts/006tKfTcly1fssbvz55cwj30dw0dwn02.jpg)
 
 『MONDO CREATE』
 
-*Lyrics: Jiva Nel Mondo*
+_Lyrics: Jiva Nel Mondo_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (歌词暂时欠奉)
-
 
 ### Sweet William「Just thing (feat. 唾奇)」
 
-*Lyrics:唾奇*
+_Lyrics:唾奇_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (歌词暂时欠奉)
 
-
 ### Sweet William「He's Coming Home !」
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 (instrumental)
 
 ### 唾奇「Walkin prod.Sweet William」
 
-![0070Kgsgly1fsmj9po6wxj30dw0dvgr1.jpg](https://ws2.sinaimg.cn/large/006tKfTcly1fssbvuhfnyj30dw0dv41l.jpg)
+![0070Kgsgly1fsmj9po6wxj30dw0dvgr1.jpg](/images/posts/006tKfTcly1fssbvuhfnyj30dw0dv41l.jpg)
 
 『道-TAO-』
 
-*Lyrics: 唾奇*
+_Lyrics: 唾奇_
 
-*Track: Sweet William*
+_Track: Sweet William_
 
 痩せこけた 貯金 残高を見る
 
@@ -425,9 +417,8 @@ Let me, let me
 
 私は私に従う
 
-
 ## 艺人介绍
 
-![0070Kgsgly1fsmjbui2wyj30m80gowp6.jpg](https://ws4.sinaimg.cn/large/006tKfTcly1fssbvt5jyij30m80gojxu.jpg)
+![0070Kgsgly1fsmjbui2wyj30m80gowp6.jpg](/images/posts/006tKfTcly1fssbvt5jyij30m80gojxu.jpg)
 
 Sweet William

@@ -3,7 +3,7 @@ date: 2016-12-09
 title: Vol. 18 私立惠比寿中学・唱片公司没敢选的 Ebichu BEST
 dj: mimida
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/18.jpg
 stream_url: http://www.lizhi.fm/1913563/2572660731619576838
 playlist: |-
@@ -21,23 +21,23 @@ playlist: |-
     12. 私立恵比寿中学「参枚目のタフガキ」（from 3rd album『穴空』2016/04/20）
 
 albums: |-
-  * [「中人」](http://www.sonymusic.co.jp/Music/Info/ebichu/ebichunin/)
-  * [「金八」](http://www.kinpachi.net/)
-  * [「穴空」](http://www.sonymusic.co.jp/Music/Info/ebichu/anarchy/)
-  * 相关唱片 amazon.co.jp 或者 Apple Music 日本店应该都有。
+    * [「中人」](http://www.sonymusic.co.jp/Music/Info/ebichu/ebichunin/)
+    * [「金八」](http://www.kinpachi.net/)
+    * [「穴空」](http://www.sonymusic.co.jp/Music/Info/ebichu/anarchy/)
+    * 相关唱片 amazon.co.jp 或者 Apple Music 日本店应该都有。
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
 ### 「私立恵比寿中学の日常(Prologue)：二乗の事情」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fak35xw2waj20dw0dotcn.jpg)
+
+![img](/images/posts/e17094f2gw1fak35xw2waj20dw0dotcn.jpg)
 
 **私立惠比寿中学的日常（Prologue）：二次方的状况**
 
-*脚本：しりあがり寿*
+_脚本：しりあがり寿_
 
 (キーンコーンカーンコーン……)
 
@@ -75,17 +75,17 @@ albums: |-
 
 不是缘分吗？
 
-【小林】えっ、じゃあmcは？
+【小林】えっ、じゃあ mc は？
 
-哎，那mc呢？
+哎，那 mc 呢？
 
 (ざわめき)
 
 （嘈杂）
 
-【廣田】mcはぁなんだろうあのあの～…なんだ、喋り担当みたいな？
+【廣田】mc はぁなんだろうあのあの～…なんだ、喋り担当みたいな？
 
-mc是什么来着那个那个.....那个啥来着，负责说话的人那种的？
+mc 是什么来着那个那个.....那个啥来着，负责说话的人那种的？
 
 【全員】あー！！
 
@@ -105,11 +105,11 @@ mc是什么来着那个那个.....那个啥来着，负责说话的人那种的�
 
 【柏木】じゃあエムシーのじじょう…って？
 
-那mc的状况......是啥？（译注：「二次方/平方」在日语里为「二乘」或者「自乘」，后者与日语里表「状况，缘由」的「事情」发音相同））
+那 mc 的状况......是啥？（译注：「二次方/平方」在日语里为「二乘」或者「自乘」，后者与日语里表「状况，缘由」的「事情」发音相同））
 
-【廣田】ぇっじじょうは事情でしょw家庭の事情とかぁ
+【廣田】ぇっじじょうは事情でしょ w 家庭の事情とかぁ
 
-嗨，zhuangkuang不就是状况嘛w，家庭的状况啊
+嗨，zhuangkuang 不就是状况嘛 w，家庭的状况啊
 
 【星名】あっそういうことか！
 
@@ -119,9 +119,9 @@ mc是什么来着那个那个.....那个啥来着，负责说话的人那种的�
 
 因为个人的状况......之类的？
 
-【真山】事情が、あるんだ。司会の人w
+【真山】事情が、あるんだ。司会の人 w
 
-状况，有的啊。当司仪的人w
+状况，有的啊。当司仪的人 w
 
 【中山】司会も色々大変なんだろうね
 
@@ -191,14 +191,13 @@ mc是什么来着那个那个.....那个啥来着，负责说话的人那种的�
 
 老师！哥哥实在太可怜了！
 
-
 ### 「テブラデスキー ～青春リバティ～」
 
-**两手空空滑雪～青春liberty～**（译注：「スキー/ski:」在日语里音近「好き/ski」，所以标题也双关「喜欢两手空空/赤手空拳」）
+**两手空空滑雪～青春 liberty ～**（译注：「スキー/ski:」在日语里音近「好き/ski」，所以标题也双关「喜欢两手空空/赤手空拳」）
 
-*作詞·編曲：田村歩美*
+_作詞·編曲：田村歩美_
 
-*作曲：池住祥平*
+_作曲：池住祥平_
 
 風の様に世界を駆け抜けて行け
 
@@ -212,7 +211,7 @@ mc是什么来着那个那个.....那个啥来着，负责说话的人那种的�
 
 像风一样在世界里穿行奔跑吧
 
-（摇摇晃晃shining girl）
+（摇摇晃晃 shining girl）
 
 一边在流云之中挥着手
 
@@ -254,7 +253,7 @@ Abracadabra（译注：咒语）两手空空摇摇晃晃
 
 噜噜噜噜噜
 
-有喜悦有羞涩总之是挺快乐的青春liberty
+有喜悦有羞涩总之是挺快乐的青春 liberty
 
 いつの間にか持ちきれない程
 
@@ -276,7 +275,7 @@ Abracadabra（译注：咒语）两手空空摇摇晃晃
 
 像风一样在世界里穿行奔跑吧
 
-（摇摇晃晃shining girl）
+（摇摇晃晃 shining girl）
 
 一边在流云之中挥着手
 
@@ -286,7 +285,7 @@ Abracadabra（译注：咒语）两手空空摇摇晃晃
 
 チチンプイプイ ぐるぐるグルメに
 
-ちょっと寄り道 パンorライス？
+ちょっと寄り道 パン or ライス？
 
 Right！？
 
@@ -294,7 +293,7 @@ Right！？
 
 Chichinpuipui（译注：还是咒语）咕噜咕噜要成为美食家
 
-稍微绕道而行，面包还是rice？
+稍微绕道而行，面包还是 rice？
 
 Right！？
 
@@ -318,7 +317,7 @@ Right！？
 
 嘣嘣嘣嘣嘣
 
-有喜悦有羞涩总之是挺快乐的青春liberty
+有喜悦有羞涩总之是挺快乐的青春 liberty
 
 本音はあと半年ちょいくらい
 
@@ -340,11 +339,11 @@ Right！？
 
 像星星一样到那边闪光吧
 
-（摇摇晃晃shining girl）
+（摇摇晃晃 shining girl）
 
 一边对着月亮露出微笑
 
-多余的东西全部都撕了扔掉然后recycle吧
+多余的东西全部都撕了扔掉然后 recycle 吧
 
 赤手空拳舞动吧！青葱的激情
 
@@ -404,7 +403,7 @@ Right！？
 
 像风一样在世界里穿行奔跑吧
 
-（摇摇晃晃shining girl）
+（摇摇晃晃 shining girl）
 
 一边在流云之中挥着手
 
@@ -424,26 +423,25 @@ Right！？
 
 像星星去那一边闪光吧
 
-（摇摇晃晃shining girl）
+（摇摇晃晃 shining girl）
 
 一边对着月亮露出微笑
 
-多余的东西全部都撕了扔掉然后recycle吧
+多余的东西全部都撕了扔掉然后 recycle 吧
 
 赤手空拳舞动吧！青葱的激情
 
+### 「キングオブ学芸会のテーマ ～ Nu Skool Teenage Riot ～」
 
-### 「キングオブ学芸会のテーマ ～Nu Skool Teenage Riot～」
+**King of 学艺会的 theme ～ Nu Skool Teenage Riot ～**
 
-**King of 学艺会的theme ～Nu Skool Teenage Riot～**
+_作詞：仮屋一時_
 
-*作詞：仮屋一時*
+_作曲：吉田哲人_
 
-*作曲：吉田哲人*
+_編曲：吉田哲人 / el poco maro / 有木竜郎_
 
-*編曲：吉田哲人 / el poco maro / 有木竜郎*
-
-（译注：「学艺会」＝学校的学园祭、年度汇报演出。私立惠比寿中学官方自称是「King of 学艺会」，所以每年年底11或12月固定举行的大型公演名称也是「学艺会」。另外夏天举行的固定公演总是去山里或者湖边，名称是「夏天的family远足」，而「family」是私立惠比寿中学粉丝的总称。）
+（译注：「学艺会」＝学校的学园祭、年度汇报演出。私立惠比寿中学官方自称是「King of 学艺会」，所以每年年底 11 或 12 月固定举行的大型公演名称也是「学艺会」。另外夏天举行的固定公演总是去山里或者湖边，名称是「夏天的 family 远足」，而「family」是私立惠比寿中学粉丝的总称。）
 
 気をつけ！礼！着席！
 
@@ -461,7 +459,7 @@ Right！？
 
 暴徒们在革新后登场
 
-流浪的Idol路途顺畅？
+流浪的 Idol 路途顺畅？
 
 都说女人要可爱，不过胆魄也很重要
 
@@ -517,7 +515,7 @@ asakiyumemishi yohimosesu
 
 どちらかというなら 私立
 
-8時 寝過ごした! 着替えなきゃ!!
+8 時 寝過ごした! 着替えなきゃ!!
 
 メイクまだ!!! とりあえず!!!!
 
@@ -525,7 +523,7 @@ asakiyumemishi yohimosesu
 
 一定要选的话那就选私立
 
-8点，睡过头了！赶紧换衣服！！
+8 点，睡过头了！赶紧换衣服！！
 
 还没化妆！！！总之就先！！！！
 
@@ -541,7 +539,7 @@ king of gakugeeeekai 大体中学生
 
 小学生以下はマイナス何年生？
 
-king of gakugeeeekai eは4つまで
+king of gakugeeeekai e は 4 つまで
 
 高校以上一生在校生
 
@@ -549,15 +547,15 @@ king of gakugeeeekai eは4つまで
 
 Hello！
 
-king of gakugeeeekai大致是初中生（译注：gakugeeeekai=gakugeikai=学艺会）
+king of gakugeeeekai 大致是初中生（译注：gakugeeeekai=gakugeikai=学艺会）
 
-小学生以下的话是负的中学几年级？（译注：私立惠比寿中学的官方宗旨是「高中＝初中4－6年级」、「大学＝初中7－10年级」，再往后就逐年累加，反正所有人永远都是初中生，所以此处说小学生是负的初中生）
+小学生以下的话是负的中学几年级？（译注：私立惠比寿中学的官方宗旨是「高中＝初中 4－6 年级」、「大学＝初中 7－10 年级」，再往后就逐年累加，反正所有人永远都是初中生，所以此处说小学生是负的初中生）
 
-king of gakugeeeekai e有四个
+king of gakugeeeekai e 有四个
 
 高中以上一辈子都是初中生
 
-Never ending升级
+Never ending 升级
 
 反抗!!!!!
 
@@ -587,7 +585,7 @@ Never ending升级
 
 事務所所在地
 
-周末lucky
+周末 lucky
 
 可以吵吵闹闹
 
@@ -595,13 +593,13 @@ Never ending升级
 
 事务所所在地
 
-あがって  いぇ～ 永中 feel
+あがって いぇ～ 永中 feel
 
 What's the time？
 
 "It's gakugeeeekai"
 
-热闹起来，YEAH～ 永中feel（译注：永远的初中生feel）
+热闹起来，YEAH ～ 永中 feel（译注：永远的初中生 feel）
 
 What's the time？
 
@@ -619,7 +617,7 @@ Hey，我们（再来一回！）我们
 
 啊——是想开学艺会的情绪
 
-1192建起来，在惠比寿（译注：1192=iikuni=好国家）
+1192 建起来，在惠比寿（译注：1192=iikuni=好国家）
 
 Oh——every day, every time, every week
 
@@ -671,11 +669,11 @@ king of gakugeeeekai 大体中学生
 
 三つ子の魂百まで ずっと変わらない
 
-king of gakugeeeekai大致是初中生
+king of gakugeeeekai 大致是初中生
 
 小学生以下的话是负的中学几年级？
 
-king of gakugeeeekai大致是初中生
+king of gakugeeeekai 大致是初中生
 
 三岁看老，永远不会变
 
@@ -683,15 +681,15 @@ king of gakugeeeekai 大体中学生
 
 小学生以下はマイナス何年生
 
-king of gakugeeeekai eは4つまで
+king of gakugeeeekai e は 4 つまで
 
 高校以上一生在校生
 
-king of gakugeeeekai大致是初中生
+king of gakugeeeekai 大致是初中生
 
 小学生以下的话是负的中学几年级？
 
-king of gakugeeeekai e有四个
+king of gakugeeeekai e 有四个
 
 高中以上一辈子都是初中生
 
@@ -699,39 +697,37 @@ king of gakugeeeekai e有四个
 
 ネバーエンディング進級
 
-Never ending升级
+Never ending 升级
 
-Never ending升级
+Never ending 升级
 
 気をつけ！礼！着席！
 
 立正！行礼！请坐！
 
-
-
-
 ### 「ゼッテーアナーキー」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1fak36md0btj20dw0dsjut.jpg)
 
-**绝对Anarchy**
+![img](/images/posts/e17094f2gw1fak36md0btj20dw0dsjut.jpg)
 
-*作詞·作曲·編曲：ABEDON*
+**绝对 Anarchy**
 
-俺たちゼッテーアナーキー
-
-俺たちゼッテーアナーキー
+_作詞·作曲·編曲：ABEDON_
 
 俺たちゼッテーアナーキー
 
 俺たちゼッテーアナーキー
 
-我们这群家伙绝对Anarchy
+俺たちゼッテーアナーキー
 
-我们这群家伙绝对Anarchy
+俺たちゼッテーアナーキー
 
-我们这群家伙绝对Anarchy
+我们这群家伙绝对 Anarchy
 
-我们这群家伙绝对Anarchy
+我们这群家伙绝对 Anarchy
+
+我们这群家伙绝对 Anarchy
+
+我们这群家伙绝对 Anarchy
 
 ３！５！６！７！９！１０！１１！１２！
 
@@ -745,13 +741,13 @@ Never ending升级
 
 おまえらゼッテーアナーキー
 
-你们这帮家伙绝对Anarchy
+你们这帮家伙绝对 Anarchy
 
-你们这帮家伙绝对Anarchy
+你们这帮家伙绝对 Anarchy
 
-你们这帮家伙绝对Anarchy
+你们这帮家伙绝对 Anarchy
 
-你们这帮家伙绝对Anarchy
+你们这帮家伙绝对 Anarchy
 
 ３！５！６！７！９！１０！１１！１２！
 
@@ -785,13 +781,13 @@ OIOIOI！OIOIOI！
 
 おまえの母ちゃんアナーキー
 
-你这家伙的妈妈绝对Anarchy
+你这家伙的妈妈绝对 Anarchy
 
-你这家伙的妈妈绝对Anarchy
+你这家伙的妈妈绝对 Anarchy
 
-你这家伙的妈妈绝对Anarchy
+你这家伙的妈妈绝对 Anarchy
 
-你这家伙的妈妈绝对Anarchy
+你这家伙的妈妈绝对 Anarchy
 
 ３！５！６！７！９！１０！１１！１２！
 
@@ -805,19 +801,19 @@ OIOIOI！OIOIOI！
 
 ゼッテーゼッテーアナーキー
 
-世上大体都是Anarchy
+世上大体都是 Anarchy
 
-从一开始就是Anarchy
+从一开始就是 Anarchy
 
-大概是经纪公司Anarchy
+大概是经纪公司 Anarchy
 
-绝对绝对Anarchy
-
-３！５！６！７！９！１０！１１！１２！
+绝对绝对 Anarchy
 
 ３！５！６！７！９！１０！１１！１２！
 
-机に 向かえば  不安が のぞいて
+３！５！６！７！９！１０！１１！１２！
+
+机に 向かえば 不安が のぞいて
 
 俺たち おまえら 一つになれる
 
@@ -845,14 +841,13 @@ OIOIOI！OIOIOI！
 
 OIOIOI！OIOIOI！
 
-
 ### 「面皰」
 
 **痘痘**
 
-*作詞·作曲：吉澤嘉代子*
+_作詞·作曲：吉澤嘉代子_
 
-*編曲：石崎光（cafelon）*
+_編曲：石崎光（cafelon）_
 
 お年頃はつらいよ
 
@@ -926,7 +921,7 @@ youn-youn-youn-youn-youn-young
 
 いつからか美しく　思えてきちゃう
 
- (うっとりー)
+(うっとりー)
 
 看着红肿肿的凸起
 
@@ -1026,21 +1021,19 @@ youn-youn-youn-youn-youn-young
 
 一起约会吗？
 
+### 「中人 DANCE MUSIC」
 
-
-
-### 「中人DANCE MUSIC」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1fak379atv2j20dw0dswfp.jpg)
+![img](/images/posts/e17094f2gw1fak379atv2j20dw0dswfp.jpg)
 
 （译注：中人＝半大孩子，半大人）
 
-*作詞·編曲：シライシ紗トリ*
+_作詞·編曲：シライシ紗トリ_
 
-*作曲：石井竜也*
+_作曲：石井竜也_
 
-ちゅちゅちゅ中人DANCE MUSIC
+ちゅちゅちゅ中人 DANCE MUSIC
 
-中中中中人DANCE MUSIC
+中中中中人 DANCE MUSIC
 
 中途半端に 見えちゃうかもね
 
@@ -1090,7 +1083,7 @@ youn-youn-youn-youn-youn-young
 
 いつまでも どこででも 歌って元気にするよ
 
-ちゅちゅちゅ 中人DANCE MUSIC
+ちゅちゅちゅ 中人 DANCE MUSIC
 
 更多更多地教给我
 
@@ -1108,9 +1101,9 @@ youn-youn-youn-youn-youn-young
 
 不论何时，不论何地，唱歌着给你打气
 
-中中中中人DANCE MUSIC
+中中中中人 DANCE MUSIC
 
-（译注：专辑「金八」里的「ちちんぷい」表现出与此完全不同的态度：「STOP the 成長！永遠に！／STOP the 成长！永远地！」这种路线变更可能也是「中人DANCE MUSIC」没有入选精选的原因）
+（译注：专辑「金八」里的「ちちんぷい」表现出与此完全不同的态度：「STOP the 成長！永遠に！／STOP the 成长！永远地！」这种路线变更可能也是「中人 DANCE MUSIC」没有入选精选的原因）
 
 勝手なことも しちゃうかもね
 
@@ -1160,7 +1153,7 @@ youn-youn-youn-youn-youn-young
 
 いつまでも どこででも 歌って元気にするよ
 
-ちゅちゅちゅ 中人DANCE MUSIC
+ちゅちゅちゅ 中人 DANCE MUSIC
 
 更多更多地教给我
 
@@ -1178,7 +1171,7 @@ youn-youn-youn-youn-youn-young
 
 不论何时，不论何地，唱歌着给你打气
 
-中中中中人DANCE MUSIC
+中中中中人 DANCE MUSIC
 
 日々勉強中 今成長中
 
@@ -1192,7 +1185,7 @@ youn-youn-youn-youn-youn-young
 
 差不多中度的感动，正在增幅中
 
-接下来的scene，也和你一起
+接下来的 scene，也和你一起
 
 就请永远和我相联吧
 
@@ -1212,9 +1205,9 @@ youn-youn-youn-youn-youn-young
 
 いつまでも どこででも 歌って元気にするよ
 
-ちゅちゅちゅ 中人DANCE
+ちゅちゅちゅ 中人 DANCE
 
-ちゅちゅちゅ 中人DANCE
+ちゅちゅちゅ 中人 DANCE
 
 更多更多地教给我
 
@@ -1232,22 +1225,21 @@ youn-youn-youn-youn-youn-young
 
 不论何时，不论何地，唱歌着给你打气
 
-中中中中人DANCE MUSIC
+中中中中人 DANCE MUSIC
 
-中中中中人DANCE MUSIC
+中中中中人 DANCE MUSIC
 
-ちゅちゅちゅ中人DANCE MUSIC
+ちゅちゅちゅ中人 DANCE MUSIC
 
-中中中中人DANCE MUSIC
-
+中中中中人 DANCE MUSIC
 
 ### 「買い物しようと町田へ」
 
 **出门去町田买东西吧**
 
-*作詞・作曲・編曲：大内政徳*
+_作詞・作曲・編曲：大内政徳_
 
-*Horn Arrange：鬼頭哲（渋さ知らズ / KITO, Akira BrassBand！）*
+_Horn Arrange：鬼頭哲（渋さ知らズ / KITO, Akira BrassBand！）_
 
 たらたらたたったったたららら たらたらたた
 
@@ -1257,7 +1249,7 @@ Talatalatata ta tatalalala talatalatata
 
 Talatalatata ta tatalalala talatalatata
 
-うーSunday!
+うー Sunday!
 
 じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃんじゃんじゃんじゃじゃんじゃーん
 
@@ -1265,7 +1257,7 @@ Talatalatata ta tatalalala talatalatata
 
 じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃんじゃんじゃんじゃじゃんじゃーん
 
-じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん  日曜日！
+じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん 日曜日！
 
 「行ってみよう～！」
 
@@ -1281,27 +1273,27 @@ Talatalatata ta tatalalala talatalatata
 
 「走吧～！」
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
-買い物しようと町田へ出かけるSunday
+買い物しようと町田へ出かける Sunday
 
-買い物しようと渋谷へ出かけるSunday
+買い物しようと渋谷へ出かける Sunday
 
-買い物しようと中野へ出かけるSunday
+買い物しようと中野へ出かける Sunday
 
-買い物しようと秋葉へ出かけるSunday
+買い物しようと秋葉へ出かける Sunday
 
 唔！哈！唔！唔——Sunday！
 
-出门去町田买东西吧Sunday
+出门去町田买东西吧 Sunday
 
-出门去涩谷买东西吧Sunday
+出门去涩谷买东西吧 Sunday
 
-出门去中野买东西吧Sunday
+出门去中野买东西吧 Sunday
 
-出门去秋叶原买东西吧Sunday
+出门去秋叶原买东西吧 Sunday
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
 財布忘れる訳がない 電車に乗れない
 
@@ -1353,11 +1345,11 @@ Talatalatata ta tatalalala talatalatata
 
 五天实在太漫长啦！
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
 じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃんじゃんじゃんじゃんじゃーん
 
-じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん   日曜日じゃ！
+じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん 日曜日じゃ！
 
 「次行ってみよう～！」
 
@@ -1369,27 +1361,27 @@ Talatalatata ta tatalalala talatalatata
 
 「接着走吧～！」
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
-買い物しようと恵比寿へ出かけるSunday
+買い物しようと恵比寿へ出かける Sunday
 
-買い物しようと日比谷へ出かけるSunday
+買い物しようと日比谷へ出かける Sunday
 
-買い物しようと銀座へ出かけるSunday
+買い物しようと銀座へ出かける Sunday
 
-買い物しようと巣鴨へ出かけるSunday
+買い物しようと巣鴨へ出かける Sunday
 
 唔！哈！唔！唔——Sunday！
 
-出门去惠比寿买东西吧Sunday
+出门去惠比寿买东西吧 Sunday
 
-出门去日比谷买东西吧Sunday
+出门去日比谷买东西吧 Sunday
 
-出门去银座买东西吧Sunday
+出门去银座买东西吧 Sunday
 
-出门去巢鸭买东西吧Sunday
+出门去巢鸭买东西吧 Sunday
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
 裸足で出かける訳ない そんなタフじゃない
 
@@ -1403,11 +1395,11 @@ Talatalatata ta tatalalala talatalatata
 
 不可能光脚出门，还没有那么强悍
 
-但是shopping到一半才发觉
+但是 shopping 到一半才发觉
 
 外套的价牌
 
-啊啊，还有T-shirt上贴着的号码纸都没有撕掉
+啊啊，还有 T-shirt 上贴着的号码纸都没有撕掉
 
 あぁ日曜日 あぁ日曜日
 
@@ -1421,7 +1413,7 @@ Talatalatata ta tatalalala talatalatata
 
 そこだけ平等 明日月曜日
 
-あぁ日曜日 7時過ぎたら
+あぁ日曜日 7 時過ぎたら
 
 あの何とも何とも言えない気分
 
@@ -1445,7 +1437,7 @@ Talatalatata ta tatalalala talatalatata
 
 把时间还回来！
 
-う！は！う！うーSunday！
+う！は！う！うー Sunday！
 
 Sunday！なんでぃ！待ってぃ！今、何時！
 
@@ -1453,7 +1445,7 @@ Sunday！なんでぃ！待ってぃ！今、何時！
 
 Sunday！为什么！等等！现在，几点了！？
 
-うーSunday！
+うー Sunday！
 
 月曜日 火曜水曜 あなたの事で頭がいっぱい
 
@@ -1469,7 +1461,7 @@ Sunday！为什么！等等！现在，几点了！？
 
 そう起きてる間は日曜日 あきらめきれない
 
-うーSunday！「えー、なんでぇぃ？」
+うー Sunday！「えー、なんでぇぃ？」
 
 唔——Sunday！
 
@@ -1495,7 +1487,7 @@ Sunday！为什么！等等！现在，几点了！？
 
 じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃんじゃんじゃんじゃじゃんじゃーん
 
-じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん  日曜日！
+じゃんじゃんじゃじゃんじゃんじゃんじゃじゃんじゃん 日曜日！
 
 行かないで！
 
@@ -1521,9 +1513,9 @@ Sunday！为什么！等等！现在，几点了！？
 
 **幸福的贴纸一直贴在背上**
 
-*作詞・作曲：平野航*
+_作詞・作曲：平野航_
 
-*編曲：WK1（鈴木慶一＋曽我部恵一）*
+_編曲：WK1（鈴木慶一＋曽我部恵一）_
 
 ねぇ 覚えてる？あの頃使ってた魔法
 
@@ -1555,7 +1547,7 @@ Sunday！为什么！等等！现在，几点了！？
 
 多么美好的日子，啊啊，送给你
 
-Yoloreihi yolorei yolorei好日子
+Yoloreihi yolorei yolorei 好日子
 
 Yoloreihi yolorei
 
@@ -1611,7 +1603,7 @@ Yoloreihi yolorei
 
 多么美好的日子，啊啊，好幸福
 
-Yoloreihi yolorei yolorei好日子
+Yoloreihi yolorei yolorei 好日子
 
 Yoloreihi yolorei
 
@@ -1647,7 +1639,7 @@ I'm satisfied with me
 
 多么美好的日子，啊啊，好幸福
 
-Yoloreihi yolorei yolorei好日子
+Yoloreihi yolorei yolorei 好日子
 
 Yoloreihi yolorei
 
@@ -1663,13 +1655,13 @@ Yoloreihi yolorei
 
 ### 「参枚目のタフガキ」
 
-**第三张的tough kids**
+**第三张的 tough kids**
 
-*作詞・作曲：前山田健一*
+_作詞・作曲：前山田健一_
 
-*編曲：CMJK*
+_編曲：CMJK_
 
-深夜アニメからの5時起き
+深夜アニメからの 5 時起き
 
 一限目にプール授業
 
@@ -1731,7 +1723,7 @@ He's tough boy
 
 绝对不听话的孩子
 
-铃铃铃telephone
+铃铃铃 telephone
 
 視力が落ちたメガネメガネが
 
@@ -1739,7 +1731,7 @@ He's tough boy
 
 マジかマジかで目が点 目が点
 
-アルファオメガ ガンマGTPが
+アルファオメガ ガンマ GTP が
 
 视力下降了眼镜眼镜
 
@@ -1775,9 +1767,9 @@ Alpha Omega Gamma GTP
 
 お前ら負けんなもう一回
 
-第三张的tough kids（译注：「三枚目」也有日本民间戏剧里「丑角」、「滑稽角色」的意思，所以除了指「第三张专辑」外，也呼应私立惠比寿中学设定的态度）
+第三张的 tough kids（译注：「三枚目」也有日本民间戏剧里「丑角」、「滑稽角色」的意思，所以除了指「第三张专辑」外，也呼应私立惠比寿中学设定的态度）
 
-尽管放马过来吧hard punch
+尽管放马过来吧 hard punch
 
 凹进去了不过就是再弹出来
 
@@ -1793,7 +1785,7 @@ Alpha Omega Gamma GTP
 
 タフタフタフタフタフタフタフタフタタタ
 
-第三张的tough kids
+第三张的 tough kids
 
 只出两张可不够（译注：「二枚目」在传统日本民间戏剧里也代表「美男子／小白脸」的角色，此处同样是双关。另外，「一枚目」是代表戏剧的主人公）
 
@@ -1809,7 +1801,7 @@ tough tough tough tough tough tough tough tough tatata
 
 あんな坂こんな坂ケンケンパでるんるんるん
 
-ワチャゴナワチャゴナR&Bなメンタリティ
+ワチャゴナワチャゴナ R&B なメンタリティ
 
 あっちゃこっちゃはっちゃめっちゃ
 
@@ -1817,11 +1809,11 @@ tough tough tough tough tough tough tough tough tatata
 
 这是什么这是什么
 
-无敌的burning hard
+无敌的 burning hard
 
 那个坡啊这个坡啊跳着房子噜噜噜噜
 
-Whhhatchagonna，whhhatchagonna，R&B的mentality
+Whhhatchagonna，whhhatchagonna，R&B 的 mentality
 
 那边这边乱作一团
 
@@ -1889,15 +1881,15 @@ He's tough boy
 
 参枚目のタフガキ
 
-二番目で CDデビュー
+二番目で CD デビュー
 
 なんだかんだあったから
 
 強いさ変わんない絆
 
-第三张的tough kids
+第三张的 tough kids
 
-第二个CD出道（译注：第一个自然是指同事务所的桃草）
+第二个 CD 出道（译注：第一个自然是指同事务所的桃草）
 
 经过这样那样的事情
 
@@ -1913,7 +1905,7 @@ He's tough boy
 
 タフタフタフタフタフタフタフタフタタタ
 
-第三张的tough kids
+第三张的 tough kids
 
 抱着三振不中的觉悟挥棒吧
 
@@ -1931,9 +1923,9 @@ tough tough tough tough tough tough tough tough tatata
 
 お前ら負けんなもう一回
 
-第三张的tough kids
+第三张的 tough kids
 
-尽管放马过来吧hard punch
+尽管放马过来吧 hard punch
 
 凹进去了不过就是再弹出来
 
@@ -1949,7 +1941,7 @@ tough tough tough tough tough tough tough tough tatata
 
 タフタフタフタフタフタフタフタフタタタ
 
-第三张的tough kids
+第三张的 tough kids
 
 只出两张可不够
 
@@ -1959,9 +1951,6 @@ tough tougher toughest
 
 tough tough tough tough tough tough tough tough tatata
 
-
-
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1fak3a9vu40j20xc0aodjn.jpg)
-
+![img](/images/posts/e17094f2gw1fak3a9vu40j20xc0aodjn.jpg)
 
 最后力荐大家在手机上体验 五五七二三二〇（私立惠比寿中学）超级厉害的[最新游戏](http://www.5572320.jp/mu/)（？）

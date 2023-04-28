@@ -3,52 +3,50 @@ date: 2017-06-23
 title: Vol. 28 KANDYTOWN・糖镇City-Hiphop 🍬
 dj: davidchill
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/28.jpg
 stream_url: http://www.lizhi.fm/1913563/2608459664339857926
 playlist: |-
-  1. DJ PMX「Neon Wave feat. GOTTZ, MUD & IO (KANDYTOWN)」（from 3rd original album『THE ORIGINAL III』2017/5/17）
-  2. Ryohu「Blue Rose」（from 1st EP『All in One - EP』2017/4/5）
-  3. 🎙️
-  4. DONY JOINT「Good Times feat. Ryohu」（from 1st album『A 03 Tale, ¥ella』2017/5/24）
-  5. IO「City Never Sleep」（from 1st album『Soul Long』2016/2/14）
-  6. 🎙️
-  7. YOUNG JUJU「DownTown Boyz feat. Ryohu」（from 1st album『juzzy 92&`&』2016/11/23）
-  8. 菊丸「Lift my soul feat. Tree Mason」（from 2nd album『ON THE KORNER』2016/7/6）
-  9. 🎙️
-  10. KANDYTOWN「ODQ」（from 1st street album『BLAKK MOTEL』2015/1/25）
-  11. KANDYTOWN「Good Die Young」（from 1st major album『KANDYTOWN』2016/11/2）
-  12. 🎙️
-  13. KANDYTOWN「Ain’t No Holding Back」（from 1st major album『KANDYTOWN』2016/11/2）
+    1. DJ PMX「Neon Wave feat. GOTTZ, MUD & IO (KANDYTOWN)」（from 3rd original album『THE ORIGINAL III』2017/5/17）
+    2. Ryohu「Blue Rose」（from 1st EP『All in One - EP』2017/4/5）
+    3. 🎙️
+    4. DONY JOINT「Good Times feat. Ryohu」（from 1st album『A 03 Tale, ¥ella』2017/5/24）
+    5. IO「City Never Sleep」（from 1st album『Soul Long』2016/2/14）
+    6. 🎙️
+    7. YOUNG JUJU「DownTown Boyz feat. Ryohu」（from 1st album『juzzy 92&`&』2016/11/23）
+    8. 菊丸「Lift my soul feat. Tree Mason」（from 2nd album『ON THE KORNER』2016/7/6）
+    9. 🎙️
+    10. KANDYTOWN「ODQ」（from 1st street album『BLAKK MOTEL』2015/1/25）
+    11. KANDYTOWN「Good Die Young」（from 1st major album『KANDYTOWN』2016/11/2）
+    12. 🎙️
+    13. KANDYTOWN「Ain’t No Holding Back」（from 1st major album『KANDYTOWN』2016/11/2）
 
 albums: |-
-  * [「THE ORIGINAL III」](https://itunes.apple.com/jp/album/the-original-iii/id1229001586)
-  * [「All in One - EP」](https://itunes.apple.com/jp/album/all-in-one-ep/id1142537216)
-  * [「A 03 Tale, ¥ella」](http://ototoy.jp/_/default/p/74737)
-  * [「Soul Long」](http://ototoy.jp/_/default/p/59907)
-  * [「juzzy 92'」](http://ototoy.jp/_/default/p/67756)
-  * [「ON THE KORNER」](http://ototoy.jp/_/default/p/63406)
-  * [「BLAKK MOTEL」]()
-  * [「KANDYTOWN」](http://shop.wmg.jp/shop/g/gWPJL-10052)
-
+    * [「THE ORIGINAL III」](https://itunes.apple.com/jp/album/the-original-iii/id1229001586)
+    * [「All in One - EP」](https://itunes.apple.com/jp/album/all-in-one-ep/id1142537216)
+    * [「A 03 Tale, ¥ella」](http://ototoy.jp/_/default/p/74737)
+    * [「Soul Long」](http://ototoy.jp/_/default/p/59907)
+    * [「juzzy 92'」](http://ototoy.jp/_/default/p/67756)
+    * [「ON THE KORNER」](http://ototoy.jp/_/default/p/63406)
+    * [「BLAKK MOTEL」]()
+    * [「KANDYTOWN」](http://shop.wmg.jp/shop/g/gWPJL-10052)
 ---
-
 
 <!-- hide excerpt -->
 
 歌词及翻译大部分欠奉，实在抱歉。
 
-KANDYTOWN的唱片都不带歌词卡，听译难度又偏高，请见谅。
+KANDYTOWN 的唱片都不带歌词卡，听译难度又偏高，请见谅。
 
 ### DJ PMX「Neon Wave feat. GOTTZ, MUD & IO (KANDYTOWN)」
 
-![『THE ORIGINAL III』](https://wx4.sinaimg.cn/large/e17094f2gy1fgqxomb1m7j20dw0dstad.jpg)
+![『THE ORIGINAL III』](/images/posts/e17094f2gy1fgqxomb1m7j20dw0dstad.jpg)
 
 『THE ORIGINAL III』
 
-*Rap: GOTTZ・MUD・IO*
+_Rap: GOTTZ・MUD・IO_
 
-*Track: DJ PMX*
+_Track: DJ PMX_
 
 過ぎ去ってくネオンの数
 
@@ -62,11 +60,11 @@ KANDYTOWN的唱片都不带歌词卡，听译难度又偏高，请见谅。
 
 下次见面时，连离别一幕都会令我心生爱慕
 
-Cellphone rang all day but　君のcallはNOで
+Cellphone rang all day but 　君の call は NO で
 
-あの光景はcan’t forget　チェックアウトしたあのmotel oh yeah
+あの光景は can’t forget 　チェックアウトしたあの motel oh yeah
 
-when i was too young boy　でも普段通り
+when i was too young boy 　でも普段通り
 
 手机响了一整天，却没有你的来电。
 
@@ -74,47 +72,47 @@ when i was too young boy　でも普段通り
 
 当时我年纪尚浅，倒也一直如此未变。
 
-ah　時は流れて　同じ景色眺めて
+ah 　時は流れて　同じ景色眺めて
 
-揺れるslowlights　このまま走るhighway
+揺れる slowlights 　このまま走る highway
 
-text送り返し　会う　Next Friday
+text 送り返し　会う　 Next Friday
 
 啊，时光飞逝，我将同样的景色注视
 
-摇晃的灯光缓慢消逝，就这样一直在高速路上行驶 
+摇晃的灯光缓慢消逝，就这样一直在高速路上行驶
 
 我用短信回复，见面吧，就在下个周五
 
-君はまるでミア　気になって奢るbeer
+君はまるでミア　気になって奢る beer
 
-キリがなくてキリが深い夜に2人蒸すsugah
+キリがなくてキリが深い夜に 2 人蒸す sugah
 
-partyを抜け　取る君の手 Taxiを停め　向かうCityは'F'
+party を抜け　取る君の手 Taxi を停め　向かう City は'F'
 
-你就如同MIA，特意请你喝这牌子的beer
+你就如同 MIA，特意请你喝这牌子的 beer
 
 大雾无尽的夜晚，二人闷热难堪
 
-从派对开溜，抓起你的手，拦一辆出租向F城奔走
+从派对开溜，抓起你的手，拦一辆出租向 F 城奔走
 
-身を沈める back seat　流れていくこの街の星
+身を沈める back seat 　流れていくこの街の星
 
-高層ビルの隙間を眺める246
+高層ビルの隙間を眺める 246
 
 今日を繋ぐ点と点　明日に向かう平行線
 
-These NEON WAVE　君のいないとこにも
+These NEON WAVE 　君のいないとこにも
 
-身体在后座中下陷，城市的星光流动闪现 
+身体在后座中下陷，城市的星光流动闪现
 
-望向高楼大厦之间，行驶在国道246线
+望向高楼大厦之间，行驶在国道 246 线
 
 连接今日的点和点，朝向明日的平行线
 
-直至你不在的地点，这霓虹灯的波浪线 
+直至你不在的地点，这霓虹灯的波浪线
 
-Day 1　積み重ね
+Day 1 　積み重ね
 
 Ok my fk hater so what u say
 
@@ -122,7 +120,7 @@ We Living Life
 
 You got my mind 4da real got a feel
 
-I know what u wantまた消えそうな火
+I know what u want また消えそうな火
 
 You Got My mind 4da Real.
 
@@ -134,59 +132,59 @@ You Got My mind 4da Real.
 
 你将我的脑袋掏空，令我心动
 
-你的需要我懂，如火苗若隐若现的冲动 
+你的需要我懂，如火苗若隐若现的冲动
 
 你将我的思绪牢牢掌控
 
-想いにふけるprivate
+想いにふける private
 
-夕暮れ時のhighway
+夕暮れ時の highway
 
-Eveningから訪れるnight
+Evening から訪れる night
 
-ネオンが灯るcity
+ネオンが灯る city
 
 在私密的回忆中沉醉
 
-黄昏时分的highway
+黄昏时分的 highway
 
 夜色来临愈加深邃
 
 霓虹灯将城市点缀
 
-247 all day long　演じる今日
+247 all day long 　演じる今日
 
-瞳を隠したrayban　街中で挟むliquer
+瞳を隠した rayban 　街中で挟む liquer
 
-一周7日全天24小时都在表演
+一周 7 日全天 24 小时都在表演
 
-用rayban墨镜遮住眼睛，在街上我拿着酒瓶
+用 rayban 墨镜遮住眼睛，在街上我拿着酒瓶
 
 You know ima kandy boy
 
-大通りをwalking slow
+大通りを walking slow
 
 Show window just like a mirror
 
 雑踏で火あてるシンガー
 
-我是kandy boy, you know 
+我是 kandy boy, you know
 
 在大路上行走我慢慢悠悠
 
-看见镜面般的橱窗window 
+看见镜面般的橱窗 window
 
 在人群中仿佛被火烤热的歌手
 
-不意に香るfragrance
+不意に香る fragrance
 
-Ladyが開けるエントランス
+Lady が開けるエントランス
 
 Remember days in my life
 
 過ぎ去り思い出に変わる
 
-Fragrance香水扑鼻而来
+Fragrance 香水扑鼻而来
 
 女士将入口的门打开
 
@@ -196,7 +194,7 @@ Fragrance香水扑鼻而来
 
 You don't know how I feel
 
-描くflowからyou can see this
+描く flow から you can see this
 
 深い夜にお前が
 
@@ -204,19 +202,19 @@ You don't know how I feel
 
 你不懂我的心情
 
-就用我描绘的flow令你心领
+就用我描绘的 flow 令你心领
 
 深夜里你即将步入梦境
 
 到那时我一定会搞定
 
-Moneyより4 my baby
+Money より 4 my baby
 
-1人よりmore homies
+1 人より more homies
 
 悲しみ忘れ満たすグラス
 
-みなとsaluteで鳴らす
+みなと salute で鳴らす
 
 比起钱我更需要我的宝贝
 
@@ -226,23 +224,23 @@ Moneyより4 my baby
 
 和大家一边敬酒一边干杯
 
-走るpenで埋めるpain　明日を見つめrun away
+走る pen で埋める pain 　明日を見つめ run away
 
-止まぬrainは無い　slave外せ足かせ
+止まぬ rain は無い　 slave 外せ足かせ
 
 奋笔疾书为了赶跑痛苦，不断逃走要将明日看清楚
 
 没有一场雨下起来就止不住，奴隶也终将逃离禁锢
 
-Drugみたくさばくdream
+Drug みたくさばく dream
 
-コンクリートに咲かすgreen
+コンクリートに咲かす green
 
 Keep 2 live so romantic
 
-常にdramatic
+常に dramatic
 
-在Drug般的荒漠中做梦
+在 Drug 般的荒漠中做梦
 
 如水泥中开出的绿色般生动
 
@@ -250,7 +248,7 @@ Keep 2 live so romantic
 
 保持戏剧般的起落
 
-Day 1　積み重ね
+Day 1 　積み重ね
 
 Ok my fk hater so what u say
 
@@ -258,7 +256,7 @@ We Living Life
 
 You got my mind 4da real got a feel
 
-I know what u wantまた消えそうな火
+I know what u want また消えそうな火
 
 You Got My mind 4da Real.
 
@@ -270,7 +268,7 @@ You Got My mind 4da Real.
 
 你将我的脑袋掏空，令我心动
 
-你的需要我懂，如火苗若隐若现的冲动 
+你的需要我懂，如火苗若隐若现的冲动
 
 你将我的思绪牢牢掌控
 
@@ -278,11 +276,11 @@ In my doublecup on henny
 
 Run Around the City
 
-街中はRainy
+街中は Rainy
 
 ただ燻らす煙
 
-我的双层杯装着轩尼诗 (注：双层杯是一种hiphop文化的标志，因为rapper们喜欢喝的Lean饮料通常需要套上两层杯子来装)
+我的双层杯装着轩尼诗 (注：双层杯是一种 hiphop 文化的标志，因为 rapper 们喜欢喝的 Lean 饮料通常需要套上两层杯子来装)
 
 游走于整个城市
 
@@ -300,163 +298,132 @@ Like we never before
 
 像未曾有过般，就这样在城市中放松冷静
 
-
-
-
 ### Ryohu「Blue Rose」
 
-![『All in One - EP』](https://wx1.sinaimg.cn/large/e17094f2gy1fgqxtxoqv2j20dw0dwabc.jpg)
+![『All in One - EP』](/images/posts/e17094f2gy1fgqxtxoqv2j20dw0dwabc.jpg)
 
 『All in One - EP』
 
-*Rap/Track: Ryohu*
+_Rap/Track: Ryohu_
 
 歌词欠奉
-
-
-
-
 
 ### DONY JOINT「Good Times feat. Ryohu」
 
-![『A 03 Tale, ¥ella』](https://wx4.sinaimg.cn/large/e17094f2gy1fgqxvnj5hbj20dw0dwtcm.jpg)
+![『A 03 Tale, ¥ella』](/images/posts/e17094f2gy1fgqxvnj5hbj20dw0dwtcm.jpg)
 
 『A 03 Tale, ¥ella』
 
-*Rap: Ryohu・DONY JOINT*
+_Rap: Ryohu・DONY JOINT_
 
-*Track: Ryohu*
+_Track: Ryohu_
 
 歌词欠奉
-
-
-
-
 
 ### IO「City Never Sleep」
 
-![『Soul Long』](https://wx2.sinaimg.cn/large/e17094f2gy1fgqxw4g7q1j20dw0dwwfe.jpg)
+![『Soul Long』](/images/posts/e17094f2gy1fgqxw4g7q1j20dw0dwwfe.jpg)
 
 『Soul Long』
 
-*Rap: IO*
+_Rap: IO_
 
-*Track: JASHWON*
+_Track: JASHWON_
 
 歌词欠奉
-
-
-
-
 
 ### YOUNG JUJU「DownTown Boyz feat. Ryohu」
 
-![『juzzy 92'』](https://wx1.sinaimg.cn/large/e17094f2gy1fgqxwqkyzij20dw0c3jvj.jpg)
+![『juzzy 92'』](/images/posts/e17094f2gy1fgqxwqkyzij20dw0c3jvj.jpg)
 
 『juzzy 92'』
 
-*Rap: Ryohu・YOUNG JUJU*
+_Rap: Ryohu・YOUNG JUJU_
 
-*Track: Ryohu*
+_Track: Ryohu_
 
 歌词欠奉
-
-
-
-
 
 ### 菊丸「Lift my soul feat. Tree Mason」
 
-![『ON THE KORNER』](https://wx3.sinaimg.cn/large/e17094f2gy1fgqxxbr38sj20dw0ciwjh.jpg)
+![『ON THE KORNER』](/images/posts/e17094f2gy1fgqxxbr38sj20dw0ciwjh.jpg)
 
 『ON THE KORNER』
 
-*Rap: Tree Mason・菊丸*
+_Rap: Tree Mason・菊丸_
 
-*Track: JASHWON*
+_Track: JASHWON_
 
 歌词欠奉
-
-
-
-
 
 ### KANDYTOWN「ODQ」
 
-![『BLAKK MOTEL』](https://wx2.sinaimg.cn/large/e17094f2gy1fgqxxt0kucj20dw0dw41n.jpg)
+![『BLAKK MOTEL』](/images/posts/e17094f2gy1fgqxxt0kucj20dw0dw41n.jpg)
 
 『BLAKK MOTEL』
 
-*Rap: RYOHU・BIG SANTA CLASSIC*
+_Rap: RYOHU・BIG SANTA CLASSIC_
 
-*Track: Ryohu*
+_Track: Ryohu_
 
 歌词欠奉
-
-
-
-
 
 ### KANDYTOWN「Good Die Young」
 
-![『KANDYTOWN』](https://wx3.sinaimg.cn/large/e17094f2gy1fgqxydlkd4j20dw0dwtb2.jpg)
+![『KANDYTOWN』](/images/posts/e17094f2gy1fgqxydlkd4j20dw0dwtb2.jpg)
 
 『KANDYTOWN』
 
-*Rap: Ryohu・YOUNG JUJU・KIKUMARU*
+_Rap: Ryohu・YOUNG JUJU・KIKUMARU_
 
-*Track: Neetz*
+_Track: Neetz_
 
 歌词欠奉
-
-
 
 ### KANDYTOWN「Ain’t No Holding Back」
 
-*Rap: KIKUMARU・Ryohu・GOTTZ・YOUNG JUJU*
+_Rap: KIKUMARU・Ryohu・GOTTZ・YOUNG JUJU_
 
-*Track: Ryohu*
+_Track: Ryohu_
 
 歌词欠奉
 
-
-
 ## 人物介绍
 
-![KANDYTOWN](https://wx2.sinaimg.cn/large/e17094f2gy1fgqy02uebsj20m80eu781.jpg)
+![KANDYTOWN](/images/posts/e17094f2gy1fgqy02uebsj20m80eu781.jpg)
 
 KANDYTOWN
 
-![Ryohu (Rapper / Beat Maker)](https://wx4.sinaimg.cn/large/e17094f2gy1fgqy66rsq0j20m80eujsq.jpg)
+![Ryohu (Rapper / Beat Maker)](/images/posts/e17094f2gy1fgqy66rsq0j20m80eujsq.jpg)
 
 Ryohu (Rapper / Beat Maker)
 
-![DONY JOINT (Rapper)](https://wx2.sinaimg.cn/large/e17094f2gy1fgqy6erl8qj20m80eugnu.jpg)
+![DONY JOINT (Rapper)](/images/posts/e17094f2gy1fgqy6erl8qj20m80eugnu.jpg)
 
 DONY JOINT (Rapper)
 
-![IO (Rapper / Film Director)](https://wx1.sinaimg.cn/large/e17094f2gy1fgqy6nx647j20m80euac5.jpg)
+![IO (Rapper / Film Director)](/images/posts/e17094f2gy1fgqy6nx647j20m80euac5.jpg)
 
 IO (Rapper / Film Director)
 
-![YOUNG JUJU (Rapper)](https://wx3.sinaimg.cn/large/e17094f2gy1fgqy6vdoayj20m80eudig.jpg)
+![YOUNG JUJU (Rapper)](/images/posts/e17094f2gy1fgqy6vdoayj20m80eudig.jpg)
 
 YOUNG JUJU (Rapper)
 
-![菊丸 (Rapper)](https://wx4.sinaimg.cn/large/e17094f2gy1fgqy72ow59j20m80eudhc.jpg)
+![菊丸 (Rapper)](/images/posts/e17094f2gy1fgqy72ow59j20m80eudhc.jpg)
 
 菊丸 (Rapper)
 
-![GOTTZ (Rapper)](https://wx2.sinaimg.cn/large/e17094f2gy1fgqy98vwzoj20m80eugoa.jpg)
+![GOTTZ (Rapper)](/images/posts/e17094f2gy1fgqy98vwzoj20m80eugoa.jpg)
 
 GOTTZ (Rapper)
 
-![MUD (Rapper)](https://wx4.sinaimg.cn/large/e17094f2gy1fgqy9f5zjzj20m80eu402.jpg)
+![MUD (Rapper)](/images/posts/e17094f2gy1fgqy9f5zjzj20m80eu402.jpg)
 
 MUD (Rapper)
 
-![Neetz (Rapper / Beat Maker)](https://wx3.sinaimg.cn/large/e17094f2gy1fgqy9nqfl2j20m80eu75a.jpg)
+![Neetz (Rapper / Beat Maker)](/images/posts/e17094f2gy1fgqy9nqfl2j20m80eu75a.jpg)
 
 Neetz (Rapper / Beat Maker)
 
-**注：出于巧合，本期节目中选出的曲目大部分由Ryohu制作，而从全体作品看NEETZ是KANDYTOWN最核心的Beat Maker。**
+**注：出于巧合，本期节目中选出的曲目大部分由 Ryohu 制作，而从全体作品看 NEETZ 是 KANDYTOWN 最核心的 Beat Maker。**

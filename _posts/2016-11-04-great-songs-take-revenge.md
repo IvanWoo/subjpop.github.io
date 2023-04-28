@@ -3,7 +3,7 @@ date: 2016-11-04
 title: Vol. 14 GREAT SONGS TAKE REVENGE
 dj: mimida
 categories:
-  - songs for a break
+    - songs for a break
 featured_image: /images/banners/14.jpg
 stream_url: http://www.lizhi.fm/1913563/2566174285405687302
 playlist: |-
@@ -18,26 +18,23 @@ playlist: |-
     9. 3776「時空ラブレター～アフター大噴火の世界の君へ～」（from 1st album of season #3「ラブレター」2014/12/28）
 
 albums: |-
-  * [「深海」](http://ototoy.jp/_/default/a/108323)
-  * [「Obscure Ride」](http://ototoy.jp/_/default/p/52326)
-  * [「MOON」](http://ototoy.jp/_/default/p/63774)
-  * [「ラブレター」](http://ototoy.jp/_/default/p/63329)
-
+    * [「深海」](http://ototoy.jp/_/default/a/108323)
+    * [「Obscure Ride」](http://ototoy.jp/_/default/p/52326)
+    * [「MOON」](http://ototoy.jp/_/default/p/63774)
+    * [「ラブレター」](http://ototoy.jp/_/default/p/63329)
 ---
-
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### 「深海 -Hi-ra Mix-」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f9fk0isevaj20dw0dwq6v.jpg)
 
-*作詞：Hiroki Sagawa·Yoshiro Koike*
+![img](/images/posts/e17094f2gw1f9fk0isevaj20dw0dwq6v.jpg)
 
-*作曲：Hiroki Sagawa*
+_作詞：Hiroki Sagawa·Yoshiro Koike_
+
+_作曲：Hiroki Sagawa_
 
 僕の声は君に届かない
 
@@ -55,11 +52,11 @@ albums: |-
 
 思绪像要沉入深深的海里
 
-I miss you　冷え切った頬に流れる涙キラリ
+I miss you 　冷え切った頬に流れる涙キラリ
 
 伝えたい言葉に出来たら僕の気持ちすべて詰め込んだまま
 
-I need you　声さえ嗄れるほどに
+I need you 　声さえ嗄れるほどに
 
 今、今、このまま　あの空の向こうまで叫ぶよ
 
@@ -87,11 +84,11 @@ I need you 直至声嘶力竭
 
 回头看都是因为我的心摇摆不定
 
-I miss you　引きつったままで微笑む顔はナミダ
+I miss you 　引きつったままで微笑む顔はナミダ
 
 幸せな孤独を抱いたら君のことを忘れられる気がして
 
-I need you　心が震えるほど
+I need you 　心が震えるほど
 
 ただ、ただ、やさしい思い出が消えるまで叫ぶよ
 
@@ -113,11 +110,11 @@ I need you 心像在颤动一般
 
 いつまでも
 
-I miss you　冷え切った頬に流れる涙キラリ
+I miss you 　冷え切った頬に流れる涙キラリ
 
 サヨナラを言葉に出来たら僕は強くなれるような気がして
 
-I need you　声さえ嗄(か)れるほどに
+I need you 　声さえ嗄(か)れるほどに
 
 今、今、このまま　あの空の向こうまで叫ぶよ
 
@@ -131,26 +128,23 @@ I need you 直至声嘶力竭
 
 现在，此刻，就这样，向着那片天空大声呼喊
 
-
-
 ### 「白い十代」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f9fk8sw2kvj20dw0dpju7.jpg)
+
+![img](/images/posts/e17094f2gw1f9fk8sw2kvj20dw0dpju7.jpg)
 
 （暂时欠奉）
 
-
-
-
 ### 「Summer Soul」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f9fk9s4kjfj20dw0dstb3.jpg)
 
-*作詞、作曲：荒内佑*
+![img](/images/posts/e17094f2gw1f9fk9s4kjfj20dw0dstb3.jpg)
 
-*编曲：cero*
+_作詞、作曲：荒内佑_
+
+_编曲：cero_
 
 Hey hey hey....
 
-Baby, あの子を置いて1人きり
+Baby, あの子を置いて 1 人きり
 
 ハンドル握って出かければ
 
@@ -272,13 +266,11 @@ Summer Soul…
 
 Summer Soul…
 
-
-
-
 ### 「体温」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f9fkcthakqj20dw0dwmy1.jpg)
 
-*作詞、作曲：Takahashi Kai*
+![img](/images/posts/e17094f2gw1f9fkcthakqj20dw0dwmy1.jpg)
+
+_作詞、作曲：Takahashi Kai_
 
 簡単に踊らされる
 
@@ -424,15 +416,13 @@ And love on the other side
 
 直到完全驯服为止不停添加 spice
 
-
-
-
 ### 「時空ラブレター～アフター大噴火の世界の君へ～」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f9fkuvqo27j20dw0dwagc.jpg)
 
-**时空Love Letter～给火山大爆发之后的世界的你～**
+![img](/images/posts/e17094f2gw1f9fkuvqo27j20dw0dwagc.jpg)
 
-*作詞、作曲、編曲：石田彰*
+**时空 Love Letter ～给火山大爆发之后的世界的你～**
+
+_作詞、作曲、編曲：石田彰_
 
 ここは？
 
@@ -500,7 +490,7 @@ And love on the other side
 
 做了个梦。
 
-变成了lady的我，和你在一起。说着话。
+变成了 lady 的我，和你在一起。说着话。
 
 在火山大爆发和大地震都已成为过去的未来，两个人生活着。
 
@@ -574,7 +564,7 @@ And love on the other side
 
 鳕鱼子味薯片，还存在吗？
 
-Chiyono的粉丝，不存在了吗？
+Chiyono 的粉丝，不存在了吗？
 
 空爆とか…空腹とか…報復とか…幸福とか…
 
@@ -734,29 +724,28 @@ Chiyono的粉丝，不存在了吗？
 
 就能够与你共舞，来一起跳舞吧！
 
-
 ## 人物介绍：
 
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f9fl24bbo0j20sg0iytav.jpg)
+![img](/images/posts/e17094f2gw1f9fl24bbo0j20sg0iytav.jpg)
 
 東京女子流：山边未梦、庄司芽生、新井瞳、中江友梨
 
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f9fl5iyj23j20xb0m8wl3.jpg)
+![img](/images/posts/e17094f2gw1f9fl5iyj23j20xb0m8wl3.jpg)
 
 クウチュウ戦（空中战）：Abashiri（Dr）、西平由美子（Ba／男）、Vetla Kaoru（Key）、Riyo（Vo, Gt）
 
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f9flafpy9rj20fk0abq3u.jpg)
+![img](/images/posts/e17094f2gw1f9flafpy9rj20fk0abq3u.jpg)
 
 cero：桥本翼（Gt, Chor）、高城晶平（Vo, Gt, Fl）、荒内佑（Key, Sampl, Chor）
 
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f9fldi9slbj20xc0m7dkj.jpg)
+![img](/images/posts/e17094f2gw1f9fldi9slbj20xc0m7dkj.jpg)
 
 LUCKY TAPES：高桥健介（Gt）、田口惠人（Ba）、高桥海（Gt, Key）
 
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f9flgye6y6j20xc0m7dn8.jpg)
+![img](/images/posts/e17094f2gw1f9flgye6y6j20xc0m7dn8.jpg)
 
 3776 Extended
 
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f9flkt0zmjj21kw11xwku.jpg)
+![img](/images/posts/e17094f2gw1f9flkt0zmjj21kw11xwku.jpg)
 
 本期特别鸣谢：**斯蒂芬・霍金**

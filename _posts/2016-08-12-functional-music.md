@@ -3,41 +3,40 @@ date: 2016-08-12
 title: Vol. 02 官能音乐・石野卓球
 dj: marusan
 categories:
-  - Track-Makers tracking
+    - Track-Makers tracking
 featured_image: /images/banners/2.jpg
 stream_url: http://www.lizhi.fm/1913563/2550688377092409862
 playlist: |-
-  1. 石野卓球「Rapt In Fantasy」
-  2. 🎙️
-  3. 石野卓球「Selene」
-  4. 石野卓球「Dawn」
-  5. 🎙️
-  6. 加藤みどり、ひばり児童合唱団「カランコロンの唄」
-  7. 人生「カランコロンの唄」
-  8. 人生「オールナイトロング (おやすみヴァージョン)」
-  9. 人生「世界あの店この店」
-  10. 🎙️
-  11. 石野卓球「Lunatique」
+    1. 石野卓球「Rapt In Fantasy」
+    2. 🎙️
+    3. 石野卓球「Selene」
+    4. 石野卓球「Dawn」
+    5. 🎙️
+    6. 加藤みどり、ひばり児童合唱団「カランコロンの唄」
+    7. 人生「カランコロンの唄」
+    8. 人生「オールナイトロング (おやすみヴァージョン)」
+    9. 人生「世界あの店この店」
+    10. 🎙️
+    11. 石野卓球「Lunatique」
 
 albums: |-
-  * [「LUNATIQUE」](http://t.cn/RtprUmH)
-  * [「LUNATIQUE」](http://t.cn/Rtpr4nu)
-
+    * [「LUNATIQUE」](http://t.cn/RtprUmH)
+    * [「LUNATIQUE」](http://t.cn/Rtpr4nu)
 ---
+
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### カランコロンの唄
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f6qz2ybe5qj208d08cjsz.jpg)
+
+![img](/images/posts/e17094f2gw1f6qz2ybe5qj208d08cjsz.jpg)
 
 **咔啷空隆之歌**
 
-*作詞：水木しげる*
+_作詞：水木しげる_
 
-*作曲：いずみたく*
+_作曲：いずみたく_
 
 カランコロン　カランカラン　コロン
 
@@ -91,7 +90,7 @@ albums: |-
 
 咔啷空隆、咔啷咔啷、空隆
 
-「GeGeGe的鬼太郎」，虫子们唱着赞歌
+「GeGeGe 的鬼太郎」，虫子们唱着赞歌
 
 不知往哪儿，鬼太郎消失不见了
 
@@ -103,15 +102,13 @@ albums: |-
 
 咔啷空隆、咔啷咔啷、空隆......
 
-
-
-
 ### オールナイトロング
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f6qz39elkqj208c08cdhm.jpg)
+
+![img](/images/posts/e17094f2gw1f6qz39elkqj208c08cdhm.jpg)
 
 **All Night Long**
 
-*作詞・作曲：石野卓球*
+_作詞・作曲：石野卓球_
 
 金玉は右に寄っちゃった
 
@@ -121,15 +118,13 @@ albums: |-
 
 All Night Long
 
-
-
-
 ### 世界あの店この店
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f6qz3rg4suj208c08ct9b.jpg)
+
+![img](/images/posts/e17094f2gw1f6qz3rg4suj208c08ct9b.jpg)
 
 **世界上的各种商店**
 
-（注：也是日本70-80年代一个电视节目的标题，节目内容就是介绍各国有特点的商店）
+（注：也是日本 70-80 年代一个电视节目的标题，节目内容就是介绍各国有特点的商店）
 
 ぼーくの名前はニコチンチン
 
@@ -139,7 +134,7 @@ All Night Long
 
 素敵
 
-我的名字叫尼古丁丁（鸡鸡）(注：chinchin发音＝鸡鸡)
+我的名字叫尼古丁丁（鸡鸡）(注：chinchin 发音＝鸡鸡)
 
 我的名字叫尼古丁丁（鸡鸡）
 
@@ -161,7 +156,7 @@ All Night Long
 
 香烟是焦油和尼古丁丁（鸡鸡）
 
-凤启助的Potechinchin（鸡鸡）（注：漫才师凤启助常用的梗）
+凤启助的 Potechinchin（鸡鸡）（注：漫才师凤启助常用的梗）
 
 好棒啊
 
@@ -176,7 +171,6 @@ All Night Long
 （注：同上段，意味不明，可能我问的人都太年轻了吧）
 
 尼古丁丁（鸡鸡）
-
 
 ### Lunatique
 

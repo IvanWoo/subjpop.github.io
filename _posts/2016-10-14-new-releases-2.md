@@ -3,7 +3,7 @@ date: 2016-10-14
 title: Vol. 11 我们来听新唱片！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/11.jpg
 stream_url: http://www.lizhi.fm/1913563/2562283983487376390
 playlist: |-
@@ -19,27 +19,26 @@ playlist: |-
     10. ももいろクローバーZ「DECORATION」（from 16th single「ザ・ゴールデン・ヒストリー」2016/09/07）
     11. AOKO「FASHION」（from 2nd major single「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」2016/09/14）
 albums: |-
-  * [「That's the way」](http://ototoy.jp/_/default/p/66734)
-  * [「Fly Fly Fly」](http://ototoy.jp/_/default/a/96651)
-  * [「DIRECTORY」](http://ototoy.jp/_/default/p/66569)
-  * [「KiLLER BiSH」](http://ototoy.jp/_/default/a/114516)
-  * [「あーりんはあーりん♡」](https://itunes.apple.com/jp/album/arinhaarin-single/id1154417895)
-  * [「ザ・ゴールデン・ヒストリー」](https://itunes.apple.com/jp/album/za-goruden-hisutori/id1146341256?l=en)
-  * [「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」](http://ototoy.jp/_/default/a/114504)
+    * [「That's the way」](http://ototoy.jp/_/default/p/66734)
+    * [「Fly Fly Fly」](http://ototoy.jp/_/default/a/96651)
+    * [「DIRECTORY」](http://ototoy.jp/_/default/p/66569)
+    * [「KiLLER BiSH」](http://ototoy.jp/_/default/a/114516)
+    * [「あーりんはあーりん♡」](https://itunes.apple.com/jp/album/arinhaarin-single/id1154417895)
+    * [「ザ・ゴールデン・ヒストリー」](https://itunes.apple.com/jp/album/za-goruden-hisutori/id1146341256?l=en)
+    * [「もしも僕らがGAMEの主役で / ダイスキ with TeddyLoid / BANG!」](http://ototoy.jp/_/default/a/114504)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### 「松尾芭蕉」
-![注：封面为推特用户moeko_dr所作](http://ww1.sinaimg.cn/large/e17094f2gw1f8rcxs2snjj20dw0dwgmi.jpg)
 
-注：封面为推特用户moeko_dr所作
+![注：封面为推特用户moeko_dr所作](/images/posts/e17094f2gw1f8rcxs2snjj20dw0dwgmi.jpg)
 
-*作詞 / 作曲 / 編曲：Kenmochi Hidefumi*
+注：封面为推特用户 moeko_dr 所作
+
+_作詞 / 作曲 / 編曲：Kenmochi Hidefumi_
 
 （注：下面的歌词是参考了好几位日本网友听写的版本汇总而成的，他们的每一个版本都有多个地方完全不同而且充满了？号，绝对正确的歌词我们只有等唱片发行才能更正了）
 
@@ -77,7 +76,7 @@ Come on!
 
 凸凹道から奥の細道までスイスイ
 
-侘びand寂びand燃費
+侘び and 寂び and 燃費
 
 しおで細道　絡み言葉選び　紡ぐ後五七五
 
@@ -87,7 +86,7 @@ Come on!
 
 从坑洼不平的道路到小路的深处（奥之细道）畅通无阻
 
-侘and寂and燃油费
+侘 and 寂 and 燃油费
 
 盐白小道，斟酌词句，纺成诗句五七五
 
@@ -105,17 +104,17 @@ Come on!
 
 奥之细道，奔跑吧松尾芭蕉
 
-奥之细道，忍术SALE的商店
+奥之细道，忍术 SALE 的商店
 
-滑らかな走りKSKから
+滑らかな走り KSK から
 
 マルチインフォーメーション　ディスプレイ
 
 ダブルウィッシュボーン式サスペンション
 
-CD機　ニューグローバルアーキテクチャTNGA
+CD 機　ニューグローバルアーキテクチャ TNGA
 
-SRS　エアバッグ　助手席
+SRS 　エアバッグ　助手席
 
 最大は口癖でカテーシ
 
@@ -123,21 +122,21 @@ SRS　エアバッグ　助手席
 
 ホルダー２個つき　排気熱回収機
 
-从流畅运行的KSK
+从流畅运行的 KSK
 
-到multi-information display
+到 multi-information display
 
-Double wishbone式suspension
+Double wishbone 式 suspension
 
-CD机、New Global Architecture TNGA
+CD 机、New Global Architecture TNGA
 
 SRS、airbag、副驾驶席
 
-最重要是把courtesy当成口头禅
+最重要是把 courtesy 当成口头禅
 
 可调式座椅、console computer
 
-带有两个holder、尾气热量回收器
+带有两个 holder、尾气热量回收器
 
 ざわめき遠ざける　高剛性ボディの遮音性
 
@@ -153,7 +152,7 @@ SRS、airbag、副驾驶席
 
 から生まれる五七五のパンチライン
 
-远离纷扰嘈杂，高强度body的隔音性
+远离纷扰嘈杂，高强度 body 的隔音性
 
 不变，流行，客观地传达
 
@@ -161,11 +160,11 @@ SRS、airbag、副驾驶席
 
 坐在超舒适的座椅里
 
-获得片刻的thinking time
+获得片刻的 thinking time
 
-从被柔软包裹的hip line
+从被柔软包裹的 hip line
 
-酝酿出来的punch line
+酝酿出来的 punch line
 
 蛙飛ぶイメージイメージで　古池にダイブダイブして
 
@@ -177,15 +176,13 @@ SRS、airbag、副驾驶席
 
 奥之细道，奔跑吧松尾芭蕉
 
-奥之细道，忍术SALE的商店
-
-
-
+奥之细道，忍术 SALE 的商店
 
 ### 「That's the Way」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f8rd0di1d1j20dw0dwwjc.jpg)
 
-*作詞 / 作曲：柴山一幸*
+![img](/images/posts/e17094f2gw1f8rd0di1d1j20dw0dwwjc.jpg)
+
+_作詞 / 作曲：柴山一幸_
 
 僕が誰だか言って
 
@@ -287,21 +284,21 @@ That's the way! That's the way! That's the way!
 
 （諦めるのもオーケー）
 
-我的绝望也OK
+我的绝望也 OK
 
-（你的绝望也OK）
+（你的绝望也 OK）
 
-我的挫折也OK
+我的挫折也 OK
 
-（你的过失也OK）
+（你的过失也 OK）
 
-我的理想也OK
+我的理想也 OK
 
-（你的异想天开也OK）
+（你的异想天开也 OK）
 
-拥有梦想也OK
+拥有梦想也 OK
 
-（就算放弃也OK）
+（就算放弃也 OK）
 
 君の声聞かせて
 
@@ -329,7 +326,7 @@ That's the way! That's the way! That's the way!
 
 （他に浮気もしないで　このリズムに依存して）
 
-（石田彰：不要三心二意的，投入到这个rhythm里）
+（石田彰：不要三心二意的，投入到这个 rhythm 里）
 
 君の声聞かせて
 
@@ -363,15 +360,13 @@ That's the way! That's the way! That's the way!
 
 That's the way! That's the way! That's the way!
 
-
-
-
 ### 「灰よ」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f8rd2ixip8j20dw0dwjsn.jpg)
+
+![img](/images/posts/e17094f2gw1f8rd2ixip8j20dw0dwjsn.jpg)
 
 **灰烬哟**
 
-*作詞 / 作曲 / 編曲：平沢進*
+_作詞 / 作曲 / 編曲：平沢進_
 
 灰舞え
 
@@ -483,22 +478,19 @@ That's the way! That's the way! That's the way!
 
 （注：基于网络翻译版本「灰烬呵」稍作调整，感谢[原译者](http://t.cn/RVVfXlD) ）
 
-
-
-
-
 ### 「真面目な男」
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f8rd5clm9oj20dw0dwmzt.jpg)
+
+![img](/images/posts/e17094f2gw1f8rd5clm9oj20dw0dwmzt.jpg)
 
 **认真的男人**
 
-*作詞：DOTAMA / 編曲：Kuma the Sureshot*
+_作詞：DOTAMA / 編曲：Kuma the Sureshot_
 
-（注：我们买的是OTOTOY网络版没有歌词小册子，听写后发现太多单词不能确定所以暂时欠奉，现只翻出绝对确定的副歌部分）
+（注：我们买的是 OTOTOY 网络版没有歌词小册子，听写后发现太多单词不能确定所以暂时欠奉，现只翻出绝对确定的副歌部分）
 
 ラッパー史上最も真面目な男の不真面目すぎるフロウ
 
-Rapper史上最认真的男人的太不认真的flow
+Rapper 史上最认真的男人的太不认真的 flow
 
 [chorus 1]
 
@@ -520,19 +512,19 @@ Rapper史上最认真的男人的太不认真的flow
 
 认真地干！认真地干！
 
-认真地干所以真的是REAL！
+认真地干所以真的是 REAL！
 
 认真地干！认真地干！
 
-认真地干所以真的是REAL！
+认真地干所以真的是 REAL！
 
 认真地干！认真地干！
 
-认真地干才算真的是REAL！
+认真地干才算真的是 REAL！
 
 认真地干！认真地干！
 
-认真地干才算真的是REAL！
+认真地干才算真的是 REAL！
 
 [chorus 2]
 
@@ -554,31 +546,29 @@ Rapper史上最认真的男人的太不认真的flow
 
 认真地干！认真地干！
 
-认真地干所以真的是REAL！
+认真地干所以真的是 REAL！
 
 认真地干！认真地干！
 
-认真地干所以真的是REAL！
+认真地干所以真的是 REAL！
 
 认真地干！认真地干！
 
-认真的男人，真的是REAL！
+认真的男人，真的是 REAL！
 
 认真地干！认真地干！
 
-认真的男人，真的是REAL！
-
-
-
+认真的男人，真的是 REAL！
 
 ### 「オーケストラ」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f8rd6v5e5hj20dw0dwjvv.jpg)
+
+![img](/images/posts/e17094f2gw1f8rd6v5e5hj20dw0dwjvv.jpg)
 
 **Orchestra**
 
-*作詞：松隈ケンタ·JxSxK*
+_作詞：松隈ケンタ·JxSxK_
 
-*作曲、編曲：松隈ケンタ*
+_作曲、編曲：松隈ケンタ_
 
 見上げたあの夜空に
 
@@ -662,7 +652,7 @@ Rapper史上最认真的男人的太不认真的flow
 
 曾经这样流淌着的泪水
 
-还有谈话的声音 都是Orchestra
+还有谈话的声音 都是 Orchestra
 
 やがて訪れたよね
 
@@ -694,7 +684,7 @@ Rapper史上最认真的男人的太不认真的flow
 
 馬鹿らしくなって
 
-投げた午前3時
+投げた午前 3 時
 
 この先
 
@@ -790,7 +780,7 @@ Rapper史上最认真的男人的太不认真的flow
 
 曾经这样流淌着的泪水
 
-还有谈话的声音 都是Orchestra
+还有谈话的声音 都是 Orchestra
 
 やがて訪れたよね
 
@@ -816,14 +806,13 @@ Rapper史上最认真的男人的太不认真的flow
 
 却只有那片天空
 
+### 「あーりんはあーりん ♡」
 
-
-### 「あーりんはあーりん♡」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f8rd8izwk3j20dc0dcdiv.jpg)
+![img](/images/posts/e17094f2gw1f8rd8izwk3j20dc0dcdiv.jpg)
 
 **阿玲就是阿玲**
 
-*作詞 / 作曲 / 編曲：前山田健一*
+_作詞 / 作曲 / 編曲：前山田健一_
 
 あーりん！あーりん！
 
@@ -857,13 +846,13 @@ Hello, I'm 阿玲！
 
 でも　何も変わんないの
 
-7岁进入艺能界
+7 岁进入艺能界
 
-9岁上『OHA STAR』
+9 岁上『OHA STAR』
 
-12岁加入桃草
+12 岁加入桃草
 
-干干这个干干那个 就到了20岁
+干干这个干干那个 就到了 20 岁
 
 但是 我可什么都没变喔
 
@@ -887,7 +876,7 @@ Hello, I'm 阿玲！
 
 外表也是内在也是 阿玲！阿玲！
 
-20岁的我也还是 阿玲！阿玲！
+20 岁的我也还是 阿玲！阿玲！
 
 3！2！1！阿玲！
 
@@ -987,7 +976,7 @@ Hello, I'm 阿玲！
 
 按社会标准来说已经是成年人了！
 
-快让我做我喜欢的事！让我和朋友去卡拉OK！
+快让我做我喜欢的事！让我和朋友去卡拉 OK！
 
 让我在朋友的家里过夜！
 
@@ -1071,9 +1060,9 @@ Hello, I'm 阿玲！
 
 因为闪闪发亮的粉红色在歌唱！
 
-あーりんis Forever！！！
+あーりん is Forever！！！
 
-阿玲is Forever！！！
+阿玲 is Forever！！！
 
 あーりん！あーりん！
 
@@ -1109,13 +1098,13 @@ Hello, I'm 阿玲！
 
 ついてきてね　あーりん！あーりん！
 
-已经20岁 阿玲！阿玲！
+已经 20 岁 阿玲！阿玲！
 
-不过才20岁 阿玲！阿玲！
+不过才 20 岁 阿玲！阿玲！
 
-1996年 阿玲！阿玲！
+1996 年 阿玲！阿玲！
 
-6月11日 阿玲！阿玲！
+6 月 11 日 阿玲！阿玲！
 
 满心期待 阿玲！阿玲！
 
@@ -1125,13 +1114,11 @@ Hello, I'm 阿玲！
 
 你要跟上来喔 阿玲！阿玲！
 
-
-
-
 ### 「 DECORATION」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f8rdb6d8xuj20dw0dvgr0.jpg)
 
-*作詞 / 作曲：invisible manners*
+![img](/images/posts/e17094f2gw1f8rdb6d8xuj20dw0dvgr0.jpg)
+
+_作詞 / 作曲：invisible manners_
 
 （注：这歌词也太长了吧，没时间，翻译暂时欠奉）
 
@@ -1169,7 +1156,7 @@ Hello, I'm 阿玲！
 
 そんぐらいが丁度いいね
 
-セツジツなデコレーション剥がしてGO！
+セツジツなデコレーション剥がして GO！
 
 ララバイ　幼稚なプライドなど
 
@@ -1197,7 +1184,7 @@ Hello, I'm 阿玲！
 
 (もっともっともっともっともっとー)
 
-瞬間·刹那をGo！
+瞬間·刹那を Go！
 
 でっかい宣言のプレッシャー深呼吸で挽回モード
 
@@ -1205,7 +1192,7 @@ Hello, I'm 阿玲！
 
 一刀両断ズバッと歯に衣着せず豪快に
 
-でもちょっと笑顔で「ね？」ってフォロー出来ればOKです
+でもちょっと笑顔で「ね？」ってフォロー出来れば OK です
 
 おりこうさん百六十五日
 
@@ -1217,7 +1204,7 @@ Hello, I'm 阿玲！
 
 混線する電気信号
 
-コンセンサスもってGOGO！
+コンセンサスもって GOGO！
 
 本能に逆らって生きるより
 
@@ -1225,7 +1212,7 @@ Hello, I'm 阿玲！
 
 そんぐらいが丁度いいね
 
-セツジツなデコレーション剥がしてGO！
+セツジツなデコレーション剥がして GO！
 
 あばよ！！幼稚なプライドなど
 
@@ -1247,11 +1234,11 @@ Hello, I'm 阿玲！
 
 ねえ!なんてドケチなのよ神様
 
-AHHH　果てしなく続くデッドヒート
+AHHH 　果てしなく続くデッドヒート
 
 思いがけないことがあるから
 
-人生はほら楽しいZ
+人生はほら楽しい Z
 
 ララバイ　幼稚なプライドなど
 
@@ -1271,7 +1258,7 @@ AHHH　果てしなく続くデッドヒート
 
 一切和解の無いこの世界がもたらすファンタジー
 
-West Side Storyみたいな結末はそりゃごめんだっZ
+West Side Story みたいな結末はそりゃごめんだっ Z
 
 お叱りごもっとも参考までに留めます
 
@@ -1281,7 +1268,7 @@ West Side Storyみたいな結末はそりゃごめんだっZ
 
 「鞄に全部つめてこう！」
 
-でもWest Side Storyみたいな結末はそりゃごめんだっZ
+でも West Side Story みたいな結末はそりゃごめんだっ Z
 
 一切和解は無いかも
 
@@ -1291,17 +1278,15 @@ West Side Storyみたいな結末はそりゃごめんだっZ
 
 (もっともっともっともっともっとー)
 
-瞬間·刹那をGo！
-
-
-
+瞬間·刹那を Go！
 
 ### 「FASHION」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f8rdc17i62j20dw0dstc8.jpg)
 
-*作詞：DAOKO*
+![img](/images/posts/e17094f2gw1f8rdc17i62j20dw0dstc8.jpg)
 
-*作曲：岩崎太整·DAOKO*
+_作詞：DAOKO_
+
+_作曲：岩崎太整·DAOKO_
 
 リバイバル
 
@@ -1379,35 +1364,35 @@ C'MON NOW
 
 C'MON NOW
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 それがあなた色
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 シティー·ボーイ
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 那是你的颜色
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 City boy
 
@@ -1425,7 +1410,7 @@ City boy
 
 自分の一部と思って
 
-纏おう SO　色も変わる　そして
+纏おう SO 　色も変わる　そして
 
 世界も変わるんじゃないの OH
 
@@ -1437,7 +1422,7 @@ City boy
 
 大体上相同，其实是没有个性的
 
-被FASHION杂志的衣服穿了
+被 FASHION 杂志的衣服穿了
 
 NON NON
 
@@ -1451,7 +1436,7 @@ GOOD SENSE
 
 GOOD BOY
 
-MIDNIGHT　写る現なボクチャン
+MIDNIGHT 　写る現なボクチャン
 
 かっこいい？　いや“ファッション”に
 
@@ -1473,7 +1458,7 @@ GOOD SENSE
 
 GOOD BOY
 
-MIDNIGHT映照的真实的小家伙
+MIDNIGHT 映照的真实的小家伙
 
 酷？不，要「FASHION」
 
@@ -1489,66 +1474,66 @@ MIDNIGHT映照的真实的小家伙
 
 刺激的才是无敌
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 魅せてあなた色
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 シティー·ボーイ
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 诱人的你的颜色
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 City boy
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 染まってみたいの
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 あなたの一部
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 シティー·ガール
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 想要沾染上呢
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 你的一部分
 
-FASHION　FASHION
+FASHION 　 FASHION
 
 City girl

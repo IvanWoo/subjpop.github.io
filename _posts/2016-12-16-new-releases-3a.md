@@ -3,7 +3,7 @@ date: 2016-12-16
 title: Vol. 19-1 我们来听新唱片！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/19-1.jpg
 stream_url: https://www.lizhi.fm/1913563/2573900538354813446
 playlist: |-
@@ -18,32 +18,31 @@ playlist: |-
     9. 🎙️
     10. テンテンコ 「Good bye, Good girl.」（from 1st mini-album「工業製品」2016/12/14）
 albums: |-
-  * [「SUPERKID」](http://ototoy.jp/_/default/p/67496)
-  * [「Carlito's Way」](http://ototoy.jp/_/default/p/69021)
-  * [「LIGHT DOWN」](http://ototoy.jp/_/default/p/69023)
-  * [「Mitsuoka」](http://mora.jp/package/43000074/TCJPR0000343502（需挂日本代理，教程见之前几期节目介绍里的链接）)
-  * [「夢見心地」](http://mora.jp/package/43000002/AVCD-93511)
-  * [「工業製品」](http://ototoy.jp/_/default/p/69065)
-  * [「歳時記·第一巻」](http://ototoy.jp/_/default/p/68339)
-  * [「中卒」](http://mora.jp/package/43000001/4547366286274)
-  * [「Return To My Innocence」](http://ototoy.jp/_/default/p/60721)
-  * [「river (cloudy irony)」](http://ototoy.jp/_/default/p/68506)
-  * [「Avalon」](http://ototoy.jp/_/default/p/66872)
-  * [「街の報せ」](http://ototoy.jp/_/default/p/68361)
+    * [「SUPERKID」](http://ototoy.jp/_/default/p/67496)
+    * [「Carlito's Way」](http://ototoy.jp/_/default/p/69021)
+    * [「LIGHT DOWN」](http://ototoy.jp/_/default/p/69023)
+    * [「Mitsuoka」](http://mora.jp/package/43000074/TCJPR0000343502（需挂日本代理，教程见之前几期节目介绍里的链接）)
+    * [「夢見心地」](http://mora.jp/package/43000002/AVCD-93511)
+    * [「工業製品」](http://ototoy.jp/_/default/p/69065)
+    * [「歳時記·第一巻」](http://ototoy.jp/_/default/p/68339)
+    * [「中卒」](http://mora.jp/package/43000001/4547366286274)
+    * [「Return To My Innocence」](http://ototoy.jp/_/default/p/60721)
+    * [「river (cloudy irony)」](http://ototoy.jp/_/default/p/68506)
+    * [「Avalon」](http://ototoy.jp/_/default/p/66872)
+    * [「街の報せ」](http://ototoy.jp/_/default/p/68361)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### 「アラジン」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1fas7jo1qnqj20dw0dwdh3.jpg)
+
+![img](/images/posts/e17094f2gw1fas7jo1qnqj20dw0dwdh3.jpg)
 
 **阿拉丁**
 
-*作詞·作曲·編曲：Kenmochi Hidefumi*
+_作詞·作曲·編曲：Kenmochi Hidefumi_
 
 アラジンコンパウンド
 
@@ -97,7 +96,7 @@ Ah
 
 アラジンホームセンター
 
-朝10時オープン
+朝 10 時オープン
 
 位于沙漠中
 
@@ -115,7 +114,7 @@ Ah
 
 阿拉丁五金店
 
-上午10点开门
+上午 10 点开门
 
 ジャスミンバリアスコート
 
@@ -173,7 +172,7 @@ I Scrub FOR YOU
 
 砂紙
 
-GPトップ　アルミナ　と
+GP トップ　アルミナ　と
 
 レジンボンドクロスベルト
 
@@ -181,7 +180,7 @@ GPトップ　アルミナ　と
 
 GP TOP、氧化铝
 
-还有Resin Bonding Cross Belt
+还有 Resin Bonding Cross Belt
 
 アラジンホームセンター
 
@@ -207,15 +206,13 @@ GP TOP、氧化铝
 
 简直像是有着神秘的魔法之力
 
-
-
-
 ### 「タイムマシンにさよなら」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas7qfhoosj20dw0dwt9z.jpg)
 
-**对Time Machine说再见**
+![img](/images/posts/e17094f2gw1fas7qfhoosj20dw0dwt9z.jpg)
 
-*作詞·作曲·編曲：照井順政*
+**对 Time Machine 说再见**
+
+_作詞·作曲·編曲：照井順政_
 
 どんどん流れていく
 
@@ -233,7 +230,7 @@ GP TOP、氧化铝
 
 轻易便揭掉了的日历
 
-在1、2的节拍下律动而出的底鼓和贝斯里
+在 1、2 的节拍下律动而出的底鼓和贝斯里
 
 逐渐加速的心中悸动
 
@@ -255,7 +252,7 @@ GP TOP、氧化铝
 
 いつでも私は君に会えるから　きっと
 
-就算time machine不会到来
+就算 time machine 不会到来
 
 现在的这个瞬间与你一起铭刻
 
@@ -305,9 +302,9 @@ GP TOP、氧化铝
 
 震动世界
 
-RUN&RUN&RUN　急いで
+RUN&RUN&RUN 　急いで
 
-RUN&RUN&RUN　止めないで
+RUN&RUN&RUN 　止めないで
 
 RUN&RUN&RUN，快一些
 
@@ -323,7 +320,7 @@ RUN&RUN&RUN，不要停止
 
 いつでも私は君に会えるから
 
-Time machine已经不再需要
+Time machine 已经不再需要
 
 像是充满错误的恋情般
 
@@ -341,15 +338,13 @@ Time machine已经不再需要
 
 但无论何时我都在你的身旁
 
-
-
-
 ### 「Orion's belt ft. RITTO」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas7s3qwrtj20dw0dw0wd.jpg)
 
-*作詞：CHICO CARLITO / RITTO*
+![img](/images/posts/e17094f2gw1fas7s3qwrtj20dw0dw0wd.jpg)
 
-*作曲：Olive Oil*
+_作詞：CHICO CARLITO / RITTO_
+
+_作曲：Olive Oil_
 
 沖縄　那覇　リバーサイド
 
@@ -361,7 +356,7 @@ Time machine已经不再需要
 
 現代限界社会叙情詩
 
-2016　上げる狼煙
+2016 　上げる狼煙
 
 チャイナ　アメリカ　わした島包囲
 
@@ -371,39 +366,39 @@ Time machine已经不再需要
 
 CHICO CARLITO RITTO olive oil
 
-イマ天ニ登ル三ツ星　Orion
+イマ天ニ登ル三ツ星　 Orion
 
-冲绳　那霸　Riverside
+冲绳　那霸　 Riverside
 
-和平通道的Chill Time
+和平通道的 Chill Time
 
 低头俯看现实就在眼前
 
-和中指一起竖起的Peace Sign
+和中指一起竖起的 Peace Sign
 
 现代界限社会抒情诗
 
 2016 升起的狼烟
 
-China　America　把我们的岛包围
+China 　 America 　把我们的岛包围
 
 不明白的事情还有很多
 
-忽近忽远的日本　
+忽近忽远的日本
 
-从南方而来的CHICO CARLITO、ROTTO、olive oil
+从南方而来的 CHICO CARLITO、ROTTO、olive oil
 
-此刻升上天际的三颗星　Orion
+此刻升上天际的三颗星　 Orion
 
 はっさびよー　デージ
 
 お前に　この世界を見せれるのか
 
-いつか産まれるbaby
+いつか産まれる baby
 
 寝首をかく争いにはヤンバルクイナも鳴く
 
-hiphopは逆境にてその力を更に増す
+hiphop は逆境にてその力を更に増す
 
 へそで茶を沸かす　戯言　ままごと
 
@@ -419,7 +414,7 @@ hiphopは逆境にてその力を更に増す
 
 マブヤー落とす竜神と爆弾落とす軍用機
 
-No pray. オスプレイ　fuckin'　ナイスプレー
+No pray. オスプレイ　 fuckin'　ナイスプレー
 
 おばぁ達が流した涙　海の色
 
@@ -427,17 +422,17 @@ No pray. オスプレイ　fuckin'　ナイスプレー
 
 この島に埋もれた骨　雲の色
 
-イマ天ニ登ル三ツ星　ORION
+イマ天ニ登ル三ツ星　 ORION
 
 我操　不好 （译注：歌词里包含很多冲绳方言，不太懂，就查着字典大概猜着翻了）
 
 能将这世界在你面前展现吗
 
-不知何时出生的baby
+不知何时出生的 baby
 
 趁其不备的暗斗中连冲绳秧鸡都会鸣叫（译注：后半句可能是什么冲绳的俗语吧，不太清楚）
 
-hiphop在逆境中会有更大力量
+hiphop 在逆境中会有更大力量
 
 笑破肚皮　说傻话　过家家
 
@@ -453,7 +448,7 @@ hiphop在逆境中会有更大力量
 
 吓得魂不附体的龙神和丢下炸弹的军用机
 
-No pray. Osprey　fuckin'　Nice play
+No pray. Osprey 　 fuckin'　 Nice play
 
 老奶奶们流下的眼泪　海的颜色
 
@@ -461,27 +456,27 @@ No pray. Osprey　fuckin'　Nice play
 
 埋在这岛上的尸骨　云的颜色
 
-此刻升上天际的三颗星　ORION
+此刻升上天际的三颗星　 ORION
 
-イマ天ニ登ル三ツ星　ORION
+イマ天ニ登ル三ツ星　 ORION
 
-此刻升上天际的三颗星　ORION
+此刻升上天际的三颗星　 ORION
 
 真実は島の真心今日も海が光る場所から風は南
 
-またの名やっけーyo
+またの名やっけー yo
 
-I was born Ishigaki　島の響き口が楽器
+I was born Ishigaki 　島の響き口が楽器
 
 予期せぬ知らせ 透き通るその眼　約束の道へ
 
-思い走らせ　時の目覚め　Doを信じDoを高め
+思い走らせ　時の目覚め　 Do を信じ Do を高め
 
 手を伸ばせばあの空すら届きそうで
 
-1945から何年？世界日本現在も争いは停滞
+1945 から何年？世界日本現在も争いは停滞
 
-身を天に最盛one mic　安定　あの悲しみがなければこの島はないぜ
+身を天に最盛 one mic 　安定　あの悲しみがなければこの島はないぜ
 
 いったい何で？生きがいは何ね？あの声すらも耳元消えてしまって
 
@@ -493,7 +488,7 @@ I was born Ishigaki　島の響き口が楽器
 
 真实是岛的核心　今天从发光海域吹来的也是南风
 
-别名是麻烦yo
+别名是麻烦 yo
 
 I was born Ishigaki（译注：冲绳的石垣岛）　鸟儿鸣叫用的喙子是乐器
 
@@ -503,52 +498,45 @@ I was born Ishigaki（译注：冲绳的石垣岛）　鸟儿鸣叫用的喙子�
 
 伸出手的话仿佛甚至能触碰到那片天空
 
-从1945到现在过了多少年？世界、日本现在也在争斗中停摆
+从 1945 到现在过了多少年？世界、日本现在也在争斗中停摆
 
-肉身升空最高one mic　安定　没了那份悲伤的话也就没有这个岛呐
+肉身升空最高 one mic 　安定　没了那份悲伤的话也就没有这个岛呐
 
 到底为什么？活着的价值是什么呢？就连那声音也在耳边消逝不见
 
 从某种意义来说我们也真的是和战士一样　灵魂　头上的黄金三星
 
-升上天际的三颗星　ORION
+升上天际的三颗星　 ORION
 
-升上天际的三颗星　ORION
+升上天际的三颗星　 ORION
 
 Olive Oil Magic
 
-
-
-
 ### 「come on!」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1fas7ue5otyj20dw0dwgrt.jpg)
 
-*作詞：ACE / 般若 / ZEEBRA*
+![img](/images/posts/e17094f2gw1fas7ue5otyj20dw0dwgrt.jpg)
+
+_作詞：ACE / 般若 / ZEEBRA_
 
 （暂时欠奉）
-
-
-
 
 ### 「Mitsuoka」
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1fas7uvir0nj20dw0dwtag.jpg)
 
-*作詞：KOHH*
+![img](/images/posts/e17094f2gw1fas7uvir0nj20dw0dwtag.jpg)
+
+_作詞：KOHH_
 
 （暂时欠奉）
 
-
-
-
-
 ### 「さいごの宿題」
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1fas7vepootj20dw0dwwki.jpg)
+
+![img](/images/posts/e17094f2gw1fas7vepootj20dw0dwwki.jpg)
 
 **最后的作业**
 
-*作詞：サイプレス上野 / 中江友梨*
+_作詞：サイプレス上野 / 中江友梨_
 
-*作曲：SWING-O*
+_作曲：SWING-O_
 
 君が出してくれた さいごの宿題
 
@@ -598,7 +586,7 @@ Olive Oil Magic
 
 直面向前，我们没问题的，挺起胸膛往前走
 
-「没有停下来的空闲，只是稍稍前进一些的话不是很好吗？」（译注：这句是ライムベリー/Rhymeberry的MC Miri的声音，另外这首歌的和声部分其他客席人员还包括GEM的熊代珠琳和东京女子流的庄司芽生）
+「没有停下来的空闲，只是稍稍前进一些的话不是很好吗？」（译注：这句是ライムベリー/Rhymeberry 的 MC Miri 的声音，另外这首歌的和声部分其他客席人员还包括 GEM 的熊代珠琳和东京女子流的庄司芽生）
 
 你留给我的最后的作业，会答复你的，绝对！
 
@@ -632,7 +620,7 @@ Olive Oil Magic
 
 向前走吧，直到再会的那天
 
-向前走吧，向前走吧......*
+向前走吧，向前走吧......\*
 
 必然なのかな出会いと別れ　涙よりも笑顔でまたね
 
@@ -642,11 +630,11 @@ Olive Oil Magic
 
 そう信じて次の一歩踏み出せば良いコトあるさきっと
 
-いつも通りじゃなくなるEveryday　迎える別れ方いつも通り
+いつも通りじゃなくなる Everyday 　迎える別れ方いつも通り
 
 でもまだ　寂しいけど未来は手の中
 
-握りしめた片道だけの切符　硬い地面いつもより強くKICK
+握りしめた片道だけの切符　硬い地面いつもより強く KICK
 
 いい面でまた会おうよ　ライツ·カメラ·アクション！
 
@@ -658,25 +646,23 @@ Olive Oil Magic
 
 是的，相信我吧迈出下一步的话会有好事发生的，一定
 
-将会和以往不同的everyday，以与以往相同的方式相见和告别
+将会和以往不同的 everyday，以与以往相同的方式相见和告别
 
 但是仍然，虽然伤感，但未来就在自己手中
 
-紧紧握着的单程车票，坚硬的地面，比以往更用力地KICK
+紧紧握着的单程车票，坚硬的地面，比以往更用力地 KICK
 
 以更棒的面貌再次相会吧，Let's camera action!
 
-repeat *
-
-
-
+repeat \*
 
 ### 「Good bye, Good girl.」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas7xvvdvrj20dw0dw76m.jpg)
 
-*作詞：tentenko*
+![img](/images/posts/e17094f2gw1fas7xvvdvrj20dw0dw76m.jpg)
 
-*作曲：Papico*
+_作詞：tentenko_
+
+_作曲：Papico_
 
 代々木八幡の駅を
 
@@ -684,13 +670,13 @@ repeat *
 
 面したマンションに住む
 
-今年3年目のオフィスレディ
+今年 3 年目のオフィスレディ
 
 从代代木八幡车站出来徒步五分钟
 
 住在面向山手通路的公寓里
 
-今年工作第三年的office lady
+今年工作第三年的 office lady
 
 コンクリートの天井
 
@@ -736,7 +722,7 @@ Nobody knows
 
 Good bye，啦啦啦，再见吧
 
-写满了梦想的diary
+写满了梦想的 diary
 
 跑到哪儿去了呢？
 
@@ -758,7 +744,7 @@ Good bye，啦啦啦，再见吧
 
 只有一侧掉落了下来
 
-那就是唯一的盲点*
+那就是唯一的盲点\*
 
 台東区鶯谷の
 
@@ -808,7 +794,7 @@ Good girl，她是个好女孩
 
 都有着不为人知的脸孔
 
-repeat *
+repeat \*
 
 母親の証言
 
@@ -826,54 +812,54 @@ Good girl，她是个好女孩
 
 会凝望着遥远的什么地方
 
-repeat *
+repeat \*
 
 ## 人物介绍
 
-![水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lijf3vj20jg0cywfw.jpg)
+![水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）](/images/posts/e17094f2gw1fas8lijf3vj20jg0cywfw.jpg)
 
 水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）
 
-![sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8mo750rj20xc0p0q70.jpg)
+![sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）](/images/posts/e17094f2gw1fas8mo750rj20xc0p0q70.jpg)
 
 sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）
 
-![CHICO CARLITO](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liwdi1j21be0qowgj.jpg)
+![CHICO CARLITO](/images/posts/e17094f2gw1fas8liwdi1j21be0qowgj.jpg)
 
 CHICO CARLITO
 
-![ACE & 般若](http://ww4.sinaimg.cn/large/e17094f2gw1fas8li2ly9j20go09edgf.jpg)
+![ACE & 般若](/images/posts/e17094f2gw1fas8li2ly9j20go09edgf.jpg)
 
 ACE & 般若
 
-![KOHH](http://ww2.sinaimg.cn/large/e17094f2gw1fas8lipqbzj20yz0jlq54.jpg)
+![KOHH](/images/posts/e17094f2gw1fas8lipqbzj20yz0jlq54.jpg)
 
 KOHH
 
-![サ上と中江（サイプレス上野, 中江友梨）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8lj30prj20ka0f842q.jpg)
+![サ上と中江（サイプレス上野, 中江友梨）](/images/posts/e17094f2gw1fas8lj30prj20ka0f842q.jpg)
 
 サ上と中江（サイプレス上野, 中江友梨）
 
-![テンテンコ（tentenko）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liei0sj20hs0qo75i.jpg)
+![テンテンコ（tentenko）](/images/posts/e17094f2gw1fas8liei0sj20hs0qo75i.jpg)
 
 テンテンコ（tentenko）
 
-![3776（井出ちよの）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8ljd8n0j20qo0hs76n.jpg)
+![3776（井出ちよの）](/images/posts/e17094f2gw1fas8ljd8n0j20qo0hs76n.jpg)
 
 3776（井出ちよの）
 
-![私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll11qtj20go0b4jvy.jpg)
+![私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）](/images/posts/e17094f2gw1fas8ll11qtj20go0b4jvy.jpg)
 
 私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）
 
-![ようなぴ（from ゆるめるモ！）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8lk83pej20ka0djwh3.jpg)
+![ようなぴ（from ゆるめるモ！）](/images/posts/e17094f2gw1fas8lk83pej20ka0djwh3.jpg)
 
 ようなぴ（from ゆるめるモ！）
 
-![amiinA（miyu, ami）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lkg5spj20ic0c8tb2.jpg)
+![amiinA（miyu, ami）](/images/posts/e17094f2gw1fas8lkg5spj20ic0c8tb2.jpg)
 
 amiinA（miyu, ami）
 
-![cero（荒内佑, 橋本翼, 高城晶平）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll7xizj20p00xcgrm.jpg)
+![cero（荒内佑, 橋本翼, 高城晶平）](/images/posts/e17094f2gw1fas8ll7xizj20p00xcgrm.jpg)
 
 cero（荒内佑, 橋本翼, 高城晶平）

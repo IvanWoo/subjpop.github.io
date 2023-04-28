@@ -3,7 +3,7 @@ date: 2017-03-31
 title: Vol. 23 我们来听新唱片！！！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/23.jpg
 stream_url: http://www.lizhi.fm/1913563/2593418764038370822
 playlist: |-
@@ -20,51 +20,47 @@ playlist: |-
     11. 水曜日のカンパネラ「海 その愛 feat. 加山雄三」（from 合辑『加山雄三の新世界』2017/03/08）
 
 albums: |-
-  * [「Salve」](http://ototoy.jp/_/default/p/70116)
-  * [「NESS」](http://ototoy.jp/_/default/p/72709)
-  * [「夢？幻？ドロップス」](https://itunes.apple.com/jp/album/夢-幻-ドロップス-ストロー-ep/id1204190908?l=en)
-  * [「未成年」](https://itunes.apple.com/jp/album/miseinen/id1203189772)
-  * [「Wizard」](http://ototoy.jp/_/default/p/73095)
-  * [「放課後シンパシー」](http://ototoy.jp/_/default/p/65666)
-  * [「ikamino」](http://ototoy.jp/_/default/p/72819)
-  * [「加山雄三の新世界」](http://ototoy.jp/_/default/p/72108)
+    * [「Salve」](http://ototoy.jp/_/default/p/70116)
+    * [「NESS」](http://ototoy.jp/_/default/p/72709)
+    * [「夢？幻？ドロップス」](https://itunes.apple.com/jp/album/夢-幻-ドロップス-ストロー-ep/id1204190908?l=en)
+    * [「未成年」](https://itunes.apple.com/jp/album/miseinen/id1203189772)
+    * [「Wizard」](http://ototoy.jp/_/default/p/73095)
+    * [「放課後シンパシー」](http://ototoy.jp/_/default/p/65666)
+    * [「ikamino」](http://ototoy.jp/_/default/p/72819)
+    * [「加山雄三の新世界」](http://ototoy.jp/_/default/p/72108)
 ---
-本期歌词原文及正确性保持在98.5%左右的中文翻译
+
+本期歌词原文及正确性保持在 98.5%左右的中文翻译
 
 <!-- hide excerpt -->
 
-
 ## 歌词
 
-
-
 ### KID FRESINO「Salve feat. JJJ」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe57n4io1nj20dw0dwjrp.jpg)
 
-*作词／制作：KID FRESINO・JJJ*
+![img](/images/posts/e17094f2gy1fe57n4io1nj20dw0dwjrp.jpg)
+
+_作词／制作：KID FRESINO・JJJ_
 
 （没时间做太多听写，歌词暂时欠奉）
 
-
-
 ### 中小企業「FUGA」
-![img](http://wx1.sinaimg.cn/large/e17094f2gy1fe57ox67ijj20dw0dwjwo.jpg)
 
-*作词：中山信一*
-*制作：小山秀一郎*
+![img](/images/posts/e17094f2gy1fe57ox67ijj20dw0dwjwo.jpg)
+
+_作词：中山信一_
+_制作：小山秀一郎_
 
 （歌词暂时欠奉）
 
-
-
-
 ### 963「ストロー」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe57q940uij20dw0dwteh.jpg)
+
+![img](/images/posts/e17094f2gy1fe57q940uij20dw0dwteh.jpg)
 
 **Straw／吸管**
 
-*作词：Bonjour铃木*
-*作曲／编曲：Kenichiro Nishihara*
+_作词：Bonjour 铃木_
+_作曲／编曲：Kenichiro Nishihara_
 
 ノックノック　探しにいこうよ
 
@@ -206,13 +202,11 @@ Knock Knock，去寻找吧
 
 永远和你在一起
 
+### Chanmina「未成年 feat. Messhi」
 
+![img](/images/posts/e17094f2gy1fe57vbyn1yj20dw0dwqbd.jpg)
 
-
-### Chanmina「未成年feat. Messhi」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe57vbyn1yj20dw0dwqbd.jpg)
-
-*作词：Chanmina·Messhi*
+_作词：Chanmina·Messhi_
 
 みんな私を見て
 
@@ -222,7 +216,7 @@ How old are you？How old are you？ねえいくつに見える？
 
 How old are you？How old are you？？君いくつ？いくつなの？
 
-ねえ　How old are you？How old are you？
+ねえ　 How old are you？How old are you？
 
 いけないんだ　いけないんだ　先生に言っちゃお
 
@@ -252,13 +246,13 @@ You Ready？I'm ready yeah we really 未成年
 
 Yes I'm a 今の時代の未成年
 
-98年October 14 JK2Level
+98 年 October 14 JK2Level
 
 先輩達緊張した方が身のため
 
 そろそろ始まるからね席替え
 
-あんたは私にはなれない　never
+あんたは私にはなれない　 never
 
 私のくじが当たりに見えるのなら
 
@@ -274,7 +268,7 @@ Yes I'm a 今の時代の未成年
 
 そうこれこそ未成年パワー
 
-私のhater ならここまで来な fxxker
+私の hater ならここまで来な fxxker
 
 文句あるならば曲でも書きな
 
@@ -282,7 +276,7 @@ Yes I'm a 今の時代の未成年
 
 Yes I'm a 现如今这时代的未成年
 
-98年October 14 JK2Level（译注：JK=女高中生）
+98 年 October 14 JK2Level（译注：JK=女高中生）
 
 各位前辈赶快紧张起来吧，为了你们自己好
 
@@ -302,9 +296,9 @@ Yes I'm a 现如今这时代的未成年
 
 我的腰腿还都扭得动
 
-没错这就是未成年power
+没错这就是未成年 power
 
-我的hater有本事来这儿啊，fxxker
+我的 hater 有本事来这儿啊，fxxker
 
 有什么怨言就写首歌给我看
 
@@ -318,7 +312,7 @@ How old are you？How old are you？ねえいくつに見える？
 
 How old are you？How old are you？？君いくつ？いくつなの？
 
-ねえ　How old are you？How old are you？
+ねえ　 How old are you？How old are you？
 
 いけないんだ　いけないんだ　先生に言っちゃお
 
@@ -360,7 +354,7 @@ You Ready？I'm ready yeah we really 未成年
 
 だってもう剥がした張り紙
 
-『babyfaceに注意』
+『babyface に注意』
 
 世の中で言う妹キャラらしい
 
@@ -396,7 +390,7 @@ You Ready？I'm ready yeah we really 未成年
 
 因为告示已经被我给撕下来了
 
-『当心babyface』
+『当心 babyface』
 
 像是世间常说的妹妹属性
 
@@ -422,7 +416,7 @@ How old are you？How old are you？ねえいくつに見える？
 
 How old are you？How old are you？？君いくつ？いくつなの？
 
-ねえ　How old are you？How old are you？
+ねえ　 How old are you？How old are you？
 
 いけないんだ　いけないんだ　先生に言っちゃお
 
@@ -478,7 +472,7 @@ How old are you？How old are you？ねえいくつに見える？
 
 How old are you？How old are you？？君いくつ？いくつなの？
 
-ねえ　How old are you？How old are you？
+ねえ　 How old are you？How old are you？
 
 いけないんだ　いけないんだ　先生に言っちゃお
 
@@ -502,14 +496,12 @@ How old are you？How old are you？？你多大了？到底多大了？
 
 You Ready？I'm ready yeah we really 未成年
 
-
-
-
 ### Especia「No 1 Sweeper」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe57zqndwij20dw0dw0zc.jpg)
 
-*作词：mirco*
-*作曲／编曲：Schtein&Longer*
+![img](/images/posts/e17094f2gy1fe57zqndwij20dw0dw0zc.jpg)
+
+_作词：mirco_
+_作曲／编曲：Schtein&Longer_
 
 （翻译来自赵老师，特别感谢）
 
@@ -527,7 +519,7 @@ BUSY STREET 为何？
 
 其实真的很在意 情绪几近焦灼
 
-让我过分期待的COOL FACE
+让我过分期待的 COOL FACE
 
 NIGHT AND DAY 大抵
 
@@ -541,7 +533,7 @@ NIGHT AND DAY 大抵
 
 所谓的开始便是这么回事？
 
-打乱计划 冲昏头脑的TIME KEEPER
+打乱计划 冲昏头脑的 TIME KEEPER
 
 试着用眼神传达 纵是谎言也好
 
@@ -555,13 +547,13 @@ DON'T DRESS UP だって
 
 DON'T RUN AWAY 毅然
 
-如此艰难的展开 无法预测的Thrill感 仿佛走钢索
+如此艰难的展开 无法预测的 Thrill 感 仿佛走钢索
 
 DON'T DRESS UP 因为
 
 若能得以脱身 LET'S GET IT STARTED
 
-MOVIN ON 立ち止まれない 早まるEMOTION
+MOVIN ON 立ち止まれない 早まる EMOTION
 
 正気じゃいられないくらい踊ろうよ 手遅れになったっていい
 
@@ -573,7 +565,7 @@ SHAKE A BODY 素直に肌をさらして
 
 見えるはず 瞳の奥 DIVINATION GAME
 
-MOVIN ON 无法止步 加速的EMOTION
+MOVIN ON 无法止步 加速的 EMOTION
 
 让我们翩翩起舞 纵使神智不清 为时已晚又何妨
 
@@ -597,7 +589,7 @@ BAD DAY 一定
 
 不愿认为那只是错觉
 
-高楼间隙生出 彻夜的BLUE
+高楼间隙生出 彻夜的 BLUE
 
 比起相互温存 在这之前 TELL ME
 
@@ -627,13 +619,13 @@ DON'T TEASE ME これ以上
 
 DON'T LOOK AWAY 予感
 
- LET'S GET DOWN ON IT 也顾不上什么时间
+LET'S GET DOWN ON IT 也顾不上什么时间
 
 DON'T TEASE ME 再无赘言
 
-若是得以脱身  LET'S GET A ALL NIGHT
+若是得以脱身 LET'S GET A ALL NIGHT
 
-MOVIN ON 滑り込んで 饒舌なCONNOTATION
+MOVIN ON 滑り込んで 饒舌な CONNOTATION
 
 忘れられないくらいに確かめ合って 手遅れになったっていい
 
@@ -645,7 +637,7 @@ SHAKE A BODY 欲望も全部見せつけて
 
 見えるはず 瞳の奥 DIVINATION GAME
 
-MOVIN ON 滑进去吧 饶舌的CONNOTATION
+MOVIN ON 滑进去吧 饶舌的 CONNOTATION
 
 让我们确认彼此 要一生难以忘怀为时已晚又何妨
 
@@ -657,23 +649,23 @@ SHAKE A BODY 欲望全展露无疑
 
 应该能看见 瞳孔深处的 DIVINATION GAME
 
-DON'T RUN AWAY　瞬間
+DON'T RUN AWAY 　瞬間
 
 そう呼吸乱して　惑わせる　スローな合図で
 
-DON'T DRESS UP　だって
+DON'T DRESS UP 　だって
 
 脱ぎ捨ててしまえば....
 
 DON'T RUN AWAY 瞬间
 
-扰乱呼吸 蛊惑人心 用slow暗号
+扰乱呼吸 蛊惑人心 用 slow 暗号
 
 DON'T DRESS UP 因为
 
 若能得以脱身....
 
-MOVIN ON 立ち止まれない 早まるEMOTION
+MOVIN ON 立ち止まれない 早まる EMOTION
 
 正気じゃいられないくらい踊ろうよ
 
@@ -687,7 +679,7 @@ SAKE A BODY 素直に肌をさらして
 
 見えるはず 瞳の奥 DIVINATION GAME
 
-MOVIN ON 无法止步 加速的EMOTION
+MOVIN ON 无法止步 加速的 EMOTION
 
 让我们翩翩起舞 纵使神智不清为时已晚又何妨
 
@@ -699,21 +691,19 @@ SHAKE A BODY 坦率露出肌肤吧
 
 应该能看见 瞳孔深处的 DIVINATION GAME
 
-
-
-
 ### テンテンコ「WA·ショイ！」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe583qwhjgj20dw0dwaf3.jpg)
 
-![堀ちえみ原版封套1985](http://wx1.sinaimg.cn/large/e17094f2gy1fe58n4srz5j206o06ot8x.jpg)
+![img](/images/posts/e17094f2gy1fe583qwhjgj20dw0dwaf3.jpg)
 
-**堀ちえみ原版封套1985**
+![堀ちえみ原版封套1985](/images/posts/e17094f2gy1fe58n4srz5j206o06ot8x.jpg)
+
+**堀ちえみ原版封套 1985**
 
 **tentenko「WA Shoi！」**
 
-*作词：铃木博文、作曲：白井良明*
+_作词：铃木博文、作曲：白井良明_
 
-*编曲：TSUBAME（TOKYO HEALTH CLUB）*
+_编曲：TSUBAME（TOKYO HEALTH CLUB）_
 
 春が私に近づいて　窓に花を咲かせて
 
@@ -807,27 +797,23 @@ wake up wake up
 
 我要睁开眼睛啦
 
-
-
-
 ### ikanimo「はいはい」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fe589hm298j20dw0dwdkr.jpg)
+
+![img](/images/posts/e17094f2gy1fe589hm298j20dw0dwdkr.jpg)
 
 （歌词暂时欠奉）
 
-
-
-
 ### 水曜日のカンパネラ 「海 その愛」
-![img](http://wx2.sinaimg.cn/large/e17094f2gy1fe58cfqtk2j20dw0dr106.jpg)
+
+![img](/images/posts/e17094f2gy1fe58cfqtk2j20dw0dr106.jpg)
 
 **星期三的康帕内拉 「大海 还有那爱」**
 
-*作词：岩谷时子*
+_作词：岩谷时子_
 
-*作曲：弹厚作*
+_作曲：弹厚作_
 
-*编曲：Kenmochi Hidefumi*
+_编曲：Kenmochi Hidefumi_
 
 海に抱かれて　男ならば
 
@@ -951,34 +937,34 @@ wake up wake up
 
 ## 人物介绍
 
-![KID FRESINO](http://wx3.sinaimg.cn/large/e17094f2gy1fe58j53hlzj20hs0cg7b7.jpg)
+![KID FRESINO](/images/posts/e17094f2gy1fe58j53hlzj20hs0cg7b7.jpg)
 
 KID FRESINO
 
-![中小企業](http://wx1.sinaimg.cn/large/e17094f2gy1fe58jj0aq1j20pk0h87i4.jpg)
+![中小企業](/images/posts/e17094f2gy1fe58jj0aq1j20pk0h87i4.jpg)
 
 中小企業
 
-![963](http://wx1.sinaimg.cn/large/e17094f2gy1fe58k7prkaj20s10sg454.jpg)
+![963](/images/posts/e17094f2gy1fe58k7prkaj20s10sg454.jpg)
 
 963
 
-![ちゃんみな／Chanmina](http://wx3.sinaimg.cn/large/e17094f2gy1fe58lcimk7j20dc08wwf2.jpg)
+![ちゃんみな／Chanmina](/images/posts/e17094f2gy1fe58lcimk7j20dc08wwf2.jpg)
 
 ちゃんみな／Chanmina
 
-![Especia](http://wx1.sinaimg.cn/large/e17094f2gy1fe58miartxj20h80bhq53.jpg)
+![Especia](/images/posts/e17094f2gy1fe58miartxj20h80bhq53.jpg)
 
 Especia
 
-![テンテンコ／tentenko](http://wx3.sinaimg.cn/large/e17094f2gy1fe58os7ft8j20xc0xcjvt.jpg)
+![テンテンコ／tentenko](/images/posts/e17094f2gy1fe58os7ft8j20xc0xcjvt.jpg)
 
 テンテンコ／tentenko
 
-![ikanimo（ケイタイモ、野村卓史、松井泉）](http://wx3.sinaimg.cn/large/e17094f2gy1fe58qy5ul8j20vk0hsjtf.jpg)
+![ikanimo（ケイタイモ、野村卓史、松井泉）](/images/posts/e17094f2gy1fe58qy5ul8j20vk0hsjtf.jpg)
 
 ikanimo（ケイタイモ、野村卓史、松井泉）
 
-![コムアイ（水曜日のカンパネルラ）、加山雄三、PUNPEE](http://wx1.sinaimg.cn/large/e17094f2gy1fe58t2l9eyj20su0gegv8.jpg)
+![コムアイ（水曜日のカンパネルラ）、加山雄三、PUNPEE](/images/posts/e17094f2gy1fe58t2l9eyj20su0gegv8.jpg)
 
 コムアイ（水曜日のカンパネルラ）、加山雄三、PUNPEE

@@ -3,43 +3,42 @@ date: 2016-08-19
 title: Vol. 03 我们来听新唱片！
 dj: marusan
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/3.jpg
 stream_url: http://www.lizhi.fm/1913563/2551994715020845062
 playlist: |-
-  1. Especia「Savior」（from 4th EP「Mirage」2016/08/10）
-  2. 婦人倶楽部「グルメ紀行」（from 1st album「フジンカラー」2016/07/13）
-  3. 🎙️
-  4. 細野晴臣「Mohican」（Online Single 2016/04/06）
-  5. クウチュウ戦「魔法が解ける」（from 3rd mini-album「超能力セレナーデ」2016/08/03）
-  6. 🎙️
-  7. 坂本慎太郎「できれば愛を」（from 3rd album「できれば愛を」2016/07/27）
-  8. Hauptharmonie「Kidnapper Blues~人攫いの憂鬱~」（from 2nd Album「Herz über Kopf」2016/07/12）
-  9. 🎙️
-  10. BELLRING少女ハート「asthma」（5人ver.）（from 1st collection「BEST BRGH」2016/08/16）
-  11. 水曜日のカンパネラ「ツチノコ」（from 1st major EP「UMA」2016/06/22）
+    1. Especia「Savior」（from 4th EP「Mirage」2016/08/10）
+    2. 婦人倶楽部「グルメ紀行」（from 1st album「フジンカラー」2016/07/13）
+    3. 🎙️
+    4. 細野晴臣「Mohican」（Online Single 2016/04/06）
+    5. クウチュウ戦「魔法が解ける」（from 3rd mini-album「超能力セレナーデ」2016/08/03）
+    6. 🎙️
+    7. 坂本慎太郎「できれば愛を」（from 3rd album「できれば愛を」2016/07/27）
+    8. Hauptharmonie「Kidnapper Blues~人攫いの憂鬱~」（from 2nd Album「Herz über Kopf」2016/07/12）
+    9. 🎙️
+    10. BELLRING少女ハート「asthma」（5人ver.）（from 1st collection「BEST BRGH」2016/08/16）
+    11. 水曜日のカンパネラ「ツチノコ」（from 1st major EP「UMA」2016/06/22）
 albums: |-
-  * [「Mirage」](http://ototoy.jp/_/default/p/65308)
-  * [「Especia」](https://soundcloud.com/especia)
-  * [「Mohican」](http://mora.jp/package/43000005/VE3WA-17617/)
-  * [「超能力セレナーデ」](http://ototoy.jp/_/default/p/64908)
-  * [「できれば愛を」](http://ototoy.jp/_/default/a/64469)
-  * [「BEST BRGH」](http://ototoy.jp/_/default/p/65204)
-  * [「UMA」](http://ototoy.jp/_/default/a/85357)
+    * [「Mirage」](http://ototoy.jp/_/default/p/65308)
+    * [「Especia」](https://soundcloud.com/especia)
+    * [「Mohican」](http://mora.jp/package/43000005/VE3WA-17617/)
+    * [「超能力セレナーデ」](http://ototoy.jp/_/default/p/64908)
+    * [「できれば愛を」](http://ototoy.jp/_/default/a/64469)
+    * [「BEST BRGH」](http://ototoy.jp/_/default/p/65204)
+    * [「UMA」](http://ototoy.jp/_/default/a/85357)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### Savior
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f6z3jpwua0j20dw0dumzj.jpg)
 
-*作詞：Hi-Fi City*
+![img](/images/posts/e17094f2gw1f6z3jpwua0j20dw0dumzj.jpg)
 
-*作曲：Hi-Fi City*
+_作詞：Hi-Fi City_
+
+_作曲：Hi-Fi City_
 
 Sun is going down on driest day
 
@@ -63,10 +62,9 @@ No one takes me out from here
 
 Will you cry？
 
-
-
 ### グルメ紀行
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f6z3lgorduj20dw0dwt9z.jpg)
+
+![img](/images/posts/e17094f2gw1f6z3lgorduj20dw0dwt9z.jpg)
 
 **美食纪行**
 
@@ -134,16 +132,15 @@ Will you cry？
 
 佐渡好吃的东西可多呢
 
-
-
 ### Mohican
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f6z3o9jrr2j20dw0dwq46.jpg)
+
+![img](/images/posts/e17094f2gw1f6z3o9jrr2j20dw0dwq46.jpg)
 
 **莫西干**
 
-*作曲/作詞：細野晴臣*
+_作曲/作詞：細野晴臣_
 
-*原作詞：沖田修一*
+_原作詞：沖田修一_
 
 波に揺られて　船はユラユラリ
 
@@ -201,17 +198,15 @@ Daddy、Oh My Daddy
 
 和岛屿相似的颜色，这就是莫西干
 
-
-
-
 ### 魔法が解ける
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f6z3x0raatj20dw0dwmzy.jpg)
+
+![img](/images/posts/e17094f2gw1f6z3x0raatj20dw0dwmzy.jpg)
 
 **魔法要解开了**
 
-*作詞：ベントラーカオル*
+_作詞：ベントラーカオル_
 
-*作曲：ベントラーカオル*
+_作曲：ベントラーカオル_
 
 遊星から乗り換えの駅まで
 
@@ -253,7 +248,7 @@ Daddy、Oh My Daddy
 
 消さなくちゃ　見つかる前にほら
 
-Moral乘着水晶之舟
+Moral 乘着水晶之舟
 
 顺流而下，在银河告别
 
@@ -285,45 +280,39 @@ Moral乘着水晶之舟
 
 （这歌词我翻得也很费解，去看写歌的键盘手的采访，他说他也不知道自己写了个什么意思，反正就是脑海里有些画面。）
 
-
-
-
-
 ### できれば愛を
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f6z3w8q7zej20dw0dwdhh.jpg)
+
+![img](/images/posts/e17094f2gw1f6z3w8q7zej20dw0dwdhh.jpg)
 
 **可以的话，将爱......**
 
-*作曲·作词：坂本慎太郎*
+_作曲·作词：坂本慎太郎_
 
-歌词及翻译请参见「rock南瓜头」的[微博](http://www.weibo.com/pumpkinhead)
-
-
-
-
+歌词及翻译请参见「rock 南瓜头」的[微博](http://www.weibo.com/pumpkinhead)
 
 ### Kidnapper Blues~人攫いの憂鬱~
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1f6z41fewtdj20dw0dw0x5.jpg)
+
+![img](/images/posts/e17094f2gw1f6z41fewtdj20dw0dw0x5.jpg)
 
 **Kidnapper Blues~诱拐者的忧郁~**
 
-*作曲：白水悠（KAGERO*
+_作曲：白水悠（KAGERO_
 
-*作詞：O-ant*
+_作詞：O-ant_
 
-誘惑だらけのCityねD.C.
+誘惑だらけの City ね D.C.
 
-Aperitifはwodkaにblood混ぜて
+Aperitif は wodka に blood 混ぜて
 
-気の向くまま向くままplease show me, virginty
+気の向くまま向くまま please show me, virginty
 
 罪は消えない
 
-充满诱惑的City呐D.C.
+充满诱惑的 City 呐 D.C.
 
-开胃酒是vodka兑blood
+开胃酒是 vodka 兑 blood
 
-随心所欲随心所欲please show me, virginity
+随心所欲随心所欲 please show me, virginity
 
 罪孽不会消失
 
@@ -333,7 +322,7 @@ Wasted！Busted！Wasted！
 
 夕暮れ時　街は色めいて　くすぐる香り　ふりまいて歩く
 
-あのコの背中にsnipeキメて　こころは踊る　呼吸さえ逸る
+あのコの背中に snipe キメて　こころは踊る　呼吸さえ逸る
 
 走在夜幕开始降临的街道，擦上诱人的香气
 
@@ -347,7 +336,7 @@ Kidnapper Blues、Kidnapper Blues、 Kidnapper Blues、Kidnapper Blues
 
 どうしてこの狭い世界には 純潔にない夜がまた明ける
 
-ミザリー、とんだミスだわABC　こんな老婆を抱いて　満たされるほど安くはない
+ミザリー、とんだミスだわ ABC 　こんな老婆を抱いて　満たされるほど安くはない
 
 Terrble、捲土重来、Elysium こびりついて落ちそうにない膿や垢を洗い流して
 
@@ -355,27 +344,27 @@ Terrble、捲土重来、Elysium こびりついて落ちそうにない膿や�
 
 为何在这样狭小的世界里，不洁的夜仍要迎来天明
 
-Misery，怎样的错误啊ABC，搞个这样的老太婆可无法让人心满意足
+Misery，怎样的错误啊 ABC，搞个这样的老太婆可无法让人心满意足
 
 Terrible，卷土重来，Elysium，将难以脱落的脓液和污垢洗去
 
-Ah Kidnapper『D』の名に 恥じる事無い完璧なcriminalを
+Ah Kidnapper『D』の名に 恥じる事無い完璧な criminal を
 
-ないものねだり　されどplease show me, innocence
+ないものねだり　されど please show me, innocence
 
 欲は尽きない
 
-Ah，实行不会有辱Kidnapper『D』名誉的完美的criminal
+Ah，实行不会有辱 Kidnapper『D』名誉的完美的 criminal
 
-强求着不存在之物，但是please show me, innocence
+强求着不存在之物，但是 please show me, innocence
 
 欲望永远无法得到满足
 
-誘惑だらけのCityにMedicine
+誘惑だらけの City に Medicine
 
 処方箋は無い
 
-给充满诱惑的城市一剂Medicine
+给充满诱惑的城市一剂 Medicine
 
 但是没有处方签
 
@@ -383,36 +372,31 @@ Wasted！Busted！Wasted！
 
 Wasted！Busted！Wasted！
 
-
-
-
 ### asthma
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f6z43tjnl3j20dw0e2t9o.jpg)
+
+![img](/images/posts/e17094f2gw1f6z43tjnl3j20dw0e2t9o.jpg)
 
 **气喘**
 
-*作詞：空五倍子*
+_作詞：空五倍子_
 
-*英詞：タニヤマヒロアキ*
+_英詞：タニヤマヒロアキ_
 
-*作曲·編曲：タニヤマヒロアキ*
+_作曲·編曲：タニヤマヒロアキ_
 
-歌词及翻译参见BELLRING少女ハート中国头号真粉「kitashin」的[微博](http://www.weibo.com/kitashin)
+歌词及翻译参见 BELLRING 少女ハート中国头号真粉「kitashin」的[微博](http://www.weibo.com/kitashin)
 
-（注：节目里我好像不慎顺口读成了哮喘的另一个写法「Asthema」，对组合对kitashin我都感到特别抱歉，🙇‍♀️！）
-
-
-
-
+（注：节目里我好像不慎顺口读成了哮喘的另一个写法「Asthema」，对组合对 kitashin 我都感到特别抱歉，🙇‍♀️！）
 
 ### ツチノコ
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f6z4bdpq2hj20dw0dwtda.jpg)
+
+![img](/images/posts/e17094f2gw1f6z4bdpq2hj20dw0dwtda.jpg)
 
 **土龙**
 
-*作詞：ケンモチヒデフミ*
+_作詞：ケンモチヒデフミ_
 
-*作曲：ケンモチヒデフミ*
+_作曲：ケンモチヒデフミ_
 
 派閥抗争
 
@@ -500,7 +484,7 @@ Wasted！Busted！Wasted！
 
 蠕动运动
 
-丽院宝 丽院宝（注5: 注1中的一个团体的名称，取「Rainbow」的谐音）
+丽院宝 丽院宝（注 5: 注 1 中的一个团体的名称，取「Rainbow」的谐音）
 
 とぐろ巻き
 

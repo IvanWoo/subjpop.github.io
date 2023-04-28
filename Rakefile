@@ -17,6 +17,11 @@ task :build do
   sh 'bundle exec jekyll build'
 end
 
+desc 'Clean Jekyll cache'
+task :clean do
+  sh 'bundle exec jekyll clean'
+end
+
 desc 'Rspec test'
 task :test do
   sh 'bundle exec rspec'

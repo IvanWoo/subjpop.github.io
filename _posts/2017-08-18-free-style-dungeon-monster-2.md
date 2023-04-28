@@ -3,35 +3,33 @@ date: 2017-08-18
 title: "Vol. 32 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 II"
 dj: mimida
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/32.jpg
 stream_url: https://www.lizhi.fm/1913563/2619527691989684742
 playlist: |-
-  1. Tiji Jojo「Deep End」（from mixtape「BAD HOP ALL DAY」2016/09/15）
-  2. T-Pablow, YZEER「Life Style」（from mixtape「BAD HOP ALL DAY」2016/09/15）
-  3. 🎙️
-  4. YZEER, T-Pablow「Ink Boyz」（from mixtape「BAD HOP ALL DAY」2016/09/15）
-  5. T-Pablow, Yellow Pato「Liberty」（from mixtape「BAD HOP ALL DAY」2016/09/15）
-  6. 🎙️
-  7. サイプレス上野とロベルト吉野「イントロ」（from album「コンドル」2015/09/15）
-  8. サイプレス上野とロベルト吉野「Bay Dream ～フロム課外授業～」（from album「ドリーム」2007/01/26）
-  9. サイプレス上野とロベルト吉野「横浜~藤沢 酒呑みラップ feat. Deep Sawer」（from album「ドリーム」2007/01/26）
-  10. 🎙️
-  11. サイプレス上野とロベルト吉野「音楽遊び feat. Shingo☆西成」（from album「ドリーム」2007/01/26）
-  12. サイプレス上野とロベルト吉野「WONDER WHEEL」（from album「WONDER WHEEL」2009/01/21）
+    1. Tiji Jojo「Deep End」（from mixtape「BAD HOP ALL DAY」2016/09/15）
+    2. T-Pablow, YZEER「Life Style」（from mixtape「BAD HOP ALL DAY」2016/09/15）
+    3. 🎙️
+    4. YZEER, T-Pablow「Ink Boyz」（from mixtape「BAD HOP ALL DAY」2016/09/15）
+    5. T-Pablow, Yellow Pato「Liberty」（from mixtape「BAD HOP ALL DAY」2016/09/15）
+    6. 🎙️
+    7. サイプレス上野とロベルト吉野「イントロ」（from album「コンドル」2015/09/15）
+    8. サイプレス上野とロベルト吉野「Bay Dream ～フロム課外授業～」（from album「ドリーム」2007/01/26）
+    9. サイプレス上野とロベルト吉野「横浜~藤沢 酒呑みラップ feat. Deep Sawer」（from album「ドリーム」2007/01/26）
+    10. 🎙️
+    11. サイプレス上野とロベルト吉野「音楽遊び feat. Shingo☆西成」（from album「ドリーム」2007/01/26）
+    12. サイプレス上野とロベルト吉野「WONDER WHEEL」（from album「WONDER WHEEL」2009/01/21）
 
 albums: |-
-  * [「BAD HOP ALL DAY」](http://weibo.com/3782251762/FhFO6tNIp?type=comment#_rnd1503063698999)
-  * [「コンドル」](http://ototoy.jp/_/default/p/49870)
-  * [「ドリーム」](https://itunes.apple.com/jp/album/ドリーム/id973377197)
-  * [「Wonder Wheel」](http://ototoy.jp/_/default/p/8130)
-
+    * [「BAD HOP ALL DAY」](http://weibo.com/3782251762/FhFO6tNIp?type=comment#_rnd1503063698999)
+    * [「コンドル」](http://ototoy.jp/_/default/p/49870)
+    * [「ドリーム」](https://itunes.apple.com/jp/album/ドリーム/id973377197)
+    * [「Wonder Wheel」](http://ototoy.jp/_/default/p/8130)
 ---
-
 
 <!-- hide excerpt -->
 
-![FREESTYLE MONSTERS by Dmen Watanabe](https://wx3.sinaimg.cn/large/e17094f2gy1finanmm451j20x30x3kfu.jpg)
+![FREESTYLE MONSTERS by Dmen Watanabe](/images/posts/e17094f2gy1finanmm451j20x30x3kfu.jpg)
 
 FREESTYLE MONSTERS by Dmen Watanabe
 
@@ -39,34 +37,33 @@ FREESTYLE MONSTERS by Dmen Watanabe
 
 ### Tiji Jojo「Deep End」
 
-![『BAD HOP 1 DAY』（和半年后发行的『BAD HOP ALL DAY』收录曲目大致相同）](https://wx4.sinaimg.cn/large/e17094f2gy1fin9kxhn4xj20dw0dwgn2.jpg)
+![『BAD HOP 1 DAY』（和半年后发行的『BAD HOP ALL DAY』收录曲目大致相同）](/images/posts/e17094f2gy1fin9kxhn4xj20dw0dwgn2.jpg)
 
 『BAD HOP 1 DAY』（和半年后发行的『BAD HOP ALL DAY』收录曲目大致相同）
 
-![『BAD HOP ALL DAY』](https://wx4.sinaimg.cn/large/e17094f2gy1fin9m71563j20dw0dwad9.jpg)
+![『BAD HOP ALL DAY』](/images/posts/e17094f2gy1fin9m71563j20dw0dwad9.jpg)
 
 『BAD HOP ALL DAY』
 
-*Lyrics: Tiji Jojo*
+_Lyrics: Tiji Jojo_
 
-*Produce: Richiee Beatz*
+_Produce: Richiee Beatz_
 
 （歌词欠奉）
 
-
 ### T-Pablow, YZEER「Life Style」
 
-*Lyrics: T-Pablow・YZEER*
+_Lyrics: T-Pablow・YZEER_
 
-*Produce: Gold Digga*
+_Produce: Gold Digga_
 
-俺らの音楽はLife Style
+俺らの音楽は Life Style
 
-みんなで朝までHow High
+みんなで朝まで How High
 
 新曲を聴かせる毎回
 
-仲間が言う「イケてる流してよもう1回」
+仲間が言う「イケてる流してよもう 1 回」
 
 変わらねぇ仲間と遊び方
 
@@ -76,13 +73,13 @@ I don't give a fuck
 
 変わらねぇ仲間と遊び方
 
-この音楽が1番かっこいいから
+この音楽が 1 番かっこいいから
 
 Yeah Baby
 
-我们的音乐是Life Style
+我们的音乐是 Life Style
 
-大家玩到清晨How High
+大家玩到清晨 How High
 
 每回放我们新歌
 
@@ -100,9 +97,9 @@ I don’t give a fuck
 
 Yeah Baby
 
-お前らのHIPHOPは習い事
+お前らの HIPHOP は習い事
 
-HIPHOPってのは人生だから
+HIPHOP ってのは人生だから
 
 一緒にするな 紛い物
 
@@ -112,13 +109,13 @@ HIPHOPってのは人生だから
 
 遊び半分 精神と時の部屋 破壊 創造
 
-HIPHOPってのは生き方って学んできた道端
+HIPHOP ってのは生き方って学んできた道端
 
 ぶっ飛ばされて教わってきたんだ
 
 礼儀と口の聞き方
 
-仲間と体張って築いた1から
+仲間と体張って築いた 1 から
 
 started from the bottom
 
@@ -132,17 +129,17 @@ started from the bottom
 
 見てねぇ俺なら端から上しか
 
-ANARCHYみたく与える
+ANARCHY みたく与える
 
-ghetto kidsに夢と希望
+ghetto kids に夢と希望
 
 現状を変えてぇんなら下より上を見ろ
 
 日本語 英語なんて関係ねぇよ
 
-ノロマは寝ろ 肌ならyellow
+ノロマは寝ろ 肌なら yellow
 
-made in JP Pablowは国内産
+made in JP Pablow は国内産
 
 言葉に責任持ってねぇラッパー共
 
@@ -154,15 +151,15 @@ made in JP Pablowは国内産
 
 お前のラップはままごと
 
-BADHOP Gangは一生絶対
+BADHOP Gang は一生絶対
 
 交じんねぇよ ネットラッパー
 
 起きて寝るまでのベッドの中
 
-你们这些家伙的HIPHOP还得多学学
+你们这些家伙的 HIPHOP 还得多学学
 
-HIPHOP就是人生
+HIPHOP 就是人生
 
 别把乱七八糟的东西混进去呐
 
@@ -172,7 +169,7 @@ HIPHOP就是人生
 
 半分玩乐心 精神和时间的房间 破坏 创造
 
-在街头学会了 HIPHOP就是生活方式
+在街头学会了 HIPHOP 就是生活方式
 
 被彻底震撼 而后深印脑海
 
@@ -192,19 +189,19 @@ start from the bottom
 
 只有心无旁骛从最下面往上爬
 
-像ANARCHY一样
+像 ANARCHY 一样
 
-带给ghetto kids梦想和希望
+带给 ghetto kids 梦想和希望
 
 想要改变现状就更要向上望 而不是向下
 
 日语、英语什么都无所谓
 
-笨蛋就睡去吧 皮肤是yellow
+笨蛋就睡去吧 皮肤是 yellow
 
-made in JP 国产Pablow
+made in JP 国产 Pablow
 
-说话不负责任的RAPPER们
+说话不负责任的 RAPPER 们
 
 可一点儿都不酷
 
@@ -212,21 +209,21 @@ made in JP 国产Pablow
 
 只在舞台上面觉得自己了不起
 
-你这家伙的RAP不过是过家家
+你这家伙的 RAP 不过是过家家
 
-BADHOP Gang绝对一辈子
+BADHOP Gang 绝对一辈子
 
-都和你们没有交集 net rapper们
+都和你们没有交集 net rapper 们
 
 从醒来到入睡你都是赖在床上
 
-俺らの音楽はLife Style
+俺らの音楽は Life Style
 
-みんなで朝までHow High
+みんなで朝まで How High
 
 新曲を聴かせる毎回
 
-仲間が言う「イケてる流してよもう1回」
+仲間が言う「イケてる流してよもう 1 回」
 
 変わらねぇ仲間と遊び方
 
@@ -236,13 +233,13 @@ I don't give a fuck
 
 変わらねぇ仲間と遊び方
 
-この音楽が1番かっこいいから
+この音楽が 1 番かっこいいから
 
 Yeah Baby
 
-我们的音乐是Life Style
+我们的音乐是 Life Style
 
-大家玩到清晨How High
+大家玩到清晨 How High
 
 每回放我们新歌
 
@@ -278,7 +275,7 @@ Yeah Baby
 
 仲間と遊んだりが大事だやっぱり
 
-上っ面じゃねぇHomie 俺らいつも通り
+上っ面じゃねぇ Homie 俺らいつも通り
 
 道場で磨く腕を 生み出すけど
 
@@ -290,9 +287,9 @@ Yeah Baby
 
 近道ないし やめるとかありえねぇし
 
-やるだけだ 仲間とballingするまでな
+やるだけだ 仲間と balling するまでな
 
-人们在车站前RAP
+人们在车站前 RAP
 
 现在成了理所当然的风景
 
@@ -302,7 +299,7 @@ Yeah Baby
 
 我们突围而出了 反过来你呢？
 
-你们这些被围在围栏里RAP着的家伙们
+你们这些被围在围栏里 RAP 着的家伙们
 
 真的是太弱了
 
@@ -312,7 +309,7 @@ Yeah Baby
 
 也是很重要的事
 
-不是表面关系我跟我Homie 我们从来不变
+不是表面关系我跟我 Homie 我们从来不变
 
 在道场磨练出功底
 
@@ -326,13 +323,13 @@ Yeah Baby
 
 只有继续努力 直到和伙伴们狂欢尽兴
 
-俺らの音楽はLife Style
+俺らの音楽は Life Style
 
-みんなで朝までHow High
+みんなで朝まで How High
 
 新曲を聴かせる毎回
 
-仲間が言う「イケてる流してよもう1回」
+仲間が言う「イケてる流してよもう 1 回」
 
 変わらねぇ仲間と遊び方
 
@@ -342,13 +339,13 @@ I don't give a fuck
 
 変わらねぇ仲間と遊び方
 
-この音楽が1番かっこいいから
+この音楽が 1 番かっこいいから
 
 Yeah Baby
 
-我们的音乐是Life Style
+我们的音乐是 Life Style
 
-大家玩到清晨How High
+大家玩到清晨 How High
 
 每回放我们新歌
 
@@ -366,21 +363,19 @@ I don’t give a fuck
 
 Yeah Baby
 
-
 ### YZEER, T-Pablow 「INK BOYZ」
 
-*Lyrics: YZEER・T-Pablow*
+_Lyrics: YZEER・T-Pablow_
 
-*Produce: Gold Digga*
+_Produce: Gold Digga_
 
 （歌词欠奉）
 
-
 ### T-Pablow, Yellow Pato 「Liberty」
 
-*Lyrics: T-Pablow・Yellow Pato*
+_Lyrics: T-Pablow・Yellow Pato_
 
-*Produce: Astro Hound*
+_Produce: Astro Hound_
 
 [Hook]
 
@@ -388,7 +383,7 @@ I know, I know まず何するべき 分かってるからもう俺なら平気
 
 できているちゃんと全てイメージ 俺らの目に
 
-Liveで仲間達とステージ上 誰も追いつくことができないほど成功
+Live で仲間達とステージ上 誰も追いつくことができないほど成功
 
 しがらみから抜けた後は一瞬の出来事だから 止まることは絶対にできない only do only do
 
@@ -396,7 +391,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 达成着的事业全都成为一幅幅画面 尽收眼底
 
-和伙伴们登上舞台Live 别人看来遥不可及的成功
+和伙伴们登上舞台 Live 别人看来遥不可及的成功
 
 冲破藩篱不过是一瞬的功夫而已 绝对无法让我们停步 only do only do
 
@@ -408,7 +403,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 綺麗に一度全てを更地に戻したい
 
-けど抜け出せないこの国のG.H.E.T.T.O
+けど抜け出せないこの国の G.H.E.T.T.O
 
 行きたい場所はどこか分かってても
 
@@ -440,7 +435,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 想把这一切干干净净夷为平地
 
-但也无法逃出这国家的G.H.E.T.T.O
+但也无法逃出这国家的 G.H.E.T.T.O
 
 尽管知道想要前往的地方
 
@@ -448,13 +443,13 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 但和埋堆儿瞎混的那时候可是真是彻底不一样
 
-觉悟后已全然感觉不到dilemma, my hood
+觉悟后已全然感觉不到 dilemma, my hood
 
 要说问题的话 不过是冰雪中的街区太过寒冷
 
 经济问题一直没变化
 
-单亲家庭 被母亲施压 愤怒出走 被Yakuza敲诈
+单亲家庭 被母亲施压 愤怒出走 被 Yakuza 敲诈
 
 想和人交流 受到垂青的话 回过神来我开始敲诈别人
 
@@ -464,15 +459,15 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 这回可没有旷课辍学那么简单
 
-还是想握着mic在舞台上有名起来
+还是想握着 mic 在舞台上有名起来
 
 [Hook]
 
- I know, I know まず何するべき 分かってるからもう俺なら平気
+I know, I know まず何するべき 分かってるからもう俺なら平気
 
 できているちゃんと全てイメージ 俺らの目に
 
-Liveで仲間達とステージ上 誰も追いつくことができないほど成功
+Live で仲間達とステージ上 誰も追いつくことができないほど成功
 
 しがらみから抜けた後は一瞬の出来事だから 止まることは絶対にできない only do only do
 
@@ -480,7 +475,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 达成着的事业全都成为一幅幅画面 尽收眼底
 
-和伙伴们登上舞台Live 别人看来遥不可及的成功
+和伙伴们登上舞台 Live 别人看来遥不可及的成功
 
 冲破藩篱不过是一瞬的功夫而已 绝对无法让我们停步 only do only do
 
@@ -556,7 +551,7 @@ I know, I know まず何するべき 分かってるからもう俺なら平気
 
 できているちゃんと全てイメージ 俺らの目に
 
-Liveで仲間達とステージ上 誰も追いつくことができないほど成功
+Live で仲間達とステージ上 誰も追いつくことができないほど成功
 
 しがらみから抜けた後は一瞬の出来事だから 止まることは絶対にできない only do only do
 
@@ -564,38 +559,33 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 达成着的事业全都成为一幅幅画面 尽收眼底
 
-和伙伴们登上舞台Live 别人看来遥不可及的成功
+和伙伴们登上舞台 Live 别人看来遥不可及的成功
 
 冲破藩篱不过是一瞬的功夫而已 绝对无法让我们停步 only do only do
 
-
-
-
 ### サイプレス上野とロベルト吉野「イントロ」
 
-![『コンドル』](https://wx1.sinaimg.cn/large/e17094f2gy1fin9qkmoyrj20dw0aldgi.jpg)
+![『コンドル』](/images/posts/e17094f2gy1fin9qkmoyrj20dw0aldgi.jpg)
 
 『コンドル』
 
-*Lyrics: サイプレス上野*
+_Lyrics: サイプレス上野_
 
-*Produce: ロベルト吉野*
+_Produce: ロベルト吉野_
 
 (歌词欠奉)
 
-
-
 ### サイプレス上野とロベルト吉野「Bay Dream ～フロム課外授業～」
 
-![『ドリーム』](https://wx3.sinaimg.cn/large/e17094f2gy1fin9tp0xffj20dw0dwqa9.jpg)
+![『ドリーム』](/images/posts/e17094f2gy1fin9tp0xffj20dw0dwqa9.jpg)
 
 『ドリーム』
 
-*Lyrics: サイプレス上野*
+_Lyrics: サイプレス上野_
 
-*Produce: LATIN QUARTER (PAN PACFIC PLAYA)*
+_Produce: LATIN QUARTER (PAN PACFIC PLAYA)_
 
-![lyrics](http://wx4.sinaimg.cn/large/620b9ac2gy1finx60ydxyj22io1w0kjl.jpg)
+![lyrics](/images/posts/620b9ac2gy1finx60ydxyj22io1w0kjl.jpg)
 
 ドリームランドの街で暮らす　ボロボロのス二—力ーラップ
 
@@ -605,17 +595,17 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 楽しいこと企む真昼間未だ発泡酒かっくらう
 
-ほろ酔いかましまずはバスと電車で向かうUPTOWN
+ほろ酔いかましまずはバスと電車で向かう UPTOWN
 
 このままでもどうにかなるけど自分でどうにかしよう
 
-動かす184045 ZZ若旦那俺が
+動かす 184045 ZZ 若旦那俺が
 
-外野でうるさいへイトすら黙らすNEXTBAYの☆(スター)
+外野でうるさいへイトすら黙らす NEXTBAY の ☆(スター)
 
 のらりくらり時には適当でゆっくり
 
-よよよ！横浜のハズレもん次を目指して　ON&ON
+よよよ！横浜のハズレもん次を目指して　 ON&ON
 
 明日は我が身な罠にはまらない為にもしないぜ神賴み
 
@@ -623,25 +613,25 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 やっぱ損得の勘定にがてだからそん時の感情にだけ
 
-身を任せるヤヴァイループの上にて ON THE 1&2 
+身を任せるヤヴァイループの上にて ON THE 1&2
 
-それ以外に何が出来る？一生なんてすぐに枯れていく 
+それ以外に何が出来る？一生なんてすぐに枯れていく
 
-ミスは笑って飛ばすタチじゃん産湯で既にズレた細値箱 
+ミスは笑って飛ばすタチじゃん産湯で既にズレた細値箱
 
-勝ちか負けか次にやって上野と吉野好きにやるぜ 
+勝ちか負けか次にやって上野と吉野好きにやるぜ
 
 良い事ある気がするんだろ？
 
-だから馬鹿な真似だけはすんなよ 
+だから馬鹿な真似だけはすんなよ
 
-世の中溢れるポイズン避けてレコードノイズに恋する 
+世の中溢れるポイズン避けてレコードノイズに恋する
 
 後はそれに乗せる本能最もな指梅ならまた今度！
 
 のらりくらり時には適当でゆっくり
 
-よよよ！横浜のハズレもん次を目指して　ON&ON
+よよよ！横浜のハズレもん次を目指して　 ON&ON
 
 明日は我が身な罠にはまらない為にもしないぜ神賴み
 
@@ -649,7 +639,7 @@ I know, I know 首先应该做些什么 已经明白了所以镇定从容
 
 のらりくらり時には適当でゆっくり
 
-よよよ！横浜のハズレもん次を目指して　ON&ON
+よよよ！横浜のハズレもん次を目指して　 ON&ON
 
 明日は我が身な罠にはまらない為にもしないぜ神賴み
 
@@ -665,39 +655,33 @@ MY FAMILY MY HOMIE MY HOOD
 
 見失ったら最後まだまだその先へ…
 
-
 (翻译欠奉)
-
-
 
 ### サイプレス上野とロベルト吉野「横浜~藤沢 酒呑みラップ feat. Deep Sawer」
 
-*Lyrics: サイプレス上野・Deep Sawer*
+_Lyrics: サイプレス上野・Deep Sawer_
 
-*Produce: やけのはら*
-
-(歌词欠奉)
-
-
-### サイプレス上野とロベルト吉野「音楽遊び feat. Shingo☆西成」
-
-*Lyrics: サイプレス上野・Shingo☆西成*
-
-*Produce: KAZZ-K*
+_Produce: やけのはら_
 
 (歌词欠奉)
 
+### サイプレス上野とロベルト吉野「音楽遊び feat. Shingo☆ 西成」
 
+_Lyrics: サイプレス上野・Shingo☆ 西成_
+
+_Produce: KAZZ-K_
+
+(歌词欠奉)
 
 ### サイプレス上野とロベルト吉野「WONDER WHEEL」
 
-![『WONDER WHEEL』](https://wx3.sinaimg.cn/large/e17094f2gy1fin9z7vcmvj20dw0cdthe.jpg)
+![『WONDER WHEEL』](/images/posts/e17094f2gy1fin9z7vcmvj20dw0cdthe.jpg)
 
 『WONDER WHEEL』
 
-*Lyrics: サイプレス上野*
+_Lyrics: サイプレス上野_
 
-*Produce: LATIN QUARTER (PAN PACFIC PLAYA)*
+_Produce: LATIN QUARTER (PAN PACFIC PLAYA)_
 
 マイクを持てば気がデカくなる
 
@@ -709,7 +693,7 @@ MY FAMILY MY HOMIE MY HOOD
 
 石からダイヤじゃ無いがリタイア以外は全乗せでライダッ！
 
-自分と引き換えに地面削るウィールのようにアツくSPIT
+自分と引き換えに地面削るウィールのようにアツく SPIT
 
 それだけなら俺も出来そう　これ以外だけは俺は適当
 
@@ -719,21 +703,21 @@ MY FAMILY MY HOMIE MY HOOD
 
 横浜のハズレがプレイグランド
 
-ソコで今日もLIFEしてる　観覧車が黙って見てる
+ソコで今日も LIFE してる　観覧車が黙って見てる
 
-WONDER WHEEL　ゆっくりでもいいよ回ってくれ
+WONDER WHEEL 　ゆっくりでもいいよ回ってくれ
 
-WONDER WHEEL　眺めが良くて高いとこへ
+WONDER WHEEL 　眺めが良くて高いとこへ
 
 時にグラリフラ驚かす　揺れては返し天に届かす
 
-WONDER WHEEL　止まる時まで俺らを乗せて
+WONDER WHEEL 　止まる時まで俺らを乗せて
 
 HEY YO！あきらめとか知らないよ
 
 またいつもの調子でぶっかまそう！
 
-KEEP MOVING　少しずつでもいい
+KEEP MOVING 　少しずつでもいい
 
 つまらねえやめとけ生きてるふり
 
@@ -747,17 +731,17 @@ KEEP MOVING　少しずつでもいい
 
 ジジイになっても心は still キッズ
 
-失敗の連続は笑い飛ばす　1回の成功で胸を張る
+失敗の連続は笑い飛ばす　 1 回の成功で胸を張る
 
 底丸見えで底なしの欲を満たすまで
 
-WONDER WHEEL　ゆっくりでもいいよ回ってくれ
+WONDER WHEEL 　ゆっくりでもいいよ回ってくれ
 
-WONDER WHEEL　眺めが良くて高いとこへ
+WONDER WHEEL 　眺めが良くて高いとこへ
 
 時にグラリフラ驚かす　揺れては返し天に届かす
 
-WONDER WHEEL　止まる時まで俺らを乗せて
+WONDER WHEEL 　止まる時まで俺らを乗せて
 
 頭駆け巡る走馬灯夢の跡なんてそんなもん
 
@@ -773,46 +757,44 @@ WONDER WHEEL　止まる時まで俺らを乗せて
 
 （翻译欠奉）
 
-
 ## 人物介绍
 
-![BAD HOP](https://wx3.sinaimg.cn/large/e17094f2gy1fina94ewmgj20yq0iyq6v.jpg)
+![BAD HOP](/images/posts/e17094f2gy1fina94ewmgj20yq0iyq6v.jpg)
 
 BAD HOP
 
-![T-PABLOW](https://wx2.sinaimg.cn/large/e17094f2gy1finaaj42cwj20no0xcq7f.jpg)
+![T-PABLOW](/images/posts/e17094f2gy1finaaj42cwj20no0xcq7f.jpg)
 
 T-PABLOW
 
-![YZERR](https://wx3.sinaimg.cn/large/e17094f2gy1finaasy0q4j20b40b4aag.jpg)
+![YZERR](/images/posts/e17094f2gy1finaasy0q4j20b40b4aag.jpg)
 
 YZERR
 
-![Tiji Jojo](https://wx1.sinaimg.cn/large/e17094f2gy1finabj1k2jj20b50b5mxd.jpg)
+![Tiji Jojo](/images/posts/e17094f2gy1finabj1k2jj20b50b5mxd.jpg)
 
 Tiji Jojo
 
-![Yellow Pato](https://wx1.sinaimg.cn/large/e17094f2gy1finac8p7fkj20dc0dcq3h.jpg)
+![Yellow Pato](/images/posts/e17094f2gy1finac8p7fkj20dc0dcq3h.jpg)
 
 Yellow Pato
 
-![サイプレス上野とロベルト吉野（Cypress Ueno & Robert Yoshino）](https://wx2.sinaimg.cn/large/e17094f2gy1finacq1uf7j20j30cp7fp.jpg)
+![サイプレス上野とロベルト吉野（Cypress Ueno & Robert Yoshino）](/images/posts/e17094f2gy1finacq1uf7j20j30cp7fp.jpg)
 
 サイプレス上野とロベルト吉野（Cypress Ueno & Robert Yoshino）
 
-![サイプレス上野](https://wx3.sinaimg.cn/large/e17094f2gy1finaetvkb1j21kw2szu0x.jpg)
+![サイプレス上野](/images/posts/e17094f2gy1finaetvkb1j21kw2szu0x.jpg)
 
 サイプレス上野
 
-
 ## 发行预告：
 
-![BAD HOP『MOBB LIFE』，9月6日发行](https://wx4.sinaimg.cn/large/e17094f2gy1findkqzjf3j20zk0zkagy.jpg)
+![BAD HOP『MOBB LIFE』，9月6日发行](/images/posts/e17094f2gy1findkqzjf3j20zk0zkagy.jpg)
 
-BAD HOP『MOBB LIFE』，9月6日发行
+BAD HOP『MOBB LIFE』，9 月 6 日发行
 
-![サイプレス上野とロベルト吉野『大海賊』，同样是9月6日发行](https://wx1.sinaimg.cn/large/e17094f2gy1findlipavcj20hs0fuwht.jpg)
+![サイプレス上野とロベルト吉野『大海賊』，同样是9月6日发行](/images/posts/e17094f2gy1findlipavcj20hs0fuwht.jpg)
 
-サイプレス上野とロベルト吉野『大海賊』，同样是9月6日发行
+サイプレス上野とロベルト吉野『大海賊』，同样是 9 月 6 日发行
 
-注：节目里随口错吧FREESTYLE DUNGEON开播时间说成了2014年底，实际应该是2015年9月，特此致歉！
+注：节目里随口错吧 FREESTYLE DUNGEON 开播时间说成了 2014 年底，实际应该是 2015 年 9 月，特此致歉！

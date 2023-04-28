@@ -3,64 +3,56 @@ date: 2017-09-01
 title: Vol. 33 我们来听新唱片......and no Hip Hop！！！！！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/33.jpg
 stream_url: https://www.lizhi.fm/1913563/2621842720157413894
 playlist: |-
-  1. Shinichi Atobe（跡部進一）「Regret」（from 3rd album『From The Heart, It's A Start, A Work Of Art』2017/05/21）
-  2. 🎙️
-  3. のん「エイリアンズ」（from digital single『エイリアンズ』2017/07/19）
-  4. 🎙️
-  5. Negicco「愛は光」（from 2nd collection『Negicco 2011～2017 -BEST- 2』2017/07/20）
-  6. 水曜日のカンパネラ「ピカソ」（from digital single『ピカソ』2017/07/28）
-  7. RYUTist「サンディー」（from 3rd album『柳都芸妓』2017/08/01）
-  8. 🎙️
-  9. 一十三十一「Varadero via L.A.」（from 9th album『ECSTASY』2017/07/19）
-  10. ナツ・サマー「ふたりが隣にいること」（from 1st album『Hello, future day』2017/07/05）
-  11. 🎙️
-  12. 3776「見えない《LINK MIX》Case of イトウヨシノリ」（from 1st Mix EP of season#4『公開実験《LINK MIX》』2017/08/28）
-  13. ・・・・・・・・・「ねぇ」（from 2nd single『CD』2017/08/16）
+    1. Shinichi Atobe（跡部進一）「Regret」（from 3rd album『From The Heart, It's A Start, A Work Of Art』2017/05/21）
+    2. 🎙️
+    3. のん「エイリアンズ」（from digital single『エイリアンズ』2017/07/19）
+    4. 🎙️
+    5. Negicco「愛は光」（from 2nd collection『Negicco 2011～2017 -BEST- 2』2017/07/20）
+    6. 水曜日のカンパネラ「ピカソ」（from digital single『ピカソ』2017/07/28）
+    7. RYUTist「サンディー」（from 3rd album『柳都芸妓』2017/08/01）
+    8. 🎙️
+    9. 一十三十一「Varadero via L.A.」（from 9th album『ECSTASY』2017/07/19）
+    10. ナツ・サマー「ふたりが隣にいること」（from 1st album『Hello, future day』2017/07/05）
+    11. 🎙️
+    12. 3776「見えない《LINK MIX》Case of イトウヨシノリ」（from 1st Mix EP of season#4『公開実験《LINK MIX》』2017/08/28）
+    13. ・・・・・・・・・「ねぇ」（from 2nd single『CD』2017/08/16）
 
 albums: |-
-  * [「From The Heart, It's A Start, A Work Of Art」](https://itunes.apple.com/us/album/from-the-heart-its-a-start-a-work-of-art/id1242586070)
-  * [「エイリアンズ」](http://ototoy.jp/_/default/p/77748)
-  * [「愛は光」](https://itunes.apple.com/jp/album/愛は光-single/id1254357570)
-  * [「ピカソ」](http://ototoy.jp/_/default/p/77687)
-  * [「ECSTASY」](https://itunes.apple.com/jp/album/ecstasy/id1252972172)
-  * [「Hello, future day」](http://ototoy.jp/_/default/p/76222)
-  * [「公開実験《LINK MIX》」](http://ototoy.jp/_/default/p/80210)
-  * [「しゅわしゅわEP」](http://ototoy.jp/_/default/p/70039)
-
+    * [「From The Heart, It's A Start, A Work Of Art」](https://itunes.apple.com/us/album/from-the-heart-its-a-start-a-work-of-art/id1242586070)
+    * [「エイリアンズ」](http://ototoy.jp/_/default/p/77748)
+    * [「愛は光」](https://itunes.apple.com/jp/album/愛は光-single/id1254357570)
+    * [「ピカソ」](http://ototoy.jp/_/default/p/77687)
+    * [「ECSTASY」](https://itunes.apple.com/jp/album/ecstasy/id1252972172)
+    * [「Hello, future day」](http://ototoy.jp/_/default/p/76222)
+    * [「公開実験《LINK MIX》」](http://ototoy.jp/_/default/p/80210)
+    * [「しゅわしゅわEP」](http://ototoy.jp/_/default/p/70039)
 ---
 
 <!-- hide excerpt -->
 
-![『NOW that's what I call SUBJPOP, Vol.7』](https://wx2.sinaimg.cn/large/e17094f2gy1fj3lb9hm1nj20dw0dwtcy.jpg)
+![『NOW that's what I call SUBJPOP, Vol.7』](/images/posts/e17094f2gy1fj3lb9hm1nj20dw0dwtcy.jpg)
 
 『NOW that's what I call SUBJPOP, Vol.7』
 
-
 ## 歌词
-
-
 
 ### Shinichi Atobe「Regret」
 
-![『From The Heart, It's A Start, A Work Of Art』](https://wx2.sinaimg.cn/large/e17094f2gy1fj3lcvfwgjj20dw0dwjw4.jpg)
+![『From The Heart, It's A Start, A Work Of Art』](/images/posts/e17094f2gy1fj3lcvfwgjj20dw0dwjw4.jpg)
 
-*作曲／编曲：Shinichi Atobe（跡部進一）*
-
-
-
-
+_作曲／编曲：Shinichi Atobe（跡部進一）_
 
 ### のん（能年玲奈）「エイリアンズ（Aliens）」
 
-![『エイリアンズ』](https://wx1.sinaimg.cn/large/e17094f2gy1fj3le789edj20dw0dwq6m.jpg)
+![『エイリアンズ』](/images/posts/e17094f2gy1fj3le789edj20dw0dwq6m.jpg)
 
 『エイリアンズ』
 
-*作词／作曲：堀込泰行*
+_作词／作曲：堀込泰行_
 
 遥か空に旅客機　音もなく
 
@@ -206,17 +198,15 @@ albums: |-
 
 我最喜欢的外星人 你明白吗
 
-
-
 ### Negicco「愛は光」
 
-![『Negicco 2011～2017 -BEST- 2』](https://wx3.sinaimg.cn/large/e17094f2gy1fj3lhd5y7nj20dw0dw7c3.jpg)
+![『Negicco 2011～2017 -BEST- 2』](/images/posts/e17094f2gy1fj3lhd5y7nj20dw0dw7c3.jpg)
 
-『Negicco 2011～2017 -BEST- 2』
+『Negicco 2011 ～ 2017 -BEST- 2』
 
-*作词／作曲：堀込高樹*
+_作词／作曲：堀込高樹_
 
-*编曲：キリンジ（KIRINJI）*
+_编曲：キリンジ（KIRINJI）_
 
 この舞台から 臨むフロアは
 
@@ -342,15 +332,13 @@ albums: |-
 
 直到燃烧殆尽
 
-
-
 ### 水曜日のカンパネラ「ピカソ（Picasso）」
 
-![『ピカソ』](https://wx1.sinaimg.cn/large/e17094f2gy1fj3ll5d4awj20dw0dwtgh.jpg)
+![『ピカソ』](/images/posts/e17094f2gy1fj3ll5d4awj20dw0dwtgh.jpg)
 
 『ピカソ』
 
-*作词／作曲／编曲：Kenmochi Hidefumi*
+_作词／作曲／编曲：Kenmochi Hidefumi_
 
 カタルーニャで君語る合うなら
 
@@ -488,21 +476,17 @@ albums: |-
 
 (x2)
 
-
-
-
-
 ### RYUTist「サンディー」
 
-![『柳都芸妓』](https://wx4.sinaimg.cn/large/e17094f2gy1fj3lnrowejj20dw0dwaje.jpg)
+![『柳都芸妓』](/images/posts/e17094f2gy1fj3lnrowejj20dw0dwaje.jpg)
 
 『柳都芸妓』
 
 **SANDY**
 
-*作词：伴大久*
+_作词：伴大久_
 
-*作曲／编曲：鈴木恵*
+_作曲／编曲：鈴木恵_
 
 きらめく波キラキラ　(きらめく波キララ)
 
@@ -602,32 +586,27 @@ Thank you for your Smile
 
 也能静静地 听到远处传来的波涛声
 
-
-
-
 ### 一十三十一「Varadero via L.A.」
 
-![『ECSTASY』](https://wx1.sinaimg.cn/large/e17094f2gy1fj3ltwn1jxj20dw0dwgrb.jpg)
+![『ECSTASY』](/images/posts/e17094f2gy1fj3ltwn1jxj20dw0dwgrb.jpg)
 
 『ECSTASY』
 
-*作词：一十三十一*
+_作词：一十三十一_
 
-*作曲／编曲：ドリアン（Dorian）*
+_作曲／编曲：ドリアン（Dorian）_
 
 （歌词暂无）
 
-
-
 ### ナツ・サマー「ふたりが隣にいること」
 
-![『Hello, future day』](https://wx2.sinaimg.cn/large/e17094f2gy1fj3lxh6k0lj20dw0dwdii.jpg)
+![『Hello, future day』](/images/posts/e17094f2gy1fj3lxh6k0lj20dw0dwdii.jpg)
 
 『Hello, future day』
 
 **夏・SUMMER「两个人在彼此身旁」**
 
-*作词／作曲／编曲：流線型（クニモンド滝口）*
+_作词／作曲／编曲：流線型（クニモンド滝口）_
 
 よく晴れた午後に
 
@@ -705,33 +684,29 @@ Thank you for your Smile
 
 现在只是在彼此身旁 便毫无缘由地感到欣喜
 
-
-
 ### 3776「見えない《LINK MIX》Case of イトウヨシノリ」
 
-![『公開実験《LINK MIX》』](https://wx1.sinaimg.cn/large/e17094f2gy1fj3m33hf8sj20dw0dwtfp.jpg)
+![『公開実験《LINK MIX》』](/images/posts/e17094f2gy1fj3m33hf8sj20dw0dwtfp.jpg)
 
 『公開実験《LINK MIX》』
 
-*作词／作曲：石田彰*
+_作词／作曲：石田彰_
 
-*编曲：石田彰・イトウヨシノリ*
+_编曲：石田彰・イトウヨシノリ_
 
 （歌词暂无）
 
-
-
 ### ・・・・・・・・・「ねぇ」
 
-![『CD』](https://wx3.sinaimg.cn/large/e17094f2gy1fj3m4mjsh9j20dw0dy41j.jpg)
+![『CD』](/images/posts/e17094f2gy1fj3m4mjsh9j20dw0dy41j.jpg)
 
 『CD』
 
 **喂**
 
-*作词：ジム・岡田彩香*
+_作词：ジム・岡田彩香_
 
-*作曲：みきれちゃん・岡田彩香*
+_作曲：みきれちゃん・岡田彩香_
 
 ねぇ あの日のメロディ
 
@@ -917,46 +892,44 @@ Thank you for your Smile
 
 闭上双眼
 
-
-
 ## 人物介绍
 
-![Shinichi Atobe（跡部進一）](https://wx1.sinaimg.cn/large/e17094f2gy1fj3n04g2c4j20go0b20te.jpg)
+![Shinichi Atobe（跡部進一）](/images/posts/e17094f2gy1fj3n04g2c4j20go0b20te.jpg)
 
 Shinichi Atobe（跡部進一）
 
-![のん（能年玲奈）](https://wx4.sinaimg.cn/large/e17094f2gy1fj3n0etsl1j20u00u0mys.jpg)
+![のん（能年玲奈）](/images/posts/e17094f2gy1fj3n0etsl1j20u00u0mys.jpg)
 
 のん（能年玲奈）
 
-![Negicco](https://wx1.sinaimg.cn/large/e17094f2gy1fj3n0pvhsqj215o0rste7.jpg)
+![Negicco](/images/posts/e17094f2gy1fj3n0pvhsqj215o0rste7.jpg)
 
 Negicco
 
-![KOM_I from 水曜日のカンパネラ](https://wx4.sinaimg.cn/large/e17094f2gy1fj3n10phu2j20u00u0wkx.jpg)
+![KOM_I from 水曜日のカンパネラ](/images/posts/e17094f2gy1fj3n10phu2j20u00u0wkx.jpg)
 
 KOM_I from 水曜日のカンパネラ
 
-![RYUTist](https://wx3.sinaimg.cn/large/e17094f2gy1fj3n1e41g9j20sg0jvwi7.jpg)
+![RYUTist](/images/posts/e17094f2gy1fj3n1e41g9j20sg0jvwi7.jpg)
 
 RYUTist
 
-![一十三十一（天野一十三）](https://wx3.sinaimg.cn/large/e17094f2gy1fj3n1my78kj20xc0p0juo.jpg)
+![一十三十一（天野一十三）](/images/posts/e17094f2gy1fj3n1my78kj20xc0p0juo.jpg)
 
 一十三十一（天野一十三）
 
-![ナツ・サマー（Natsu Summer）](https://wx3.sinaimg.cn/large/e17094f2gy1fj3n2iopl1j20wm0xcwhg.jpg)
+![ナツ・サマー（Natsu Summer）](/images/posts/e17094f2gy1fj3n2iopl1j20wm0xcwhg.jpg)
 
 ナツ・サマー（Natsu Summer）
 
-![3776 静冈（井出Chiyono）](https://wx2.sinaimg.cn/large/e17094f2gy1fj3n319vxbj20m80xcdit.jpg)
+![3776 静冈（井出Chiyono）](/images/posts/e17094f2gy1fj3n319vxbj20m80xcdit.jpg)
 
-3776 静冈（井出Chiyono）
+3776 静冈（井出 Chiyono）
 
-![3776 山梨（広瀬愛菜）](https://wx4.sinaimg.cn/large/e17094f2gy1fj3n3zq3pdj20xc0m80xb.jpg)
+![3776 山梨（広瀬愛菜）](/images/posts/e17094f2gy1fj3n3zq3pdj20xc0m80xb.jpg)
 
 3776 山梨（広瀬愛菜）
 
-![・・・・・・・・・（dotstokyo）](https://wx4.sinaimg.cn/large/e17094f2gy1fj3n4llqd1j20xc0nt415.jpg)
+![・・・・・・・・・（dotstokyo）](/images/posts/e17094f2gy1fj3n4llqd1j20xc0nt415.jpg)
 
 [・・・・・・・・・（dotstokyo）](https://twitter.com/dotstokyo)

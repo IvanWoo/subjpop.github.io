@@ -3,7 +3,7 @@ date: 2017-03-03
 title: Vol. 22 我们来听新唱片！！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/22.jpg
 stream_url: http://www.lizhi.fm/1913563/2588242553198892550
 playlist: |-
@@ -20,38 +20,35 @@ playlist: |-
     11. 🎙️
     12. 電気グルーヴ「 柿の木坂」（from album『TROPICAL LOVE』2017/03/01）
 albums: |-
-  * [「SSWB」](http://ototoy.jp/_/default/p/69914)
-  * [「俺でいいのかい」](https://itunes.apple.com/jp/album/俺でいいのかい-港カヲル-歌いすぎる/id1194844655)
-  * [「嘘と煩悩」](https://itunes.apple.com/jp/album/uso-to-bonno/id1193491946)
-  * [「A New Misunderstanding」](https://itunes.apple.com/jp/album/a-new-misunderstanding/id1172703449)
-  * [「HIKARI」](https://itunes.apple.com/jp/album/hikari/id1200444348)
-  * [「夜間飛行」](https://soundcloud.com/sora-tob-sakana/qn2tmcpcrnaq)
-  * [「faithlessness」](http://ototoy.jp/_/default/p/70885)
-  * [「TROPICAL LOVE」](https://itunes.apple.com/jp/album/tropical-love/id1206765026)
+    * [「SSWB」](http://ototoy.jp/_/default/p/69914)
+    * [「俺でいいのかい」](https://itunes.apple.com/jp/album/俺でいいのかい-港カヲル-歌いすぎる/id1194844655)
+    * [「嘘と煩悩」](https://itunes.apple.com/jp/album/uso-to-bonno/id1193491946)
+    * [「A New Misunderstanding」](https://itunes.apple.com/jp/album/a-new-misunderstanding/id1172703449)
+    * [「HIKARI」](https://itunes.apple.com/jp/album/hikari/id1200444348)
+    * [「夜間飛行」](https://soundcloud.com/sora-tob-sakana/qn2tmcpcrnaq)
+    * [「faithlessness」](http://ototoy.jp/_/default/p/70885)
+    * [「TROPICAL LOVE」](https://itunes.apple.com/jp/album/tropical-love/id1206765026)
 ---
 
 <!-- hide excerpt -->
 
-
 ## 歌词
 
-
-
 ### D.A.N.「SSWB」
-![img](http://wx2.sinaimg.cn/large/e17094f2gy1fd97zrzkxcj20dw0dwjxi.jpg)
+
+![img](/images/posts/e17094f2gy1fd97zrzkxcj20dw0dwjxi.jpg)
 
 歌词及翻译暂时欠奉
 
-
-
 ### 港カヲル（グループ魂）「俺でいいのかい」
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fd98273t6qj20dw0dtmyu.jpg)
+
+![img](/images/posts/e17094f2gy1fd98273t6qj20dw0dtmyu.jpg)
 
 **我的话，可以吗？**
 
-*作詞・作曲：宮藤官九郎*
+_作詞・作曲：宮藤官九郎_
 
-*編曲：益田トッシュ*
+_編曲：益田トッシュ_
 
 俺でいいのかい
 
@@ -181,16 +178,13 @@ albums: |-
 
 「欢迎来到港薰的世界」
 
-
-
-
-
 ### KREVA 「嘘と煩悩」
-![img](http://wx2.sinaimg.cn/large/e17094f2gy1fd986dmraaj20dw0dx0vf.jpg)
+
+![img](/images/posts/e17094f2gy1fd986dmraaj20dw0dx0vf.jpg)
 
 **谎言与烦恼**
 
-*作詞・作曲・編曲：KREVA*
+_作詞・作曲・編曲：KREVA_
 
 誰？
 
@@ -244,7 +238,7 @@ Dr. K
 
 言い出したいのに　ただ　黙ってる
 
-1つ2つ3つ　なんかサバ読んで
+1 つ 2 つ 3 つ　なんかサバ読んで
 
 呑みたくないのに　また呑んでる
 
@@ -328,13 +322,13 @@ Dr. K
 
 谎言与烦恼，谎言与烦恼，wowwow
 
-嘘　800
+嘘　 800
 
-煩悩　108
+煩悩　 108
 
-合計　908
+合計　 908
 
-908　は無くならない
+908 　は無くならない
 
 谎言，800
 
@@ -344,13 +338,13 @@ Dr. K
 
 908，是不会归零的
 
-嘘　800
+嘘　 800
 
-煩悩　108
+煩悩　 108
 
-合計　908
+合計　 908
 
-908　は無くならない
+908 　は無くならない
 
 谎言，800
 
@@ -488,13 +482,13 @@ Dr. K
 
 谎言与烦恼，谎言与烦恼，wowwow
 
-嘘　800
+嘘　 800
 
-煩悩　108
+煩悩　 108
 
-合計　908
+合計　 908
 
-908　は無くならない
+908 　は無くならない
 
 谎言，800
 
@@ -504,13 +498,13 @@ Dr. K
 
 908，是不会归零的
 
-嘘　800
+嘘　 800
 
-煩悩　108
+煩悩　 108
 
-合計　908
+合計　 908
 
-908　は無くならない
+908 　は無くならない
 
 谎言，800
 
@@ -527,35 +521,30 @@ Dr. K
 谎言与烦恼，谎言与烦恼
 
 谎言与烦恼，谎言与烦恼
-
-
 
 ### p1 a.k.a. 2g x 呂布カルマ「生まれては死んでいく赤道直下の赤ん坊みたいに」
-![img](http://wx1.sinaimg.cn/large/e17094f2gy1fd986xvnyij20dw0c1tgr.jpg)
+
+![img](/images/posts/e17094f2gy1fd986xvnyij20dw0c1tgr.jpg)
 
 **一生下来就逐渐死去就像赤道上的国家里的婴儿那样**
 
-*作詞：呂布カルマ*
+_作詞：呂布カルマ_
 
-*編曲：p1 a.k.a. 2g*
+_編曲：p1 a.k.a. 2g_
 
 歌词及翻译暂时欠奉
-
-
-
 
 ### JJJ「PLACE TO GO」
-![img](http://wx2.sinaimg.cn/large/e17094f2gy1fd988wj4moj20dw0dw0ys.jpg)
+
+![img](/images/posts/e17094f2gy1fd988wj4moj20dw0dw0ys.jpg)
 
 歌词及翻译暂时欠奉
 
-
-
-
 ### sora tob sakana 「夜間飛行」 / 夜航
-![img](http://wx3.sinaimg.cn/large/e17094f2gy1fd989m1kcxj20dw0dw3z3.jpg)
 
-*作詞・作曲・編曲：照井顺政*
+![img](/images/posts/e17094f2gy1fd989m1kcxj20dw0dw3z3.jpg)
+
+_作詞・作曲・編曲：照井顺政_
 
 そして私の書きかけだった手紙の
 
@@ -589,21 +578,21 @@ Dr. K
 
 物静かなあの子
 
-ラジオが好きなあの人　
+ラジオが好きなあの人
 
-映画の話すると　　　
+映画の話すると
 
 止まらない友達
 
-大好きだったあなたや　
+大好きだったあなたや
 
-少し苦手なあの子　　　
+少し苦手なあの子
 
-扉の鍵はいつも　　　　
+扉の鍵はいつも
 
 私が持っている
 
-街の灯り　　　　
+街の灯り
 
 映し出した
 
@@ -627,17 +616,15 @@ Dr. K
 
 翻译暂时欠奉
 
-
-
-
 ### Maison book girl「faithlessness」
-![img](http://wx2.sinaimg.cn/large/e17094f2gy1fd98b0od74j20dw0g4ah1.jpg)
 
-*作詞・作曲・編曲：サクライケンタ（樱井健太）*
+![img](/images/posts/e17094f2gy1fd98b0od74j20dw0g4ah1.jpg)
+
+_作詞・作曲・編曲：サクライケンタ（樱井健太）_
 
 僕らは罪悪感の中で
 
-2度目の朝はゆるされなかった
+2 度目の朝はゆるされなかった
 
 窓から同じ景色を見てた
 
@@ -691,15 +678,13 @@ Dr. K
 
 本期欠奉太多，实在不好意思，真的很忙
 
-
-
-
 ### 電気グルーヴ「柿の木坂」
-![img](http://wx1.sinaimg.cn/large/e17094f2gy1fd98bq2g5zj20dw0dswjy.jpg)
 
-**电气GROOVE「柿子树的坡」**
+![img](/images/posts/e17094f2gy1fd98bq2g5zj20dw0dswjy.jpg)
 
-*作詞・作曲・編曲：石野卓球*
+**电气 GROOVE「柿子树的坡」**
+
+_作詞・作曲・編曲：石野卓球_
 
 金色に染まってきた
 
@@ -751,34 +736,34 @@ Dr. K
 
 ## 人物介绍
 
-![D.A.N.](http://wx1.sinaimg.cn/large/e17094f2gy1fd98db49qoj20jg0d1q75.jpg)
+![D.A.N.](/images/posts/e17094f2gy1fd98db49qoj20jg0d1q75.jpg)
 
 D.A.N.
 
-![港カヲル＋グループ魂](http://wx3.sinaimg.cn/large/e17094f2gy1fd98evzqjij20ka0daq6q.jpg)
+![港カヲル＋グループ魂](/images/posts/e17094f2gy1fd98evzqjij20ka0daq6q.jpg)
 
 港カヲル＋グループ魂
 
-![KREVA](http://wx1.sinaimg.cn/large/e17094f2gy1fd98fw5az2j20hs0b4jte.jpg)
+![KREVA](/images/posts/e17094f2gy1fd98fw5az2j20hs0b4jte.jpg)
 
 KREVA
 
-![p1 a.k.a. 2g & 呂布カルマ](http://wx4.sinaimg.cn/large/e17094f2gy1fd98h8ovuqj21kw11ye88.jpg)
+![p1 a.k.a. 2g & 呂布カルマ](/images/posts/e17094f2gy1fd98h8ovuqj21kw11ye88.jpg)
 
 p1 a.k.a. 2g & 呂布カルマ
 
-![JJJ (Fla$hBackS)](http://wx4.sinaimg.cn/large/e17094f2gy1fd98i3h80nj20k00damyr.jpg)
+![JJJ (Fla$hBackS)](/images/posts/e17094f2gy1fd98i3h80nj20k00damyr.jpg)
 
 JJJ (Fla$hBackS)
 
-![sora tob sakana](http://wx3.sinaimg.cn/large/e17094f2gy1fd98j4anytj20qr0hudgk.jpg)
+![sora tob sakana](/images/posts/e17094f2gy1fd98j4anytj20qr0hudgk.jpg)
 
 sora tob sakana
 
-![Maison book girl](http://wx4.sinaimg.cn/large/e17094f2gy1fd98kwlspgj20xc0ku3zt.jpg)
+![Maison book girl](/images/posts/e17094f2gy1fd98kwlspgj20xc0ku3zt.jpg)
 
 Maison book girl
 
-![電気グルーヴ](http://wx3.sinaimg.cn/large/e17094f2gy1fd98met2d5j20xc0m841j.jpg)
+![電気グルーヴ](/images/posts/e17094f2gy1fd98met2d5j20xc0m841j.jpg)
 
 電気グルーヴ

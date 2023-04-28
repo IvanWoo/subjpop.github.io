@@ -3,55 +3,51 @@ date: 2017-09-22
 title: "Vol. 34 日式嘻哈地下城・FREESTYLE DUNGEON: MONSTER篇 III"
 dj: mimida
 categories:
-  - J-Hip hop
+    - J-Hip hop
 featured_image: /images/banners/34.jpg
 stream_url: https://www.lizhi.fm/1913563/2624027675254166022
 playlist: |-
-  1. ACE「朧月〜三つ巴〜 feat. R-指定, 輪入道」（from 1st album『STRAIGHT』2015/09/23）
-  2. DJ Krush「若輩 feat. R-指定」（from 1st rap album『軌跡』2017/06/07）
-  3. 🎙️
-  4. Creepy Nuts「みんなちがって、みんないい。」（from 1st mini album『たりないふたり』2016/01/20）
-  5. Creepy Nuts「未来予想図」（from 2nd mini album『助演男優賞』2017/02/01）
-  6. 🎙️
-  7. DOTAMA「神さまになった少年」（from rap sci-fi novel album『ホーリーランド』2011/01/19）
-  8. DOTAMA「音楽ワルキューレ 2」（from 2nd album『ニューアルバム』2015/08/12
-  9. 🎙️
-  10. Jinmenusagi「Silence Of The Goatz feat. DOTAMA」（from 2nd album『ME2!』2013/01/16）
-  11. DOTAMA「こんなぶっ壊れた国で」（from 2nd album『ニューアルバム』2015/08/12）
+    1. ACE「朧月〜三つ巴〜 feat. R-指定, 輪入道」（from 1st album『STRAIGHT』2015/09/23）
+    2. DJ Krush「若輩 feat. R-指定」（from 1st rap album『軌跡』2017/06/07）
+    3. 🎙️
+    4. Creepy Nuts「みんなちがって、みんないい。」（from 1st mini album『たりないふたり』2016/01/20）
+    5. Creepy Nuts「未来予想図」（from 2nd mini album『助演男優賞』2017/02/01）
+    6. 🎙️
+    7. DOTAMA「神さまになった少年」（from rap sci-fi novel album『ホーリーランド』2011/01/19）
+    8. DOTAMA「音楽ワルキューレ 2」（from 2nd album『ニューアルバム』2015/08/12
+    9. 🎙️
+    10. Jinmenusagi「Silence Of The Goatz feat. DOTAMA」（from 2nd album『ME2!』2013/01/16）
+    11. DOTAMA「こんなぶっ壊れた国で」（from 2nd album『ニューアルバム』2015/08/12）
 
 albums: |-
-  * [「STRAIGHT」](http://ototoy.jp/_/default/p/57458)
-  * [「軌跡」](http://ototoy.jp/_/default/p/75763)
-  * [「たりないふたり」](http://ototoy.jp/_/default/p/59038)
-  * [「助演男優賞」](http://ototoy.jp/_/default/p/79362)
-  * [「ホーリーランド」](http://ototoy.jp/_/default/p/17548)
-  * [「ニューアルバム」](http://ototoy.jp/_/default/p/54503)
-  * [「ME2!」](http://ototoy.jp/_/default/p/32063)
-
+    * [「STRAIGHT」](http://ototoy.jp/_/default/p/57458)
+    * [「軌跡」](http://ototoy.jp/_/default/p/75763)
+    * [「たりないふたり」](http://ototoy.jp/_/default/p/59038)
+    * [「助演男優賞」](http://ototoy.jp/_/default/p/79362)
+    * [「ホーリーランド」](http://ototoy.jp/_/default/p/17548)
+    * [「ニューアルバム」](http://ototoy.jp/_/default/p/54503)
+    * [「ME2!」](http://ototoy.jp/_/default/p/32063)
 ---
 
 <!-- hide excerpt -->
 
-
-![FREESTYLE MONSTERS by Dmen Watanabe](https://wx4.sinaimg.cn/large/e17094f2gy1fjfxn1ztktj20x30x3qq6.jpg)
+![FREESTYLE MONSTERS by Dmen Watanabe](/images/posts/e17094f2gy1fjfxn1ztktj20x30x3qq6.jpg)
 
 FREESTYLE MONSTERS by Dmen Watanabe
 
-
 ## 歌词及翻译
-
 
 ### ACE「朧月〜三つ巴〜 feat. R-指定, 輪入道」
 
-![『STRAIGHT』](https://wx3.sinaimg.cn/large/e17094f2gy1fjf7ilh1hpj20dw0dw7ge.jpg)
+![『STRAIGHT』](/images/posts/e17094f2gy1fjf7ilh1hpj20dw0dw7ge.jpg)
 
 『STRAIGHT』
 
 **月色朦胧 三足鼎立**
 
-*Lyrics：ACE・R-指定・輪入道*
+_Lyrics：ACE・R-指定・輪入道_
 
-*Track：遊時*
+_Track：遊時_
 
 2015 滑走路は見えないまで
 
@@ -101,9 +97,9 @@ FREESTYLE MONSTERS by Dmen Watanabe
 
 星との景色を拝ませてくれ 一目でもいい
 
-キャンパスはA4 シャープの0.5
+キャンパスは A4 シャープの 0.5
 
-shureの58 理論武装は誰とだってええよ
+shure の 58 理論武装は誰とだってええよ
 
 平々凡々なそんな青年の主張は
 
@@ -203,7 +199,7 @@ shureの58 理論武装は誰とだってええよ
 
 命令じゃねぇぜ その手で解放
 
-戦線布告する己とのfight
+戦線布告する己との fight
 
 経験したなら全部が財宝
 
@@ -211,62 +207,55 @@ shureの58 理論武装は誰とだってええよ
 
 （翻译暂无）
 
-
-
-
 ### DJ Krush「若輩 feat. R-指定」
 
-![『軌跡』](https://wx1.sinaimg.cn/large/e17094f2gy1fjf7kgcffzj20dw0dw7f0.jpg)
+![『軌跡』](/images/posts/e17094f2gy1fjf7kgcffzj20dw0dw7f0.jpg)
 
 『軌跡』
 
 **年青一代**
 
-*Lyrics：R-指定*
+_Lyrics：R-指定_
 
-*Track：DJ Krush*
+_Track：DJ Krush_
 
 （歌词暂无）
 
-
-
-
-
 ### Creepy Nuts「みんなちがって、みんないい。」
 
-![『たりないふたり』](https://wx1.sinaimg.cn/large/e17094f2gy1fjf7ktwypwj20dw0dw0x6.jpg)
+![『たりないふたり』](/images/posts/e17094f2gy1fjf7ktwypwj20dw0dw0x6.jpg)
 
 『たりないふたり』
 
 **大家都不同，大家都牛逼。**
 
-*Lyrics：R-指定*
+_Lyrics：R-指定_
 
-*Track：DJ 松永*
+_Track：DJ 松永_
 
 How many MC How many MC...
 
 みんなちがって、みんないい（そのとおーり）
 
-俺はMC 有能なYoung MC You know? 勇猛果敢な手口
+俺は MC 有能な Young MC You know? 勇猛果敢な手口
 
 フリースタイルサイファーで練習してるし バトルの動画漁る研究熱心
 
-七、八文字くらいビシバシ語尾合わせる 駆け上がるSuccess story
+七、八文字くらいビシバシ語尾合わせる 駆け上がる Success story
 
-見てみなこんなflowも適当にできるぜ 俺がみんなぶっ殺して完全勝利
+見てみなこんな flow も適当にできるぜ 俺がみんなぶっ殺して完全勝利
 
 How many MC How many MC...
 
 大家都不同，大家都牛逼（说得没错）
 
-我是MC 能力超强Young MC You know？手段勇猛果敢
+我是 MC 能力超强 Young MC You know？手段勇猛果敢
 
-不光是在freestyle cypher练习 Battle视频搜索钻研也热心
+不光是在 freestyle cypher 练习 Battle 视频搜索钻研也热心
 
-七八个词连起来的句尾完美押韵 每天往上爬Success story
+七八个词连起来的句尾完美押韵 每天往上爬 Success story
 
-你看就现在这flow我也随便脱口而出 把其他人全部干掉我会取得胜利
+你看就现在这 flow 我也随便脱口而出 把其他人全部干掉我会取得胜利
 
 はぁ〜コイツなんも分かってない 全然ストリートに立ってない
 
@@ -274,13 +263,13 @@ How many MC How many MC...
 
 バイブス足りない スケート乗らないバイナル掘らない
 
-チケット売らない 葉っぱ吸わない Classicかかっても頭振らない
+チケット売らない 葉っぱ吸わない Classic かかっても頭振らない
 
 哈〜你看这家伙根本就什么都不懂 从来没在街上混过
 
-现场也见不着人 就算battle赢了 打架他也没戏
+现场也见不着人 就算 battle 赢了 打架他也没戏
 
-Vibes完全不行 跟不上感觉 对不上拍子
+Vibes 完全不行 跟不上感觉 对不上拍子
 
 不去找熟人卖票 叶子也不吸 放上经典曲目也不跟着把头晃起来
 
@@ -288,9 +277,9 @@ Vibes完全不行 跟不上感觉 对不上拍子
 
 大丈夫 俺の言う通りやってたら間違いない
 
-ちなみに今週のイベントノルマ50枚な 後輩も皆呼べよ
+ちなみに今週のイベントノルマ 50 枚な 後輩も皆呼べよ
 
-俺の背中見とけよ ほんでhoodは大切にせぇよ 
+俺の背中見とけよ ほんで hood は大切にせぇよ
 
 あと先輩にはちゃんと挨拶せぇよ
 
@@ -298,9 +287,9 @@ Vibes完全不行 跟不上感觉 对不上拍子
 
 没关系的 照我说的来做肯定不会错
 
-另外这周的活动也要拉来50人（是！） 把小弟们都叫上（是！）
+另外这周的活动也要拉来 50 人（是！） 把小弟们都叫上（是！）
 
-紧跟着我背后（是！） 像这样照看好咱hood（好有型！）
+紧跟着我背后（是！） 像这样照看好咱 hood（好有型！）
 
 然后还要好好跟前辈们打招呼唷
 
@@ -308,65 +297,65 @@ fucked up そんなしがらみ 俺にはそんなモンはいらない
 
 フリースタイルやバトルの現場の上下関係とかマジでダサい
 
-FreeのMix Tape 動画もUP フレッシュなremixでkill かっさらうProps
+Free の Mix Tape 動画も UP フレッシュな remix で kill かっさらう Props
 
-日本語落としこむUSなフロー
+日本語落としこむ US なフロー
 
 fucked up！！这些个条条框框 我才不管你那么多
 
-Freestyle battle的世界根本不存在他妈上下级关系
+Freestyle battle 的世界根本不存在他妈上下级关系
 
-免费的Mix Tape 视频也网上up 用fresh的remix来kill 一把拉过props
+免费的 Mix Tape 视频也网上 up 用 fresh 的 remix 来 kill 一把拉过 props
 
-用日语攻克US的flow
+用日语攻克 US 的 flow
 
 ほら やっぱ若手はまだそういうとこ 甘いから教える大人の勝ち方
 
-月一ペースで 出さなきゃMix Tape remixならリリース日に 速さが命です
+月一ペースで 出さなきゃ Mix Tape remix ならリリース日に 速さが命です
 
-知名度無いならDis曲書け バトルもネットの上じゃ怖くない
+知名度無いなら Dis 曲書け バトルもネットの上じゃ怖くない
 
 日本のシーンは遅れてるからムーブメントで火をつける 小物に噛みつきゃ 怒られない
 
 你瞧 小年轻到底也就不过如此 太天真所以我来教你
 
-成年人的战术一定要以月为单位发Mix Tape remix的话最要关键就是出品要快速
+成年人的战术一定要以月为单位发 Mix Tape remix 的话最要关键就是出品要快速
 
-没人认识就写歌Dis有名的家伙 反正battle也是在网上根本没啥好怕的
+没人认识就写歌 Dis 有名的家伙 反正 battle 也是在网上根本没啥好怕的
 
 日本圈子发展太慢就在活动上煽风点火 被小人物咬到就算了心平气和
 
-行くよ〜 アタシ女の子だけどMC 結構人気
+行くよ〜 アタシ女の子だけど MC 結構人気
 
 男ばかりの縦社会じゃ特別扱い yo
 
 韻とかフローとか分からない ダンスも歌も無理
 
-でも若さとキャラでそれなりに NewEra二割増し YEAH
+でも若さとキャラでそれなりに NewEra 二割増し YEAH
 
-要开始了喔〜 人家虽然是女孩子但也是MC 还挺有人气
+要开始了喔〜 人家虽然是女孩子但也是 MC 还挺有人气
 
 在全是男人的阶级社会里特别受关照 yo
 
-韵律啊flow啊什么的一概不懂 dance和演唱也业余
+韵律啊 flow 啊什么的一概不懂 dance 和演唱也业余
 
-但光靠年轻和角色设定就增加两成NewEra歌迷 YEAH
+但光靠年轻和角色设定就增加两成 NewEra 歌迷 YEAH
 
 私はそんなに可愛くないけどセンスは人一倍
 
 世界観腐海 着信は不在 手首の傷と樹海
 
-ポサノヴァカバーのinstrumental Google検索 社会科見学
+ポサノヴァカバーの instrumental Google 検索 社会科見学
 
 露骨なセクシャル こういうギャップもある意味テクニカル
 
-我虽然没有那么可爱但是sense比别人强一倍
+我虽然没有那么可爱但是 sense 比别人强一倍
 
 世界观深邃 电话从不接 手腕上割下的伤像树海密林
 
-bossa nova cover的instrumental Google检索 社会观摩
+bossa nova cover 的 instrumental Google 检索 社会观摩
 
-露骨的sexual 这样子的反差某种意义上来说也很technical
+露骨的 sexual 这样子的反差某种意义上来说也很 technical
 
 君に伝えたいことがるんだ 君は一人じゃないから
 
@@ -390,7 +379,7 @@ Ah 从今往后也会一直 守护着最爱最爱的你
 
 这种狗屎一样的唱词可千万别听啊 被脑残的听众养出来的傻逼话
 
-Battle Otaku也好假装黑社会也好美国人模仿秀也好倾销大甩卖也好
+Battle Otaku 也好假装黑社会也好美国人模仿秀也好倾销大甩卖也好
 
 哪个都是想赚乖宝宝们的钱 我全都知道全都看透全都一清二楚
 
@@ -400,7 +389,7 @@ Battle Otaku也好假装黑社会也好美国人模仿秀也好倾销大甩卖�
 
 誰も俺らの頭の良さには気づいてくれないぞ
 
-俺は文章も書ける beefも仕掛ける バトルも勝てる 解説もできるとアピール
+俺は文章も書ける beef も仕掛ける バトルも勝てる 解説もできるとアピール
 
 頭良いから注目と賞賛浴びる
 
@@ -408,7 +397,7 @@ Battle Otaku也好假装黑社会也好美国人模仿秀也好倾销大甩卖�
 
 不就谁也不知道我们竟然这么智慧了嘛
 
-文章也能写 beef局也能设 battle常战常胜 解说我也能做 就按这个方向宣传
+文章也能写 beef 局也能设 battle 常战常胜 解说我也能做 就按这个方向宣传
 
 以头脑聪敏获得大家赞赏和注目
 
@@ -452,18 +441,15 @@ Battle Otaku也好假装黑社会也好美国人模仿秀也好倾销大甩卖�
 
 这是啥？！好厉害！好美国啊......
 
-
-
-
 ### Creepy Nuts「未来予想図」
 
-![『助演男優賞』](https://wx2.sinaimg.cn/large/e17094f2gy1fjf7mbtzrdj20dw0dwjzn.jpg)
+![『助演男優賞』](/images/posts/e17094f2gy1fjf7mbtzrdj20dw0dwjzn.jpg)
 
 『助演男優賞』
 
-*Lyrics：R-指定*
+_Lyrics：R-指定_
 
-*Track：DJ 松永*
+_Track：DJ 松永_
 
 それは来年 再来年
 
@@ -529,7 +515,7 @@ Bad Day
 
 "落ち目"
 
-Dungeon播放结束了
+Dungeon 播放结束了
 
 世间的热度下降了
 
@@ -563,7 +549,7 @@ Dungeon播放结束了
 
 如此这般 吊打批斗 毫不留情骂声不绝
 
-透过画面watchmen说你走着下坡路
+透过画面 watchmen 说你走着下坡路
 
 未来予想図 未来予想図
 
@@ -607,7 +593,7 @@ Dungeon播放结束了
 
 思い出せ理不尽なパイセン
 
-思い出せノルマ20枚の高校生
+思い出せノルマ 20 枚の高校生
 
 思い出せアゴアシ無しのあの遠征
 
@@ -665,7 +651,7 @@ Dungeon播放结束了
 
 回想起来吧蛮横无理的前辈
 
-回想起来吧负责散票20张的高中时代
+回想起来吧负责散票 20 张的高中时代
 
 回想起来吧毫无经济保障的那次巡演
 
@@ -693,7 +679,7 @@ Standing ovation!
 
 这就是难关
 
-然后是one chance
+然后是 one chance
 
 那里有未来
 
@@ -763,7 +749,7 @@ Standing ovation!
 
 世間と自分との溝に針落としてこそ
 
-初めて音を奏でるのが俺のHIPHOP
+初めて音を奏でるのが俺の HIPHOP
 
 半笑いも上等 そっぽ向かれて元々
 
@@ -821,13 +807,13 @@ Standing ovation!
 
 被这些支撑着直到此时
 
-视野狭窄但却幸运的rapper
+视野狭窄但却幸运的 rapper
 
 在世间和自己之间的鸿沟里落下唱针
 
-才算开始奏响声音的我的HIPHOP
+才算开始奏响声音的我的 HIPHOP
 
-似笑非笑也很棒 
+似笑非笑也很棒
 
 本来就是面向一旁
 
@@ -843,7 +829,7 @@ Standing ovation!
 
 出身地毫无疑问是堺市中区
 
-从街头出发 一步一个脚印挣扎翻滚 
+从街头出发 一步一个脚印挣扎翻滚
 
 做好觉悟来面对一切后果
 
@@ -885,26 +871,23 @@ Standing ovation!
 
 未来预想图......
 
-
-
-
 ### DOTAMA「神さまになった少年」
 
-![『ホーリーランド』](https://wx4.sinaimg.cn/large/e17094f2gy1fjf7reyi8fj20dw0dv0yf.jpg)
+![『ホーリーランド』](/images/posts/e17094f2gy1fjf7reyi8fj20dw0dv0yf.jpg)
 
 『ホーリーランド』
 
 **成为了神的少年**
 
-*Lyrics：DOTAMA*
+_Lyrics：DOTAMA_
 
-*Track：suzume*
+_Track：suzume_
 
 その贈り物は突然やってきた　まるで世界中が僕を見つめてるみたいだ
 
 ある曇り空　ある朝　僕は何かが僕の体に降りて入ってきたことに気付いた
 
-I'm　フェノミナン　信じ難いことではありますが
+I'm 　フェノミナン　信じ難いことではありますが
 
 僕の体は文字通り超人的力を手にし
 
@@ -912,7 +895,7 @@ I'm　フェノミナン　信じ難いことではありますが
 
 手にしたかのような錯覚さえ　覚えたんです
 
-ウェルカム　ホームワーク　複雑な数式を一瞬で　力はすでにDr,ハルク
+ウェルカム　ホームワーク　複雑な数式を一瞬で　力はすでに Dr,ハルク
 
 あなたに並んでいるといったらおこがましい　でも今朝
 
@@ -932,19 +915,19 @@ I’m phenomenon 世间存在难以置信的事
 
 我拥有了名副其实的超人的力量
 
-同一时间大脑中power喷涌而出
+同一时间大脑中 power 喷涌而出
 
 感觉甚至像是要将这世界纳入掌中
 
-Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hulk之境
+Welcome homework 复杂的数学公式在一瞬间解开 力量已接近 Dr. Hulk 之境
 
-若说与你并驾齐驱有些狂妄 
+若说与你并驾齐驱有些狂妄
 
 但是今早将厕所的门扯碎一事 连爸妈都瞒不住了
 
-暂且休学 打工也请假 
+暂且休学 打工也请假
 
-外面阴沉沉的乌云 像是要落泪般的天空 
+外面阴沉沉的乌云 像是要落泪般的天空
 
 但是只有我的头顶上光芒笼罩 简直像是接受着祝福
 
@@ -966,7 +949,7 @@ Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hul
 
 どうぞ蔑み下さいな　僕はあなた方を超越できたのですから
 
-気分は矢神月　でもI ain't　ダークサイド
+気分は矢神月　でも I ain't 　ダークサイド
 
 もし実際にこんな力を手に入れられたら
 
@@ -1006,9 +989,9 @@ Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hul
 
 就请你们随意鄙视 因为我已经超越了你们
 
-心情就像是夜神月（light） 但是I ain't dark side
+心情就像是夜神月（light） 但是 I ain't dark side
 
-真的获得了这种力量之后 高兴还来不及 
+真的获得了这种力量之后 高兴还来不及
 
 那超级讨厌的朋友 学校 还有这空洞洞的人生
 
@@ -1040,7 +1023,7 @@ Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hul
 
 耳鳴りみたく　終いには木々までひしめき合いだした　ここで
 
-半径1kmで生きてる生物の総数がわかる　そこのカラス　何を笑う
+半径 1km で生きてる生物の総数がわかる　そこのカラス　何を笑う
 
 とにかく黙ってくれないか　次第にはっきりと僕の名前を呼ぶ声に気付いた
 
@@ -1070,11 +1053,11 @@ Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hul
 
 耳鸣一般 最后境界开始和树木并驾齐驱
 
-周围半径一千米内生物的数量了然于心 
+周围半径一千米内生物的数量了然于心
 
 那边的乌鸦 你在笑什么
 
-给我闭嘴好吗 
+给我闭嘴好吗
 
 接着意识到有什么声音在清晰地呼唤我的名字
 
@@ -1150,20 +1133,17 @@ Welcome homework  复杂的数学公式在一瞬间解开 力量已接近Dr. Hul
 
 我要试试
 
-
-
-
 ### DOTAMA「音楽ワルキューレ 2」
 
-![『ニューアルバム』](https://wx2.sinaimg.cn/large/e17094f2gy1fjf7sbb8fij20dw0dw7bf.jpg)
+![『ニューアルバム』](/images/posts/e17094f2gy1fjf7sbb8fij20dw0dw7bf.jpg)
 
 『ニューアルバム』
 
-**音乐女武神2**
+**音乐女武神 2**
 
-*Lyrics：DOTAMA*
+_Lyrics：DOTAMA_
 
-*Track：Fragment*
+_Track：Fragment_
 
 let's go
 
@@ -1187,7 +1167,7 @@ let's go
 
 ちぐはぐながら磨くテク　僭越ながら　自在です
 
-音楽に女神はいるの？　 YES　存在するけれど
+音楽に女神はいるの？　 YES 　存在するけれど
 
 救うためじゃない　俺の処刑の執行に　彼女が再来
 
@@ -1207,17 +1187,17 @@ let's go
 
 エクスキューション　エクスキューション　女神が俺をエクスキューション
 
-Execution Execution 女神对我的Execution
+Execution Execution 女神对我的 Execution
 
-Execution Execution 女神对我的Execution
+Execution Execution 女神对我的 Execution
 
-Execution Execution 女神对我的Execution
+Execution Execution 女神对我的 Execution
 
-Execution Execution 女神对我的Execution
+Execution Execution 女神对我的 Execution
 
 処刑されそう　こんなに　だけど生きる　どこかに
 
-処刑されそう　こんなに　だけど歌う　All night
+処刑されそう　こんなに　だけど歌う　 All night
 
 処刑されそう　こんなに　だけど生きる　どこかに
 
@@ -1235,9 +1215,9 @@ Execution Execution 女神对我的Execution
 
 「音楽シーン」ってヤツの生き残り方の探し方
 
-ミュージシャン歴は何年？　脱サラしてからは3年
+ミュージシャン歴は何年？　脱サラしてからは 3 年
 
-マインドサラリーマンラッパー　MC　DOTAMAと申します
+マインドサラリーマンラッパー　 MC 　 DOTAMA と申します
 
 「音楽で食いたい」のみは勘弁と思って自己表現
 
@@ -1251,9 +1231,9 @@ Execution Execution 女神对我的Execution
 
 但我知道如何探寻在「音乐圈」里存活的方法
 
-作Musician有几年了？上班族辞职开始算来有3年
+作 Musician 有几年了？上班族辞职开始算来有 3 年
 
-Mind salaryman rapper 在下名为MC DOTAMA
+Mind salaryman rapper 在下名为 MC DOTAMA
 
 选择「只靠音乐吃饭」的自我表现
 
@@ -1265,33 +1245,33 @@ Mind salaryman rapper 在下名为MC DOTAMA
 
 バトルの戦績は音源売り上げに悲しいが連動せず
 
-でも成功面を　自分の音楽性のせいにするのはDEATH
+でも成功面を　自分の音楽性のせいにするのは DEATH
 
-労働基準に触れるペースの　SNSの宣伝広告
+労働基準に触れるペースの　 SNS の宣伝広告
 
 不況という殺戮ショー　現実逃避じゃないダンスを踊ろう
 
-1stアルバムで召還した俺のワルキューレは超ドS
+1st アルバムで召還した俺のワルキューレは超ド S
 
 でも混沌としたこの時代には丁度です
 
-誰もが呼ぼうとクリエイト　曲やLIVEに魂込めるよ
+誰もが呼ぼうとクリエイト　曲や LIVE に魂込めるよ
 
 呼べた俺は幸運だが　彼女が見せた世界は強烈
 
-说来可悲 Battle的战绩和唱片的销量毫无关系
+说来可悲 Battle 的战绩和唱片的销量毫无关系
 
-但是要想光靠自己的音乐性成功那等着的只有DEATH
+但是要想光靠自己的音乐性成功那等着的只有 DEATH
 
-以快要触及劳动基本法底线的节奏进行SNS广告宣传
+以快要触及劳动基本法底线的节奏进行 SNS 广告宣传
 
-名为不景气的杀戮show 不逃避现实而是随之起舞
+名为不景气的杀戮 show 不逃避现实而是随之起舞
 
-被我第一张专辑召唤而来的女武神是个超级抖S
+被我第一张专辑召唤而来的女武神是个超级抖 S
 
 但是在这混沌的时代里却是刚刚合适
 
-叫上什么人一起来create 在歌曲和live里灌注灵魂
+叫上什么人一起来 create 在歌曲和 live 里灌注灵魂
 
 发出召唤的我是幸运的 而她呈现出的世界是无比强烈的
 
@@ -1311,21 +1291,21 @@ Mind salaryman rapper 在下名为MC DOTAMA
 
 良い曲を作って歌う事以外に何があるのかね？
 
-那个也好这个也棒 group和solo都是酷得不行
+那个也好这个也棒 group 和 solo 都是酷得不行
 
 太多了让人精疲力尽 店里从未有过的剧情
 
-抢夺娱乐时间的time limit 大部分由女性lead
+抢夺娱乐时间的 time limit 大部分由女性 lead
 
-包括Idol在内 相对于listener来说artist的比例多得有点儿多
+包括 Idol 在内 相对于 listener 来说 artist 的比例多得有点儿多
 
-而且不管哪个的quality都相当高 根本没那么多空闲时间拿来听
+而且不管哪个的 quality 都相当高 根本没那么多空闲时间拿来听
 
 忙忙碌碌的现代社会 海量的过往名曲也再次袭来
 
 在早已彻底习惯了冲击性的音乐圈里
 
-除了创作好作品然后演唱之外 是不是还有啥其他的artist生存法？
+除了创作好作品然后演唱之外 是不是还有啥其他的 artist 生存法？
 
 何万曲の歌達が毎日生まれて残った
 
@@ -1335,53 +1315,53 @@ Mind salaryman rapper 在下名为MC DOTAMA
 
 几万首歌曲不图利益地为大家呈现着暂新的世界
 
-spotify　嘘みたい　itunesだって嘘みたい
+spotify 　嘘みたい　 itunes だって嘘みたい
 
 びっくりどっきり技術の発明で進化は動き出す
 
-spotify　嘘みたい　nanaだって嘘みたい
+spotify 　嘘みたい　 nana だって嘘みたい
 
-アプリやソフトの進化でMC進化だって動き出す
+アプリやソフトの進化で MC 進化だって動き出す
 
-spotify 难以置信 就连itunes都是难以置信
+spotify 难以置信 就连 itunes 都是难以置信
 
 吃一惊吓一跳 技术的发明开始推动进化
 
-spotify 难以置信 就连nana都是难以置信
+spotify 难以置信 就连 nana 都是难以置信
 
-app和software的进化开始推动MC们进化
+app 和 software 的进化开始推动 MC 们进化
 
 消費スピードは瞬き　されたくないのは肩叩き
 
 女神は予算を渡さない　フリーコンテンツがあざ笑い
 
-youtubeはアラを探さない　需要と供給　逆さまに
+youtube はアラを探さない　需要と供給　逆さまに
 
 目標数字が　空回り　音楽で生きるのは馬鹿馬鹿しい？
 
-NO　私は高笑い　感性至ってあなたらしいって
+NO 　私は高笑い　感性至ってあなたらしいって
 
-言われるラップをするMC　闇は光でしか話さない
+言われるラップをする MC 　闇は光でしか話さない
 
 尊ぼうとした葛藤は　かっ飛ぼうとしたからカット
 
 膨大なリリースと遊ぼう　フレッシュな音で争おう
 
-消费speed在眨眼间 不想被拍拍肩膀让收拾东西走人
+消费 speed 在眨眼间 不想被拍拍肩膀让收拾东西走人
 
-女神不会提供预算 free contents面带嘲笑
+女神不会提供预算 free contents 面带嘲笑
 
-youtube不会精心筛选 需要和供给完全掉了个儿
+youtube 不会精心筛选 需要和供给完全掉了个儿
 
 目标数字全都是空谈 靠音乐度日是不是挺傻逼？
 
 「NO！」我放声大笑 还真是极其感性的你才会那么想
 
-念唱着被称为rap之物的MC 在黑暗中只会把光明赞颂
+念唱着被称为 rap 之物的 MC 在黑暗中只会把光明赞颂
 
 自怜自艾的纠葛 远远丢出去就豁然开朗
 
-和难以计数的发行品一起嬉戏玩耍 用fresh的声音来争夺天下
+和难以计数的发行品一起嬉戏玩耍 用 fresh 的声音来争夺天下
 
 ミュージシャン人口を間引かなければ　と誰かが思った
 
@@ -1399,44 +1379,38 @@ youtube不会精心筛选 需要和供给完全掉了个儿
 
 可即便如此进化也不会停止 音乐它绝对不会终止
 
-
-
-
 ### Jinmenusagi「Silence Of The Goatz feat. DOTAMA」
 
-![『ME2!』](https://wx3.sinaimg.cn/large/e17094f2gy1fjf7sdrg9tj20dw0cgn0z.jpg)
+![『ME2!』](/images/posts/e17094f2gy1fjf7sdrg9tj20dw0cgn0z.jpg)
 
 『ME2!』
 
-*Lyrics：Jinmenusagi・DOTAMA*
+_Lyrics：Jinmenusagi・DOTAMA_
 
-*Track：Quviokal*
+_Track：Quviokal_
 
 （歌词暂无）
-
 
 ### DOTAMA「こんなぶっ壊れた国で」
 
 **在这彻底坏掉的国家**
 
-*Lyrics：DOTAMA*
+_Lyrics：DOTAMA_
 
-*Track：Jr.TEA from エンヤサン*
+_Track：Jr.TEA from エンヤサン_
 
 （歌词暂无）
 
-
-
 ## 人物介绍
 
-![Creepy Nuts (DJ松永 & R-指定)](https://wx1.sinaimg.cn/large/e17094f2gy1fjf7yp6irij20qe0hlabu.jpg)
+![Creepy Nuts (DJ松永 & R-指定)](/images/posts/e17094f2gy1fjf7yp6irij20qe0hlabu.jpg)
 
-Creepy Nuts (DJ松永 & R-指定)
+Creepy Nuts (DJ 松永 & R-指定)
 
-![R-指定（野上恭平）](https://wx3.sinaimg.cn/large/e17094f2gy1fjf801vdfaj20jg0cygmx.jpg)
+![R-指定（野上恭平）](/images/posts/e17094f2gy1fjf801vdfaj20jg0cygmx.jpg)
 
 R-指定（野上恭平）
 
-![DOTAMA（福島数馬）](https://wx3.sinaimg.cn/large/e17094f2gy1fjf807pb4jj20go0b4wer.jpg)
+![DOTAMA（福島数馬）](/images/posts/e17094f2gy1fjf807pb4jj20go0b4wer.jpg)
 
 DOTAMA（福島数馬）

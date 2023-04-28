@@ -3,7 +3,7 @@ date: 2016-12-02
 title: Vol. 17 清龙人25・赶在♡一夫多妻制♡偶像组合解散之前
 dj: mimida
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/17.jpg
 stream_url: http://www.lizhi.fm/1913563/2571000207068722182
 playlist: |-
@@ -20,32 +20,30 @@ playlist: |-
     11. 清竜人 × 清美咲「まるで嘘のように…♡」（from duet EP『DUET』2016/04/01）
 
 albums: |-
-  * [「PROPOSE」](http://ototoy.jp/_/default/p/55281)
-  * [「DUET」](http://ototoy.jp/_/default/p/61679/)
-  * [「Christmas♡Symphony」](http://ototoy.jp/_/default/p/58135/)
-
+    * [「PROPOSE」](http://ototoy.jp/_/default/p/55281)
+    * [「DUET」](http://ototoy.jp/_/default/p/61679/)
+    * [「Christmas♡Symphony」](http://ototoy.jp/_/default/p/58135/)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### 「Will♡You♡Marry♡Me?」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fabzrf5i5nj20dw0dsgoa.jpg)
 
-*作曲 / 作詞：清竜人*
+![img](/images/posts/e17094f2gw1fabzrf5i5nj20dw0dsgoa.jpg)
 
-*編曲：ダンス☆マン*
+_作曲 / 作詞：清竜人_
 
-Marry Me？　Marry Me？　Marry Me？　Will You Marry Me？　Fu！
+_編曲：ダンス ☆ マン_
 
-Oh！　Hey！ Yo！　Let's！ In the party！ I got it！　You got it！　Ho！ Ho！　Here we go！
+Marry Me？　 Marry Me？　 Marry Me？　 Will You Marry Me？　 Fu！
+
+Oh！　 Hey！ Yo！　 Let's！ In the party！ I got it！　 You got it！　 Ho！ Ho！　 Here we go！
 
 きっとダラダラ　恋じゃないような　愛じゃないような　恋愛で
 
-ずっとズルズル　大分前から　無理してる　She is stupid！
+ずっとズルズル　大分前から　無理してる　 She is stupid！
 
 いつもベラベラ　こうじゃないとか　そうじゃないとか　言うくせに
 
@@ -61,37 +59,37 @@ Oh！　Hey！ Yo！　Let's！ In the party！ I got it！　You got it！　Ho
 
 そうやって　君はつまらない男に　金も　時間も　費やしてんだろう？
 
-悩んでないでさ　俺のとこへおいで　後悔はさせないぜ！　Lady
+悩んでないでさ　俺のとこへおいで　後悔はさせないぜ！　 Lady
 
-Yes！ Come on！　Fu！
+Yes！ Come on！　 Fu！
 
 这样一来你把金钱和时间都浪费在无聊的男人身上了吧？
 
 别烦恼啦，到我这儿来，绝对不会让你后悔的喔！Lady
 
-Yes！ Come on！　Fu！
+Yes！ Come on！　 Fu！
 
-(*) あいつもこいつも彼には無我夢中　そいつもどいつも俺に四六時中
+(\*) あいつもこいつも彼には無我夢中　そいつもどいつも俺に四六時中
 
 あっちもこっちも彼には五里霧中　そっちもどっちも俺に一日中
 
 私たち…　運命かも…
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
 Yes！ Come on！
 
-あの子もこの子も彼の笑顔にChu　その子もどの子も俺の笑顔にChu
+あの子もこの子も彼の笑顔に Chu 　その子もどの子も俺の笑顔に Chu
 
-あの日もこの日も彼の素顔にChu　その日もどの日も俺の素顔にChu
+あの日もこの日も彼の素顔に Chu 　その日もどの日も俺の素顔に Chu
 
-なんだろう…　Happyなの
+なんだろう…　 Happy なの
 
-Any day！　Anyway！　Anyone！　Any night！　Anytime！君と俺ならBest Love
+Any day！　 Anyway！　 Anyone！　 Any night！　 Anytime！君と俺なら Best Love
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
-(*) 不管是谁都为他心醉神迷
+(\*) 不管是谁都为他心醉神迷
 
 不管是谁都对我念念不忘
 
@@ -101,7 +99,7 @@ Every day！　Every way！　Every one！　Every night！　Every time！
 
 我们......可能是命中注定......
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
 Yes！ Come on！
 
@@ -113,55 +111,55 @@ Yes！ Come on！
 
 不管是谁都亲吻我真实的脸
 
-要怎么形容......这就是Happy吗
+要怎么形容......这就是 Happy 吗
 
-Any day！　Anyway！　Anyone！　Any night！　Anytime！如果是你和我的话，Best Love
+Any day！　 Anyway！　 Anyone！　 Any night！　 Anytime！如果是你和我的话，Best Love
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
-Let's go！　恐いのかい？　仕方ない ほら　叫ぶように鳴ってる君のLove！
+Let's go！　恐いのかい？　仕方ない ほら　叫ぶように鳴ってる君の Love！
 
-ずばり　どこが好き？　何が良い？ ただ悲しそうに待ってる　Give me！ Your heart！
+ずばり　どこが好き？　何が良い？ ただ悲しそうに待ってる　 Give me！ Your heart！
 
-つまり　靴履いとき！　覚悟しい！　すでに俺の方に向いてる君のFace！
+つまり　靴履いとき！　覚悟しい！　すでに俺の方に向いてる君の Face！
 
-I got it！　You got it！　何も言わんで良い！ 答えは　一つだけだろ！　Baby know.
+I got it！　 You got it！　何も言わんで良い！ 答えは　一つだけだろ！　 Baby know.
 
-Let's go！　害怕吗？没办法，看，像是在大声喊叫着一样，你的Love！
+Let's go！　害怕吗？没办法，看，像是在大声喊叫着一样，你的 Love！
 
 直截了当告诉我，到底喜欢他哪里？他有什么好？
 
 你看起来不过只是在悲伤地等待着而已，Give me！ Your heart！
 
-总之就穿好鞋！做好觉悟！已经朝向了我这边的你的Face！
+总之就穿好鞋！做好觉悟！已经朝向了我这边的你的 Face！
 
 I got it！You got it！什么都不用说！答案不就只有一个？Baby know.
 
 マジでこのまま　パッとせんような　ピンと来んような　恋愛を
 
-誰の意のまま　Deadline まで　続けるの？　She is idiot！
+誰の意のまま　 Deadline まで　続けるの？　 She is idiot！
 
 これじゃそのまま　あっという間に　かっ飛ばすように　何十年
 
-流されるまま　Bad Life を重ねていくの？
+流されるまま　 Bad Life を重ねていくの？
 
 说真的就这种看不到未来也搞不清现状的恋爱
 
-能按照谁的心意就这样一直走到Deadline吗？She is idiot！
+能按照谁的心意就这样一直走到 Deadline 吗？She is idiot！
 
 那就这样，一眨眼的功夫时光飞逝几十年
 
-随波逐流地让这样的Bad Life累积下去吗？
+随波逐流地让这样的 Bad Life 累积下去吗？
 
 そうやって　君はくだらない男に　夢も　体も　費やしてんだろう？
 
 そんなのやめて　俺についておいでよ
 
-世界をほら　変えてやるぜ！　Baby Let's！ Dance！　Fu！
+世界をほら　変えてやるぜ！　 Baby Let's！ Dance！　 Fu！
 
 这样一来你把梦想和肉体都浪费在无聊的男人身上了吧？
 
-快停止吧，跟我走吧，让我来改变你的世界吧！Baby Let's！ Dance！　Fu！
+快停止吧，跟我走吧，让我来改变你的世界吧！Baby Let's！ Dance！　 Fu！
 
 ドキドキワクワク彼とお話中　ウキウキゾクゾク俺と一晩中
 
@@ -169,19 +167,19 @@ I got it！You got it！什么都不用说！答案不就只有一个？Baby kno
 
 私たち…　運命かも…
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
 Let's！ Dance！
 
-フラフラユラユラ彼にいきなりChu　ムラムラヘラヘラ俺にいきなりChu
+フラフラユラユラ彼にいきなり Chu 　ムラムラヘラヘラ俺にいきなり Chu
 
-クラクラグラグラ彼に思わずChu　コラコラオラオラ俺に思わずChu
+クラクラグラグラ彼に思わず Chu 　コラコラオラオラ俺に思わず Chu
 
-なんだろう…　Happyなの
+なんだろう…　 Happy なの
 
-Any day！　Anyway！　Anyone！　Any night！　Anytime！君と俺ならGood Love
+Any day！　 Anyway！　 Anyone！　 Any night！　 Anytime！君と俺なら Good Love
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
 心跳加速扑通扑通和他说着话
 
@@ -193,7 +191,7 @@ Every day！　Every way！　Every one！　Every night！　Every time！
 
 我们......可能是命中注定......
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
 Let's！ Dance！
 
@@ -205,29 +203,29 @@ Let's！ Dance！
 
 哎呀你怎么不知不觉非要亲我一口
 
-要怎么形容......这就是Happy吗
+要怎么形容......这就是 Happy 吗
 
-Any day！　Anyway！　Anyone！　Any night！　Anytime！如果是你和我的话，Good Love
+Any day！　 Anyway！　 Anyone！　 Any night！　 Anytime！如果是你和我的话，Good Love
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
-Marry Me？　Marry Me？　Marry Me？　Will You Marry Me？　Fu！
+Marry Me？　 Marry Me？　 Marry Me？　 Will You Marry Me？　 Fu！
 
-にっちもさっちもいかない夜にも　Always…　Feeling heart…
+にっちもさっちもいかない夜にも　 Always…　 Feeling heart…
 
-必死のぱっちも空しい朝にも　I promise…　Stay with you…
+必死のぱっちも空しい朝にも　 I promise…　 Stay with you…
 
 どうして…　優しいの…？　俺はいつでも待ってるぜ
 
-Hey！　Yeah！　Yes！ Come on！
+Hey！　 Yeah！　 Yes！ Come on！
 
-无论是在一筹莫展的夜里（Always…　Feeling heart…）
+无论是在一筹莫展的夜里（Always…　 Feeling heart…）
 
-还是在全力拼搏或是感到空虚的早上（I promise…　Stay with you…）
+还是在全力拼搏或是感到空虚的早上（I promise…　 Stay with you…）
 
 为什么……你都这么温柔呢？（我一直都等着你喔）
 
-Hey！　Yeah！　Yes！ Come on！
+Hey！　 Yeah！　 Yes！ Come on！
 
 あいつもこいつも彼には無我夢中　そいつもどいつも俺に四六時中
 
@@ -235,48 +233,47 @@ Hey！　Yeah！　Yes！ Come on！
 
 私たち…　運命かも…
 
-Every day！　Every way！　Every one！　Every night！　Every time！Yes！　Come on！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！Yes！　 Come on！
 
-あの子もこの子も彼の笑顔にChu　その子もどの子も俺の笑顔にChu
+あの子もこの子も彼の笑顔に Chu 　その子もどの子も俺の笑顔に Chu
 
-あの日もこの日も彼の素顔にChu　その日もどの日も俺の素顔にChu
+あの日もこの日も彼の素顔に Chu 　その日もどの日も俺の素顔に Chu
 
-なんだろう…　Happyなの
+なんだろう…　 Happy なの
 
-Any day！　Anyway！　Anyone！　Any night！　Anytime！君と俺ならBest Love
+Any day！　 Anyway！　 Anyone！　 Any night！　 Anytime！君と俺なら Best Love
 
-Every day！　Every way！　Every one！　Every night！　Every time！
+Every day！　 Every way！　 Every one！　 Every night！　 Every time！
 
-< repeat (*) >
-
+< repeat (\*) >
 
 ### 「Mr. Play Boy...♡」
 
-*作曲 / 作詞：清竜人*
+_作曲 / 作詞：清竜人_
 
-*編曲：橋本由香利*
+_編曲：橋本由香利_
 
-Yo♡ Yo♡ スケベ♡ スケベ♡ 電光石火のスケベ♡ スケベ♡
+Yo♡ Yo♡ スケベ ♡ スケベ ♡ 電光石火のスケベ ♡ スケベ ♡
 
-Yo♡ Yo♡ スケベ♡ スケベ♡ 空前絶後のスケベ♡ スケベ♡
+Yo♡ Yo♡ スケベ ♡ スケベ ♡ 空前絶後のスケベ ♡ スケベ ♡
 
-Yo♡ Yo♡ スケベ♡ スケベ♡ 年中無休のスケベ♡ スケベ♡
+Yo♡ Yo♡ スケベ ♡ スケベ ♡ 年中無休のスケベ ♡ スケベ ♡
 
-Yo♡ Yo♡ スケベ♡ スケベ♡ 前代未聞のスケベ♡ スケベ♡
-
-Shall we dance?
-
-Yo♡ Yo♡ 大色狼♡ 大色狼♡ 电光石火的大色狼♡ 大色狼♡
-
-Yo♡ Yo♡ 大色狼♡ 大色狼♡ 空前绝后的大色狼♡ 大色狼♡
-
-Yo♡ Yo♡ 大色狼♡ 大色狼♡ 常年无休的大色狼♡ 大色狼♡
-
-Yo♡ Yo♡ 大色狼♡ 大色狼♡ 前所未闻的大色狼♡ 大色狼♡
+Yo♡ Yo♡ スケベ ♡ スケベ ♡ 前代未聞のスケベ ♡ スケベ ♡
 
 Shall we dance?
 
-マジで勘弁してえや… 姉ちゃん… お前とは残念 今日でBye Byeな!
+Yo♡ Yo♡ 大色狼 ♡ 大色狼 ♡ 电光石火的大色狼 ♡ 大色狼 ♡
+
+Yo♡ Yo♡ 大色狼 ♡ 大色狼 ♡ 空前绝后的大色狼 ♡ 大色狼 ♡
+
+Yo♡ Yo♡ 大色狼 ♡ 大色狼 ♡ 常年无休的大色狼 ♡ 大色狼 ♡
+
+Yo♡ Yo♡ 大色狼 ♡ 大色狼 ♡ 前所未闻的大色狼 ♡ 大色狼 ♡
+
+Shall we dance?
+
+マジで勘弁してえや… 姉ちゃん… お前とは残念 今日で Bye Bye な!
 
 別に好き好んで笑ってられるんじゃないぜ? ストレスも溜まるさ
 
@@ -284,7 +281,7 @@ Shall we dance?
 
 所詮 男と女さ だろ?
 
-真的饶了我吧……姐姐……很遗憾跟你今天就在这儿Bye Bye吧！
+真的饶了我吧……姐姐……很遗憾跟你今天就在这儿 Bye Bye 吧！
 
 反正你也不是真的高兴才冲我笑的吧？这样下去会积攒压力的哟
 
@@ -292,53 +289,53 @@ Shall we dance?
 
 说到底不就是男的和女的嘛？
 
-ちょっと待って! 強引な人ね… 今日はFriday♡ だとしたら?
+ちょっと待って! 強引な人ね… 今日は Friday♡ だとしたら?
 
-Beautifulだ…♡ あら…お上手ね…♡ もっと遊ぼうよ♡ ラララ♡
+Beautiful だ…♡ あら…お上手ね…♡ もっと遊ぼうよ ♡ ラララ ♡
 
-ウイスキーは オン·ザ·ロックで♡ おっかないね♡ どうかしら?
+ウイスキーは オン·ザ·ロックで ♡ おっかないね ♡ どうかしら?
 
-とっておきのMusicと…
+とっておきの Music と…
 
-等一下！（真是强硬的人呐......）今天是Friday♡（所以呢？）
+等一下！（真是强硬的人呐......）今天是 Friday♡（所以呢？）
 
-Beautifulだ…♡（哎哟......真娴熟呢......♡）再玩会儿嘛♡ 啦啦啦♡
+Beautiful だ…♡（哎哟......真娴熟呢......♡）再玩会儿嘛 ♡ 啦啦啦 ♡
 
-威士忌（加了冰块♡）心里七上八下呐（天晓得呢？）
+威士忌（加了冰块 ♡）心里七上八下呐（天晓得呢？）
 
-就随着我精心准备的Music一起......
+就随着我精心准备的 Music 一起......
 
-どうせ 女の子に 誰彼構わず 良い顔してるんでしょう? 君はVip Girl♡
+どうせ 女の子に 誰彼構わず 良い顔してるんでしょう? 君は Vip Girl♡
 
-反正是哪个女孩子他都无所谓。但是长得很帅不是吗？你是Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Girl♡
-
-Oh…Crazy boy♡
-
-(*) 今夜は寝かさない♡ 明日も帰さない♡ スケジュールはキャンセルしとけよ♡ Do you know?
-
-男たるもの♡ 甲斐性がなきゃほら♡ じゃじゃ馬は待ってくれないぜ♡
-
-Oh…Sexy boy♡
-
-ガードは緩くない♡ トークは弾まない♡ そんなことじゃ何も生まれない♡ Do you go?
-
-女たるもの♡ 愛嬌がなきゃほら♡ 野良犬も抱いてくれないぜ♡
-
-あんたのリボン解いてみてくれよ♡
+反正是哪个女孩子他都无所谓。但是长得很帅不是吗？你是 Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Vip Girl♡
 
 Oh…Crazy boy♡
 
-(*) 今晚上不让你睡♡ 明天也不放你走♡ 日程表上的事赶紧都给我取消了♡ Do you know?
+(\*) 今夜は寝かさない ♡ 明日も帰さない ♡ スケジュールはキャンセルしとけよ ♡ Do you know?
 
-身为男人♡ 可不能没志气♡ 性子烈的马不会等你的喔♡
+男たるもの ♡ 甲斐性がなきゃほら ♡ じゃじゃ馬は待ってくれないぜ ♡
 
 Oh…Sexy boy♡
 
-防守也不松懈♡ 聊天也聊不来♡ 这样子可什么也不会发生♡ Do you go?
+ガードは緩くない ♡ トークは弾まない ♡ そんなことじゃ何も生まれない ♡ Do you go?
 
-身为女人♡ 可不能不会卖萌♡ 那样子连野狗都不会抱你喔♡
+女たるもの ♡ 愛嬌がなきゃほら ♡ 野良犬も抱いてくれないぜ ♡
 
-快把你的蝴蝶结解开来让咱瞧瞧吧♡
+あんたのリボン解いてみてくれよ ♡
+
+Oh…Crazy boy♡
+
+(\*) 今晚上不让你睡 ♡ 明天也不放你走 ♡ 日程表上的事赶紧都给我取消了 ♡ Do you know?
+
+身为男人 ♡ 可不能没志气 ♡ 性子烈的马不会等你的喔 ♡
+
+Oh…Sexy boy♡
+
+防守也不松懈 ♡ 聊天也聊不来 ♡ 这样子可什么也不会发生 ♡ Do you go?
+
+身为女人 ♡ 可不能不会卖萌 ♡ 那样子连野狗都不会抱你喔 ♡
+
+快把你的蝴蝶结解开来让咱瞧瞧吧 ♡
 
 まずはインジャンホイで コインをトスしたら ちゃっちゃと始めませんか?
 
@@ -354,47 +351,47 @@ Oh…Sexy boy♡
 
 说到底不就是雄蕊和雌蕊嘛
 
-どうしたんだい? 酔っちゃったみたい…♡ こっちおいで♡ 変なことしない?
+どうしたんだい? 酔っちゃったみたい…♡ こっちおいで ♡ 変なことしない?
 
-無礼講だ♡ やだ…こそばゆい…♡ もっと踊ろうよ! チャチャチャ♡
+無礼講だ ♡ やだ…こそばゆい…♡ もっと踊ろうよ! チャチャチャ ♡
 
-じきにMorning♡ あわてんぼうなの? 場所変えよう♡ ご自由に♡ これは Big Chance♡
+じきに Morning♡ あわてんぼうなの? 場所変えよう ♡ ご自由に ♡ これは Big Chance♡
 
 你没事吧？（好像醉了.....♡）
 
-来，到这儿来♡ （你不会做奇怪的事吧？）
+来，到这儿来 ♡ （你不会做奇怪的事吧？）
 
-痛痛快快喝嘛♡ （讨厌…..好难为情…..♡）继续跳舞吧！恰恰恰♡
+痛痛快快喝嘛 ♡ （讨厌…..好难为情…..♡）继续跳舞吧！恰恰恰 ♡
 
-马上就Morning♡ （手足无措了？）换个地方呗♡ 都随你喽♡ 这可是Big Big Big Big Big Big Big Big Big Big Big Big Chance♡
+马上就 Morning♡ （手足无措了？）换个地方呗 ♡ 都随你喽 ♡ 这可是 Big Big Big Big Big Big Big Big Big Big Big Big Chance♡
 
 Oh…Funky boy♡
 
-今度は逃さない♡ 噛んだら離さない♡ 抵抗しても無意味だと気付け♡ Do you know?
+今度は逃さない ♡ 噛んだら離さない ♡ 抵抗しても無意味だと気付け ♡ Do you know?
 
-愛してるだけじゃ 何か物足りない♡ おいらのことどうにかしてくれよ♡
+愛してるだけじゃ 何か物足りない ♡ おいらのことどうにかしてくれよ ♡
 
 Oh…Lucky boy♡
 
-ハートは赤くない♡ ピークはまだ来ない♡ そんなアホな人生は捨てちまえ♡ Do you go?愛されるだけじゃ 何か落ち着かない♡ そいつは多分バーストしてるのさ♡
+ハートは赤くない ♡ ピークはまだ来ない ♡ そんなアホな人生は捨てちまえ ♡ Do you go?愛されるだけじゃ 何か落ち着かない ♡ そいつは多分バーストしてるのさ ♡
 
-あんたのボタン外してみてくれよ♡
+あんたのボタン外してみてくれよ ♡
 
 Let's Twist!
 
 Oh…Funky boy♡
 
-这次不让你逃跑♡ 咬住就不松口♡ 要明白就算抵抗也是没用的♡ Do you know?
+这次不让你逃跑 ♡ 咬住就不松口 ♡ 要明白就算抵抗也是没用的 ♡ Do you know?
 
-就是因为爱你嘛♡ 那还不够充分吗♡ 总之就全都交给我吧♡
+就是因为爱你嘛 ♡ 那还不够充分吗 ♡ 总之就全都交给我吧 ♡
 
 Oh…Lucky boy♡
 
-Heart不是紅色♡ Peak还没到♡ 这样子愚蠢的人生赶紧丢掉♡ Do you go?
+Heart 不是紅色 ♡ Peak 还没到 ♡ 这样子愚蠢的人生赶紧丢掉 ♡ Do you go?
 
-就只是被人爱着嘛，那还有什么不放心的♡ 那家伙大概正在爆发呐♡
+就只是被人爱着嘛，那还有什么不放心的 ♡ 那家伙大概正在爆发呐 ♡
 
-快把你的扣子解开来让咱瞧瞧吧♡
+快把你的扣子解开来让咱瞧瞧吧 ♡
 
 Let's Twist!
 
@@ -418,45 +415,43 @@ Let's Twist!
 
 「那不是一定的嘛.....」
 
-今夜は眠れない♡ 明日も帰れない♡ そんな…まさか…でも…いや…もしも… Do you know?
+今夜は眠れない ♡ 明日も帰れない ♡ そんな…まさか…でも…いや…もしも… Do you know?
 
-ムードは悪くない♡ メークは落ちてない♡ なんだか変ね…ペースが乱れちゃう…
+ムードは悪くない ♡ メークは落ちてない ♡ なんだか変ね…ペースが乱れちゃう…
 
 観念せえや…
 
-今晚上不让你睡♡ 明天也不放你走♡ 怎么……难道说……可是.....不是啊......万一…… Do you know?
+今晚上不让你睡 ♡ 明天也不放你走 ♡ 怎么……难道说……可是.....不是啊......万一…… Do you know?
 
-Mood不坏♡ 妆还没掉♡ 怎么感觉有点怪..... 步调乱了起来......
+Mood 不坏 ♡ 妆还没掉 ♡ 怎么感觉有点怪..... 步调乱了起来......
 
 你就给我觉悟吧…..
 
 Oh…Crazy♡ Amazing boy♡
 
-< repeat (*) >
+< repeat (\*) >
 
-あんたのリボン解いてめちゃくちゃな夜にしてやるよ♡
+あんたのリボン解いてめちゃくちゃな夜にしてやるよ ♡
 
 Are you ready?
 
 Oh…Crazy♡ Amazing boy♡
 
-< repeat (*) >
+< repeat (\*) >
 
-快把你的蝴蝶结解开来跟我度过一个疯狂的夜晚吧♡
+快把你的蝴蝶结解开来跟我度过一个疯狂的夜晚吧 ♡
 
 Are you ready?
 
+### 「キネマトグラフを ♡」
 
+![img](/images/posts/e17094f2gw1fac062xc3qj20dw0dwaad.jpg)
 
+**把 kinematograph♡（意译：转动放映机 ♡）**
 
-### 「キネマトグラフを♡」
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1fac062xc3qj20dw0dwaad.jpg)
+_作曲 / 作詞：清竜人_
 
-**把kinematograph♡（意译：转动放映机♡）**
-
-*作曲 / 作詞：清竜人*
-
-*編曲：橋本由香利*
+_編曲：橋本由香利_
 
 雲のない空も　揺れる水面も　青く　青く　君を映してる
 
@@ -480,9 +475,9 @@ Are you ready?
 
 如果能让时间，只是停下一下小会儿，要做些什么呢
 
-那，来个改变历史的kiss吧
+那，来个改变历史的 kiss 吧
 
-(*) 抱きしめられたら　胸のオルゴールは　ランランラン　ランランラン
+(\*) 抱きしめられたら　胸のオルゴールは　ランランラン　ランランラン
 
 今　歌い出すよ
 
@@ -500,7 +495,7 @@ Are you ready?
 
 响个不停
 
-啊～啊，就这样repeat下去吧？
+啊～啊，就这样 repeat 下去吧？
 
 太陽の下も　月明かりでも　君は　君は　光輝いてる
 
@@ -520,20 +515,19 @@ Are you ready?
 
 君と僕だけの　あなたとわたしの　歴史を作る　大切なキスをしよう
 
-< repeat (*) >
+< repeat (\*) >
 
-创造只属于你和我的（你和我的）历史，来一个开启它的重要kiss
+创造只属于你和我的（你和我的）历史，来一个开启它的重要 kiss
 
-< repeat (*) >
+< repeat (\*) >
 
-
-### 「アカシック♡レコード」
+### 「アカシック ♡ レコード」
 
 **Akashic♡Record（阿卡西记录）**
 
-*作曲 / 作詞：清竜人*
+_作曲 / 作詞：清竜人_
 
-*編曲：武藤星児*
+_編曲：武藤星児_
 
 あのね　私のこと　本当はどう思ってるの？
 
@@ -551,13 +545,13 @@ Are you ready?
 
 说是命中注定……（好害羞，）虽说也谈不上吧，但是二个人肯定……
 
-(*) ほら　気付いているのかい？　僕らは　確かに似てるんだ　嘘じゃない
+(\*) ほら　気付いているのかい？　僕らは　確かに似てるんだ　嘘じゃない
 
 共に泣いたり　笑ったり　２人の命が　命が　触れ合う
 
 どんなときも感じてるよ
 
-(*) 嗳，发觉到了吗？我们俩确实很相似，不是说着玩儿
+(\*) 嗳，发觉到了吗？我们俩确实很相似，不是说着玩儿
 
 一起哭，一起笑，两人的命运，紧紧相连
 
@@ -589,39 +583,37 @@ Are you ready?
 
 涙は似合わない　道のりはどこまでも　行こう
 
-从今往后还要继续下去，只属于两个人的story
+从今往后还要继续下去，只属于两个人的 story
 
 跟眼泪不相称的路途，永无止尽，走吧
 
-< repeat (*) >
-
-
-
+< repeat (\*) >
 
 ### 「Christmas♡Symphony」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fac06erf0ej20dw0dwwf1.jpg)
 
-*作曲 / 作詞：清竜人*
+![img](/images/posts/e17094f2gw1fac06erf0ej20dw0dwwf1.jpg)
 
-*編曲：Tom-H@ck*
+_作曲 / 作詞：清竜人_
 
-Freeze…　I cannot budge it…　You are sweet…　Oh… My Angel…
+_編曲：Tom-H@ck_
 
-今夜は　In My Bed…　Together…　Sleeping…　Baby…　Uh…
+Freeze…　 I cannot budge it…　 You are sweet…　 Oh… My Angel…
 
-Freeze…　I cannot budge it…　You are sweet…　Oh… My Angel…
+今夜は　 In My Bed…　 Together…　 Sleeping…　 Baby…　 Uh…
 
-今夜　In My Bed…　Together…　Sleeping…　Baby…　Uh…
+Freeze…　 I cannot budge it…　 You are sweet…　 Oh… My Angel…
 
-Freeze…　I cannot budge it…　You are sweet…　Oh… My Angel…
+今夜　 In My Bed…　 Together…　 Sleeping…　 Baby…　 Uh…
 
-こんなに　君は美しい…　俺の鼓動は　忽ち　Crescendo…
+Freeze…　 I cannot budge it…　 You are sweet…　 Oh… My Angel…
+
+こんなに　君は美しい…　俺の鼓動は　忽ち　 Crescendo…
 
 今宵　どんな風に　君を連れ去ろうかなぁ…
 
-Freeze…　I cannot budge it…　You are sweet…　Oh… My Angel…
+Freeze…　 I cannot budge it…　 You are sweet…　 Oh… My Angel…
 
-你是这么美丽…..我的冲动忽然间Crescendo......
+你是这么美丽…..我的冲动忽然间 Crescendo......
 
 今晚该用怎样的套路把你带走呢……
 
@@ -629,19 +621,19 @@ Freeze…　I cannot budge it…　You are sweet…　Oh… My Angel…
 
 还没发觉到吗？我的心已经，是属于你的了......
 
-(*) Silent night　手を伸ばせば　(さあ鐘が鳴るよ)
+(\*) Silent night 　手を伸ばせば　(さあ鐘が鳴るよ)
 
-Holy night　あなたがいる　(確かに)
+Holy night 　あなたがいる　(確かに)
 
 昨日までと何かが違う　ドキドキが胸に溢れてるよ
 
-Silent night　手を繋げば　(さあ星が降るよ)
+Silent night 　手を繋げば　(さあ星が降るよ)
 
-Holy night　一つになる　(素敵な)
+Holy night 　一つになる　(素敵な)
 
-魔法がほら　解ける前にさ　A Merry Merry Christmas to You
+魔法がほら　解ける前にさ　 A Merry Merry Christmas to You
 
-(*) Silent night，伸出手的话（钟要响了哟）
+(\*) Silent night，伸出手的话（钟要响了哟）
 
 Holy night，有你在（的确啊）
 
@@ -653,17 +645,17 @@ Holy night，合而为一（太棒啦）
 
 在魔法解开之前呐，A Merry Merry Christmas to You
 
-Do you hear me…？　The sound of the bell…　All over the town…
+Do you hear me…？　 The sound of the bell…　 All over the town…
 
-I'm glad to see you…　Merry Christmas…　Baby…
+I'm glad to see you…　 Merry Christmas…　 Baby…
 
-Please…　So…You can magic…　Sometime…　Tell me…　Wake up…
+Please…　 So…You can magic…　 Sometime…　 Tell me…　 Wake up…
 
 どうして　君は麗しい…　触れれば　きっと　壊れてしまう…
 
 今宵　誰も　邪魔は出来ないぜ…
 
-Please…　So…You can magic…　Sometime…　Tell me…　Wake up…
+Please…　 So…You can magic…　 Sometime…　 Tell me…　 Wake up…
 
 为什么你是如此漂亮……触碰一下的话，肯定就会有所损毁……
 
@@ -673,17 +665,17 @@ Please…　So…You can magic…　Sometime…　Tell me…　Wake up…
 
 察觉不到吗？我已经开始准备了......抱紧我吧……
 
-Love me knight　そばにいれば　(あぁ夢を見るよ)
+Love me knight 　そばにいれば　(あぁ夢を見るよ)
 
-Hold me tight　時が止まる　(いつでも)
+Hold me tight 　時が止まる　(いつでも)
 
 明日になれば　恥ずかしいような　トキメキが胸に込み上げるよ
 
-Love me knight　肩を抱けば　(あぁ君を知るよ)
+Love me knight 　肩を抱けば　(あぁ君を知るよ)
 
-Hold me tight　愛しくなる　(今すぐ)
+Hold me tight 　愛しくなる　(今すぐ)
 
-日付けがほら　変わる前にさ　A Merry Merry Christmas to You
+日付けがほら　変わる前にさ　 A Merry Merry Christmas to You
 
 Love me knight，在我身旁的话（啊啊，会做梦的哟）
 
@@ -697,21 +689,21 @@ Hold me tight，会变得可爱起来（现在马上）
 
 在日期变更之前呐，A Merry Merry Christmas to You
 
-Would you wanna go out with me？　Yeah, Of course.
+Would you wanna go out with me？　 Yeah, Of course.
 
 Where are you taking me tonight？
 
-Well…　Do you wanna go？　I'll go with you wherever you want to go.
+Well…　 Do you wanna go？　 I'll go with you wherever you want to go.
 
-Oh…　OK…　I'll never let you down.　Follow me　Yes, My Darling…
+Oh…　 OK…　 I'll never let you down.　 Follow me 　 Yes, My Darling…
 
 最高の夜にしようよ　最高の朝にしようよ
 
 最低な思い出はそっと　今日だけ忘れちゃおうよ
 
-Silent night　来年もきっと　Holy night
+Silent night 　来年もきっと　 Holy night
 
-再来年もずっと　Love and Love…
+再来年もずっと　 Love and Love…
 
 来共度最棒的一夜吧，来共度最棒的早上吧
 
@@ -721,7 +713,7 @@ Silent night，明年也一定，Holy night
 
 后年会更加，Love and Love……
 
-Winter night　この夜空に　Snowy night　降り注げば
+Winter night 　この夜空に　 Snowy night 　降り注げば
 
 白い街が２人のこと　祝福してくれるよ…
 
@@ -729,24 +721,23 @@ Winter night，在这片夜空下，Snowy night，从天而降的话
 
 白色的街道，祝福着两个人哟
 
-< repeat (*) >
+< repeat (\*) >
 
-魔法がほら　解ける前にさ　Specialな夜には　口づけを交わそう
-
-A Merry Merry Christmas to You
-
-< repeat (*) >
-
-在魔法解开之前呐，Special的夜里相互亲吻吧
+魔法がほら　解ける前にさ　 Special な夜には　口づけを交わそう
 
 A Merry Merry Christmas to You
 
+< repeat (\*) >
+
+在魔法解开之前呐，Special 的夜里相互亲吻吧
+
+A Merry Merry Christmas to You
 
 ### 「Call♡Me♡Baby」
 
-*作曲 / 作詞：清竜人*
+_作曲 / 作詞：清竜人_
 
-*編曲：ダンス☆マン*
+_編曲：ダンス ☆ マン_
 
 Call me my Baby！ Call me my Baby！ Call me my name！ Tonight！
 
@@ -754,7 +745,7 @@ Call me my Baby！ Call me my Baby！ Call me my name！ Tonight！
 
 If you tell me about it… I think… Everyday…
 
-恋竟是这样的fantasy 爱为何如此的fantastic
+恋竟是这样的 fantasy 爱为何如此的 fantastic
 
 If you tell me about it… I think… Everyday…
 
@@ -762,7 +753,7 @@ If you tell me about it… I think… Everyday…
 
 何時になれば　心の中　全部さらけて　聞かせてくれるの？
 
-今　空を見てるんだ…　君はTV見てるの？
+今　空を見てるんだ…　君は TV 見てるの？
 
 声が聞きたいよ…
 
@@ -774,17 +765,17 @@ If you tell me about it… I think… Everyday…
 
 想听到你的声音呐……
 
-(*) 僕の胸はこんなにも　君のせいで乱れてる
+(\*) 僕の胸はこんなにも　君のせいで乱れてる
 
-ラシドレミファソラシド♪ Call me my Baby！ Call me my Baby！
+ラシドレミファソラシド ♪ Call me my Baby！ Call me my Baby！
 
 僕の胸はこんなにも　君のせいで悶えてる
 
-ラシドレミファソラシド♪ Call me my Baby！ Call me my Baby！
+ラシドレミファソラシド ♪ Call me my Baby！ Call me my Baby！
 
 Call me my name！ Tonight！
 
-(*) 为了你我内心如此慌乱
+(\*) 为了你我内心如此慌乱
 
 La Si Do Re Mi Fa So La Si Do♪ Call me my Baby！ Call me my Baby！
 
@@ -796,9 +787,9 @@ Call me my name！ Tonight！
 
 恋ってどうしてファンタジー　愛ってなんてファンタスティック
 
-恋竟是这样的fantasy 爱为何如此的fantastic
+恋竟是这样的 fantasy 爱为何如此的 fantastic
 
-2人はまだ…　当分 チグハグ…もう　いい加減　嫌だ…　何を企んでるの？
+2 人はまだ…　当分 チグハグ…もう　いい加減　嫌だ…　何を企んでるの？
 
 ずっと密かな　宝物は　耳で響いてる　君からの言葉
 
@@ -816,11 +807,11 @@ Call me my name！ Tonight！
 
 いつの間にかこんなにも　君の声が聞こえてくる
 
-ラシドレミファソラシド♪ Call me my Baby！ Call me my Baby！
+ラシドレミファソラシド ♪ Call me my Baby！ Call me my Baby！
 
 いつの間にかこんなにも　君の顔が浮かんでくる
 
-ラシドレミファソラシド♪ Call me my Baby！ Call me my Baby！
+ラシドレミファソラシド ♪ Call me my Baby！ Call me my Baby！
 
 Call me my name！ Tonight！
 
@@ -846,7 +837,7 @@ Call me my name！ Tonight！
 
 响在耳边的你的话语……
 
-嘘か真か　くだらない事とか　2人の時間もな　オチもない話さ！
+嘘か真か　くだらない事とか　 2 人の時間もな　オチもない話さ！
 
 なら　また明日　同じこの時間で！ Call me my Baby！ Call me my Baby！
 
@@ -860,13 +851,13 @@ Call me my name！ Tonight！
 
 現実が空想が　ごちゃごちゃになってるんだ！
 
-君の前じゃ　僕の声は　ララ　恋のMusic！
+君の前じゃ　僕の声は　ララ　恋の Music！
 
 Call me my Baby！ Call me my Baby！
 
-ときめいてBang！　切る前に僕のターン！
+ときめいて Bang！　切る前に僕のターン！
 
-ただ　歌いたいんだ　伝えたいんだ　恋の愛のFeeling
+ただ　歌いたいんだ　伝えたいんだ　恋の愛の Feeling
 
 もう少し待ってな！　今　舞台はカウントダウン！
 
@@ -886,40 +877,39 @@ Call me my Baby！ Chu
 
 现实和空想乱七八糟都混在一起啦！
 
-在你的面前，我的声音就是，La La，恋爱的Music！
+在你的面前，我的声音就是，La La，恋爱的 Music！
 
 Call me my Baby！ Call me my Baby！
 
-心跳加速Bang！挂断之前该轮到我啦！
+心跳加速 Bang！挂断之前该轮到我啦！
 
-只是想唱唱歌，想要传达给你听，恋的爱的Feeling
+只是想唱唱歌，想要传达给你听，恋的爱的 Feeling
 
-稍微等一下喔！现在，舞台Count Down！
+稍微等一下喔！现在，舞台 Count Down！
 
 Call me my Baby！Chu
 
-< repeat (*) >
+< repeat (\*) >
 
 恋ってどうしてファンタジー　愛ってなんてファンタスティック
 
-恋竟是这样的fantasy 爱为何如此的fantastic
+恋竟是这样的 fantasy 爱为何如此的 fantastic
 
+### 「I Love You はあなただけ ♡」
 
-### 「I Love Youはあなただけ♡」
+**I Love You，只有你 ♡**
 
-**I Love You，只有你♡**
+_作曲 / 作詞：清竜人_
 
-*作曲 / 作詞：清竜人*
+_編曲：MOSAIC.WAV_
 
-*編曲：MOSAIC.WAV*
+I Love You 　はあなただけ　あ～あ
 
-I Love You　はあなただけ　あ～あ
-
-Love Love You You　Love Love You　Love Love You You　La La La La
+Love Love You You 　 Love Love You 　 Love Love You You 　 La La La La
 
 I Love You，只有你，啊～啊
 
-Love Love You You　Love Love You　Love Love You You　La La La La
+Love Love You You 　 Love Love You 　 Love Love You You 　 La La La La
 
 ちょっと大袈裟なアタックで　本音ははぐらかすの…
 
@@ -937,7 +927,7 @@ I Say！不要担心喔......无论何时你都
 
 因为只要四目相对，想传达的事就全部可以传到
 
-(*) わたしはあなたと生きるの　２人がこの世の全て
+(\*) わたしはあなたと生きるの　２人がこの世の全て
 
 ドタバタするような会話も　２人だけのパスワードだね
 
@@ -945,21 +935,21 @@ I Say！不要担心喔......无论何时你都
 
 隣にわたしがいること　春も　夏も　秋も　冬も　いつの日も忘れないでね
 
-Love Love You You　Love Love You　Love Love You You　La La La La
+Love Love You You 　 Love Love You 　 Love Love You You 　 La La La La
 
-(*) 我和你生死与共，两个人就是这世界的全部
+(\*) 我和你生死与共，两个人就是这世界的全部
 
-打打闹闹的对话，也是只属于两个人的password唷
+打打闹闹的对话，也是只属于两个人的 password 唷
 
 半开玩笑的话语，也不一定就是谎言
 
 无论春夏秋冬，我就在你身边，什么何时都不要忘了这一点喔
 
-Love Love You You　Love Love You　Love Love You You　La La La La
+Love Love You You 　 Love Love You 　 Love Love You You 　 La La La La
 
 アップテンポで誤摩化して　乙女の恋　隠すの…
 
-I Say！　Lonely Girlじゃない！　お前はいつだって
+I Say！　 Lonely Girl じゃない！　お前はいつだって
 
 塞がないで　１人じゃないぜ
 
@@ -967,9 +957,9 @@ I Say！　Lonely Girlじゃない！　お前はいつだって
 
 瞳だけ　逸らしたら　隠してること　全部　伝わるから
 
-Uptempo地搪塞，隐藏少女的恋心……
+Uptempo 地搪塞，隐藏少女的恋心……
 
-I Say！你不是Lonely Girl！永远不是
+I Say！你不是 Lonely Girl！永远不是
 
 不要烦闷，你不是独自一人哟
 
@@ -981,7 +971,7 @@ I Say！你不是Lonely Girl！永远不是
 
 どぎまぎするような態度も　２人だけの合言葉だね
 
-C調混じりの演技も　ふざけてばかりじゃないの
+C 調混じりの演技も　ふざけてばかりじゃないの
 
 いつでも私の笑顔を　朝も　昼も　夜も　夢も　何度でも思い出してね
 
@@ -989,11 +979,11 @@ C調混じりの演技も　ふざけてばかりじゃないの
 
 就连惊慌失措的态度，都是只属于两个人的暗号喔
 
-掺着C调的演技，也并不全是在胡闹
+掺着 C 调的演技，也并不全是在胡闹
 
 无论清晨白天夜晚还是梦里，无数次地想起我的笑脸吧
 
-I Love You　はあなただけ　You Love Me　はあたりまえ
+I Love You 　はあなただけ　 You Love Me 　はあたりまえ
 
 もっと　わたしを見て…
 
@@ -1001,13 +991,13 @@ I Love You，只有你，You Love Me，理所当然
 
 再多看看我吧......
 
-< repeat (*) >
+< repeat (\*) >
 
-I Love You　はあなただけ　You Love Me　はあたりまえ
+I Love You 　はあなただけ　 You Love Me 　はあたりまえ
 
-I Love You　はあなただけ　You Love Me　はあたりまえ
+I Love You 　はあなただけ　 You Love Me 　はあたりまえ
 
-I Love You　はあなただけだよ
+I Love You 　はあなただけだよ
 
 I Love You，只有你，You Love Me，理所当然
 
@@ -1015,14 +1005,13 @@ I Love You，只有你，You Love Me，理所当然
 
 I Love You，只有你喔
 
-
 ### 「まるで嘘のように…♡」
 
 **简直不像是真的……♡**
 
-*作曲 / 作詞：清竜人*
+_作曲 / 作詞：清竜人_
 
-*編曲：川田瑠夏*
+_編曲：川田瑠夏_
 
 La La La…
 
@@ -1040,15 +1029,15 @@ LaLaLa…
 
 不管是像在重复的每一天，还是崭新的美好日子
 
-あぁ　I want to close my eyes　君の口癖　仕草がさ　消えないよ
+あぁ　 I want to close my eyes 　君の口癖　仕草がさ　消えないよ
 
-ねえ　Darling…　Because I love…　もうね　きっと　染み付いてるんだ
+ねえ　 Darling…　 Because I love…　もうね　きっと　染み付いてるんだ
 
 どこにいたってさ　まるで　嘘のように　見つけられるから
 
 啊啊，I want to close my eyes，你常说的话还有你的动作，不要消逝啊
 
-呐，Darling…　Because I love…肯定已经牢牢粘上了
+呐，Darling…　 Because I love…肯定已经牢牢粘上了
 
 无论在哪里，都被注视着，简直不像是真的
 
@@ -1064,25 +1053,25 @@ LaLaLa…
 
 不管是在人群中，还是在喧闹的市郊
 
-ああ　I want to close my mouth　君の歌声　笑顔がさ　消えないよ
+ああ　 I want to close my mouth 　君の歌声　笑顔がさ　消えないよ
 
-ねえ　Darling…　Because I know…　そうね　きっと　住み着いてるんだ
+ねえ　 Darling…　 Because I know…　そうね　きっと　住み着いてるんだ
 
 なにしていたってさ　まるで　夢のように　探し出せるから
 
 啊啊，I want to close my eyes，你的歌声还有笑脸，不要消逝啊
 
-呐，Darling…　Because I know…是啊，肯定已经安然习惯了
+呐，Darling…　 Because I know…是啊，肯定已经安然习惯了
 
 无论在干什么，都能被找出来，简直像是在做梦一样
 
 これから　いつまでも
 
-I want to close my eyes　君の口癖　仕草がさ　消えないよ
+I want to close my eyes 　君の口癖　仕草がさ　消えないよ
 
-ねえ　Darling…　Because I love…　もうね　きっと　染み付いてるんだ
+ねえ　 Darling…　 Because I love…　もうね　きっと　染み付いてるんだ
 
-どこにいたってさ　まるで　嘘のように　見つけられるから　Miss you…
+どこにいたってさ　まるで　嘘のように　見つけられるから　 Miss you…
 
 Ru Ru Ru Ru…
 
@@ -1090,23 +1079,22 @@ Ru Ru Ru Ru…
 
 啊啊，I want to close my eyes，你常说的话还有你的动作，不要消逝啊
 
-呐，Darling…　Because I love…肯定已经牢牢粘上了
+呐，Darling…　 Because I love…肯定已经牢牢粘上了
 
 无论在哪里，都被注视着，简直不像是真的 Miss you…
 
 Ru Ru Ru Ru…
 
-
 ## 成员介绍：
 
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1fabzygwsduj211c0onan3.jpg)
+![img](/images/posts/e17094f2gw1fabzygwsduj211c0onan3.jpg)
 
-清 竜人25（左至右）：清 可恩、清 亜美、清 咲乃、清 竜人、清 桃花、清 美咲、清 優華
+清 竜人 25（左至右）：清 可恩、清 亜美、清 咲乃、清 竜人、清 桃花、清 美咲、清 優華
 
 P.S.
 
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1fac01ksmatj20xc0irn0z.jpg)
+![img](/images/posts/e17094f2gw1fac01ksmatj20xc0irn0z.jpg)
 
 **基佬前山田健一说：「双眼无法从清龙人身上移开！！」**
 
-（节目环节标题：「对大卖偶像producer的禁忌提问：感到嫉妒的由别人创作的作品是？」）
+（节目环节标题：「对大卖偶像 producer 的禁忌提问：感到嫉妒的由别人创作的作品是？」）

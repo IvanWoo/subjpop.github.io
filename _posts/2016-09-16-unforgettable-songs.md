@@ -3,7 +3,7 @@ date: 2016-09-16
 title: Vol. 07 那些让人难以舍弃的歌
 dj: marusan
 categories:
-  - songs for a break
+    - songs for a break
 featured_image: /images/banners/7.jpg
 stream_url: http://www.lizhi.fm/1913563/2557068909643039238
 playlist: |-
@@ -24,26 +24,24 @@ playlist: |-
     15. sora tob sakana「クラウチングスタート」（from 1st single「夜空を全部」2015/10/10）
 
 albums: |-
-  * [「sora tob sakana」](http://ototoy.jp/_/default/p/64673)
-  * [「LUNATIQUE」](http://t.cn/RtprUmH)
-  * [「LUNATIQUE」](http://t.cn/Rtpr4nu=)
-  * [「UMA」](http://ototoy.jp/_/default/a/85357)
-  * [「乙女新党 第二幕 ～旅立ちのうた～」](http://ototoy.jp/_/default/p/63294)
-  * [「bathroom」](http://ototoy.jp/_/default/p/56209)
-  * [「夜空を全部」](http://ototoy.jp/_/default/p/56860)
-
+    * [「sora tob sakana」](http://ototoy.jp/_/default/p/64673)
+    * [「LUNATIQUE」](http://t.cn/RtprUmH)
+    * [「LUNATIQUE」](http://t.cn/Rtpr4nu=)
+    * [「UMA」](http://ototoy.jp/_/default/a/85357)
+    * [「乙女新党 第二幕 ～旅立ちのうた～」](http://ototoy.jp/_/default/p/63294)
+    * [「bathroom」](http://ototoy.jp/_/default/p/56209)
+    * [「夜空を全部」](http://ototoy.jp/_/default/p/56860)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### SUMMER PLAN
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f7v0a9u0oej20dw0dwad1.jpg)
 
-*作曲／作词／编曲：照井顺政*
+![img](/images/posts/e17094f2gw1f7v0a9u0oej20dw0dwad1.jpg)
+
+_作曲／作词／编曲：照井顺政_
 
 夜の足音が聞こえてきて
 
@@ -163,27 +161,23 @@ albums: |-
 
 让我知道答案吧
 
-
-
-
 ### Fetish
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f7uzspnpvej20dw0dwdhg.jpg)
 
-*曲：石野卓球*
+![img](/images/posts/e17094f2gw1f7uzspnpvej20dw0dwdhg.jpg)
+
+_曲：石野卓球_
 
 （无词）
 
-
-
-
 ### フェニックス
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f7uzu4wqbdj20dw0dwtda.jpg)
+
+![img](/images/posts/e17094f2gw1f7uzu4wqbdj20dw0dwtda.jpg)
 
 **Phoenix**
 
-*作曲／作詞：KOM_I & Kenmochi Hidefumi*
+_作曲／作詞：KOM_I & Kenmochi Hidefumi_
 
-*编曲：Myd*
+_编曲：Myd_
 
 奈良
 
@@ -219,7 +213,7 @@ albums: |-
 
 燃える鳥かご懐かしむ
 
-羽休める20年
+羽休める 20 年
 
 不过人去不留麻烦
 
@@ -227,7 +221,7 @@ albums: |-
 
 燃烧的鸟笼让人怀念
 
-休养生息20年
+休养生息 20 年
 
 イパネマビーチ　脱皮して新天地
 
@@ -281,9 +275,9 @@ albums: |-
 
 直到彼岸
 
-「さぁ、今日はゲストが来てくださってます。20かのお寺にちなんだユニークなデビュー曲。なんと33万枚の大ヒット！！それではご本人に歌っていただきましょう！！盧遮那仏サンバー」
+「さぁ、今日はゲストが来てくださってます。20 かのお寺にちなんだユニークなデビュー曲。なんと 33 万枚の大ヒット！！それではご本人に歌っていただきましょう！！盧遮那仏サンバー」
 
-「好，今天我们邀请到了一位嘉宾。源自20多间寺庙的非常特别的出道歌曲。而且还是销量33万张的大HIT！那么接下来就请他本人为我们献上一曲！！卢舍那佛桑巴！！」
+「好，今天我们邀请到了一位嘉宾。源自 20 多间寺庙的非常特别的出道歌曲。而且还是销量 33 万张的大 HIT！那么接下来就请他本人为我们献上一曲！！卢舍那佛桑巴！！」
 
 バッと咲いたっていつ散るさ
 
@@ -325,18 +319,15 @@ albums: |-
 
 桑巴
 
-
-
-
-
 ### ツチノコっていると思う...？
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1f7uzxce7hyj20dw0e4dja.jpg)
+
+![img](/images/posts/e17094f2gw1f7uzxce7hyj20dw0e4dja.jpg)
 
 **你觉得土龙这东西它存在吗......？**
 
-*作曲／作词／编曲：清龙人*
+_作曲／作词／编曲：清龙人_
 
-Hey！　You！　Answer My Question！！
+Hey！　 You！　 Answer My Question！！
 
 あなたは　ツチノコっていると思う...？
 
@@ -448,7 +439,7 @@ Pardon me！？
 
 比起真相，更想被你相信，现在就是这样的季节......
 
-I miss you... (あなたにこれだけ)　I feel you... (あなたにこっそり)
+I miss you... (あなたにこれだけ)　 I feel you... (あなたにこっそり)
 
 今日も　明日も　これからずっと　あなたを　見てたいの…
 
@@ -500,7 +491,7 @@ How about you！？
 
 凯尔派水妖 尼斯湖水怪 我 和你也是吧……？
 
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f7uzzr8ckkj20dw0dwn0w.jpg)
+![img](/images/posts/e17094f2gw1f7uzzr8ckkj20dw0dwn0w.jpg)
 
 ### old friend's song
 
@@ -508,24 +499,19 @@ How about you！？
 
 （无词）
 
-
-
-
 ### Be Me
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f7v00nsgymj20dw0cbmzo.jpg)
 
-*作词：KOHH、制作：I-DeA for flashsounds*
+![img](/images/posts/e17094f2gw1f7v00nsgymj20dw0cbmzo.jpg)
+
+_作词：KOHH、制作：I-DeA for flashsounds_
 
 （暂时欠奉）
 
-
-
-
-
 ### last scene
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f7v023ybdyj20dw0dwjs3.jpg)
 
-*作词／作曲／编曲：樱井健太*
+![img](/images/posts/e17094f2gw1f7v023ybdyj20dw0dwjs3.jpg)
+
+_作词／作曲／编曲：樱井健太_
 
 夢の最後の瞬間を、今も震えて思い出す
 
@@ -599,15 +585,13 @@ How about you！？
 
 白色的毛巾已在逐渐消逝。呐。
 
-
-
-
 ### クラウチングスタート
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1f7v03y2dpqj20dw0dwad1.jpg)
+
+![img](/images/posts/e17094f2gw1f7v03y2dpqj20dw0dwad1.jpg)
 
 **Crouching Start / 蹲踞式起跑**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 砂の混ざった風の中で
 

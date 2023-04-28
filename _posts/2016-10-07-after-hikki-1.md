@@ -3,7 +3,7 @@ date: 2016-10-07
 title: Vol. 10 宇多田光之后・大比良瑞希 x Okamoto Emi
 dj: marusan
 categories:
-  - After Hikki
+    - After Hikki
 featured_image: /images/banners/10.jpg
 stream_url: http://www.lizhi.fm/1913563/2560764069721117190
 playlist: |-
@@ -21,24 +21,20 @@ playlist: |-
     12. フレンズ「夜にダンス」（from 1st Mini Album「ショー・チューン」2016/05/25）
 
 albums: |-
-  * [「TRUE ROMANCE」](http://ototoy.jp/_/default/p/63970)
-  * [「ストライク！」](http://ototoy.jp/_/default/a/125396)
-  * [「POOL」](http://ototoy.jp/_/default/a/125396)
-
+    * [「TRUE ROMANCE」](http://ototoy.jp/_/default/p/63970)
+    * [「ストライク！」](http://ototoy.jp/_/default/a/125396)
+    * [「POOL」](http://ototoy.jp/_/default/a/125396)
 ---
 
 <!-- hide excerpt -->
-<!--http://ww2.sinaimg.cn/crop.0.92.1000.562.1000.562/e17094f2gw1f8js2w9puaj20rs0rfn3k.jpg-->
 
 ## 歌词
 
-
-
-
 ### 「TIME LIMIT」
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrew8ml2j20dw0dt0vu.jpg)
 
-*作詞 / 作曲 / 編曲：大比良瑞希 & 伊藤修平*
+![img](/images/posts/e17094f2gw1f8jrew8ml2j20dw0dt0vu.jpg)
+
+_作詞 / 作曲 / 編曲：大比良瑞希 & 伊藤修平_
 
 脱ぎ捨てられた赤いワンピース
 
@@ -66,7 +62,7 @@ albums: |-
 
 とめどなく君が好きなのに
 
-たそがれのロンリー　
+たそがれのロンリー
 
 加速一步上前
 
@@ -74,7 +70,7 @@ albums: |-
 
 明明那么地喜欢你
 
-黄昏的lonely
+黄昏的 lonely
 
 ピアノを弾く長い指が
 
@@ -102,7 +98,7 @@ albums: |-
 
 東京を見渡せばどこか
 
-悪くないロンリー　
+悪くないロンリー
 
 加速一步上前
 
@@ -110,7 +106,7 @@ albums: |-
 
 俯瞰东京的话要在哪里
 
-也不算坏的lonely
+也不算坏的 lonely
 
 スピードをあげる一歩前
 
@@ -134,7 +130,7 @@ lalalala
 
 とめどなく君が好きなのに
 
-たそがれのロンリー　
+たそがれのロンリー
 
 加速一步上前
 
@@ -142,7 +138,7 @@ lalalala
 
 明明那么地喜欢你
 
-黄昏的lonely
+黄昏的 lonely
 
 スピードをあげる一歩前
 
@@ -158,14 +154,13 @@ lalalala
 
 俯瞰东京的话在哪里
 
-也不算坏的lonely
+也不算坏的 lonely
 
+### 微熱
 
-### 微熱 
+_作詞 / 作曲 / 編曲：大比良瑞希 & 伊藤修平_
 
-*作詞 / 作曲 / 編曲：大比良瑞希 & 伊藤修平*
-
-かかとからつまさきへと 運ぶ私は揺られながら 
+かかとからつまさきへと 運ぶ私は揺られながら
 
 月明かり照らして あなたへの近道 消えぬよう 守りたいの
 
@@ -193,7 +188,7 @@ lalalala
 
 月日のループからはみ出したい
 
-I want to live in love with the flow of time slowly and slowly. 
+I want to live in love with the flow of time slowly and slowly.
 
 And I want be drunk in your eyes.
 
@@ -203,15 +198,13 @@ All the time, looking for your love and mystery.
 
 Everyone person find the time it fell out.
 
-One day all seems a beautiful day come. 
+One day all seems a beautiful day come.
 
 Between the blink and the blink like see stars.
 
-
-
 ### 「Sunday Monday」
 
-*作詞 / 作曲 / 編曲：大比良瑞希*
+_作詞 / 作曲 / 編曲：大比良瑞希_
 
 言い訳して うまく逃げてきた午後 向かう先は 決まって
 
@@ -229,11 +222,11 @@ Between the blink and the blink like see stars.
 
 就这样被吸进还未踏入过的街道也挺好
 
-見てて目をそらさないで 君とSunday Monday いつだって
+見てて目をそらさないで 君と Sunday Monday いつだって
 
 それだけでいいのに忙しい夜もどんな朝もねぇ
 
-看着我，不要移开眼，和你在一起的Sunday、Monday，无论什么时候
+看着我，不要移开眼，和你在一起的 Sunday、Monday，无论什么时候
 
 其实只是这样就好，忙碌的夜晚也好，怎样的清晨都好
 
@@ -255,11 +248,11 @@ Between the blink and the blink like see stars.
 
 聞いて欲しかったのはたいしたことない戯言
 
-それだけでいいのに 巡るSunday Mondayいつだってそう
+それだけでいいのに 巡る Sunday Monday いつだってそう
 
 想要你听我说的，其实不过是无关紧要的玩笑
 
-其实只是这样就好，来了又回的Sunday、Monday，无论什么时候这样就好
+其实只是这样就好，来了又回的 Sunday、Monday，无论什么时候这样就好
 
 聞いて欲しかったのは 戯言だけど
 
@@ -271,20 +264,17 @@ Between the blink and the blink like see stars.
 
 見てて目をそらさないで
 
-看着我，不要移开眼，和你在一起的Sunday Monday，无论什么时候
+看着我，不要移开眼，和你在一起的 Sunday Monday，无论什么时候
 
 其实只是这样就好，忙碌的夜晚也好，怎样的清晨都好
 
 看着我，不要移开眼
 
-
-
 ### HIT NUMBER
 
-![おかもとえみ「ストライク！」](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrplt6jsj20dw0dwta8.jpg)
+![おかもとえみ「ストライク！」](/images/posts/e17094f2gw1f8jrplt6jsj20dw0dwta8.jpg)
 
-*作詞 / 作曲：おかもとえみ*
-
+_作詞 / 作曲：おかもとえみ_
 
 恋をしたら聴こえるリズム
 
@@ -292,7 +282,7 @@ Between the blink and the blink like see stars.
 
 本当に内緒ね? 間違えてたら教えてよ
 
-午前6時 夢の中大きなあくび
+午前 6 時 夢の中大きなあくび
 
 ああ 会いに行くね
 
@@ -330,7 +320,7 @@ Everyday 波風立てる
 
 本当に内緒ね? 間違えてたら教えてよ
 
-午前6時 夢の中大きなあくび
+午前 6 時 夢の中大きなあくび
 
 ああ 会いに行くね
 
@@ -342,10 +332,9 @@ Everyday 波風立てる
 
 きっとちょっと好きになる
 
-
 ### 東京サーチライト
 
-*作詞 / 作曲：おかもとえみ*
+_作詞 / 作曲：おかもとえみ_
 
 あー 夜は長く長く 今日を思い出させて
 
@@ -405,18 +394,17 @@ Everyday 波風立てる
 
 東京サーチライト照らす明かりが
 
-
-
 ### 夜にダンス
-![Friends「Show Tune」](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrmmqnyrj20dw0dwwjd.jpg)
 
-**在夜里DANCE**
+![Friends「Show Tune」](/images/posts/e17094f2gw1f8jrmmqnyrj20dw0dwwjd.jpg)
 
-*作詞：おかもとえみ*
+**在夜里 DANCE**
 
-*作曲：ひろせひろせ*
+_作詞：おかもとえみ_
 
-*編曲：フレンズ*
+_作曲：ひろせひろせ_
+
+_編曲：フレンズ_
 
 このままパーティーが終われば 私の手をとり 急ぐナイト
 
@@ -426,7 +414,7 @@ Everyday 波風立てる
 
 シナリオ通りにいかないね 少し期待するんだ
 
-赶紧这样结束party吧然后拉着我的手，真是让人着急的一晚
+赶紧这样结束 party 吧然后拉着我的手，真是让人着急的一晚
 
 回过头一看，classic，显而易见，梦做过头一场空
 
@@ -458,9 +446,9 @@ EVERYBODY👨👨👦👦 say! Good answer！👍🏻
 
 dancing the night through the night
 
-期待したいくらい君に夢中　
+期待したいくらい君に夢中
 
-2人きりパーティーに不埒なリズム　変わり出す 回り出す
+2 人きりパーティーに不埒なリズム　変わり出す 回り出す
 
 嫌いじゃないみたいすぐに up to you かなりときめいちゃってたまんないよ
 
@@ -468,9 +456,9 @@ dancing the night through the night
 
 怀抱期待地为你着迷
 
-只有两人的party，可恶的rhythm，出现变数，迂回反复
+只有两人的 party，可恶的 rhythm，出现变数，迂回反复
 
-看你好像不讨厌我，那么马上就up to you，心跳加速完全停不下呀
+看你好像不讨厌我，那么马上就 up to you，心跳加速完全停不下呀
 
 dancing the night through the night
 
@@ -486,9 +474,9 @@ dancing the night through the night
 
 floor，晃动着，还不开口
 
-无法传达的最差劲communication
+无法传达的最差劲 communication
 
-要是我的话，「对不起」，kiss，「这是告别的印记哦cry baby」
+要是我的话，「对不起」，kiss，「这是告别的印记哦 cry baby」
 
 那样的妄想根本停不下来吧，连唱片都一直决定好了
 
@@ -520,7 +508,7 @@ dancing the night through the night
 
 期待したいじゃない君とラブストーリー
 
-2人だけマジな視線合わす 今頃 気づき出す
+2 人だけマジな視線合わす 今頃 気づき出す
 
 嫌いじゃないみたいなのは good for you
 
@@ -528,11 +516,11 @@ dancing the night through the night
 
 dancing the night through the night
 
-难道不期待吗，和你的love story
+难道不期待吗，和你的 love story
 
 只有两人的真正的视线交错，现在才意识过来
 
-这么说来你好像不讨厌我啊，那还真算是good for you
+这么说来你好像不讨厌我啊，那还真算是 good for you
 
 心跳加速完全停不下来呀
 
@@ -580,19 +568,19 @@ dancing the night through the night
 
 期待したいじゃない君とラブストーリー
 
-2人だけマジな視線合わす 今頃 気づき出す
+2 人だけマジな視線合わす 今頃 気づき出す
 
-嫌いじゃないみたいなのはgood for you
+嫌いじゃないみたいなのは good for you
 
 かなりときめいちゃってたまんないよ
 
 dancing the night through the night
 
-难道不期待吗，和你的love story
+难道不期待吗，和你的 love story
 
 只有两人的真正的视线交错，现在才意识过来
 
-这么说来你好像不讨厌我啊，那还真算是good for you
+这么说来你好像不讨厌我啊，那还真算是 good for you
 
 心跳加速完全停不下来呀
 
@@ -600,9 +588,9 @@ dancing the night through the night
 
 期待したいくらい君に夢中
 
-2人きりパーティーに不埒なリズム 変わり出す 回り出す
+2 人きりパーティーに不埒なリズム 変わり出す 回り出す
 
-嫌いじゃないみたいすぐにup to you
+嫌いじゃないみたいすぐに up to you
 
 かなりときめいちゃってたまんないよ
 
@@ -610,30 +598,28 @@ dancing the night through the night
 
 怀抱期待地为你着迷
 
-只有两人的party，可恶的rhythm，出现变数，迂回反复
+只有两人的 party，可恶的 rhythm，出现变数，迂回反复
 
-看你好像不讨厌我，那么马上就up to you，心跳加速完全停不下呀
+看你好像不讨厌我，那么马上就 up to you，心跳加速完全停不下呀
 
 dancing the night through the night
 
-
 **因工作忙碌这回就先翻了这么几首，其余暂时欠奉，总之大家就先来欣赏一下封套**
 
-![おかもとえみ「POOL」](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrtnq61sj20dw0dw0tg.jpg)
+![おかもとえみ「POOL」](/images/posts/e17094f2gw1f8jrtnq61sj20dw0dw0tg.jpg)
 
 おかもとえみ「POOL」
 
-![V.A.「Mona Compi ～かけだしてく～」](http://ww3.sinaimg.cn/large/e17094f2gw1f8jrq1zlphj20dw0dwdii.jpg)
+![V.A.「Mona Compi ～かけだしてく～」](/images/posts/e17094f2gw1f8jrq1zlphj20dw0dwdii.jpg)
 
 V.A.「Mona Compi ～かけだしてく～」
 
-
 **最后是写真两张**
 
-![大比良瑞希在LUCKY TAPES二专的巡演上](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrwxcst1j20xc0m80wp.jpg)
+![大比良瑞希在LUCKY TAPES二专的巡演上](/images/posts/e17094f2gw1f8jrwxcst1j20xc0m80wp.jpg)
 
-大比良瑞希在LUCKY TAPES二专的巡演上
+大比良瑞希在 LUCKY TAPES 二专的巡演上
 
-![穿科乐特奏队制服的Okamoto Emi](http://ww4.sinaimg.cn/large/e17094f2gw1f8jrxp443hj20sg0iy40j.jpg)
+![穿科乐特奏队制服的Okamoto Emi](/images/posts/e17094f2gw1f8jrxp443hj20sg0iy40j.jpg)
 
-穿科乐特奏队制服的Okamoto Emi
+穿科乐特奏队制服的 Okamoto Emi

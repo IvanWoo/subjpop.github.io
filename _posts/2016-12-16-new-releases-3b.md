@@ -3,7 +3,7 @@ date: 2016-12-16
 title: Vol. 19-2 我们来听新唱片！！！
 dj: mimida
 categories:
-  - NEW releases
+    - NEW releases
 featured_image: /images/banners/19-2.jpg
 stream_url: http://www.lizhi.fm/1913563/2573898143910512134
 playlist: |-
@@ -18,32 +18,28 @@ playlist: |-
     9. 🎙️
     10. cero「ロープウェー」（from 3rd single「街の報せ」2016/12/07）
 albums: |-
-  * [「歳時記・第一巻」](http://ototoy.jp/_/default/p/68339)
-  * [「中卒」](http://mora.jp/package/43000001/4547366286274)
-  * [「Return To My Innocence」](http://ototoy.jp/_/default/p/60721)
-  * [「river (cloudy irony)」](http://ototoy.jp/_/default/p/68506)
-  * [「工業製品」](http://ototoy.jp/_/default/p/69065)
-  * [「Avalon」](http://ototoy.jp/_/default/p/66872)
-  * [「街の報せ」](http://ototoy.jp/_/default/p/68361)
+    * [「歳時記・第一巻」](http://ototoy.jp/_/default/p/68339)
+    * [「中卒」](http://mora.jp/package/43000001/4547366286274)
+    * [「Return To My Innocence」](http://ototoy.jp/_/default/p/60721)
+    * [「river (cloudy irony)」](http://ototoy.jp/_/default/p/68506)
+    * [「工業製品」](http://ototoy.jp/_/default/p/69065)
+    * [「Avalon」](http://ototoy.jp/_/default/p/66872)
+    * [「街の報せ」](http://ototoy.jp/_/default/p/68361)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
-
-
-
 ### 「正月はええもんだ」
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas80cxg4tj20dw0dwdg6.jpg)
+
+![img](/images/posts/e17094f2gw1fas80cxg4tj20dw0dwdg6.jpg)
 
 **正月好**
 
-*詞·曲：传统童谣*
+_詞·曲：传统童谣_
 
-*編曲：石田彰*
+_編曲：石田彰_
 
 正月はええもんだ
 
@@ -81,13 +77,11 @@ albums: |-
 
 跟着去问家里要了一贯钱
 
-
-
-
 ### 「梅」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1fas8155nd2j20dw0dsq4l.jpg)
 
-*作詞·作曲·編曲：前山田健一*
+![img](/images/posts/e17094f2gw1fas8155nd2j20dw0dsq4l.jpg)
+
+_作詞·作曲·編曲：前山田健一_
 
 人知れず
 
@@ -149,7 +143,7 @@ albums: |-
 
 啊啊永远都是第二位
 
-*ワタシモ　咲イテ　イマス
+\*ワタシモ　咲イテ　イマス
 
 香リハ　イイ香リ　デス
 
@@ -195,7 +189,7 @@ I cannot be SAKURA
 
 肯定有一个人，一定在看着你
 
-为了那个人，绽放你的花朵吧*
+为了那个人，绽放你的花朵吧\*
 
 UME!
 
@@ -229,7 +223,7 @@ UME!
 
 (ハラヒレホレハラ)
 
-U　M　E　で　梅
+U 　 M 　 E 　で　梅
 
 有名に　なんのが　夢
 
@@ -243,7 +237,7 @@ U　M　E　で　梅
 
 （Ha Ra Hi Re Ho Re Ha Ra）
 
-U　M　E　拼成　梅
+U 　 M 　 E 　拼成　梅
 
 变得有名是梦想
 
@@ -313,7 +307,7 @@ U　M　E　拼成　梅
 
 喂，我就是我
 
-repeat *
+repeat \*
 
 UME!
 
@@ -351,15 +345,15 @@ UME!
 
 梦想的花
 
-
 ### 「été」
-![img](http://ww1.sinaimg.cn/large/e17094f2gw1fas85zabdej20dw0dw0uu.jpg)
+
+![img](/images/posts/e17094f2gw1fas85zabdej20dw0dw0uu.jpg)
 
 **夏**
 
-*作詞：小林愛*
+_作詞：小林愛_
 
-*作曲·編曲：ハシダカズマ（箱庭の室内楽）*
+_作曲·編曲：ハシダカズマ（箱庭の室内楽）_
 
 やり残しのことがあるような
 
@@ -437,13 +431,11 @@ UME!
 
 积水中映出的花瓣无论是什么颜色都无所谓
 
-
-
 ### Maison book girl「karma」
 
-![img](http://ww2.sinaimg.cn/large/e17094f2gw1fas85skekrj20dw0ds0x1.jpg)
+![img](/images/posts/e17094f2gw1fas85skekrj20dw0ds0x1.jpg)
 
-*作詞・作曲・編曲：樱井健太*
+_作詞・作曲・編曲：樱井健太_
 
 夏の雨、あの日とは違う雨、それに気付けずに。
 
@@ -489,7 +481,7 @@ UME!
 
 歪掉的我们，永远都不会变了吧？
 
-午前4時の憂鬱が細い手首を照らして
+午前 4 時の憂鬱が細い手首を照らして
 
 夢の中だけでいいの　何もかも許してよ
 
@@ -503,7 +495,7 @@ UME!
 
 甘い咬み傷の様　赤く泣いてるの
 
-凌晨4点的犹豫照射着纤细的手腕
+凌晨 4 点的犹豫照射着纤细的手腕
 
 只是在梦里也好，无论什么都会被原谅
 
@@ -551,13 +543,13 @@ UME!
 
 ### テンテンコ「流氷のこども」
 
-![img](http://ww4.sinaimg.cn/large/e17094f2gw1fas88ez0g7j20dw0dw76m.jpg)
+![img](/images/posts/e17094f2gw1fas88ez0g7j20dw0dw76m.jpg)
 
 **浮冰的孩子**
 
-*作詞：tentenko*
+_作詞：tentenko_
 
-*作曲：七尾旅人*
+_作曲：七尾旅人_
 
 ずっとずっと　前から知ってる
 
@@ -579,7 +571,7 @@ Darling，要找出来啊，Darling
 
 轻轻地，轻轻地
 
-My Endless Journey　永遠　続くの
+My Endless Journey 　永遠　続くの
 
 潮風がはこぶ　流れにまかせて
 
@@ -599,7 +591,7 @@ Darling，把门打开啊，Darling
 
 水平線から　流れ着いたのよ
 
-My Endless Journey　どこまでも続く
+My Endless Journey 　どこまでも続く
 
 君の呼ぶ声が　聞こえるとこまで
 
@@ -729,11 +721,11 @@ My Endless Journey
 
 ### amiinA「lilla」
 
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas8f0msfyj20dw0dwgnv.jpg)
+![img](/images/posts/e17094f2gw1fas8f0msfyj20dw0dwgnv.jpg)
 
-*作詞：齊藤州一*
+_作詞：齊藤州一_
 
-*作曲：櫻井幸太*
+_作曲：櫻井幸太_
 
 Free your mind in the world
 
@@ -791,15 +783,13 @@ lilla… lila… lilla…
 
 lilla… lila… lilla…
 
-
-
 ### cero「ロープウェー」
 
-![img](http://ww3.sinaimg.cn/large/e17094f2gw1fas8hndhe6j20dw0dwwff.jpg)
+![img](/images/posts/e17094f2gw1fas8hndhe6j20dw0dwwff.jpg)
 
-*作词／作曲：高城晶平*
+_作词／作曲：高城晶平_
 
-*编曲：cero*
+_编曲：cero_
 
 空に砕け散るムクドリの群れ
 
@@ -841,53 +831,52 @@ Everything's Gone To The Foggy Outside
 
 （翻译暂时欠奉）
 
-
 ## 人物介绍
 
-![水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lijf3vj20jg0cywfw.jpg)
+![水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）](/images/posts/e17094f2gw1fas8lijf3vj20jg0cywfw.jpg)
 
 水曜日のカンパネラ（Dir.F, KOM_I, Kenmochi Hidefumi）
 
-![sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8mo750rj20xc0p0q70.jpg)
+![sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）](/images/posts/e17094f2gw1fas8mo750rj20xc0p0q70.jpg)
 
 sora tob sakana（神﨑風花, 山崎愛, 寺口夏花, 風間玲マライカ）
 
-![CHICO CARLITO](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liwdi1j21be0qowgj.jpg)
+![CHICO CARLITO](/images/posts/e17094f2gw1fas8liwdi1j21be0qowgj.jpg)
 
 CHICO CARLITO
 
-![ACE & 般若](http://ww4.sinaimg.cn/large/e17094f2gw1fas8li2ly9j20go09edgf.jpg)
+![ACE & 般若](/images/posts/e17094f2gw1fas8li2ly9j20go09edgf.jpg)
 
 ACE & 般若
 
-![KOHH](http://ww2.sinaimg.cn/large/e17094f2gw1fas8lipqbzj20yz0jlq54.jpg)
+![KOHH](/images/posts/e17094f2gw1fas8lipqbzj20yz0jlq54.jpg)
 
 KOHH
 
-![サ上と中江（サイプレス上野, 中江友梨）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8lj30prj20ka0f842q.jpg)
+![サ上と中江（サイプレス上野, 中江友梨）](/images/posts/e17094f2gw1fas8lj30prj20ka0f842q.jpg)
 
 サ上と中江（サイプレス上野, 中江友梨）
 
-![テンテンコ（tentenko）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8liei0sj20hs0qo75i.jpg)
+![テンテンコ（tentenko）](/images/posts/e17094f2gw1fas8liei0sj20hs0qo75i.jpg)
 
 テンテンコ（tentenko）
 
-![3776（井出ちよの）](http://ww3.sinaimg.cn/large/e17094f2gw1fas8ljd8n0j20qo0hs76n.jpg)
+![3776（井出ちよの）](/images/posts/e17094f2gw1fas8ljd8n0j20qo0hs76n.jpg)
 
 3776（井出ちよの）
 
-![私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll11qtj20go0b4jvy.jpg)
+![私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）](/images/posts/e17094f2gw1fas8ll11qtj20go0b4jvy.jpg)
 
 私立恵比寿中学（安本, 松野, 真山, 柏木, 星名, 廣田, 小林, 中山）
 
-![ようなぴ（from ゆるめるモ！）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8lk83pej20ka0djwh3.jpg)
+![ようなぴ（from ゆるめるモ！）](/images/posts/e17094f2gw1fas8lk83pej20ka0djwh3.jpg)
 
 ようなぴ（from ゆるめるモ！）
 
-![amiinA（miyu, ami）](http://ww1.sinaimg.cn/large/e17094f2gw1fas8lkg5spj20ic0c8tb2.jpg)
+![amiinA（miyu, ami）](/images/posts/e17094f2gw1fas8lkg5spj20ic0c8tb2.jpg)
 
 amiinA（miyu, ami）
 
-![cero（荒内佑, 橋本翼, 高城晶平）](http://ww4.sinaimg.cn/large/e17094f2gw1fas8ll7xizj20p00xcgrm.jpg)
+![cero（荒内佑, 橋本翼, 高城晶平）](/images/posts/e17094f2gw1fas8ll7xizj20p00xcgrm.jpg)
 
 cero（荒内佑, 橋本翼, 高城晶平）

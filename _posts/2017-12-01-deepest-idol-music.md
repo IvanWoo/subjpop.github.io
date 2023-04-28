@@ -3,50 +3,47 @@ date: 2017-12-01
 title: Vol. 37 下潜到偶像音乐的最深处：姫乃たま・Himeno Tama
 dj: mimida
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/37.jpg
 stream_url: https://www.lizhi.fm/1913563/2638895947941660678
 playlist: |-
-  1. 僕とジョルジュ「恋のすゝめ」(from 1st album『僕とジョルジュ』2015/08/19)  
-  2. 僕とジョルジュ「鳥踏んじゃった」(from 2nd album『僕とジョルジュ2』2017/02/08)  
-  3. 僕とジョルジュ「変な恋」(from 1st album『僕とジョルジュ』2015/08/19) 
-  4. 🎙️
-  5. ひめとまほう「ひめとまほう」(from 1st single『ひめとまほう』2016/05/22) 
-  6. ひめとまほう「ラストサマー」(from 1st single『ひめとまほう』2016/05/22)
-  7. 🎙️
-  8. 姫乃たま「no name」(from 2nd solo album『もしもし、今日はどうだった』2017/08/23)
-  9. 姫乃たま「言いたいことがあるんだよ」(from 1st solo album『First Order』2016/11/23) 
-  10. 姫乃たま「やすらぎインダハウス」(from 2nd solo album『もしもし、今日はどうだった』2017/08/23)
-  11. 🎙️
-  12. 僕とジョルジュ「恋という病い」(from 1st single『僕とジョルジュ2.5』2017/02/08) 
+    1. 僕とジョルジュ「恋のすゝめ」(from 1st album『僕とジョルジュ』2015/08/19)  
+    2. 僕とジョルジュ「鳥踏んじゃった」(from 2nd album『僕とジョルジュ2』2017/02/08)  
+    3. 僕とジョルジュ「変な恋」(from 1st album『僕とジョルジュ』2015/08/19) 
+    4. 🎙️
+    5. ひめとまほう「ひめとまほう」(from 1st single『ひめとまほう』2016/05/22) 
+    6. ひめとまほう「ラストサマー」(from 1st single『ひめとまほう』2016/05/22)
+    7. 🎙️
+    8. 姫乃たま「no name」(from 2nd solo album『もしもし、今日はどうだった』2017/08/23)
+    9. 姫乃たま「言いたいことがあるんだよ」(from 1st solo album『First Order』2016/11/23) 
+    10. 姫乃たま「やすらぎインダハウス」(from 2nd solo album『もしもし、今日はどうだった』2017/08/23)
+    11. 🎙️
+    12. 僕とジョルジュ「恋という病い」(from 1st single『僕とジョルジュ2.5』2017/02/08)
 
 albums: |-
-  * [「僕とジョルジュ」](https://ototoy.jp/_/default/p/60050)
-  * [「僕とジョルジュ2」](https://itunes.apple.com/us/album/僕とジョルジュ2/1300049949)
-  * [「僕とジョルジュ2.5」](https://itunes.apple.com/us/album/僕とジョルジュ2-5/1300023069)
-  * [「ひめとまほう」](https://ototoy.jp/_/default/p/62854)
-  * [「First Order」](https://itunes.apple.com/jp/album/first-order/id1300028612)
-  * [「もしもし、今日はどうだった」](https://itunes.apple.com/jp/album/%E3%82%82%E3%81%97%E3%82%82%E3%81%97-%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%A9%E3%81%86%E3%81%A0%E3%81%A3%E3%81%9F/1300052868)
-
-
+    * [「僕とジョルジュ」](https://ototoy.jp/_/default/p/60050)
+    * [「僕とジョルジュ2」](https://itunes.apple.com/us/album/僕とジョルジュ2/1300049949)
+    * [「僕とジョルジュ2.5」](https://itunes.apple.com/us/album/僕とジョルジュ2-5/1300023069)
+    * [「ひめとまほう」](https://ototoy.jp/_/default/p/62854)
+    * [「First Order」](https://itunes.apple.com/jp/album/first-order/id1300028612)
+    * [「もしもし、今日はどうだった」](https://itunes.apple.com/jp/album/%E3%82%82%E3%81%97%E3%82%82%E3%81%97-%E4%BB%8A%E6%97%A5%E3%81%AF%E3%81%A9%E3%81%86%E3%81%A0%E3%81%A3%E3%81%9F/1300052868)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词及翻译
 
-
 ### 恋のすゝめ
 
-![『僕とジョルジュ』](https://wx4.sinaimg.cn/large/e17094f2gy1fm0m6slob3j20dw0dwgq2.jpg)
+![『僕とジョルジュ』](/images/posts/e17094f2gy1fm0m6slob3j20dw0dwgq2.jpg)
 
 『僕とジョルジュ』
 
 **劝恋篇**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：佐藤優介*
+_作曲：佐藤優介_
 
 今朝　目が覚めた時に　ふと気づいてしまったの
 
@@ -104,7 +101,7 @@ albums: |-
 
 踊って歩く
 
-从前　Grand Mer也曾恋爱吧？
+从前　 Grand Mer 也曾恋爱吧？
 
 在雨过天晴后的石阶上
 
@@ -128,40 +125,37 @@ albums: |-
 
 这世间　从很久很久前起就从未停止过　爱恋
 
-
 ### 鳥踏んじゃった
 
-![『僕とジョルジュ2』](https://wx2.sinaimg.cn/large/e17094f2gy1fm0m751blkj20dw0dwq7t.jpg)
+![『僕とジョルジュ2』](/images/posts/e17094f2gy1fm0m751blkj20dw0dwq7t.jpg)
 
-『僕とジョルジュ2』
+『僕とジョルジュ 2』
 
 **把鸟儿给踩着了**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：佐藤優介*
+_作曲：佐藤優介_
 
 声がでない理由は　いつか踏んだ鳥が死んだからか
 
 没有声响的原因是，不知什么时候踩到的鸟儿死掉了
 
-
-
 ### 変な恋
 
-![『僕恋のすゝめ / 変な恋』7' analog](https://wx3.sinaimg.cn/large/e17094f2gy1fm0mb91uy7j20dw0dt43c.jpg)
+![『僕恋のすゝめ / 変な恋』7' analog](/images/posts/e17094f2gy1fm0mb91uy7j20dw0dt43c.jpg)
 
 『僕恋のすゝめ / 変な恋』7' analog
 
 **奇怪的恋情**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：金子麻友美*
+_作曲：金子麻友美_
 
 君と僕は
 
-35歳
+35 歳
 
 離れてても
 
@@ -169,7 +163,7 @@ albums: |-
 
 你和我
 
-即便相差35岁
+即便相差 35 岁
 
 也亲如兄妹
 
@@ -205,16 +199,15 @@ albums: |-
 
 也是普通的恋情
 
-
 ### ひめとまほう
 
-![『ひめとまほう』](https://wx4.sinaimg.cn/large/e17094f2gy1fm0m7s734nj20dw0dx1cq.jpg)
+![『ひめとまほう』](/images/posts/e17094f2gy1fm0m7s734nj20dw0dx1cq.jpg)
 
 『ひめとまほう』
 
 **公主和魔法**
 
-*作詞・作曲：DJまほうつかい（西島大介）*
+_作詞・作曲：DJ まほうつかい（西島大介）_
 
 ね　優しく孤独が
 
@@ -328,12 +321,11 @@ albums: |-
 
 幽深的幽深的公主和魔法
 
-
 ### ラストサマー
 
 **Last Summer**
 
-*作詞・作曲：DJまほうつかい（西島大介）*
+_作詞・作曲：DJ まほうつかい（西島大介）_
 
 光る波　きらきらと
 
@@ -391,21 +383,17 @@ albums: |-
 
 我们的故事　早已不在
 
-
-
-
-
 ### 言いたいことがあるんだよ
 
-![『First Order』](https://wx2.sinaimg.cn/large/e17094f2gy1fm0m8dfqecj20dw0btwi1.jpg)
+![『First Order』](/images/posts/e17094f2gy1fm0m8dfqecj20dw0btwi1.jpg)
 
 『First Order』
 
 **其实我有想说的话呢**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：STX*
+_作曲：STX_
 
 あっ、コミュニケーションをうまくとれない人
 
@@ -499,19 +487,17 @@ albums: |-
 
 你也不会嘲笑我吧？不会讨厌我吧？
 
-
-
 ### やすらぎインダハウス
 
-![『もしもし、今日はどうだった』](https://wx4.sinaimg.cn/large/e17094f2gy1fm0m8sc4ngj20dw0dwdlq.jpg)
+![『もしもし、今日はどうだった』](/images/posts/e17094f2gy1fm0m8sc4ngj20dw0dwdlq.jpg)
 
 『もしもし、今日はどうだった』
 
 **心平气静 in da house**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：町あかり*
+_作曲：町あかり_
 
 傷ついてだめだね　キス好きね　なでなで
 
@@ -549,9 +535,9 @@ albums: |-
 
 粘兮兮的　这么说你也渴了吧？
 
-辛苦你了～in da house
+辛苦你了～ in da house
 
-心平气静in da house！
+心平气静 in da house！
 
 疲れてる　そんな時は　私ですがお呼びですか？
 
@@ -597,9 +583,9 @@ albums: |-
 
 相思病易碎　小心轻放
 
-坠入爱河了呢～～in da house
+坠入爱河了呢～～ in da house
 
-心平气静in da house！
+心平气静 in da house！
 
 疲れてる　そんな時は　私ですがお呼びですか？
 
@@ -637,9 +623,9 @@ albums: |-
 
 还是想被温柔的双臂拥抱的吧？
 
-没问题喔〜宝宝咿呀呀in da house
+没问题喔〜宝宝咿呀呀 in da house
 
-心平气静in da house！
+心平气静 in da house！
 
 疲れてる　そんな時は　私ですがお呼びですか？
 
@@ -656,20 +642,18 @@ albums: |-
 感到疲惫的时候　就呼唤不才的我吧？
 
 想让心情平静下来呐？ 就让我来替你收下吧　那些难过的情绪
-
-
 
 ### 恋という病い
 
-![『僕とジョルジュ2.5』](https://wx1.sinaimg.cn/large/e17094f2gy1fm0m93m7gaj20dw0dwgpz.jpg)
+![『僕とジョルジュ2.5』](/images/posts/e17094f2gy1fm0m93m7gaj20dw0dwgpz.jpg)
 
-『僕とジョルジュ2.5』
+『僕とジョルジュ 2.5』
 
 **名为爱情的病**
 
-*作詞：姫乃たま*
+_作詞：姫乃たま_
 
-*作曲：金子麻友美*
+_作曲：金子麻友美_
 
 「気が弱いふりをして意外と早熟なのね」
 
@@ -887,43 +871,42 @@ albums: |-
 
 但是也没有办法嘛
 
-
 ## 人物介绍
 
-![姫乃たま](https://wx3.sinaimg.cn/large/e17094f2gy1fm0mg4hwx6j20dc0jemyl.jpg)
+![姫乃たま](/images/posts/e17094f2gy1fm0mg4hwx6j20dc0jemyl.jpg)
 
 姫乃たま
 
-![僕とジョルジュ（佐藤優介、姫乃たま、金子麻友美）](https://wx1.sinaimg.cn/large/e17094f2gy1fm0mirhxisj20go09g77q.jpg)
+![僕とジョルジュ（佐藤優介、姫乃たま、金子麻友美）](/images/posts/e17094f2gy1fm0mirhxisj20go09g77q.jpg)
 
 僕とジョルジュ（佐藤優介、姫乃たま、金子麻友美）
 
-![荻野和夫](https://wx2.sinaimg.cn/large/e17094f2gy1fm0msayuzkj20xc0m8wgv.jpg)
+![荻野和夫](/images/posts/e17094f2gy1fm0msayuzkj20xc0m8wgv.jpg)
 
 荻野和夫
 
-![荻野和夫的Ghost乐队](https://wx3.sinaimg.cn/large/e17094f2gy1fm0msqyx2dj20gn0guq6f.jpg)
+![荻野和夫的Ghost乐队](/images/posts/e17094f2gy1fm0msqyx2dj20gn0guq6f.jpg)
 
-荻野和夫的Ghost乐队
+荻野和夫的 Ghost 乐队
 
-![ひめとまほう（姫乃たま、西島大介）](https://wx2.sinaimg.cn/large/e17094f2gy1fm0muexpjij20go0b4juy.jpg)
+![ひめとまほう（姫乃たま、西島大介）](/images/posts/e17094f2gy1fm0muexpjij20go0b4juy.jpg)
 
 ひめとまほう（姫乃たま、西島大介）
 
-![DJまほうつかい（西島大介）](https://wx2.sinaimg.cn/large/e17094f2gy1fm0mv9wi5qj20xc0p1acs.jpg)
+![DJまほうつかい（西島大介）](/images/posts/e17094f2gy1fm0mv9wi5qj20xc0p1acs.jpg)
 
-DJまほうつかい（西島大介）
+DJ まほうつかい（西島大介）
 
-![漫画家模式　西島大介](https://wx1.sinaimg.cn/large/e17094f2gy1fm0n3py7b4j20nm0el77z.jpg)
+![漫画家模式　西島大介](/images/posts/e17094f2gy1fm0n3py7b4j20nm0el77z.jpg)
 
 漫画家模式　西島大介
 
-![西島大介漫画『ディエンビエンフー / Điện Biên Phủ』（奠边府）](https://wx1.sinaimg.cn/large/e17094f2gy1fm0n4xsn70j209q0du0xw.jpg)
+![西島大介漫画『ディエンビエンフー / Điện Biên Phủ』（奠边府）](/images/posts/e17094f2gy1fm0n4xsn70j209q0du0xw.jpg)
 
 西島大介漫画『ディエンビエンフー / Điện Biên Phủ』（奠边府）
 
 P.S.
 
-![『月刊コミックビーム』2017年12月号 封面：姫乃たま](https://wx2.sinaimg.cn/large/e17094f2gy1fm0o2wud6oj20dw0js4fn.jpg)
+![『月刊コミックビーム』2017年12月号 封面：姫乃たま](/images/posts/e17094f2gy1fm0o2wud6oj20dw0js4fn.jpg)
 
-『月刊コミックビーム』2017年12月号 封面：姫乃たま
+『月刊コミックビーム』2017 年 12 月号 封面：姫乃たま

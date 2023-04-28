@@ -3,6 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+## pre-requirement
+
+- Node.js: `v18.15.0`
+
 ## How-to use
 
 ### install

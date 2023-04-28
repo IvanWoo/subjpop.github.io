@@ -3,48 +3,43 @@ date: 2016-08-09
 title: Vol. 01 后摇滚！！＋偶像组合？？＝ sora tob sakana
 dj: marusan
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/1.jpg
 stream_url: http://www.lizhi.fm/1913563/2550147840425133062
 playlist: |-
-  1. sora tob sakana「海に纏わる言葉」(album ver.)
-  2. sora tob sakana「夏の扉」(soundcloud ver.)
-  3. sora tob sakana「広告の街」(album ver.)
-  4. 🎙️
-  5. sora tob sakana「夜空を全部」(single ver.)
-  6. sora tob sakana「Moon Swimming Weekender」(single ver.)
-  7. 🎙️
-  8. sora tob sakana「魔法の言葉」(single ver.)
-  9. sora tob sakana「まぶしい」(soundcloud ver.)
-  10. 🎙️
-  11. sora tob sakana「おやすみ」(soundcloud ver.)
+    1. sora tob sakana「海に纏わる言葉」(album ver.)
+    2. sora tob sakana「夏の扉」(soundcloud ver.)
+    3. sora tob sakana「広告の街」(album ver.)
+    4. 🎙️
+    5. sora tob sakana「夜空を全部」(single ver.)
+    6. sora tob sakana「Moon Swimming Weekender」(single ver.)
+    7. 🎙️
+    8. sora tob sakana「魔法の言葉」(single ver.)
+    9. sora tob sakana「まぶしい」(soundcloud ver.)
+    10. 🎙️
+    11. sora tob sakana「おやすみ」(soundcloud ver.)
 
 albums: |-
-  * [「sora tob sakana」](http://ototoy.jp/_/default/p/64673)
-  * [「夜空を全部」](http://ototoy.jp/_/default/p/56860)
-  * [「魔法の言葉」](http://ototoy.jp/_/default/p/59863)
-
+    * [「sora tob sakana」](http://ototoy.jp/_/default/p/64673)
+    * [「夜空を全部」](http://ototoy.jp/_/default/p/56860)
+    * [「魔法の言葉」](http://ototoy.jp/_/default/p/59863)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
 ### 「海に纏わる言葉」
 
-![「sora tob sakana」](http://wx4.sinaimg.cn/large/e17094f2gy1ffzephr7koj20dw0dw7aj.jpg)
+![「sora tob sakana」](/images/posts/e17094f2gy1ffzephr7koj20dw0dw7aj.jpg)
 
-*作曲／编曲：照井顺政*
-
-
+_作曲／编曲：照井顺政_
 
 ### 「夏の扉」
 
 **夏天的大门**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 青い匂いが日差しを巻き込み
 指の隙間をすり抜けていった
@@ -174,13 +169,11 @@ albums: |-
 
 将夏天的大门打开
 
-
-
 ### 「広告の街」
 
 **广告之街**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 (神崎) こ
 
@@ -264,7 +257,7 @@ albums: |-
 
 (神崎) あらゆるものが照らされる
 
-24時間 鮮やかな光で
+24 時間 鮮やかな光で
 
 (山崎) あらゆるものが整理される
 
@@ -272,7 +265,7 @@ albums: |-
 
 探射所有的一切
 
-全天24小时，用明晃晃的光线
+全天 24 小时，用明晃晃的光线
 
 整理所有的一切
 
@@ -402,17 +395,13 @@ albums: |-
 
 在迷宫深处消失不见的我吧
 
-
-
-
-
 ### 「夜空を全部」
 
-![「夜空を全部」](http://wx1.sinaimg.cn/large/e17094f2gy1ffzeuxd7h7j20dw0dw44x.jpg)
+![「夜空を全部」](/images/posts/e17094f2gy1ffzeuxd7h7j20dw0dw44x.jpg)
 
 **将夜空全部**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 街が寝息を立てるころに
 
@@ -582,19 +571,17 @@ albums: |-
 
 全都送给你
 
-
-
 ### 「Moon Swimming Weekender」
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
-息を止めて 空に飛び込んで行く 
+息を止めて 空に飛び込んで行く
 
-街は水に 沈んでいった 
+街は水に 沈んでいった
 
-重い身体 抱えたままの 
+重い身体 抱えたままの
 
-君を連れて 行くよ 
+君を連れて 行くよ
 
 屏住呼吸，跃入空中
 
@@ -604,15 +591,15 @@ albums: |-
 
 出发喽
 
-月の裏側を泳いでいく様に 
+月の裏側を泳いでいく様に
 
-君を縛り付ける言葉を捨て 
+君を縛り付ける言葉を捨て
 
-憂鬱な毎日の荷物も捨てて 
+憂鬱な毎日の荷物も捨てて
 
-高鳴る鼓動だけ感じて 泳ぐ 
+高鳴る鼓動だけ感じて 泳ぐ
 
-どこまでも 
+どこまでも
 
 就像在月之暗面游动
 
@@ -624,13 +611,13 @@ albums: |-
 
 哪里都能到达
 
-息を止めて 夜に飛び込んで行く 
+息を止めて 夜に飛び込んで行く
 
-街の灯り きらめいている 
+街の灯り きらめいている
 
-重い身体 抱えたままの 
+重い身体 抱えたままの
 
-君を連れて 無重力の海へ 
+君を連れて 無重力の海へ
 
 屏住呼吸，跃入夜里
 
@@ -640,25 +627,25 @@ albums: |-
 
 跃入无重力的海洋
 
-夢の中 時計の針 止める 
+夢の中 時計の針 止める
 
-君の声 
+君の声
 
-聴こえたら 
+聴こえたら
 
 在梦里，时钟的指针，停止
 
 你的声音，听得到
 
-月の裏側を泳いでいく様に 
+月の裏側を泳いでいく様に
 
-君を縛り付ける言葉を捨て 
+君を縛り付ける言葉を捨て
 
-憂鬱な毎日と 涙を連れて 
+憂鬱な毎日と 涙を連れて
 
-僕らの呼吸する世界を 泳ぐ 
+僕らの呼吸する世界を 泳ぐ
 
-どこまでも 
+どこまでも
 
 どこまでも
 
@@ -674,17 +661,13 @@ albums: |-
 
 哪里都能到达
 
-
-
-
-
 ### 「魔法の言葉」
 
-![「魔法の言葉」](http://wx4.sinaimg.cn/large/e17094f2gy1ffzf3qkpqdj20dw0dwwji.jpg)
+![「魔法の言葉」](/images/posts/e17094f2gy1ffzf3qkpqdj20dw0dwwji.jpg)
 
 **魔法的咒语**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 少し遅くなった帰り道
 
@@ -806,13 +789,11 @@ albums: |-
 
 「我们永远连系在一起」
 
-
-
 ### 「まぶしい」
 
 **光彩夺目**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 (風間) 窓の向こうに映し出された景色
 
@@ -914,17 +895,13 @@ albums: |-
 
 光彩夺目，闪闪发亮
 
-
-
-
-
 ### 「おやすみ」
 
-![SoundCloud Account Icon](http://wx1.sinaimg.cn/large/e17094f2gy1ffzf9k6kwhj20dw0dw3z3.jpg)
+![SoundCloud Account Icon](/images/posts/e17094f2gy1ffzf9k6kwhj20dw0dw3z3.jpg)
 
 **晚安**
 
-*作词／作曲／编曲：照井顺政*
+_作词／作曲／编曲：照井顺政_
 
 この街から君の住む街は
 あっちの方だって
@@ -1056,14 +1033,12 @@ albums: |-
 
 明天做些什么好呢
 
-
-
 ## 成员介绍
 
-![神﨑風花、山崎愛、寺口夏花、風間玲マライカ](http://wx1.sinaimg.cn/large/e17094f2gy1ffzflx61ucj20xc0p00wl.jpg)
+![神﨑風花、山崎愛、寺口夏花、風間玲マライカ](/images/posts/e17094f2gy1ffzflx61ucj20xc0p00wl.jpg)
 
 神﨑風花、山崎愛、寺口夏花、風間玲マライカ
 
-![music producer：照井順政](http://wx2.sinaimg.cn/large/e17094f2gy1ffzh51jvqrj20dw0ijgqq.jpg)
+![music producer：照井順政](/images/posts/e17094f2gy1ffzh51jvqrj20dw0ijgqq.jpg)
 
 music producer：照井順政

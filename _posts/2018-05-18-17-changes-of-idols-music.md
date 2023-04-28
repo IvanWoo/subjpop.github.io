@@ -3,48 +3,44 @@ date: 2018-05-18
 title: Vol. 41 乐曲派偶像十七变化（上）
 dj: mimida
 categories:
-  - NO MUSIC, NO IDOL
+    - NO MUSIC, NO IDOL
 featured_image: /images/banners/41.jpg
 stream_url: https://www.lizhi.fm/1913563/2669516567233314310
 playlist: |-
-  1. Aoi Yagawa prod. Tomggg「ON THE LINE」(from digital single『ON THE LINE』2017/10/10)
-  2. 代代代「GIRLS TALK IN CHINA」(from mini album『戌戌戌』2018/03/14)
-  3. 🎙️
-  4. パンダみっく「好きな曜日はxx」(from 1st single『好きな曜日はxx』2017/11/29)
-  5. ヤなことそっとミュート「Palette」(from 2nd album『MIRRORS』2018/05/03)
-  6. 🎙️
-  7. 彼女のサーブ & レシーブ「Racket Love (長谷川白紙 REMIX)」(remix of CDR single『Racket Love (仮ミックス)』2017/11/06)
-  8. FAREWELL, MY L.u.v「NAGOYA ZOOOooo - FAREWELL, MY D.u.b」(limited bonus disc of 2nd single『NAGOYA ZOO』2018/01/03)
-  9. 🎙️
-  10. There There Theres「SOIL」(from 3rd single『SOIL』2018/02/10)
-  11. Migma Shelter「GIPS」(from 1st EP『ORBIT EP』2017/12/27)
+    1. Aoi Yagawa prod. Tomggg「ON THE LINE」(from digital single『ON THE LINE』2017/10/10)
+    2. 代代代「GIRLS TALK IN CHINA」(from mini album『戌戌戌』2018/03/14)
+    3. 🎙️
+    4. パンダみっく「好きな曜日はxx」(from 1st single『好きな曜日はxx』2017/11/29)
+    5. ヤなことそっとミュート「Palette」(from 2nd album『MIRRORS』2018/05/03)
+    6. 🎙️
+    7. 彼女のサーブ & レシーブ「Racket Love (長谷川白紙 REMIX)」(remix of CDR single『Racket Love (仮ミックス)』2017/11/06)
+    8. FAREWELL, MY L.u.v「NAGOYA ZOOOooo - FAREWELL, MY D.u.b」(limited bonus disc of 2nd single『NAGOYA ZOO』2018/01/03)
+    9. 🎙️
+    10. There There Theres「SOIL」(from 3rd single『SOIL』2018/02/10)
+    11. Migma Shelter「GIPS」(from 1st EP『ORBIT EP』2017/12/27)
 
 albums: |-
-  * [「ON THE LINE」](http://maltinerecords.cs8.biz/marui9/)
-  * [「GIRLS TALK IN CHINA」](https://daidaidai-du.bandcamp.com/track/girls-talk-in-china)
-  * [「好きな曜日はxx」](https://ototoy.jp/_/default/p/88435)
-  * [「MIRRORS」](https://ototoy.jp/_/default/p/101711)
-  * [「SOIL」](https://ototoy.jp/_/default/p/98179)
-  * [「ORBIT EP」](https://ototoy.jp/_/default/p/98178)
-
+    * [「ON THE LINE」](http://maltinerecords.cs8.biz/marui9/)
+    * [「GIRLS TALK IN CHINA」](https://daidaidai-du.bandcamp.com/track/girls-talk-in-china)
+    * [「好きな曜日はxx」](https://ototoy.jp/_/default/p/88435)
+    * [「MIRRORS」](https://ototoy.jp/_/default/p/101711)
+    * [「SOIL」](https://ototoy.jp/_/default/p/98179)
+    * [「ORBIT EP」](https://ototoy.jp/_/default/p/98178)
 ---
 
 <!-- hide excerpt -->
 
-
 ## 歌词
-
-
 
 ### Aoi Yagawa（矢川葵 from Maison book girl）「ON THE LINE」
 
-![『ON THE LINE』](https://wx3.sinaimg.cn/large/e17094f2gy1frcb4tl9d5j20dw0dwq3u.jpg)
+![『ON THE LINE』](/images/posts/e17094f2gy1frcb4tl9d5j20dw0dwq3u.jpg)
 
 『ON THE LINE』
 
-*作詞：鈴木健太*
+_作詞：鈴木健太_
 
-*作曲／編曲：Tomggg*
+_作曲／編曲：Tomggg_
 
 まばたき　ひとみ
 
@@ -142,79 +138,73 @@ albums: |-
 
 うまくいくさ
 
-
-
 ### 代代代「GIRLS TALK IN CHINA」
 
-
-![『戌戌戌』](https://wx2.sinaimg.cn/large/e17094f2gy1frcb6ckbe7j20dw0dsgov.jpg)
+![『戌戌戌』](/images/posts/e17094f2gy1frcb6ckbe7j20dw0dsgov.jpg)
 
 『戌戌戌』
 
-*作詞／作曲／編曲：小倉ヲージ*
+_作詞／作曲／編曲：小倉ヲージ_
 
-これが奇跡なら三途の川渡るんだ！ 
+これが奇跡なら三途の川渡るんだ！
 
-人を信じても数字の最後は知らない 
+人を信じても数字の最後は知らない
 
-華やいだ交差点縺れた蜘蛛の糸 
+華やいだ交差点縺れた蜘蛛の糸
 
-ウォウウォウ 
+ウォウウォウ
 
-羨んだすいせんか壇れい水の中 
+羨んだすいせんか壇れい水の中
 
-両手にはプレゼント抱えて君の街に 
+両手にはプレゼント抱えて君の街に
 
-ウォウウォウ 
+ウォウウォウ
 
 膨らんださくらんぼ壇れい雲の上天井の床
 
-華やいだ交差点縺れた蜘蛛の糸 
+華やいだ交差点縺れた蜘蛛の糸
 
-ウォウウォウ 
+ウォウウォウ
 
-羨んだすいせんか壇れい水の中 
+羨んだすいせんか壇れい水の中
 
-聞き飽きたモータウン君が好きなポートレート 
+聞き飽きたモータウン君が好きなポートレート
 
-ウォウウォウ 
+ウォウウォウ
 
-響いてる8Hz壇れい雲の上 
+響いてる 8Hz 壇れい雲の上
 
-見詰め合うひやしんす壇れい雨の空 
+見詰め合うひやしんす壇れい雨の空
 
-いつか自説でも曲げる日が来るのかな？ 
+いつか自説でも曲げる日が来るのかな？
 
 夢を信じても少人数制では叶わない
 
+### パンダみっく「好きな曜日は xx」
 
+![『好きな曜日はxx』](/images/posts/e17094f2gy1frcb75t1gej20dw0bldhn.jpg)
 
-### パンダみっく「好きな曜日はxx」
+『好きな曜日は xx』
 
+**喜欢的是星期 x**
 
-![『好きな曜日はxx』](https://wx4.sinaimg.cn/large/e17094f2gy1frcb75t1gej20dw0bldhn.jpg)
-
-『好きな曜日はxx』
-
-**喜欢的是星期x**
-
-*作詞／作曲／編曲：タイヘイ*
+_作詞／作曲／編曲：タイヘイ_
 
 憂鬱な月曜、寝坊したって
 
-満たされないから　NO NO NO NO
+満たされないから　 NO NO NO NO
 
 いつもの火曜、いつも通りで
 
-満たされないから　NO NO NO NO NO
+満たされないから　 NO NO NO NO NO
 
 小雨の水曜、おしゃれしたって
 
-満たされないから　NO NO NO NO
+満たされないから　 NO NO NO NO
 
 無意味な木曜、終わらなくて
 
-満たされないから　NO NO NO NO
+満たされないから　 NO NO NO NO
 
 手を上げて
 
@@ -226,11 +216,11 @@ albums: |-
 
 届かない
 
-スカイハイで物足りないcry
+スカイハイで物足りない cry
 
 先の蜃気楼？
 
-スカイハイで追いつけないcry
+スカイハイで追いつけない cry
 
 逃げ出して
 
@@ -238,15 +228,15 @@ give me chance
 
 Friday near girl
 
-いつもFriday near girl
+いつも Friday near girl
 
-君もFriday near girl
+君も Friday near girl
 
-やっぱFridayにはテンション上がっちゃて
+やっぱ Friday にはテンション上がっちゃて
 
 寝過ごす土曜、意味がなくて
 
-後悔しても　NO NO NO NO
+後悔しても　 NO NO NO NO
 
 また来る日曜、明日が怖くて
 
@@ -254,11 +244,11 @@ Friday near girl
 
 繰り返す
 
-スカイハイで物足りないcry
+スカイハイで物足りない cry
 
 真波な明日も超えるの
 
-スカイハイで手に負えないcry
+スカイハイで手に負えない cry
 
 駆け抜けて
 
@@ -274,7 +264,7 @@ give me chance
 
 届かない
 
-スカイハイで物足りないcry
+スカイハイで物足りない cry
 
 星になって泡になっても
 
@@ -282,11 +272,11 @@ give me chance
 
 いつだって繰り返す
 
-スカイハイで物足りないcry
+スカイハイで物足りない cry
 
 先の蜃気楼？
 
-スカイハイで追いつけないcry
+スカイハイで追いつけない cry
 
 逃げ出して
 
@@ -296,17 +286,15 @@ one more chance
 
 one more
 
-
-
 ### ヤなことそっとミュート「Palette」
 
-![『MIRRORS』](https://wx3.sinaimg.cn/large/e17094f2gy1frcb8ovue0j20dw0dwtai.jpg)
+![『MIRRORS』](/images/posts/e17094f2gy1frcb8ovue0j20dw0dwtai.jpg)
 
 『MIRRORS』
 
-*作詞：初鹿利佳*
+_作詞：初鹿利佳_
 
-*作曲：J.og*
+_作曲：J.og_
 
 冷たい雨の匂い　空は今日も晴れない
 
@@ -320,11 +308,11 @@ one more
 
 色が足りない理由は　夜のせいにしていた
 
-Stay away大切に思うけど
+Stay away 大切に思うけど
 
 この先は隙間を　塗りつぶしていくんだ
 
-Stay a little too long　今までありがとう
+Stay a little too long 　今までありがとう
 
 無意識の涙は　気にを蒼く染めてく
 
@@ -362,52 +350,45 @@ Stay away 大切に想うから
 
 Stay a step ahead 弱い自分溶かしてく
 
-またひとつになる　Color
+またひとつになる　 Color
 
-君と僕が紡ぐ　Color
-
-
+君と僕が紡ぐ　 Color
 
 ### 彼女のサーブ & レシーブ「Racket Love (長谷川白紙 REMIX)」
 
-![『Racket Love (仮ミックス)』](https://wx3.sinaimg.cn/large/e17094f2gy1frcb9nvelzj20dw0dwdhj.jpg)
+![『Racket Love (仮ミックス)』](/images/posts/e17094f2gy1frcb9nvelzj20dw0dwdhj.jpg)
 
 『Racket Love (仮ミックス)』
 
-*作詞：渡辺裕介*
+_作詞：渡辺裕介_
 
-*作曲：ikkubaru*
+_作曲：ikkubaru_
 
-*編曲：長谷川白紙*
+_編曲：長谷川白紙_
 
 （歌词暂无）
-
-
 
 ### FAREWELL, MY L.u.v「NAGOYA ZOOOooo - FAREWELL, MY D.u.b」
 
-![『NAGOYA ZOOOooo』](https://wx2.sinaimg.cn/large/e17094f2gy1frcbaml3rhj20dw0dwabz.jpg)
+![『NAGOYA ZOOOooo』](/images/posts/e17094f2gy1frcbaml3rhj20dw0dwabz.jpg)
 
 『NAGOYA ZOOOooo』
 
-*作詞／作曲：Yasushi Watanabe*
+_作詞／作曲：Yasushi Watanabe_
 
-*編曲：Takeshi*
+_編曲：Takeshi_
 
 （歌词暂无）
 
-
-
 ### There There Theres「SOIL」
 
-![『SOIL』](https://wx3.sinaimg.cn/large/e17094f2gy1frcbbgmok7j20dw0drjso.jpg)
+![『SOIL』](/images/posts/e17094f2gy1frcbbgmok7j20dw0drjso.jpg)
 
 『SOIL』
 
-*作詞：空五倍子*
+_作詞：空五倍子_
 
-*作曲：三富栄治*
-
+_作曲：三富栄治_
 
 君は離さない
 
@@ -497,25 +478,23 @@ stumbling through the trees
 
 やれやれなんだ…
 
-
-
 ### Migma Shelter「GIPS」
 
-![『ORBIT EP』](https://wx1.sinaimg.cn/large/e17094f2gy1frcbcslaewj20dw0e0myi.jpg)
+![『ORBIT EP』](/images/posts/e17094f2gy1frcbcslaewj20dw0e0myi.jpg)
 
 『ORBIT EP』
 
-*作詞：空五倍子*
+_作詞：空五倍子_
 
-*作曲：タニヤマヒロアキ*
+_作曲：タニヤマヒロアキ_
 
-Honey　軋ませ狂わせるPrettyなGirl, Hey
+Honey 　軋ませ狂わせる Pretty な Girl, Hey
 
 おどけるキミ閉じ込める夕暮れ
 
 骨を召しませ捧げる時を Gips
 
-Hibiscusを夜に浸すなら Gasp
+Hibiscus を夜に浸すなら Gasp
 
 くちびるの紅塗るの飽きたらぬ少女ら
 
@@ -527,9 +506,9 @@ Hibiscusを夜に浸すなら Gasp
 
 赤裸々にむさぼる恋心
 
-闇夜も照らす魔法のPeridot
+闇夜も照らす魔法の Peridot
 
-嬉し悲しぐるぐるしてDJ
+嬉し悲しぐるぐるして DJ
 
 愛だから泣いたなら祭り始める Brain
 
@@ -539,21 +518,21 @@ Hibiscusを夜に浸すなら Gasp
 
 揺れる波に愛しさを投げ捨て Gasp
 
-苛々来来、蜃気楼みたいにFade
+苛々来来、蜃気楼みたいに Fade
 
-えんやこら魔性の枯れるFace
+えんやこら魔性の枯れる Face
 
 幾億を超える言霊 on the low
 
 繰り返す波に怯えてるんだろう
 
-宵越し連れ帰るKerberos
+宵越し連れ帰る Kerberos
 
 溢れ出した涙、朝に晒す
 
-嬉し悲しぐるぐるしてDJ
+嬉し悲しぐるぐるして DJ
 
-とろけ出す連想のFlavor
+とろけ出す連想の Flavor
 
 ひび割れてる上のレイヤー
 
@@ -561,15 +540,15 @@ Hibiscusを夜に浸すなら Gasp
 
 螺旋は永遠の挿話
 
-とろけ出す連想のFlavor
+とろけ出す連想の Flavor
 
-わだかまりのVenus
+わだかまりの Venus
 
 それを貫いたなら
 
 螺旋は永遠の挿話
 
-空好きな子らは　蒼いパレードへ　Ah
+空好きな子らは　蒼いパレードへ　 Ah
 
 Hey, 曇りガラスの向こうは
 
@@ -587,7 +566,7 @@ Hey, 痛みから逃げれようとして
 
 Let me save my hart
 
-Hey, Gipsの中で心はCall
+Hey, Gips の中で心は Call
 
 Hey, 水中のような速さでしか
 
@@ -599,40 +578,38 @@ Hey, 閉じ込められたままで Hey
 
 Hey, 焼け爛れた灼熱は
 
-夜にlay down the law
-
+夜に lay down the law
 
 ## 人物介绍：
 
-![Aoi Yagawa（a.k.a. 矢川葵 from Maison book girl）](https://wx1.sinaimg.cn/large/e17094f2gy1frcbg93t4qj20m80xbn0u.jpg)
+![Aoi Yagawa（a.k.a. 矢川葵 from Maison book girl）](/images/posts/e17094f2gy1frcbg93t4qj20m80xbn0u.jpg)
 
 Aoi Yagawa（a.k.a. 矢川葵 from Maison book girl）
 
-![代代代](https://wx4.sinaimg.cn/large/e17094f2gy1frcbgawp5oj20xc0o2tbg.jpg)
+![代代代](/images/posts/e17094f2gy1frcbgawp5oj20xc0o2tbg.jpg)
 
 代代代
 
-![パンダみっく（Panda Miku）](https://wx3.sinaimg.cn/large/e17094f2gy1frcbgfudscj20sg0izarw.jpg)
+![パンダみっく（Panda Miku）](/images/posts/e17094f2gy1frcbgfudscj20sg0izarw.jpg)
 
 パンダみっく（Panda Miku）
 
-![ヤなことそっとミュート（Yanakoto Sotto Mute）](https://wx4.sinaimg.cn/large/e17094f2gy1frcbgnk1khj21jk0z1qv5.jpg)
+![ヤなことそっとミュート（Yanakoto Sotto Mute）](/images/posts/e17094f2gy1frcbgnk1khj21jk0z1qv5.jpg)
 
 ヤなことそっとミュート（Yanakoto Sotto Mute）
 
-![彼女のサーブ & レシーブ（Kanojo no Serve & Receive）](https://wx1.sinaimg.cn/large/e17094f2gy1frcbgicgezj20le0e9wlq.jpg)
+![彼女のサーブ & レシーブ（Kanojo no Serve & Receive）](/images/posts/e17094f2gy1frcbgicgezj20le0e9wlq.jpg)
 
 彼女のサーブ & レシーブ（Kanojo no Serve & Receive）
 
-![FAREWELL, MY L.u.v](https://wx1.sinaimg.cn/large/e17094f2gy1frcbgioc60j215o0rsjwf.jpg)
+![FAREWELL, MY L.u.v](/images/posts/e17094f2gy1frcbgioc60j215o0rsjwf.jpg)
 
 FAREWELL, MY L.u.v
 
-![There There Theres](https://wx2.sinaimg.cn/large/e17094f2gy1frcbgkk1wij20sg0izdim.jpg)
+![There There Theres](/images/posts/e17094f2gy1frcbgkk1wij20sg0izdim.jpg)
 
 There There Theres
 
-![Migma Shelter](https://wx1.sinaimg.cn/large/e17094f2gy1frcbgo0paij215o0vawu2.jpg)
+![Migma Shelter](/images/posts/e17094f2gy1frcbgo0paij215o0vawu2.jpg)
 
 Migma Shelter
-

@@ -3,46 +3,40 @@ date: 2017-07-07
 title: Vol. 29 宇多田光之后・Kaneko Ayano
 dj: mimida
 categories:
-  - After Hikki 
+    - After Hikki
 featured_image: /images/banners/29.jpg
 stream_url: https://www.lizhi.fm/1913563/2608598166298483718
 playlist: |-
-  1. カネコアヤノ「とがる」（from 2nd EP『ひかれあい』2017/04/26）
-  2. カネコアヤノ「さよーならあなた」（from 1st EP『さよーならあなた』2016/12/07
-  3. 🎙️
-  4. カネコアヤノ「スイミング」（from 1st album 『来世はアイドル』2014/05/14）
-  5. カネコアヤノ「朝になって夢からさめて」（from 2nd EP『ひかれあい』2017/04/26）
-  6. 🎙️
-  7. カネコアヤノ「春」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
-  8. カネコアヤノ「週明け」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
-  9. 🎙️
-  10. カネコアヤノ「きみをしりたい」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
-  11. カネコアヤノ「グレープフルーツ」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
+    1. カネコアヤノ「とがる」（from 2nd EP『ひかれあい』2017/04/26）
+    2. カネコアヤノ「さよーならあなた」（from 1st EP『さよーならあなた』2016/12/07
+    3. 🎙️
+    4. カネコアヤノ「スイミング」（from 1st album 『来世はアイドル』2014/05/14）
+    5. カネコアヤノ「朝になって夢からさめて」（from 2nd EP『ひかれあい』2017/04/26）
+    6. 🎙️
+    7. カネコアヤノ「春」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
+    8. カネコアヤノ「週明け」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
+    9. 🎙️
+    10. カネコアヤノ「きみをしりたい」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
+    11. カネコアヤノ「グレープフルーツ」（from live album『LIVE AT ZAMZA ASAGAYA JAN.31,2017』2017/03/08）
 
 albums: |-
-  * [「来世はアイドル」](http://ototoy.jp/_/default/p/42223)
-  * [「さよーならあなた」](http://ototoy.jp/_/default/p/68342)
-  * [「ひかれあい」](http://ototoy.jp/_/default/p/74197)
-  * [「LIVE AT ZAMZA ASAGAYA JAN.31, 2017」](https://kanekoayano.theshop.jp/items/5682085)
-
+    * [「来世はアイドル」](http://ototoy.jp/_/default/p/42223)
+    * [「さよーならあなた」](http://ototoy.jp/_/default/p/68342)
+    * [「ひかれあい」](http://ototoy.jp/_/default/p/74197)
+    * [「LIVE AT ZAMZA ASAGAYA JAN.31, 2017」](https://kanekoayano.theshop.jp/items/5682085)
 ---
 
 <!-- hide excerpt -->
 
 ## 歌词
 
-
-
-
-
-
 ### 「とがる」
 
-![img](https://wx2.sinaimg.cn/large/e17094f2gy1fhaqnme1uuj20dw0dwgw6.jpg)
+![img](/images/posts/e17094f2gy1fhaqnme1uuj20dw0dwgw6.jpg)
 
 **TOGARU**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 だれかが想いを燃やす
 
@@ -160,17 +154,13 @@ albums: |-
 
 你明白的吧
 
-
-
-
-
 ### 「さよーならあなた」
 
-![img](https://wx4.sinaimg.cn/large/e17094f2gy1fhaqryoqsmj20dw0dw7ef.jpg)
+![img](/images/posts/e17094f2gy1fhaqryoqsmj20dw0dw7ef.jpg)
 
 **亲爱的再见**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 すれ違う人
 
@@ -252,17 +242,13 @@ HEY BABY 偶尔这样子也不错吧
 
 若是能将它送给你就好了
 
-
-
-
-
 ### 「スイミング」
 
-![img](https://wx2.sinaimg.cn/large/e17094f2gy1fhaqwsqmlcj20dw0dwtd6.jpg)
+![img](/images/posts/e17094f2gy1fhaqwsqmlcj20dw0dwtd6.jpg)
 
 **Swimming**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 じりじり夏の始まり
 
@@ -292,7 +278,7 @@ HEY BABY 偶尔这样子也不错吧
 
 也不是刻意要穿给谁看
 
-为了那跃入水中的Timing，已经做好准备
+为了那跃入水中的 Timing，已经做好准备
 
 捏着鼻子数一二三
 
@@ -306,7 +292,7 @@ HEY BABY 偶尔这样子也不错吧
 
 あなたのクロール見てみたい
 
-Swimming　Swimming　向前　向前
+Swimming 　 Swimming 　向前　向前
 
 想要看看你的自由泳
 
@@ -328,7 +314,7 @@ Swimming　Swimming　向前　向前
 
 约上你也可以吧？
 
-为了那跃入水中的Timing，已经做好准备
+为了那跃入水中的 Timing，已经做好准备
 
 捏着鼻子数一二三
 
@@ -342,7 +328,7 @@ Swimming　Swimming　向前　向前
 
 あなたとクロール泳ぎたい
 
-Swimming　Swimming　向前　向前
+Swimming 　 Swimming 　向前　向前
 
 想要和你一起自由泳
 
@@ -390,7 +376,7 @@ Swimming　Swimming　向前　向前
 
 あなたのクロール　見てみたい
 
-Swimming　Swimming　向前　向前
+Swimming 　 Swimming 　向前　向前
 
 想要看看你的自由泳
 
@@ -406,7 +392,7 @@ Swimming　Swimming　向前　向前
 
 あなたとクロール泳ぎたい
 
-Swimming　Swimming　向前　向前
+Swimming 　 Swimming 　向前　向前
 
 想要和你一起自由泳
 
@@ -414,12 +400,11 @@ Swimming　Swimming　向前　向前
 
 想要和你一起自由泳
 
-
 ### 「朝になって夢からさめて」
 
 **清晨从梦中醒来**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 あなたと出会ってしまったね
 
@@ -525,14 +510,11 @@ Swimming　Swimming　向前　向前
 
 歌唱着、直到永远
 
-
-
-
 ### 「春」
 
-![img](https://wx3.sinaimg.cn/large/e17094f2gy1fhar528mm8j20dw0dwgns.jpg)
+![img](/images/posts/e17094f2gy1fhar528mm8j20dw0dwgns.jpg)
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 （Live MC：昨日も今日も、春っぽくて、いいですね。そういう曲......なのかなぁ、「春」っていう曲やります。）
 
@@ -606,12 +588,11 @@ Swimming　Swimming　向前　向前
 
 一直这样子也就习惯了
 
-
 ### 「週明け」
 
 **一周的开始（星期一）**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 私だけをみてればいいのに
 
@@ -677,12 +658,11 @@ Swimming　Swimming　向前　向前
 
 世界太大，无聊的星期一
 
-
 ### 「きみをしりたい」
 
 （翻译暂无）
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 きみはしらない
 
@@ -738,12 +718,11 @@ Swimming　Swimming　向前　向前
 
 残酷なものね
 
-
 ### 「グレープフルーツ」
 
 **葡萄柚**
 
-*作词／作曲：Kaneko Ayano*
+_作词／作曲：Kaneko Ayano_
 
 （Live MC：ありがとうございます。じゃ、最後の曲です。）
 
@@ -841,17 +820,16 @@ Swimming　Swimming　向前　向前
 
 （Live MC：谢谢大家。谢谢。再会了喔。拜拜。）
 
-
 ## 人物介绍
 
-![Kaneko Ayano](https://wx3.sinaimg.cn/large/e17094f2gy1fhas0mqp6kj20m80goq7z.jpg)
+![Kaneko Ayano](/images/posts/e17094f2gy1fhas0mqp6kj20m80goq7z.jpg)
 
 Kaneko Ayano
 
-![Kaneko Ayano](https://wx1.sinaimg.cn/large/e17094f2gy1fhas4xjb28j21hc0zkaet.jpg)
+![Kaneko Ayano](/images/posts/e17094f2gy1fhas4xjb28j21hc0zkaet.jpg)
 
 Kaneko Ayano
 
-![Kaneko Ayano in the middle](https://wx2.sinaimg.cn/large/e17094f2gy1fhas61aenmj20xc0ra0xm.jpg)
+![Kaneko Ayano in the middle](/images/posts/e17094f2gy1fhas61aenmj20xc0ra0xm.jpg)
 
 Kaneko Ayano in the middle

@@ -8,7 +8,8 @@
     "start": "webpack --watch --mode development",
     "build": "webpack --mode production",
     "lint": "prettier --write src test css _config.yml",
-    "tool:searchindex": "ts-node tools/src/build-search-index.ts"
+    "tool:searchindex": "ts-node tools/src/build-search-index.ts",
+    "tool:downloadimg": "ts-node tools/src/download-img.ts"
   },
   "repository": {
     "type": "git",
