@@ -33,7 +33,7 @@ class Lizhi
   def raw_data
     # iframe api: http://m.lizhi.fm/api/audios_with_radio_iframe?ids=2624027675254166022
     # https://github.com/soimort/you-get/blob/f48aad970044e30060ce2a117559e69a9049e7a4/src/you_get/extractors/lizhi.py
-    api_url = "http://www.lizhi.fm/api/radio_audios?s=0&l=65535&flag=2&band=#{@radio_id}"
+    api_url = "http://www.lizhi.fm/api/radio_audios?s=0&l=100&flag=2&band=#{@radio_id}"
     response = HTTParty.get(api_url)
     JSON.parse(response.body)
   end
