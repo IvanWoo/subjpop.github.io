@@ -13,7 +13,7 @@
     "[html]": {
         "editor.defaultFormatter": "sissel.shopify-liquid",
         "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": false
+            "source.fixAll.eslint": "never"
         }
     },
     "ruby.lint": {

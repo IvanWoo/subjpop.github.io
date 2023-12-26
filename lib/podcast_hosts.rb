@@ -47,11 +47,10 @@ class Ximalaya
 
   def stream_table
     stream_table = {}
-    audio_src_hash = audio_src_many(tracks.map { |track| track['trackId'] })
     tracks.each do |track|
-      track_id = track['trackId']
-      url = audio_src_hash[track_id]
-      duration = track['duration']
+      track_id = track['id']
+      url = track['trackInfo']['playPath']
+      duration = track['trackInfo']['duration']
       stream_url_prefix_all = "https://www.ximalaya.com/yinyue/#{@album_id}/#{track_id}"
       stream_table[stream_url_prefix_all] = { 'url' => url, 'duration' => duration }
     end
@@ -61,48 +60,8 @@ class Ximalaya
   private
 
   def tracks
-    api_url = "https://www.ximalaya.com/revision/album/v1/getTracksList?albumId=#{@album_id}&pageNum=1"
+    api_url = "https://m.ximalaya.com/m-revision/common/album/queryAlbumTrackRecordsByPage?albumId=#{@album_id}&page=1&pageSize=100&asc=true"
     response = HTTParty.get(api_url)
-    @tracks ||= JSON.parse(response.body)['data']['tracks']
-  end
-
-  def server_time
-    api_url = 'https://www.ximalaya.com/revision/time'
-    response = HTTParty.get(api_url)
-    @server_time ||= response.body
-  end
-
-  def now
-    Time.now.utc.to_i * 1000
-  end
-
-  def random_num
-    rand(1..100)
-  end
-
-  def xm_sign
-    # https://blog.csdn.net/BigBoy_Coder/article/details/103406332
-    md5_hash = Digest::MD5.hexdigest("himalaya-#{server_time}")
-    @xm_sign ||= "#{md5_hash}(#{random_num})#{server_time}(#{random_num})#{now}"
-  end
-
-  def audio_src_one(audio_id)
-    api_url = "https://www.ximalaya.com/revision/play/v1/audio?id=#{audio_id}&ptype=1"
-    headers = {
-      'xm-sign' => xm_sign
-    }
-    response = HTTParty.get(api_url, headers: headers)
-    JSON.parse(response.body)['data']['src']
-  end
-
-  def audio_src_many(audio_ids)
-    default_thread_num = 20
-    pool = Concurrent::FixedThreadPool.new([default_thread_num, audio_ids.length].min)
-    audio_urls = audio_ids.map do |audio_id|
-      Concurrent::Future.execute({ executor: pool }) do
-        audio_src_one(audio_id)
-      end
-    end.map(&:value)
-    audio_ids.zip(audio_urls).to_h
+    @tracks ||= JSON.parse(response.body)['data']['trackDetailInfos']
   end
 end
