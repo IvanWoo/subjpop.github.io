@@ -3,7 +3,7 @@
 require_relative '../lib/all_stream_tables'
 
 ROOT_DIR = File.expand_path('..', __dir__)
-STREAM_YAML = "#{ROOT_DIR}/_data/stream_yaml.yml"
+STREAM_YAML = "#{ROOT_DIR}/_data/stream_yaml.yml".freeze
 
 def output(stream_table)
   old_stream_table = YAML.safe_load(File.read(STREAM_YAML))

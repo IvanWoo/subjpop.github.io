@@ -4,8 +4,8 @@ require 'csv'
 require 'yaml'
 
 ROOT_DIR = File.expand_path('..', __dir__)
-SITES_CSV = "#{ROOT_DIR}/_data/_curated_websites.csv"
-SITES_YAML = "#{ROOT_DIR}/_data/curated_websites.yml"
+SITES_CSV = "#{ROOT_DIR}/_data/_curated_websites.csv".freeze
+SITES_YAML = "#{ROOT_DIR}/_data/curated_websites.yml".freeze
 
 def input
   data = CSV.read(SITES_CSV, encoding: 'UTF-8', headers: true)
