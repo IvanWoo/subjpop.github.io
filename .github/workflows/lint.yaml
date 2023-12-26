@@ -20,7 +20,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7.5'
+          ruby-version: '3.2.0'
           bundler-cache: true
 
       - name: Install

@@ -13,12 +13,10 @@ group :jekyll_plugins do
 end
 
 group :development, :test do
-  gem 'debase'
   gem 'html-proofer'
   gem 'httparty', '~> 0.18.1'
   gem 'rspec'
   gem 'rubocop', '~> 1.20'
-  gem 'ruby-debug-ide'
   gem 'ruby-prof', '~> 1.4'
   gem 'solargraph'
 end

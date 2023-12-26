@@ -8,9 +8,6 @@ GEM
     benchmark (0.3.0)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
-    debase (0.2.4.1)
-      debase-ruby_core_source (>= 0.10.2)
-    debase-ruby_core_source (3.3.0)
     diff-lcs (1.5.0)
     e2mmap (0.1.0)
     em-websocket (0.5.3)
@@ -131,8 +128,6 @@ GEM
       unicode-display_width (>= 1.4.0, < 3.0)
     rubocop-ast (1.30.0)
       parser (>= 3.2.1.0)
-    ruby-debug-ide (0.7.3)
-      rake (>= 0.8.1)
     ruby-prof (1.6.3)
     ruby-progressbar (1.13.0)
     safe_yaml (1.0.5)
@@ -171,7 +166,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  debase
   html-proofer
   httparty (~> 0.18.1)
   jekyll (~> 4.3.2)
@@ -182,7 +176,6 @@ DEPENDENCIES
   jekyll-sitemap
   rspec
   rubocop (~> 1.20)
-  ruby-debug-ide
   ruby-prof (~> 1.4)
   solargraph
 
