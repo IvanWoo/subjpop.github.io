@@ -43,13 +43,13 @@ albums: |-
 
 代理主播：[大胃麒麟 a.k.a. DVC](https://weibo.com/davidchili)
 
-![0070Kgsgly1fsmgq2r7mzj30rs0rsn7i.jpg](/images/posts/006tKfTcly1fssbvw23ytj30rs0rsgsl.jpg)
+![0070Kgsgly1fsmgq2r7mzj30rs0rsn7i.jpg](/images/posts/0070Kgsgly1fsmgq2r7mzj30rs0rsn7i.jpg)
 
 ## 歌词（本期翻译暂时欠奉）:
 
 ### m-flo「How You Like Me Now (Sweet William Remix)」
 
-![0070Kgsgly1fsmgz6sv0wj30dw0dw42a.jpg](/images/posts/006tKfTcly1fssbvzv21ij30dw0dwdhi.jpg)
+![0070Kgsgly1fsmgz6sv0wj30dw0dw42a.jpg](/images/posts/0070Kgsgly1fsmgz6sv0wj30dw0dw42a.jpg)
 
 『BACK2THEFUTURETHEALBUM』
 
@@ -61,7 +61,7 @@ _Track: Sweet William_
 
 ### Sweet William「Sky lady feat. Jinmenusagi Itto & Kikivivilily」
 
-![0070Kgsgly1fsmh4rgy7uj30dw0dwn2t.jpg](/images/posts/006tKfTcly1fssbvni7pij30dw0dwgoo.jpg)
+![0070Kgsgly1fsmh4rgy7uj30dw0dwn2t.jpg](/images/posts/0070Kgsgly1fsmh4rgy7uj30dw0dwn2t.jpg)
 
 『Arte Frasco』
 
@@ -187,7 +187,7 @@ Oh, はやく連れ出してよ
 
 ### Sweet William「F.R.E.S.H.M.E.N. Meets Drums」
 
-![0070Kgsgly1fsmheoo5tzj30dw0dwgqq.jpg](/images/posts/006tKfTcly1fssbvx8iw0j30dw0dw76v.jpg)
+![0070Kgsgly1fsmheoo5tzj30dw0dwgqq.jpg](/images/posts/0070Kgsgly1fsmheoo5tzj30dw0dwgqq.jpg)
 
 『LO ONE』
 
@@ -197,7 +197,7 @@ _Track: Sweet William_
 
 ### 唾奇 × Sweet William「 Let Me」
 
-![0070Kgsgly1fsmhhz766dj30dw0dwgva.jpg](/images/posts/006tKfTcly1fssbvrur8zj30dw0dwdln.jpg)
+![0070Kgsgly1fsmhhz766dj30dw0dwgva.jpg](/images/posts/0070Kgsgly1fsmhhz766dj30dw0dwgva.jpg)
 
 _Lyrics: 唾奇_
 
@@ -293,7 +293,7 @@ _Track: Sweet William_
 
 ### Sweet William「Act like yours (feat サトウユウヤ & ANPYO)」
 
-![0070Kgsgly1fsmhurjyflj30dw0dw0u4.jpg](/images/posts/006tKfTcly1fssbvq0arrj30dw0dw0t6.jpg)
+![0070Kgsgly1fsmhurjyflj30dw0dw0u4.jpg](/images/posts/0070Kgsgly1fsmhurjyflj30dw0dw0u4.jpg)
 
 『Blue』
 
@@ -313,7 +313,7 @@ _Track: Sweet William_
 
 ### Sweet William「Jet pilot (Awakening Freaks Remix) feat. NF Zessho」
 
-![0070Kgsgly1fsmi3jo4iwj30dw0dwwg8.jpg](/images/posts/006tKfTcly1fssbvxzec4j30dw0dwmxn.jpg)
+![0070Kgsgly1fsmi3jo4iwj30dw0dwwg8.jpg](/images/posts/0070Kgsgly1fsmi3jo4iwj30dw0dwwg8.jpg)
 
 『Orange』
 
@@ -325,7 +325,7 @@ _Track: Sweet William_
 
 ### Jiva Nel Mondo × Sweet William「Odd Thing (Lightnight Remix)」
 
-![0070Kgsgly1fsmi7l57xoj30dw0dw7au.jpg](/images/posts/006tKfTcly1fssbvz55cwj30dw0dwn02.jpg)
+![0070Kgsgly1fsmi7l57xoj30dw0dw7au.jpg](/images/posts/0070Kgsgly1fsmi7l57xoj30dw0dw7au.jpg)
 
 『MONDO CREATE』
 
@@ -419,6 +419,6 @@ _Track: Sweet William_
 
 ## 艺人介绍
 
-![0070Kgsgly1fsmjbui2wyj30m80gowp6.jpg](/images/posts/006tKfTcly1fssbvt5jyij30m80gojxu.jpg)
+![0070Kgsgly1fsmjbui2wyj30m80gowp6.jpg](/images/posts/0070Kgsgly1fsmjbui2wyj30m80gowp6.jpg)
 
 Sweet William
