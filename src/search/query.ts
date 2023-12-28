@@ -19,4 +19,8 @@ const QUERIES = [
     "偶像",
 ];
 
-export const INITIAL_QUERY = pickRandom(QUERIES);
+export const randomQuery = () => {
+    return pickRandom(QUERIES);
+};
+
+export const INITIAL_QUERY = randomQuery();

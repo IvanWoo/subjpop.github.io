@@ -1,5 +1,5 @@
 import { timed } from "@thi.ng/bench/timed";
-import { anchor, div, inputText } from "@thi.ng/hiccup-html";
+import { anchor, div, inputText, button } from "@thi.ng/hiccup-html";
 import type { IComponent } from "@thi.ng/rdom";
 import { Component, $text, $list, $compile } from "@thi.ng/rdom";
 import type { ISubscription } from "@thi.ng/rstream";
@@ -7,7 +7,7 @@ import { reactive, Stream } from "@thi.ng/rstream";
 import { map } from "@thi.ng/transducers";
 import msgpack from "@ygoe/msgpack";
 import { search } from "./search";
-import { INITIAL_QUERY } from "./query";
+import { randomQuery, INITIAL_QUERY } from "./query";
 
 const INDEX_URL = "assets/search.bin";
 
@@ -54,13 +54,25 @@ class PostSearch extends Component {
             this.inner = $compile(
                 div(
                     null,
-                    inputText({
-                        class: "",
-                        type: "text",
-                        autofocus: true,
-                        onchange: this.updateQuery.bind(this),
-                        value: this.query,
-                    }),
+                    div(
+                        {
+                            class: "container",
+                        },
+                        inputText({
+                            class: "input",
+                            type: "text",
+                            autofocus: true,
+                            onchange: this.updateQuery.bind(this),
+                            value: this.query,
+                        }),
+                        button(
+                            {
+                                class: "button",
+                                onclick: () => this.query.next(randomQuery()),
+                            },
+                            "Randomize"
+                        )
+                    ),
                     // query result & search index stats
                     div(
                         { class: "" },
