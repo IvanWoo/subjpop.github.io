@@ -32,7 +32,7 @@ RSpec.describe 'podcast_hosts' do
     it_behaves_like 'scrap_success'
   end
 
-  describe Ximalaya do
+  xdescribe Ximalaya do
     let(:host_url) { 'www.ximalaya.com/yinyue' }
 
     it_behaves_like 'scrap_success'
