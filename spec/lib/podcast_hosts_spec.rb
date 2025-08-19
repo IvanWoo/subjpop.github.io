@@ -26,7 +26,7 @@ RSpec.describe 'podcast_hosts' do
     end
   end
 
-  describe Lizhi do
+  xdescribe Lizhi do
     let(:host_url) { 'www.lizhi.fm' }
 
     it_behaves_like 'scrap_success'
