@@ -3,7 +3,7 @@
 # https://stackoverflow.com/questions/3668607/how-to-excute-commands-within-rake-tasks
 desc 'Prepare the data'
 task :prep do
-  sh 'bundle exec ruby scripts/update_stream_yaml.rb'
+  # sh 'bundle exec ruby scripts/update_stream_yaml.rb'
   sh 'bundle exec ruby scripts/update_curated_websites.rb'
 end
 
