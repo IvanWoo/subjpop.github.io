@@ -99,7 +99,7 @@ GEM
     regexp_parser (2.8.3)
     reverse_markdown (2.1.1)
       nokogiri
-    rexml (3.3.9)
+    rexml (3.4.2)
     rouge (4.2.0)
     rspec (3.12.0)
       rspec-core (~> 3.12.0)
