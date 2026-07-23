@@ -72,18 +72,16 @@ class Ximalaya
 
     api_url = "https://www.ximalaya.com/revision/play/v1/show?id=#{BOOTSTRAP_TRACK_ID}&sort=1&size=100&ptype=1"
     response = HTTParty.get(api_url,
-      headers: { 'Referer' => 'https://www.ximalaya.com/' }
-    )
+                            headers: { 'Referer' => 'https://www.ximalaya.com/' })
     @tracks = JSON.parse(response.body)['data']['tracksAudioPlay']
   end
 
   def fetch_play_url(track_id)
     api_url = "https://mobile.ximalaya.com/mobile/v1/track/baseInfo?trackId=#{track_id}"
-    response = HTTParty.get(api_url,
-      headers: { 'User-Agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15' }
-    )
+    ua = 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15'
+    response = HTTParty.get(api_url, headers: { 'User-Agent' => ua })
     data = JSON.parse(response.body)
-    data['playUrl32'] if data['ret'] == 0
+    data['playUrl32'] if (data['ret']).zero?
   rescue StandardError
     nil
   end
