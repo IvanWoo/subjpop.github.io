@@ -6,7 +6,7 @@ GEM
     ast (2.4.2)
     backport (1.2.0)
     benchmark (0.3.0)
-    bigdecimal (4.0.1)
+    bigdecimal (4.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.2.2)
     csv (3.3.5)
@@ -31,7 +31,7 @@ GEM
       yell (~> 2.0)
       zeitwerk (~> 2.5)
     http_parser.rb (0.8.0)
-    httparty (0.24.0)
+    httparty (0.24.2)
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
@@ -81,7 +81,7 @@ GEM
     mercenary (0.4.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.9)
-    multi_xml (0.8.1)
+    multi_xml (0.9.1)
       bigdecimal (>= 3.1, < 5)
     nokogiri (1.19.1)
       mini_portile2 (~> 2.8.2)
@@ -169,7 +169,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  httparty (~> 0.24.0)
+  httparty (~> 0.24.2)
   jekyll (~> 4.3.2)
   jekyll-feed
   jekyll-lazy-load-image

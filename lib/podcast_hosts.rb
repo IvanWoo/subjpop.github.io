@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'digest/md5'
+require 'json'
 require 'yaml'
 require 'httparty'
 require 'concurrent'
@@ -36,11 +37,16 @@ class Lizhi
     api_url = "http://www.lizhi.fm/api/radio_audios?s=0&l=100&flag=2&band=#{@radio_id}"
     response = HTTParty.get(api_url)
     JSON.parse(response.body)
+  rescue StandardError
+    [] # Lizhi API is down, return empty
   end
 end
 
 # Ximalaya to get stream_table of Ximalaya
 class Ximalaya
+  # Known track ID from the album used to bootstrap the track list via show API
+  BOOTSTRAP_TRACK_ID = '963449729'
+
   def initialize(album_id = XIMALAYA_ALBUM_ID)
     @album_id = album_id
   end
@@ -48,11 +54,13 @@ class Ximalaya
   def stream_table
     stream_table = {}
     tracks.each do |track|
-      track_id = track['id']
-      url = track['trackInfo']['playPath']
-      duration = track['trackInfo']['duration']
+      track_id = track['trackId']
+      duration = track['duration']
+      play_url = fetch_play_url(track_id)
+      next unless play_url
+
       stream_url_prefix_all = "https://www.ximalaya.com/yinyue/#{@album_id}/#{track_id}"
-      stream_table[stream_url_prefix_all] = { 'url' => url, 'duration' => duration }
+      stream_table[stream_url_prefix_all] = { 'url' => play_url, 'duration' => duration }
     end
     stream_table
   end
@@ -60,8 +68,23 @@ class Ximalaya
   private
 
   def tracks
-    api_url = "https://m.ximalaya.com/m-revision/common/album/queryAlbumTrackRecordsByPage?albumId=#{@album_id}&page=1&pageSize=100&asc=true"
-    response = HTTParty.get(api_url)
-    @tracks ||= JSON.parse(response.body)['data']['trackDetailInfos']
+    return @tracks if @tracks
+
+    api_url = "https://www.ximalaya.com/revision/play/v1/show?id=#{BOOTSTRAP_TRACK_ID}&sort=1&size=100&ptype=1"
+    response = HTTParty.get(api_url,
+      headers: { 'Referer' => 'https://www.ximalaya.com/' }
+    )
+    @tracks = JSON.parse(response.body)['data']['tracksAudioPlay']
+  end
+
+  def fetch_play_url(track_id)
+    api_url = "https://mobile.ximalaya.com/mobile/v1/track/baseInfo?trackId=#{track_id}"
+    response = HTTParty.get(api_url,
+      headers: { 'User-Agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15' }
+    )
+    data = JSON.parse(response.body)
+    data['playUrl32'] if data['ret'] == 0
+  rescue StandardError
+    nil
   end
 end
