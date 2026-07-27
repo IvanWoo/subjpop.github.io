@@ -75,7 +75,7 @@ class Ximalaya
     @rss_items = items.map do |item_xml|
       {
         track_id: item_xml[%r{<link>https://www\.ximalaya\.com/sound/(\d+)</link>}, 1],
-        enclosure_url: item_xml[%r{<enclosure[^>]*url="([^"]+)"}, 1],
+        enclosure_url: item_xml[/<enclosure[^>]*url="([^"]+)"/, 1],
         duration: parse_duration(item_xml[%r{<itunes:duration>([^<]+)</itunes:duration>}, 1])
       }
     end.compact
@@ -89,8 +89,8 @@ class Ximalaya
 
     parts = dur_str.split(':').map(&:to_i)
     case parts.length
-    when 3 then parts[0] * 3600 + parts[1] * 60 + parts[2]
-    when 2 then parts[0] * 60 + parts[1]
+    when 3 then (parts[0] * 3600) + (parts[1] * 60) + parts[2]
+    when 2 then (parts[0] * 60) + parts[1]
     else 0
     end
   end
