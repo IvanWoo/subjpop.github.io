@@ -42,22 +42,19 @@ class Lizhi
   end
 end
 
-# Ximalaya to get stream_table of Ximalaya
+# Ximalaya to get stream_table of Ximalaya via RSS feed (high quality audio)
 class Ximalaya
-  # Known track ID from the album used to bootstrap the track list via show API
-  BOOTSTRAP_TRACK_ID = '963449729'
-
   def initialize(album_id = XIMALAYA_ALBUM_ID)
     @album_id = album_id
   end
 
   def stream_table
     stream_table = {}
-    tracks.each do |track|
-      track_id = track['trackId']
-      duration = track['duration']
-      play_url = fetch_play_url(track_id)
-      next unless play_url
+    rss_items.each do |item|
+      track_id = item[:track_id]
+      play_url = item[:enclosure_url]
+      duration = item[:duration]
+      next unless play_url && track_id
 
       stream_url_prefix_all = "https://www.ximalaya.com/yinyue/#{@album_id}/#{track_id}"
       stream_table[stream_url_prefix_all] = { 'url' => play_url, 'duration' => duration }
@@ -67,22 +64,34 @@ class Ximalaya
 
   private
 
-  def tracks
-    return @tracks if @tracks
+  def rss_items
+    return @rss_items if @rss_items
 
-    api_url = "https://www.ximalaya.com/revision/play/v1/show?id=#{BOOTSTRAP_TRACK_ID}&sort=1&size=100&ptype=1"
-    response = HTTParty.get(api_url,
-                            headers: { 'Referer' => 'https://www.ximalaya.com/' })
-    @tracks = JSON.parse(response.body)['data']['tracksAudioPlay']
+    rss_url = "https://www.ximalaya.com/album/#{@album_id}.xml"
+    response = HTTParty.get(rss_url)
+    xml = response.body
+
+    items = xml.scan(%r{<item>(.*?)</item>}m).flatten
+    @rss_items = items.map do |item_xml|
+      {
+        track_id: item_xml[%r{<link>https://www\.ximalaya\.com/sound/(\d+)</link>}, 1],
+        enclosure_url: item_xml[%r{<enclosure[^>]*url="([^"]+)"}, 1],
+        duration: parse_duration(item_xml[%r{<itunes:duration>([^<]+)</itunes:duration>}, 1])
+      }
+    end.compact
+  rescue StandardError
+    @rss_items = []
   end
 
-  def fetch_play_url(track_id)
-    api_url = "https://mobile.ximalaya.com/mobile/v1/track/baseInfo?trackId=#{track_id}"
-    ua = 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15'
-    response = HTTParty.get(api_url, headers: { 'User-Agent' => ua })
-    data = JSON.parse(response.body)
-    data['playUrl32'] if (data['ret']).zero?
-  rescue StandardError
-    nil
+  # Parse duration from "MM:SS" or "HH:MM:SS" format to seconds
+  def parse_duration(dur_str)
+    return nil unless dur_str
+
+    parts = dur_str.split(':').map(&:to_i)
+    case parts.length
+    when 3 then parts[0] * 3600 + parts[1] * 60 + parts[2]
+    when 2 then parts[0] * 60 + parts[1]
+    else 0
+    end
   end
 end
