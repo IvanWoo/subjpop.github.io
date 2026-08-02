@@ -3,8 +3,8 @@ date: 2026-07-05
 title: 如何阅读坂本龙一（上）
 dj: mimida
 categories:
-  - S03
-featured_image: /images/banners/s3/01-sakamoto-02.jpg
+  - doin
+featured_image: /images/banners/s3/2026-07-05-sakamoto-02.jpg
 stream_url: https://www.ximalaya.com/yinyue/49373071/993610251
 highlights: |-
   - 00:00 坂本龙一《Before Long》（1987）
@@ -21,3 +21,5 @@ highlights: |-
 ---
 
 简体中文世界曾经流传过这么一句话：“音乐书基本上都很难卖，除了坂本龙一的。”这话是否属实旁人自然无从判断，但是从三年出了五本、第一本自传再版两回这些事实来看，音乐人坂本龙一的中文书，在数字成绩上恐怕已经远远超过了许多专业作家的作品。坂本龙一为什么出了这么多书？这些书怎么看起来这么缺乏统一感？到底应该从哪一本读起？在接下来的两期节目里，我们就来简单地聊聊坂本龙一出的书，一起来看看这些书分别对应什么样的时代，对应他的哪个人生阶段，对应什么样的问题意识，希望能为想要读他的书的朋友们提供一些最基本的参考。
+
+{% include doin-intro.md %}
