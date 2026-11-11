@@ -2,7 +2,7 @@
 
 require 'concurrent'
 
-require_relative './podcast_hosts'
+require_relative 'podcast_hosts'
 
 def _all_stream_tables_slow
   lizhi = Lizhi.new

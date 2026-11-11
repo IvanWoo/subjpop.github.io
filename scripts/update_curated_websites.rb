@@ -11,11 +11,9 @@ def input
   data = CSV.read(SITES_CSV, encoding: 'UTF-8', headers: true)
 
   # Yaml Cookbook: http://yaml.org/YAML_for_ruby.html
-  entries = []
-  data.each do |datum|
-    entries.push({ 'name' => datum[0], 'url' => datum[1] })
+  data.map do |datum|
+    { 'name' => datum[0], 'url' => datum[1] }
   end
-  entries
 end
 
 def output(entries)
