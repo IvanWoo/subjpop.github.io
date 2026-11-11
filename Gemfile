@@ -14,9 +14,9 @@ end
 
 group :development, :test do
   gem 'html-proofer'
-  gem 'httparty', '~> 0.24.2'
+  gem 'httparty'
   gem 'rspec'
   gem 'rubocop', '~> 1.20'
-  gem 'ruby-prof', '~> 1.4'
+  gem 'ruby-prof'
   gem 'solargraph'
 end
